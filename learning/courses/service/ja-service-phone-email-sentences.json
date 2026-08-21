@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-phone-email-sentences",
+  "course": {
+    "title": "服务行业 · 日语电话邮件 · 句子",
+    "description": "電話応対とビジネスメールの定型表現（常用句子）",
+    "titles": {
+      "zh": "服务行业 · 日语电话邮件 · 句子",
+      "en": "Service & Hospitality · Japanese Phone & Email · Sentences",
+      "ja": "サービス業 · 日本語電話・メール · 例文"
+    },
+    "descriptions": {
+      "zh": "学习电话与商务邮件中的常用日语句子。",
+      "en": "Practice common Japanese sentences for phone calls and business email.",
+      "ja": "電話応対とビジネスメールで使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "電話・メール · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "お待たせいたしました。ご用件をお伺いします。",
+          "answer": "お待たせいたしました。ご用件をお伺いします。",
+          "hints": {
+            "zh": "让您久等了，请问有什么事？",
+            "en": "Thank you for holding. How may I help you?",
+            "ja": "お待たせいたしました。ご用件をお伺いします。"
+          },
+          "hint": "让您久等了，请问有什么事？ / Thank you for holding. How may I help you? / お待たせいたしました。ご用件をお伺いします。",
+          "furigana": "おまたせいたしました。ごようけんをうかがいします。",
+          "romaji": "omataseitashimashita.goyoukenwoukagaishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご依頼の件についてフォローアップのご連絡です。",
+          "answer": "ご依頼の件についてフォローアップのご連絡です。",
+          "hints": {
+            "zh": "关于您委托的事项，跟进联系。",
+            "en": "This is a follow-up regarding your request.",
+            "ja": "ご依頼の件についてフォローアップのご連絡です。"
+          },
+          "hint": "关于您委托的事项，跟进联系。 / This is a follow-up regarding your request. / ご依頼の件についてフォローアップのご連絡です。",
+          "furigana": "ごいらいのけんについてフォローアップのごれんらくです。",
+          "romaji": "goirainoken'nitsuiteforooappunogorenrakudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご不明な点がございましたらお知らせください。",
+          "answer": "ご不明な点がございましたらお知らせください。",
+          "hints": {
+            "zh": "如有不明之处请告知。",
+            "en": "Please let us know if anything is unclear.",
+            "ja": "ご不明な点がございましたらお知らせください。"
+          },
+          "hint": "如有不明之处请告知。 / Please let us know if anything is unclear. / ご不明な点がございましたらお知らせください。",
+          "furigana": "ごふめいなてんがございましたらおしらせください。",
+          "romaji": "gofumeinatengagozaimashitaraoshirasekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "担当部署へお伝えいたします。",
+          "answer": "担当部署へお伝えいたします。",
+          "hints": {
+            "zh": "我会转达给负责部门。",
+            "en": "I will pass this to the relevant department.",
+            "ja": "担当部署へお伝えいたします。"
+          },
+          "hint": "我会转达给负责部门。 / I will pass this to the relevant department. / 担当部署へお伝えいたします。",
+          "furigana": "たんとうぶしょへおつたえいたします。",
+          "romaji": "tantoubushoheotsutaeitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "メールアドレスをご確認いただけますか。",
+          "answer": "メールアドレスをご確認いただけますか。",
+          "hints": {
+            "zh": "可以确认一下邮箱地址吗？",
+            "en": "Could you confirm your email address?",
+            "ja": "メールアドレスをご確認いただけますか。"
+          },
+          "hint": "可以确认一下邮箱地址吗？ / Could you confirm your email address? / メールアドレスをご確認いただけますか。",
+          "furigana": "メールアドレスをごかくにんいただけますか。",
+          "romaji": "meeruadoresuwogokakunin'itadakemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お問い合わせを受け付け、二十四時間以内にご返信いたします。",
+          "answer": "お問い合わせを受け付け、二十四時間以内にご返信いたします。",
+          "hints": {
+            "zh": "已收到咨询，二十四小时内回复。",
+            "en": "We received your inquiry and will reply within twenty-four hours.",
+            "ja": "お問い合わせを受け付け、二十四時間以内にご返信いたします。"
+          },
+          "hint": "已收到咨询，二十四小时内回复。 / We received your inquiry and will reply within twenty-four hours. / お問い合わせを受け付け、二十四時間以内にご返信いたします。",
+          "furigana": "おといあわせをうけつけ、にじゅうよじかんいないにへんしんいたします。",
+          "romaji": "otoiawasewouketsuke,nijuuyojikan'inainihenshin'itashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お気軽にご連絡ください。",
+          "answer": "お気軽にご連絡ください。",
+          "hints": {
+            "zh": "请随时联系我们。",
+            "en": "Please feel free to contact us.",
+            "ja": "お気軽にご連絡ください。"
+          },
+          "hint": "请随时联系我们。 / Please feel free to contact us. / お気軽にご連絡ください。",
+          "furigana": "おきがるにごれんらくください。",
+          "romaji": "okigarunigorenrakukudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご依頼の進捗状況をお知らせいたします。",
+          "answer": "ご依頼の進捗状況をお知らせいたします。",
+          "hints": {
+            "zh": "向您通报委托事项的进度。",
+            "en": "I would like to update you on the progress.",
+            "ja": "ご依頼の進捗状況をお知らせいたします。"
+          },
+          "hint": "向您通报委托事项的进度。 / I would like to update you on the progress. / ご依頼の進捗状況をお知らせいたします。",
+          "furigana": "ごいらいのしんちょくじょうきょうをおしらせいたします。",
+          "romaji": "goirainoshinchokujoukyouwooshiraseitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "接続前に短いダイヤルトーンが聞こえる場合があります。",
+          "answer": "接続前に短いダイヤルトーンが聞こえる場合があります。",
+          "hints": {
+            "zh": "接通前可能听到拨号音。",
+            "en": "You may hear a dial tone before connecting.",
+            "ja": "接続前に短いダイヤルトーンが聞こえる場合があります。"
+          },
+          "hint": "接通前可能听到拨号音。 / You may hear a dial tone before connecting. / 接続前に短いダイヤルトーンが聞こえる場合があります。",
+          "furigana": "せつぞくまえにみじかいダイヤルトーンがきこえるばあいがあります。",
+          "romaji": "setsuzokumaenimijikaidaiyarutoongakikoerubaaigaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "火曜日に電話会議を設定しました。",
+          "answer": "火曜日に電話会議を設定しました。",
+          "hints": {
+            "zh": "已安排周二电话会议。",
+            "en": "We scheduled a conference call for Tuesday.",
+            "ja": "火曜日に電話会議を設定しました。"
+          },
+          "hint": "已安排周二电话会议。 / We scheduled a conference call for Tuesday. / 火曜日に電話会議を設定しました。",
+          "furigana": "かようびにでんわかいぎをせっていしました。",
+          "romaji": "kayoubinidenwakaigiwosetteishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このメールに同僚をCCしてください。",
+          "answer": "このメールに同僚をCCしてください。",
+          "hints": {
+            "zh": "此邮件请抄送同事。",
+            "en": "Please CC my colleague on this email.",
+            "ja": "このメールに同僚をCCしてください。"
+          },
+          "hint": "此邮件请抄送同事。 / Please CC my colleague on this email. / このメールに同僚をCCしてください。",
+          "furigana": "このメールにどうりょうをCCしてください。",
+          "romaji": "konomeerunidouryouwoCCshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大人数へのメールはBCCをご利用ください。",
+          "answer": "大人数へのメールはBCCをご利用ください。",
+          "hints": {
+            "zh": "群发请用密送。",
+            "en": "Use BCC when emailing many people.",
+            "ja": "大人数へのメールはBCCをご利用ください。"
+          },
+          "hint": "群发请用密送。 / Use BCC when emailing many people. / 大人数へのメールはBCCをご利用ください。",
+          "furigana": "だいにんずうへのメールはBCCをごりようください。",
+          "romaji": "daininzuuhenomeeruhaBCCwogoriyoukudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "来週月曜まで不在にしております。",
+          "answer": "来週月曜まで不在にしております。",
+          "hints": {
+            "zh": "至下周一不在。",
+            "en": "I am out of office until next Monday.",
+            "ja": "来週月曜まで不在にしております。"
+          },
+          "hint": "至下周一不在。 / I am out of office until next Monday. / 来週月曜まで不在にしております。",
+          "furigana": "らいしゅうげつようまでふざいにしております。",
+          "romaji": "raishuugetsuyoumadefuzainishiteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "受信確認の自動返信が届きます。",
+          "answer": "受信確認の自動返信が届きます。",
+          "hints": {
+            "zh": "会收到自动回复确认。",
+            "en": "You will receive an auto-reply confirmation.",
+            "ja": "受信確認の自動返信が届きます。"
+          },
+          "hint": "会收到自动回复确认。 / You will receive an auto-reply confirmation. / 受信確認の自動返信が届きます。",
+          "furigana": "じゅしんかくにんのじどうへんしんがとどきます。",
+          "romaji": "jushinkakunin'nojidouhenshingatodokimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "返信が迷惑メールフォルダに入っていないかご確認ください。",
+          "answer": "返信が迷惑メールフォルダに入っていないかご確認ください。",
+          "hints": {
+            "zh": "请查垃圾邮件文件夹。",
+            "en": "Please check your spam folder for our reply.",
+            "ja": "返信が迷惑メールフォルダに入っていないかご確認ください。"
+          },
+          "hint": "请查垃圾邮件文件夹。 / Please check your spam folder for our reply. / 返信が迷惑メールフォルダに入っていないかご確認ください。",
+          "furigana": "へんしんがめいわくメールフォルダにはいっていないかごかくにんください。",
+          "romaji": "henshingameiwakumeeruforudanihaitteinaikagokakuninkudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このメッセージの開封確認をご希望ですか。",
+          "answer": "このメッセージの開封確認をご希望ですか。",
+          "hints": {
+            "zh": "需要已读回执吗？",
+            "en": "Would you like a read receipt?",
+            "ja": "このメッセージの開封確認をご希望ですか。"
+          },
+          "hint": "需要已读回执吗？ / Would you like a read receipt? / このメッセージの開封確認をご希望ですか。",
+          "furigana": "このメッセージのかいふうかくにんをごきぼうですか。",
+          "romaji": "konomesseejinokaifuukakuninwogokiboudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "回線が切れたようです。",
+          "answer": "回線が切れたようです。",
+          "hints": {
+            "zh": "线路好像断了。",
+            "en": "The line seems to have dropped.",
+            "ja": "回線が切れたようです。"
+          },
+          "hint": "线路好像断了。 / The line seems to have dropped. / 回線が切れたようです。",
+          "furigana": "かいせんがきれたようです。",
+          "romaji": "kaisengakiretayoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "もう少し大きな声でお話しいただけますか。",
+          "answer": "もう少し大きな声でお話しいただけますか。",
+          "hints": {
+            "zh": "请说大声一点。",
+            "en": "Could you speak a little louder?",
+            "ja": "もう少し大きな声でお話しいただけますか。"
+          },
+          "hint": "请说大声一点。 / Could you speak a little louder? / もう少し大きな声でお話しいただけますか。",
+          "furigana": "もうすこしおおきなこえでおはなしいただけますか。",
+          "romaji": "mousukoshiookinakoedeohanashiitadakemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "詳細をメールでお送りいたします。",
+          "answer": "詳細をメールでお送りいたします。",
+          "hints": {
+            "zh": "详情将邮件发送。",
+            "en": "I will email you the details.",
+            "ja": "詳細をメールでお送りいたします。"
+          },
+          "hint": "详情将邮件发送。 / I will email you the details. / 詳細をメールでお送りいたします。",
+          "furigana": "しょうさいをメールでおおくりいたします。",
+          "romaji": "shousaiwomeerudeookuriitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "全員に必要な場合は全員に返信してください。",
+          "answer": "全員に必要な場合は全員に返信してください。",
+          "hints": {
+            "zh": "若全员需要请回复全部。",
+            "en": "Reply to all if everyone needs this.",
+            "ja": "全員に必要な場合は全員に返信してください。"
+          },
+          "hint": "若全员需要请回复全部。 / Reply to all if everyone needs this. / 全員に必要な場合は全員に返信してください。",
+          "furigana": "ぜんいんにひつようなばあいはぜんいんにへんしんしてください。",
+          "romaji": "zen'in'nihitsuyounabaaihazen'in'nihenshinshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "添付ファイルがサイズ制限を超えています。",
+          "answer": "添付ファイルがサイズ制限を超えています。",
+          "hints": {
+            "zh": "附件超出大小限制。",
+            "en": "The attachment exceeds the size limit.",
+            "ja": "添付ファイルがサイズ制限を超えています。"
+          },
+          "hint": "附件超出大小限制。 / The attachment exceeds the size limit. / 添付ファイルがサイズ制限を超えています。",
+          "furigana": "てんぷファイルがサイズせいげんをこえています。",
+          "romaji": "tenpufairugasaizuseigenwokoeteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "本メールの受領確認をお願いいたします。",
+          "answer": "本メールの受領確認をお願いいたします。",
+          "hints": {
+            "zh": "请确认收到本邮件。",
+            "en": "Please confirm receipt of this email.",
+            "ja": "本メールの受領確認をお願いいたします。"
+          },
+          "hint": "请确认收到本邮件。 / Please confirm receipt of this email. / 本メールの受領確認をお願いいたします。",
+          "furigana": "ほんメールのじゅりょうかくにんをおねがいいたします。",
+          "romaji": "honmeerunojuryoukakuninwoonegaiitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "営業時間は平日9時から18時です。",
+          "answer": "営業時間は平日9時から18時です。",
+          "hints": {
+            "zh": "营业时间为平日九至十八点。",
+            "en": "Office hours are nine to six weekdays.",
+            "ja": "営業時間は平日9時から18時です。"
+          },
+          "hint": "营业时间为平日九至十八点。 / Office hours are nine to six weekdays. / 営業時間は平日9時から18時です。",
+          "furigana": "えいぎょうじかんはへいじつ9じから18じです。",
+          "romaji": "eigyoujikanhaheijitsu9jikara18jidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お電話しましたがご連絡が取れませんでした。",
+          "answer": "お電話しましたがご連絡が取れませんでした。",
+          "hints": {
+            "zh": "打过电话但没联系上。",
+            "en": "I tried calling but could not reach you.",
+            "ja": "お電話しましたがご連絡が取れませんでした。"
+          },
+          "hint": "打过电话但没联系上。 / I tried calling but could not reach you. / お電話しましたがご連絡が取れませんでした。",
+          "furigana": "おでんわしましたがごれんらくがとれませんでした。",
+          "romaji": "odenwashimashitagagorenrakugatoremasendeshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "発信音の後に詳しいメッセージをお残しください。",
+          "answer": "発信音の後に詳しいメッセージをお残しください。",
+          "hints": {
+            "zh": "提示音后请留言详情。",
+            "en": "Please leave a detailed message after the beep.",
+            "ja": "発信音の後にくわしいメッセージをおのこしください。"
+          },
+          "hint": "提示音后请留言详情。 / Please leave a detailed message after the beep. / 発信音の後にくわしいメッセージをおのこしください。",
+          "furigana": "はっしんおんののちにくわしいメッセージをおのこしください。",
+          "romaji": "hasshin'on'nonochinikuwashiimesseejiwoonokoshikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "一営業日以内にご返信いたします。",
+          "answer": "一営業日以内にご返信いたします。",
+          "hints": {
+            "zh": "一个工作日内回复。",
+            "en": "We will respond within one business day.",
+            "ja": "一営業日以内にご返信いたします。"
+          },
+          "hint": "一个工作日内回复。 / We will respond within one business day. / 一営業日以内にご返信いたします。",
+          "furigana": "いちえいぎょうびいないにへんしんいたします。",
+          "romaji": "ichieigyoubiinainihenshin'itashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "迅速なご返信ありがとうございます。",
+          "answer": "迅速なご返信ありがとうございます。",
+          "hints": {
+            "zh": "感谢迅速回复。",
+            "en": "Thank you for your prompt reply.",
+            "ja": "迅速なご返信ありがとうございます。"
+          },
+          "hint": "感谢迅速回复。 / Thank you for your prompt reply. / 迅速なご返信ありがとうございます。",
+          "furigana": "じんそくなへんしんありがとうございます。",
+          "romaji": "jinsokunahenshin'arigatougozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "追跡のためこの件名をご使用ください。",
+          "answer": "追跡のためこの件名をご使用ください。",
+          "hints": {
+            "zh": "请用此主题以便跟踪。",
+            "en": "Please use this subject line for tracking.",
+            "ja": "追跡のためこの件名をご使用ください。"
+          },
+          "hint": "请用此主题以便跟踪。 / Please use this subject line for tracking. / 追跡のためこの件名をご使用ください。",
+          "furigana": "ついせきのためこのけんめいをごしようください。",
+          "romaji": "tsuisekinotamekonokenmeiwogoshiyoukudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "関係チームをこのスレッドにCCします。",
+          "answer": "関係チームをこのスレッドにCCします。",
+          "hints": {
+            "zh": "相关团队将抄送在此线程。",
+            "en": "I am copying the relevant team on this thread.",
+            "ja": "関係チームをこのスレッドにCCします。"
+          },
+          "hint": "相关团队将抄送在此线程。 / I am copying the relevant team on this thread. / 関係チームをこのスレッドにCCします。",
+          "furigana": "かんけいチームをこのスレッドにCCします。",
+          "romaji": "kankeichiimuwokonosureddoniCCshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お電話をご希望の場合はお知らせください。",
+          "answer": "お電話をご希望の場合はお知らせください。",
+          "hints": {
+            "zh": "若希望电话请告知。",
+            "en": "Let me know if you prefer a phone call.",
+            "ja": "お電話をご希望の場合はお知らせください。"
+          },
+          "hint": "若希望电话请告知。 / Let me know if you prefer a phone call. / お電話をご希望の場合はお知らせください。",
+          "furigana": "おでんわをごきぼうのばあいはおしらせください。",
+          "romaji": "odenwawogokibounobaaihaoshirasekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

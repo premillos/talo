@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-git-cli-words",
+  "course": {
+    "title": "编程知识 · 英语 Git 与命令行 · 词汇",
+    "description": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）",
+    "titles": {
+      "zh": "编程知识 · 英语 Git 与命令行 · 词汇",
+      "en": "编程知识 · 英语 Git 与命令行 · 词汇",
+      "ja": "编程知识 · 英语 Git 与命令行 · 词汇"
+    },
+    "descriptions": {
+      "zh": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）",
+      "en": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）",
+      "ja": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Git 与终端",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "commit",
+          "answer": "commit",
+          "hints": {
+            "zh": "提交",
+            "en": "commit",
+            "ja": "コミット"
+          },
+          "hint": "提交 / commit / コミット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəˈmɪt/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "branch",
+          "answer": "branch",
+          "hints": {
+            "zh": "分支",
+            "en": "branch",
+            "ja": "ブランチ"
+          },
+          "hint": "分支 / branch / ブランチ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bɹæntʃ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "merge",
+          "answer": "merge",
+          "hints": {
+            "zh": "合并",
+            "en": "merge",
+            "ja": "マージ"
+          },
+          "hint": "合并 / merge / マージ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mɝdʒ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "rebase",
+          "answer": "rebase",
+          "hints": {
+            "zh": "变基",
+            "en": "rebase",
+            "ja": "リベース"
+          },
+          "hint": "变基 / rebase / リベース",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɹiˈbeɪs/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "stash",
+          "answer": "stash",
+          "hints": {
+            "zh": "暂存",
+            "en": "stash",
+            "ja": "スタッシュ"
+          },
+          "hint": "暂存 / stash / スタッシュ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stæʃ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "clone",
+          "answer": "clone",
+          "hints": {
+            "zh": "克隆",
+            "en": "clone",
+            "ja": "クローン"
+          },
+          "hint": "克隆 / clone / クローン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kloʊn/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "remote",
+          "answer": "remote",
+          "hints": {
+            "zh": "远程仓库",
+            "en": "remote",
+            "ja": "リモート"
+          },
+          "hint": "远程仓库 / remote / リモート",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈmoʊt/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "tag",
+          "answer": "tag",
+          "hints": {
+            "zh": "标签",
+            "en": "tag",
+            "ja": "タグ"
+          },
+          "hint": "标签 / tag / タグ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tæɡ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "diff",
+          "answer": "diff",
+          "hints": {
+            "zh": "差异",
+            "en": "diff",
+            "ja": "差分"
+          },
+          "hint": "差异 / diff / 差分",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪf/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "log",
+          "answer": "log",
+          "hints": {
+            "zh": "日志",
+            "en": "log",
+            "ja": "ログ"
+          },
+          "hint": "日志 / log / ログ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lɔɡ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "patch",
+          "answer": "patch",
+          "hints": {
+            "zh": "补丁",
+            "en": "patch",
+            "ja": "パッチ"
+          },
+          "hint": "补丁 / patch / パッチ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pætʃ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "fork",
+          "answer": "fork",
+          "hints": {
+            "zh": "分叉",
+            "en": "fork",
+            "ja": "フォーク"
+          },
+          "hint": "分叉 / fork / フォーク",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fɔɹk/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "pull request",
+          "answer": "pull request",
+          "hints": {
+            "zh": "拉取请求",
+            "en": "pull request",
+            "ja": "プルリクエスト"
+          },
+          "hint": "拉取请求 / pull request / プルリクエスト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pʊl ɹiˈkwɛst/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "merge conflict",
+          "answer": "merge conflict",
+          "hints": {
+            "zh": "合并冲突",
+            "en": "merge conflict",
+            "ja": "マージコンフリクト"
+          },
+          "hint": "合并冲突 / merge conflict / マージコンフリクト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mɝdʒ ˈkɑnflɪkt/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "working directory",
+          "answer": "working directory",
+          "hints": {
+            "zh": "工作目录",
+            "en": "working directory",
+            "ja": "作業ディレクトリ"
+          },
+          "hint": "工作目录 / working directory / 作業ディレクトリ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɝkɪŋ daɪˈɹɛktɚi/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "staging area",
+          "answer": "staging area",
+          "hints": {
+            "zh": "暂存区",
+            "en": "staging area",
+            "ja": "ステージングエリア"
+          },
+          "hint": "暂存区 / staging area / ステージングエリア",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsteɪdʒɪŋ ˈɛɹiə/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "fast forward",
+          "answer": "fast forward",
+          "hints": {
+            "zh": "快进合并",
+            "en": "fast forward",
+            "ja": "ファストフォワード"
+          },
+          "hint": "快进合并 / fast forward / ファストフォワード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæst ˈfɔɹwɚd/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "cherry pick",
+          "answer": "cherry pick",
+          "hints": {
+            "zh": "拣选提交",
+            "en": "cherry pick",
+            "ja": "チェリーピック"
+          },
+          "hint": "拣选提交 / cherry pick / チェリーピック",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃɛɹi pɪk/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "force push",
+          "answer": "force push",
+          "hints": {
+            "zh": "强制推送",
+            "en": "force push",
+            "ja": "強制プッシュ"
+          },
+          "hint": "强制推送 / force push / 強制プッシュ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fɔɹs pʊʃ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "detached HEAD",
+          "answer": "detached HEAD",
+          "hints": {
+            "zh": "游离 HEAD",
+            "en": "detached HEAD",
+            "ja": "デタッチHEAD"
+          },
+          "hint": "游离 HEAD / detached HEAD / デタッチHEAD",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/diˈtætʃt hɛd/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "version control",
+          "answer": "version control",
+          "hints": {
+            "zh": "版本控制",
+            "en": "version control",
+            "ja": "バージョン管理"
+          },
+          "hint": "版本控制 / version control / バージョン管理",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɝʒən kənˈtɹoʊl/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "command line",
+          "answer": "command line",
+          "hints": {
+            "zh": "命令行",
+            "en": "command line",
+            "ja": "コマンドライン"
+          },
+          "hint": "命令行 / command line / コマンドライン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəˈmænd laɪn/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "repository",
+          "answer": "repository",
+          "hints": {
+            "zh": "仓库",
+            "en": "repository",
+            "ja": "リポジトリ"
+          },
+          "hint": "仓库 / repository / リポジトリ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈpɑzəˌtɔɹi/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "checkout",
+          "answer": "checkout",
+          "hints": {
+            "zh": "检出",
+            "en": "checkout",
+            "ja": "チェックアウト"
+          },
+          "hint": "检出 / checkout / チェックアウト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃɛkaʊt/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "reset",
+          "answer": "reset",
+          "hints": {
+            "zh": "重置",
+            "en": "reset",
+            "ja": "リセット"
+          },
+          "hint": "重置 / reset / リセット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈsɛt/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "HEAD",
+          "answer": "HEAD",
+          "hints": {
+            "zh": "HEAD 指针",
+            "en": "HEAD pointer",
+            "ja": "HEAD"
+          },
+          "hint": "HEAD 指针 / HEAD pointer / HEAD",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hɛd/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "upstream",
+          "answer": "upstream",
+          "hints": {
+            "zh": "上游",
+            "en": "upstream",
+            "ja": "アップストリーム"
+          },
+          "hint": "上游 / upstream / アップストリーム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌəpˈstɹim/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "origin",
+          "answer": "origin",
+          "hints": {
+            "zh": "默认远程名",
+            "en": "default remote name",
+            "ja": "origin"
+          },
+          "hint": "默认远程名 / default remote name / origin",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔɹədʒən/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "commit hash",
+          "answer": "commit hash",
+          "hints": {
+            "zh": "提交哈希",
+            "en": "commit hash",
+            "ja": "コミットハッシュ"
+          },
+          "hint": "提交哈希 / commit hash / コミットハッシュ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəˈmɪt hæʃ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "gitignore",
+          "answer": "gitignore",
+          "hints": {
+            "zh": "忽略文件配置",
+            "en": "ignore file config",
+            "ja": "gitignore"
+          },
+          "hint": "忽略文件配置 / ignore file config / gitignore",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɡɪt ɪɡˌnɔɹ/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-interview-sentences",
+  "course": {
+    "title": "编程知识 · 英语面试 · 句子",
+    "description": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）",
+    "titles": {
+      "zh": "编程知识 · 英语面试 · 句子",
+      "en": "编程知识 · 英语面试 · 句子",
+      "ja": "编程知识 · 英语面试 · 句子"
+    },
+    "descriptions": {
+      "zh": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）",
+      "en": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）",
+      "ja": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "技术面试表达 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "What is the time complexity of this algorithm?",
+          "answer": "What is the time complexity of this algorithm?",
+          "hints": {
+            "zh": "这个算法的时间复杂度是多少？",
+            "en": "What is the time complexity of this algorithm?",
+            "ja": "このアルゴリズムの時間計算量はいくつですか？"
+          },
+          "hint": "这个算法的时间复杂度是多少？ / What is the time complexity of this algorithm? / このアルゴリズムの時間計算量はいくつですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ɪz ðə taɪm kəmˈplɛksəti əv ðɪs ˈælɡɚˌɪðəm/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We should refactor this code for maintainability.",
+          "answer": "We should refactor this code for maintainability.",
+          "hints": {
+            "zh": "我们应该重构这段代码以提高可维护性。",
+            "en": "We should refactor this code for maintainability.",
+            "ja": "保守性のためにこのコードをリファクタリングすべきです。"
+          },
+          "hint": "我们应该重构这段代码以提高可维护性。 / We should refactor this code for maintainability. / 保守性のためにこのコードをリファクタリングすべきです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ʃəd ɹiˈfæktɚ ðɪs koʊd fɚ ˌmeɪnˌteɪnəˈbɪləti/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The system needs to be horizontally scalable.",
+          "answer": "The system needs to be horizontally scalable.",
+          "hints": {
+            "zh": "该系统需要具备水平扩展能力。",
+            "en": "The system needs to be horizontally scalable.",
+            "ja": "システムは水平方向にスケールできる必要があります。"
+          },
+          "hint": "该系统需要具备水平扩展能力。 / The system needs to be horizontally scalable. / システムは水平方向にスケールできる必要があります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsɪstəm nidz tə bi ˌhɔɹɪˈzɑntəli ˈskeɪləbəl/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can you walk me through your approach?",
+          "answer": "Can you walk me through your approach?",
+          "hints": {
+            "zh": "能讲讲你的解题思路吗？",
+            "en": "Can you walk me through your approach?",
+            "ja": "アプローチを説明してもらえますか？"
+          },
+          "hint": "能讲讲你的解题思路吗？ / Can you walk me through your approach? / アプローチを説明してもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ju wɑk mi θɹu jɚ əˈpɹoʊtʃ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Handle the edge case when the input is empty.",
+          "answer": "Handle the edge case when the input is empty.",
+          "hints": {
+            "zh": "请处理输入为空时的边界情况。",
+            "en": "Handle the edge case when the input is empty.",
+            "ja": "入力が空の場合のエッジケースを処理してください。"
+          },
+          "hint": "请处理输入为空时的边界情况。 / Handle the edge case when the input is empty. / 入力が空の場合のエッジケースを処理してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhændəl ði ɛdʒ keɪs wɛn ði ˈɪnpʊt ɪz ˈɛmpti/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This solution uses a hash map for O(1) lookup.",
+          "answer": "This solution uses a hash map for O(1) lookup.",
+          "hints": {
+            "zh": "该方案使用哈希表实现 O(1) 查找。",
+            "en": "This solution uses a hash map for O(1) lookup.",
+            "ja": "この解法はO(1)検索のためにハッシュマップを使います。"
+          },
+          "hint": "该方案使用哈希表实现 O(1) 查找。 / This solution uses a hash map for O(1) lookup. / この解法はO(1)検索のためにハッシュマップを使います。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs səˈluʃən ˈjuzɪz ə hæʃ mæp fɚ oʊ wʌn ˈlʊkəp/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I would optimize the bottleneck in the database query.",
+          "answer": "I would optimize the bottleneck in the database query.",
+          "hints": {
+            "zh": "我会优化数据库查询中的性能瓶颈。",
+            "en": "I would optimize the bottleneck in the database query.",
+            "ja": "データベースクエリのボトルネックを最適化します。"
+          },
+          "hint": "我会优化数据库查询中的性能瓶颈。 / I would optimize the bottleneck in the database query. / データベースクエリのボトルネックを最適化します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəd ˈɑptəˌmaɪz ðə ˈbɑtəlˌnɛk ɪn ðə ˈdeɪtəˌbeɪs ˈkwiɹi/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Let's write unit tests before merging.",
+          "answer": "Let's write unit tests before merging.",
+          "hints": {
+            "zh": "合并前先编写单元测试吧。",
+            "en": "Let's write unit tests before merging.",
+            "ja": "マージする前にユニットテストを書きましょう。"
+          },
+          "hint": "合并前先编写单元测试吧。 / Let's write unit tests before merging. / マージする前にユニットテストを書きましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lɛts ɹaɪt ˈjunət tɛsts bɪˈfɔɹ ˈmɝdʒɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Explain the difference between stack and heap.",
+          "answer": "Explain the difference between stack and heap.",
+          "hints": {
+            "zh": "解释栈和堆的区别。",
+            "en": "Explain the difference between stack and heap.",
+            "ja": "スタックとヒープの違いを説明してください。"
+          },
+          "hint": "解释栈和堆的区别。 / Explain the difference between stack and heap. / スタックとヒープの違いを説明してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪksˈpleɪn ðə ˈdɪfɚəns bitˈwin stæk ən hip/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What data structure would you use for BFS?",
+          "answer": "What data structure would you use for BFS?",
+          "hints": {
+            "zh": "广度优先搜索你会用什么数据结构？",
+            "en": "What data structure would you use for BFS?",
+            "ja": "幅優先探索にはどのデータ構造を使いますか？"
+          },
+          "hint": "广度优先搜索你会用什么数据结构？ / What data structure would you use for BFS? / 幅優先探索にはどのデータ構造を使いますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ˈdeɪtə ˈstɹəktʃɚ wəd ju juz fɚ ˌbi ɛf ˈɛs/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Implement a function to reverse a linked list.",
+          "answer": "Implement a function to reverse a linked list.",
+          "hints": {
+            "zh": "实现反转链表的函数。",
+            "en": "Implement a function to reverse a linked list.",
+            "ja": "連結リストを反転する関数を実装してください。"
+          },
+          "hint": "实现反转链表的函数。 / Implement a function to reverse a linked list. / 連結リストを反転する関数を実装してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɪmpləmənt ə ˈfəŋkʃən tə ɹiˈvɝs ə lɪŋkt lɪst/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How would you detect a cycle in a graph?",
+          "answer": "How would you detect a cycle in a graph?",
+          "hints": {
+            "zh": "如何检测图中的环？",
+            "en": "How would you detect a cycle in a graph?",
+            "ja": "グラフのサイクルをどう検出しますか？"
+          },
+          "hint": "如何检测图中的环？ / How would you detect a cycle in a graph? / グラフのサイクルをどう検出しますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ wəd ju dɪˈtɛkt ə ˈsaɪkəl ɪn ə ɡɹæf/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Describe a time you optimized slow code.",
+          "answer": "Describe a time you optimized slow code.",
+          "hints": {
+            "zh": "描述一次你优化慢代码的经历。",
+            "en": "Describe a time you optimized slow code.",
+            "ja": "遅いコードを最適化した経験を教えてください。"
+          },
+          "hint": "描述一次你优化慢代码的经历。 / Describe a time you optimized slow code. / 遅いコードを最適化した経験を教えてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪsˈkɹaɪb ə taɪm ju ˈɑptəˌmaɪzd sloʊ koʊd/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What is the space complexity of merge sort?",
+          "answer": "What is the space complexity of merge sort?",
+          "hints": {
+            "zh": "归并排序的空间复杂度是多少？",
+            "en": "What is the space complexity of merge sort?",
+            "ja": "マージソートの空間計算量はいくつですか？"
+          },
+          "hint": "归并排序的空间复杂度是多少？ / What is the space complexity of merge sort? / マージソートの空間計算量はいくつですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ɪz ðə speɪs kəmˈplɛksəti əv mɝdʒ sɔɹt/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use binary search on a sorted array.",
+          "answer": "Use binary search on a sorted array.",
+          "hints": {
+            "zh": "在有序数组上使用二分查找。",
+            "en": "Use binary search on a sorted array.",
+            "ja": "ソート済み配列で二分探索を使ってください。"
+          },
+          "hint": "在有序数组上使用二分查找。 / Use binary search on a sorted array. / ソート済み配列で二分探索を使ってください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ˈbaɪnɚi sɝtʃ ɑn ə ˈsɔɹtɪd ɚˈeɪ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How do you prevent deadlock in multithreading?",
+          "answer": "How do you prevent deadlock in multithreading?",
+          "hints": {
+            "zh": "多线程中如何防止死锁？",
+            "en": "How do you prevent deadlock in multithreading?",
+            "ja": "マルチスレッドでデッドロックをどう防ぎますか？"
+          },
+          "hint": "多线程中如何防止死锁？ / How do you prevent deadlock in multithreading? / マルチスレッドでデッドロックをどう防ぎますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ du ju pɹiˈvɛnt ˈdɛdlɑk ɪn ˌmʌltiˈθɹɛdɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Design a URL shortener at a high level.",
+          "answer": "Design a URL shortener at a high level.",
+          "hints": {
+            "zh": "从高层设计一个短链服务。",
+            "en": "Design a URL shortener at a high level.",
+            "ja": "URL短縮サービスを高レベルで設計してください。"
+          },
+          "hint": "从高层设计一个短链服务。 / Design a URL shortener at a high level. / URL短縮サービスを高レベルで設計してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈzaɪn ə ˌju ɑɹ ˈɛl ˈʃɔɹtənɚ æt ə haɪ ˈlɛvəl/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What trade-offs did you consider for this design?",
+          "answer": "What trade-offs did you consider for this design?",
+          "hints": {
+            "zh": "这个设计你考虑了哪些权衡？",
+            "en": "What trade-offs did you consider for this design?",
+            "ja": "この設計でどのようなトレードオフを考えましたか？"
+          },
+          "hint": "这个设计你考虑了哪些权衡？ / What trade-offs did you consider for this design? / この設計でどのようなトレードオフを考えましたか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ˈtɹeɪdɔfs dɪd ju kənˈsɪdɚ fɚ ðɪs dɪˈzaɪn/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Write a unit test for the edge case.",
+          "answer": "Write a unit test for the edge case.",
+          "hints": {
+            "zh": "为边界情况编写单元测试。",
+            "en": "Write a unit test for the edge case.",
+            "ja": "エッジケースのユニットテストを書いてください。"
+          },
+          "hint": "为边界情况编写单元测试。 / Write a unit test for the edge case. / エッジケースのユニットテストを書いてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹaɪt ə ˈjunət tɛst fɚ ði ɛdʒ keɪs/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How would you scale this service to millions of users?",
+          "answer": "How would you scale this service to millions of users?",
+          "hints": {
+            "zh": "如何将这项服务扩展到百万用户？",
+            "en": "How would you scale this service to millions of users?",
+            "ja": "このサービスを数百万人のユーザーにスケールするには？"
+          },
+          "hint": "如何将这项服务扩展到百万用户？ / How would you scale this service to millions of users? / このサービスを数百万人のユーザーにスケールするには？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ wəd ju skeɪl ðɪs ˈsɝvəs tə ˈmɪljənz əv ˈjuzɚz/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Explain recursion with a simple example.",
+          "answer": "Explain recursion with a simple example.",
+          "hints": {
+            "zh": "用简单例子解释递归。",
+            "en": "Explain recursion with a simple example.",
+            "ja": "簡単な例で再帰を説明してください。"
+          },
+          "hint": "用简单例子解释递归。 / Explain recursion with a simple example. / 簡単な例で再帰を説明してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪksˈpleɪn ɹiˈkɝʒən wɪð ə ˈsɪmpəl ɪɡˈzæmpəl/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What is your approach to code review feedback?",
+          "answer": "What is your approach to code review feedback?",
+          "hints": {
+            "zh": "你如何处理代码审查反馈？",
+            "en": "What is your approach to code review feedback?",
+            "ja": "コードレビューのフィードバックにどう対応しますか？"
+          },
+          "hint": "你如何处理代码审查反馈？ / What is your approach to code review feedback? / コードレビューのフィードバックにどう対応しますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ɪz jɚ əˈpɹoʊtʃ tə koʊd ɹivˈju ˈfidbæk/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use a hash map to count word frequencies.",
+          "answer": "Use a hash map to count word frequencies.",
+          "hints": {
+            "zh": "用哈希表统计词频。",
+            "en": "Use a hash map to count word frequencies.",
+            "ja": "ハッシュマップで単語の出現回数を数えてください。"
+          },
+          "hint": "用哈希表统计词频。 / Use a hash map to count word frequencies. / ハッシュマップで単語の出現回数を数えてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ə hæʃ mæp tə kaʊnt wɝd ˈfɹikwənsiz/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Compare iteration versus recursion for this problem.",
+          "answer": "Compare iteration versus recursion for this problem.",
+          "hints": {
+            "zh": "比较此问题的迭代与递归方案。",
+            "en": "Compare iteration versus recursion for this problem.",
+            "ja": "この問題の反復と再帰を比較してください。"
+          },
+          "hint": "比较此问题的迭代与递归方案。 / Compare iteration versus recursion for this problem. / この問題の反復と再帰を比較してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəmˈpɛɹ ˌɪtɚˈeɪʃən ˈvɝsəs ɹiˈkɝʒən fɚ ðɪs ˈpɹɑbləm/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What design pattern fits this use case?",
+          "answer": "What design pattern fits this use case?",
+          "hints": {
+            "zh": "什么设计模式适合这个场景？",
+            "en": "What design pattern fits this use case?",
+            "ja": "このユースケースに合うデザインパターンは？"
+          },
+          "hint": "什么设计模式适合这个场景？ / What design pattern fits this use case? / このユースケースに合うデザインパターンは？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət dɪˈzaɪn ˈpætɚn fɪts ðɪs jus keɪs/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Measure latency before and after optimization.",
+          "answer": "Measure latency before and after optimization.",
+          "hints": {
+            "zh": "优化前后测量延迟。",
+            "en": "Measure latency before and after optimization.",
+            "ja": "最適化前後でレイテンシを測定してください。"
+          },
+          "hint": "优化前后测量延迟。 / Measure latency before and after optimization. / 最適化前後でレイテンシを測定してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɛʒɚ ˈleɪtənsi bɪˈfɔɹ ən ˈæftɚ ɑptəməˈzeɪʃən/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How would you cache frequently accessed data?",
+          "answer": "How would you cache frequently accessed data?",
+          "hints": {
+            "zh": "如何缓存频繁访问的数据？",
+            "en": "How would you cache frequently accessed data?",
+            "ja": "頻繁にアクセスされるデータをどうキャッシュしますか？"
+          },
+          "hint": "如何缓存频繁访问的数据？ / How would you cache frequently accessed data? / 頻繁にアクセスされるデータをどうキャッシュしますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ wəd ju kæʃ ˈfɹikwəntli ˈæksɛst ˈdeɪtə/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Walk through your solution step by step.",
+          "answer": "Walk through your solution step by step.",
+          "hints": {
+            "zh": "逐步讲解你的解法。",
+            "en": "Walk through your solution step by step.",
+            "ja": "解法をステップごとに説明してください。"
+          },
+          "hint": "逐步讲解你的解法。 / Walk through your solution step by step. / 解法をステップごとに説明してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɑk θɹu jɚ səˈluʃən stɛp baɪ stɛp/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What happens when the hash map resizes?",
+          "answer": "What happens when the hash map resizes?",
+          "hints": {
+            "zh": "哈希表扩容时会发生什么？",
+            "en": "What happens when the hash map resizes?",
+            "ja": "ハッシュマップがリサイズされるとどうなりますか？"
+          },
+          "hint": "哈希表扩容时会发生什么？ / What happens when the hash map resizes? / ハッシュマップがリサイズされるとどうなりますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ˈhæpənz wɛn ðə hæʃ mæp ˌɹiˈsaɪzɪz/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Do a dry run of your algorithm on paper.",
+          "answer": "Do a dry run of your algorithm on paper.",
+          "hints": {
+            "zh": "在纸上演练你的算法。",
+            "en": "Do a dry run of your algorithm on paper.",
+            "ja": "紙の上でアルゴリズムのドライランをしてください。"
+          },
+          "hint": "在纸上演练你的算法。 / Do a dry run of your algorithm on paper. / 紙の上でアルゴリズムのドライランをしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/du ə dɹaɪ ɹən əv jɚ ˈælɡɚˌɪðəm ɑn ˈpeɪpɚ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

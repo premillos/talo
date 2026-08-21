@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "internet",
+  "slug": "en-internet-social-sentences",
+  "course": {
+    "title": "网络文化 · 英语 · 句子",
+    "description": "学习社交媒体、内容创作、网络礼仪和安全相关英语。（常用句子）",
+    "titles": {
+      "zh": "网络文化 · 英语社交网络 · 句子",
+      "en": "Internet Culture · English Social Media · Sentences",
+      "ja": "ネット文化 · 英語SNS · 例文"
+    },
+    "descriptions": {
+      "zh": "学习社交媒体与网络文化中的常用英语句子。",
+      "en": "Practice common English sentences for social media and internet culture.",
+      "ja": "ソーシャルメディアとネット文化で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语网络文化 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "Please update your profile picture.",
+          "answer": "Please update your profile picture.",
+          "hints": {
+            "zh": "请更新你的头像。",
+            "en": "Change the image on your profile.",
+            "ja": "プロフィール画像を更新してください。"
+          },
+          "hint": "请更新你的头像。 / Change the image on your profile. / プロフィール画像を更新してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz əpˈdeɪt jɚ ˈpɹoʊfaɪl ˈpɪktʃɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Never share your password with anyone.",
+          "answer": "Never share your password with anyone.",
+          "hints": {
+            "zh": "不要把密码告诉任何人。",
+            "en": "Keep your password private.",
+            "ja": "パスワードは誰にも教えないでください。"
+          },
+          "hint": "不要把密码告诉任何人。 / Keep your password private. / パスワードは誰にも教えないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈnɛvɚ ʃɛɹ jɚ ˈpæswɝd wɪð ˈɛniˌwən/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This video went viral overnight.",
+          "answer": "This video went viral overnight.",
+          "hints": {
+            "zh": "这个视频一夜之间爆红了。",
+            "en": "The video spread very quickly online.",
+            "ja": "この動画は一晩でバズりました。"
+          },
+          "hint": "这个视频一夜之间爆红了。 / The video spread very quickly online. / この動画は一晩でバズりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs ˈvɪdioʊ wɛnt ˈvaɪɹəl ˌoʊvɚˈnaɪt/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I found the post through a hashtag.",
+          "answer": "I found the post through a hashtag.",
+          "hints": {
+            "zh": "我通过话题标签找到了这篇帖子。",
+            "en": "A hashtag led me to the post.",
+            "ja": "ハッシュタグからその投稿を見つけました。"
+          },
+          "hint": "我通过话题标签找到了这篇帖子。 / A hashtag led me to the post. / ハッシュタグからその投稿を見つけました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ faʊnd ðə poʊst θɹu ə ˈhæʃtæɡ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Her channel reached ten thousand subscribers.",
+          "answer": "Her channel reached ten thousand subscribers.",
+          "hints": {
+            "zh": "她的频道达到了一万订阅者。",
+            "en": "Her channel now has ten thousand subscribers.",
+            "ja": "彼女のチャンネルは登録者一万人に達しました。"
+          },
+          "hint": "她的频道达到了一万订阅者。 / Her channel now has ten thousand subscribers. / 彼女のチャンネルは登録者一万人に達しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hɝ ˈtʃænəl ɹitʃt tɛn ˈθaʊzən səbsˈkɹaɪbɚz/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The live stream starts in five minutes.",
+          "answer": "The live stream starts in five minutes.",
+          "hints": {
+            "zh": "直播将在五分钟后开始。",
+            "en": "The broadcast begins in five minutes.",
+            "ja": "ライブ配信は五分後に始まります。"
+          },
+          "hint": "直播将在五分钟后开始。 / The broadcast begins in five minutes. / ライブ配信は五分後に始まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə laɪv stɹim stɑɹts ɪn faɪv ˈmɪnəts/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please avoid posting spoilers in the comments.",
+          "answer": "Please avoid posting spoilers in the comments.",
+          "hints": {
+            "zh": "请不要在评论区剧透。",
+            "en": "Do not reveal the story in comments.",
+            "ja": "コメントにネタバレを書かないでください。"
+          },
+          "hint": "请不要在评论区剧透。 / Do not reveal the story in comments. / コメントにネタバレを書かないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz əˈvɔɪd ˈpoʊstɪŋ ˈspɔɪlɚz ɪn ðə ˈkɑmɛnts/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This meme always makes me laugh.",
+          "answer": "This meme always makes me laugh.",
+          "hints": {
+            "zh": "这个梗总能让我笑。",
+            "en": "I find this meme funny every time.",
+            "ja": "このミームはいつも笑わせてくれます。"
+          },
+          "hint": "这个梗总能让我笑。 / I find this meme funny every time. / このミームはいつも笑わせてくれます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs mim ˈɔlweɪz meɪks mi læf/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Turn off notifications when you need to focus.",
+          "answer": "Turn off notifications when you need to focus.",
+          "hints": {
+            "zh": "需要专注时请关闭通知。",
+            "en": "Disable alerts when concentrating.",
+            "ja": "集中したい時は通知を切りましょう。"
+          },
+          "hint": "需要专注时请关闭通知。 / Disable alerts when concentrating. / 集中したい時は通知を切りましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɝn ɔf ˌnoʊtəfəˈkeɪʃənz wɛn ju nid tə ˈfoʊkəs/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The algorithm recommended a useful tutorial.",
+          "answer": "The algorithm recommended a useful tutorial.",
+          "hints": {
+            "zh": "算法推荐了一个有用的教程。",
+            "en": "The recommendation system found a useful tutorial.",
+            "ja": "アルゴリズムが役立つ解説を勧めました。"
+          },
+          "hint": "算法推荐了一个有用的教程。 / The recommendation system found a useful tutorial. / アルゴリズムが役立つ解説を勧めました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˈælɡɚˌɪðəm ˌɹɛkəˈmɛndɪd ə ˈjusfəl tuˈtɔɹiəl/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Our online community welcomes new members.",
+          "answer": "Our online community welcomes new members.",
+          "hints": {
+            "zh": "我们的网络社群欢迎新成员。",
+            "en": "New members are welcome in our community.",
+            "ja": "私たちのオンラインコミュニティは新しい人を歓迎します。"
+          },
+          "hint": "我们的网络社群欢迎新成员。 / New members are welcome in our community. / 私たちのオンラインコミュニティは新しい人を歓迎します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈaʊɚ ˈɔnlaɪn kəmˈjunəti ˈwɛlkəmz nju ˈmɛmbɚz/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Think carefully before you share a post.",
+          "answer": "Think carefully before you share a post.",
+          "hints": {
+            "zh": "分享帖子前要仔细考虑。",
+            "en": "Pause and think before reposting.",
+            "ja": "投稿をシェアする前によく考えましょう。"
+          },
+          "hint": "分享帖子前要仔细考虑。 / Pause and think before reposting. / 投稿をシェアする前によく考えましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/θɪŋk ˈkɛɹfəli bɪˈfɔɹ ju ʃɛɹ ə poʊst/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The creator uploads a new video every Friday.",
+          "answer": "The creator uploads a new video every Friday.",
+          "hints": {
+            "zh": "这位创作者每周五上传新视频。",
+            "en": "New videos arrive every Friday.",
+            "ja": "そのクリエイターは毎週金曜日に動画を投稿します。"
+          },
+          "hint": "这位创作者每周五上传新视频。 / New videos arrive every Friday. / そのクリエイターは毎週金曜日に動画を投稿します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə kɹiˈeɪtɚ əpˈloʊdz ə nju ˈvɪdioʊ ˈɛvɚi ˈfɹaɪdeɪ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Check the source before believing the headline.",
+          "answer": "Check the source before believing the headline.",
+          "hints": {
+            "zh": "相信标题前先核实来源。",
+            "en": "Verify information before accepting it.",
+            "ja": "見出しを信じる前に情報源を確認してください。"
+          },
+          "hint": "相信标题前先核实来源。 / Verify information before accepting it. / 見出しを信じる前に情報源を確認してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tʃɛk ðə sɔɹs bɪˈfɔɹ bɪˈlivɪŋ ðə ˈhɛdlaɪn/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I muted the thread because it was too active.",
+          "answer": "I muted the thread because it was too active.",
+          "hints": {
+            "zh": "讨论串太活跃，所以我静音了。",
+            "en": "I silenced notifications from the busy thread.",
+            "ja": "スレッドが活発すぎたので通知を切りました。"
+          },
+          "hint": "讨论串太活跃，所以我静音了。 / I silenced notifications from the busy thread. / スレッドが活発すぎたので通知を切りました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ ˈmjutɪd ðə θɹɛd bɪˈkɑz ɪt wəz tu ˈæktɪv/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use a different password for each account.",
+          "answer": "Use a different password for each account.",
+          "hints": {
+            "zh": "每个账号都使用不同密码。",
+            "en": "Give every account a unique password.",
+            "ja": "アカウントごとに違うパスワードを使いましょう。"
+          },
+          "hint": "每个账号都使用不同密码。 / Give every account a unique password. / アカウントごとに違うパスワードを使いましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ə ˈdɪfɚənt ˈpæswɝd fɚ itʃ əˈkaʊnt/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The moderator removed the harmful comment.",
+          "answer": "The moderator removed the harmful comment.",
+          "hints": {
+            "zh": "管理员删除了有害评论。",
+            "en": "The moderator deleted an abusive response.",
+            "ja": "モデレーターが有害なコメントを削除しました。"
+          },
+          "hint": "管理员删除了有害评论。 / The moderator deleted an abusive response. / モデレーターが有害なコメントを削除しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmɑdɚˌeɪtɚ ɹiˈmuvd ðə ˈhɑɹmfəl ˈkɑmɛnt/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "My feed is full of cooking videos today.",
+          "answer": "My feed is full of cooking videos today.",
+          "hints": {
+            "zh": "今天我的信息流全是烹饪视频。",
+            "en": "Cooking videos fill my feed today.",
+            "ja": "今日のフィードは料理動画でいっぱいです。"
+          },
+          "hint": "今天我的信息流全是烹饪视频。 / Cooking videos fill my feed today. / 今日のフィードは料理動画でいっぱいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/maɪ fid ɪz fʊl əv ˈkʊkɪŋ ˈvɪdioʊz təˈdeɪ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "She designed a new avatar for the game.",
+          "answer": "She designed a new avatar for the game.",
+          "hints": {
+            "zh": "她为游戏设计了新头像。",
+            "en": "She made a new in-game avatar.",
+            "ja": "彼女はゲーム用の新しいアバターを作りました。"
+          },
+          "hint": "她为游戏设计了新头像。 / She made a new in-game avatar. / 彼女はゲーム用の新しいアバターを作りました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃi dɪˈzaɪnd ə nju ˈævəˌtɑɹ fɚ ðə ɡeɪm/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please report scams and suspicious links.",
+          "answer": "Please report scams and suspicious links.",
+          "hints": {
+            "zh": "请举报诈骗和可疑链接。",
+            "en": "Flag scams and suspicious links.",
+            "ja": "詐欺や怪しいリンクを通報してください。"
+          },
+          "hint": "请举报诈骗和可疑链接。 / Flag scams and suspicious links. / 詐欺や怪しいリンクを通報してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz ɹiˈpɔɹt skæmz ən səˈspɪʃəs lɪŋks/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A kind comment can improve someone's day.",
+          "answer": "A kind comment can improve someone's day.",
+          "hints": {
+            "zh": "友善评论可以点亮别人的一天。",
+            "en": "Positive comments can make people feel better.",
+            "ja": "優しいコメントは誰かの一日を明るくします。"
+          },
+          "hint": "友善评论可以点亮别人的一天。 / Positive comments can make people feel better. / 優しいコメントは誰かの一日を明るくします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə kaɪnd ˈkɑmɛnt kən ɪmˈpɹuv ˈsəmwənz deɪ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The file is still downloading.",
+          "answer": "The file is still downloading.",
+          "hints": {
+            "zh": "文件还在下载。",
+            "en": "The download has not finished yet.",
+            "ja": "ファイルはまだダウンロード中です。"
+          },
+          "hint": "文件还在下载。 / The download has not finished yet. / ファイルはまだダウンロード中です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə faɪl ɪz stɪl ˈdaʊnˌloʊdɪŋ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I uploaded the photos to a shared folder.",
+          "answer": "I uploaded the photos to a shared folder.",
+          "hints": {
+            "zh": "我把照片上传到了共享文件夹。",
+            "en": "The photos are now in a shared folder.",
+            "ja": "写真を共有フォルダーにアップロードしました。"
+          },
+          "hint": "我把照片上传到了共享文件夹。 / The photos are now in a shared folder. / 写真を共有フォルダーにアップロードしました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ əpˈloʊdəd ðə ˈfoʊtoʊz tə ə ʃɛɹd ˈfoʊldɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Protect your privacy on public networks.",
+          "answer": "Protect your privacy on public networks.",
+          "hints": {
+            "zh": "在公共网络上保护好隐私。",
+            "en": "Be careful with personal data on public networks.",
+            "ja": "公共のネットワークではプライバシーを守りましょう。"
+          },
+          "hint": "在公共网络上保护好隐私。 / Be careful with personal data on public networks. / 公共のネットワークではプライバシーを守りましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɹəˈtɛkt jɚ ˈpɹaɪvəsi ɑn ˈpəblɪk ˈnɛtwɝks/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Block accounts that repeatedly harass you.",
+          "answer": "Block accounts that repeatedly harass you.",
+          "hints": {
+            "zh": "屏蔽反复骚扰你的账号。",
+            "en": "Prevent harassing accounts from contacting you.",
+            "ja": "何度も嫌がらせをするアカウントはブロックしましょう。"
+          },
+          "hint": "屏蔽反复骚扰你的账号。 / Prevent harassing accounts from contacting you. / 何度も嫌がらせをするアカウントはブロックしましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/blɑk əˈkaʊnts ðæt ɹɪˈpitɪdli hɚˈæs ju/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The hashtag started an important discussion.",
+          "answer": "The hashtag started an important discussion.",
+          "hints": {
+            "zh": "这个话题标签引发了重要讨论。",
+            "en": "The hashtag opened an important conversation.",
+            "ja": "そのハッシュタグから大切な議論が始まりました。"
+          },
+          "hint": "这个话题标签引发了重要讨论。 / The hashtag opened an important conversation. / そのハッシュタグから大切な議論が始まりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈhæʃtæɡ ˈstɑɹtɪd ən ˌɪmˈpɔɹtənt dɪˈskəʃən/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We watched the tournament through a live stream.",
+          "answer": "We watched the tournament through a live stream.",
+          "hints": {
+            "zh": "我们通过直播观看了比赛。",
+            "en": "We streamed the tournament live.",
+            "ja": "私たちは大会をライブ配信で見ました。"
+          },
+          "hint": "我们通过直播观看了比赛。 / We streamed the tournament live. / 私たちは大会をライブ配信で見ました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi wɑtʃt ðə ˈtʊɹnəmənt θɹu ə laɪv stɹim/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Online jokes can lose meaning across cultures.",
+          "answer": "Online jokes can lose meaning across cultures.",
+          "hints": {
+            "zh": "网络笑话跨文化后可能失去含义。",
+            "en": "Internet humor does not always translate well.",
+            "ja": "ネットの冗談は文化が違うと伝わりにくいです。"
+          },
+          "hint": "网络笑话跨文化后可能失去含义。 / Internet humor does not always translate well. / ネットの冗談は文化が違うと伝わりにくいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔnlaɪn dʒoʊks kən luz ˈminɪŋ əˈkɹɔs ˈkəltʃɚz/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Take regular breaks from the screen.",
+          "answer": "Take regular breaks from the screen.",
+          "hints": {
+            "zh": "要定期离开屏幕休息。",
+            "en": "Rest your eyes and mind regularly.",
+            "ja": "定期的に画面から離れて休みましょう。"
+          },
+          "hint": "要定期离开屏幕休息。 / Rest your eyes and mind regularly. / 定期的に画面から離れて休みましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/teɪk ˈɹeɪɡjəlɚ bɹeɪks fɹəm ðə skɹin/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Good digital manners create better communities.",
+          "answer": "Good digital manners create better communities.",
+          "hints": {
+            "zh": "良好的网络礼仪能建设更好的社群。",
+            "en": "Online courtesy improves communities.",
+            "ja": "良いネットマナーがより良いコミュニティを作ります。"
+          },
+          "hint": "良好的网络礼仪能建设更好的社群。 / Online courtesy improves communities. / 良いネットマナーがより良いコミュニティを作ります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈdɪdʒətəl ˈmænɚz kɹiˈeɪt ˈbɛtɚ kəmˈjunətiz/",
+          "audioUrl": "learning/audio/en/en-internet-social-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

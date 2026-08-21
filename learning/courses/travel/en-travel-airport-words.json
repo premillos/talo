@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-airport-words",
+  "course": {
+    "title": "旅游 · 英语机场 · 词汇",
+    "description": "机场值机、安检、登机等常用英语词汇与句子（单词与短语）",
+    "titles": {
+      "zh": "旅游 · 英语机场 · 词汇",
+      "en": "Travel · English Airport · Vocabulary",
+      "ja": "旅行 · 英語空港 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习机场出行中的常用英语词汇。",
+      "en": "Practice common English vocabulary for airport travel.",
+      "ja": "空港での移動で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "机场与航班",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "airport",
+          "answer": "airport",
+          "hints": {
+            "zh": "机场",
+            "en": "airport",
+            "ja": "空港"
+          },
+          "hint": "机场 / airport / 空港",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛɹpɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "flight",
+          "answer": "flight",
+          "hints": {
+            "zh": "航班",
+            "en": "flight",
+            "ja": "フライト"
+          },
+          "hint": "航班 / flight / フライト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/flaɪt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "passport",
+          "answer": "passport",
+          "hints": {
+            "zh": "护照",
+            "en": "passport",
+            "ja": "パスポート"
+          },
+          "hint": "护照 / passport / パスポート",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpæspɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "luggage",
+          "answer": "luggage",
+          "hints": {
+            "zh": "行李",
+            "en": "luggage",
+            "ja": "荷物"
+          },
+          "hint": "行李 / luggage / 荷物",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈləɡədʒ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "terminal",
+          "answer": "terminal",
+          "hints": {
+            "zh": "航站楼",
+            "en": "terminal",
+            "ja": "ターミナル"
+          },
+          "hint": "航站楼 / terminal / ターミナル",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɝmənəl/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "gate",
+          "answer": "gate",
+          "hints": {
+            "zh": "登机口",
+            "en": "gate",
+            "ja": "ゲート"
+          },
+          "hint": "登机口 / gate / ゲート",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡeɪt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "customs",
+          "answer": "customs",
+          "hints": {
+            "zh": "海关",
+            "en": "customs",
+            "ja": "税関"
+          },
+          "hint": "海关 / customs / 税関",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkəstəmz/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "departure",
+          "answer": "departure",
+          "hints": {
+            "zh": "出发",
+            "en": "departure",
+            "ja": "出発"
+          },
+          "hint": "出发 / departure / 出発",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈpɑɹtʃɚ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "arrival",
+          "answer": "arrival",
+          "hints": {
+            "zh": "到达",
+            "en": "arrival",
+            "ja": "到着"
+          },
+          "hint": "到达 / arrival / 到着",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɚˈaɪvəl/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "layover",
+          "answer": "layover",
+          "hints": {
+            "zh": "中转停留",
+            "en": "layover",
+            "ja": "乗り継ぎ"
+          },
+          "hint": "中转停留 / layover / 乗り継ぎ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈleɪˌoʊvɚ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "visa",
+          "answer": "visa",
+          "hints": {
+            "zh": "签证",
+            "en": "visa",
+            "ja": "ビザ"
+          },
+          "hint": "签证 / visa / ビザ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvizə/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "immigration",
+          "answer": "immigration",
+          "hints": {
+            "zh": "入境检查",
+            "en": "immigration",
+            "ja": "入国審査"
+          },
+          "hint": "入境检查 / immigration / 入国審査",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɪməˈɡɹeɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "boarding pass",
+          "answer": "boarding pass",
+          "hints": {
+            "zh": "登机牌",
+            "en": "boarding pass",
+            "ja": "搭乗券"
+          },
+          "hint": "登机牌 / boarding pass / 搭乗券",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbɔɹdɪŋ pæs/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "check-in counter",
+          "answer": "check-in counter",
+          "hints": {
+            "zh": "值机柜台",
+            "en": "check-in counter",
+            "ja": "チェックインカウンター"
+          },
+          "hint": "值机柜台 / check-in counter / チェックインカウンター",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃɛk ɪn ˈkaʊntɚ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "carry-on bag",
+          "answer": "carry-on bag",
+          "hints": {
+            "zh": "随身行李",
+            "en": "carry-on bag",
+            "ja": "機内持ち込み手荷物"
+          },
+          "hint": "随身行李 / carry-on bag / 機内持ち込み手荷物",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkæɹi ɑn bæɡ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "checked baggage",
+          "answer": "checked baggage",
+          "hints": {
+            "zh": "托运行李",
+            "en": "checked baggage",
+            "ja": "預け入れ荷物"
+          },
+          "hint": "托运行李 / checked baggage / 預け入れ荷物",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tʃɛkt ˈbæɡədʒ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "connecting flight",
+          "answer": "connecting flight",
+          "hints": {
+            "zh": "转机航班",
+            "en": "connecting flight",
+            "ja": "乗り継ぎ便"
+          },
+          "hint": "转机航班 / connecting flight / 乗り継ぎ便",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəˈnɛktɪŋ flaɪt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "domestic flight",
+          "answer": "domestic flight",
+          "hints": {
+            "zh": "国内航班",
+            "en": "domestic flight",
+            "ja": "国内線"
+          },
+          "hint": "国内航班 / domestic flight / 国内線",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dəˈmɛstɪk flaɪt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "international flight",
+          "answer": "international flight",
+          "hints": {
+            "zh": "国际航班",
+            "en": "international flight",
+            "ja": "国際線"
+          },
+          "hint": "国际航班 / international flight / 国際線",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɪnɚˈnæʃənəl flaɪt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "flight delay",
+          "answer": "flight delay",
+          "hints": {
+            "zh": "航班延误",
+            "en": "flight delay",
+            "ja": "フライト遅延"
+          },
+          "hint": "航班延误 / flight delay / フライト遅延",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/flaɪt dɪˈleɪ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "security check",
+          "answer": "security check",
+          "hints": {
+            "zh": "安检",
+            "en": "security check",
+            "ja": "保安検査"
+          },
+          "hint": "安检 / security check / 保安検査",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sɪkˈjʊɹəti tʃɛk/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "boarding time",
+          "answer": "boarding time",
+          "hints": {
+            "zh": "登机时间",
+            "en": "boarding time",
+            "ja": "搭乗時間"
+          },
+          "hint": "登机时间 / boarding time / 搭乗時間",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbɔɹdɪŋ taɪm/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "baggage claim",
+          "answer": "baggage claim",
+          "hints": {
+            "zh": "行李提取处",
+            "en": "baggage claim",
+            "ja": "手荷物受取所"
+          },
+          "hint": "行李提取处 / baggage claim / 手荷物受取所",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbæɡədʒ kleɪm/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "boarding",
+          "answer": "boarding",
+          "hints": {
+            "zh": "登机",
+            "en": "boarding",
+            "ja": "搭乗"
+          },
+          "hint": "登机 / boarding / 搭乗",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbɔɹdɪŋ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "runway",
+          "answer": "runway",
+          "hints": {
+            "zh": "跑道",
+            "en": "runway",
+            "ja": "滑走路"
+          },
+          "hint": "跑道 / runway / 滑走路",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹənweɪ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "cockpit",
+          "answer": "cockpit",
+          "hints": {
+            "zh": "驾驶舱",
+            "en": "cockpit",
+            "ja": "コックピット"
+          },
+          "hint": "驾驶舱 / cockpit / コックピット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɑkpɪt/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "turbulence",
+          "answer": "turbulence",
+          "hints": {
+            "zh": "颠簸",
+            "en": "turbulence",
+            "ja": "乱気流"
+          },
+          "hint": "颠簸 / turbulence / 乱気流",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɝbjələns/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "aisle",
+          "answer": "aisle",
+          "hints": {
+            "zh": "过道",
+            "en": "aisle",
+            "ja": "通路"
+          },
+          "hint": "过道 / aisle / 通路",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈaɪəl/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "overhead bin",
+          "answer": "overhead bin",
+          "hints": {
+            "zh": "头顶行李架",
+            "en": "overhead bin",
+            "ja": "頭上棚"
+          },
+          "hint": "头顶行李架 / overhead bin / 頭上棚",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌoʊvɚˈhɛd bɪn/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "window seat",
+          "answer": "window seat",
+          "hints": {
+            "zh": "靠窗座位",
+            "en": "window seat",
+            "ja": "窓側の席"
+          },
+          "hint": "靠窗座位 / window seat / 窓側の席",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɪndoʊ sit/",
+          "audioUrl": "learning/audio/en/en-travel-airport-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

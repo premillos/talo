@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-phone-email-dialogues",
+  "course": {
+    "title": "服务行业 · 日语电话邮件 · 情景对话",
+    "description": "電話応対とビジネスメールの定型表現（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 日语电话邮件 · 情景对话",
+      "en": "Service & Hospitality · Japanese Phone & Email · Situational Dialogues",
+      "ja": "サービス業 · 日本語電話・メール · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习电话与商务邮件中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for phone calls and business email.",
+      "ja": "電話応対とビジネスメールで使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "電話・メール · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "いつもお世話になっております。青空商事の佐藤です。",
+          "answer": "いつもお世話になっております。青空商事の佐藤です。",
+          "hints": {
+            "zh": "承蒙关照。我是青空商事的佐藤。",
+            "en": "The caller gives a standard business greeting and introduces herself.",
+            "ja": "発信者が定型の挨拶をして名乗ります。"
+          },
+          "hint": "承蒙关照。我是青空商事的佐藤。 / The caller gives a standard business greeting and introduces herself. / 発信者が定型の挨拶をして名乗ります。",
+          "furigana": "いつもおせわになっております。あおぞらしょうじのさとうです。",
+          "romaji": "itsumoosewaninatteorimasu.aozorashoujinosatoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "quotation-attachment-follow-up",
+          "dialogueTitles": {
+            "zh": "报价附件跟进",
+            "en": "Quotation Attachment Follow-up",
+            "ja": "見積書添付の確認電話"
+          },
+          "dialogueScenes": {
+            "zh": "女销售致电男客户，确认报价邮件并重新发送缺失附件。",
+            "en": "A female sales representative calls a male client and resends a missing quotation attachment.",
+            "ja": "女性営業担当者が男性顧客に電話し、見積書の添付ファイルを再送します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "销售绫",
+            "en": "Aya, Sales Representative",
+            "ja": "営業の綾"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "こちらこそお世話になっております。鈴木です。",
+          "answer": "こちらこそお世話になっております。鈴木です。",
+          "hints": {
+            "zh": "彼此彼此，承蒙关照。我是铃木。",
+            "en": "The client returns the greeting and identifies himself.",
+            "ja": "顧客が挨拶を返して名乗ります。"
+          },
+          "hint": "彼此彼此，承蒙关照。我是铃木。 / The client returns the greeting and identifies himself. / 顧客が挨拶を返して名乗ります。",
+          "furigana": "こちらこそおせわになっております。すずきです。",
+          "romaji": "kochirakosoosewaninatteorimasu.suzukidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "quotation-attachment-follow-up",
+          "dialogueTitles": {
+            "zh": "报价附件跟进",
+            "en": "Quotation Attachment Follow-up",
+            "ja": "見積書添付の確認電話"
+          },
+          "dialogueScenes": {
+            "zh": "女销售致电男客户，确认报价邮件并重新发送缺失附件。",
+            "en": "A female sales representative calls a male client and resends a missing quotation attachment.",
+            "ja": "女性営業担当者が男性顧客に電話し、見積書の添付ファイルを再送します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客户铃木",
+            "en": "Mr. Suzuki, Client",
+            "ja": "顧客の鈴木"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "昨日お送りした見積書のメールは届いておりますでしょうか。",
+          "answer": "昨日お送りした見積書のメールは届いておりますでしょうか。",
+          "hints": {
+            "zh": "昨天发送的报价邮件您收到了吗？",
+            "en": "The sales representative checks whether the email arrived.",
+            "ja": "営業担当者が見積書メールの受信を確認します。"
+          },
+          "hint": "昨天发送的报价邮件您收到了吗？ / The sales representative checks whether the email arrived. / 営業担当者が見積書メールの受信を確認します。",
+          "furigana": "きのうおおくりしたみつもりしょのメールはとどいておりますでしょうか。",
+          "romaji": "kinouookurishitamitsumorishonomeeruhatodoiteorimasudeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "quotation-attachment-follow-up",
+          "dialogueTitles": {
+            "zh": "报价附件跟进",
+            "en": "Quotation Attachment Follow-up",
+            "ja": "見積書添付の確認電話"
+          },
+          "dialogueScenes": {
+            "zh": "女销售致电男客户，确认报价邮件并重新发送缺失附件。",
+            "en": "A female sales representative calls a male client and resends a missing quotation attachment.",
+            "ja": "女性営業担当者が男性顧客に電話し、見積書の添付ファイルを再送します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "销售绫",
+            "en": "Aya, Sales Representative",
+            "ja": "営業の綾"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "メールは届きましたが、添付ファイルが見当たりません。",
+          "answer": "メールは届きましたが、添付ファイルが見当たりません。",
+          "hints": {
+            "zh": "邮件收到了，但没找到附件。",
+            "en": "The client reports that the attachment is missing.",
+            "ja": "顧客が添付ファイルを確認できないと伝えます。"
+          },
+          "hint": "邮件收到了，但没找到附件。 / The client reports that the attachment is missing. / 顧客が添付ファイルを確認できないと伝えます。",
+          "furigana": "メールはとどきましたが、てんぷファイルがみあたりません。",
+          "romaji": "meeruhatodokimashitaga,tenpufairugamiatarimasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "quotation-attachment-follow-up",
+          "dialogueTitles": {
+            "zh": "报价附件跟进",
+            "en": "Quotation Attachment Follow-up",
+            "ja": "見積書添付の確認電話"
+          },
+          "dialogueScenes": {
+            "zh": "女销售致电男客户，确认报价邮件并重新发送缺失附件。",
+            "en": "A female sales representative calls a male client and resends a missing quotation attachment.",
+            "ja": "女性営業担当者が男性顧客に電話し、見積書の添付ファイルを再送します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客户铃木",
+            "en": "Mr. Suzuki, Client",
+            "ja": "顧客の鈴木"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "失礼いたしました。すぐに添付して再送いたします。",
+          "answer": "失礼いたしました。すぐに添付して再送いたします。",
+          "hints": {
+            "zh": "非常抱歉。我马上添加附件重新发送。",
+            "en": "The representative apologizes and promises to resend it.",
+            "ja": "営業担当者が謝罪し、添付して再送すると伝えます。"
+          },
+          "hint": "非常抱歉。我马上添加附件重新发送。 / The representative apologizes and promises to resend it. / 営業担当者が謝罪し、添付して再送すると伝えます。",
+          "furigana": "しつれいいたしました。すぐにてんぷしてさいそういたします。",
+          "romaji": "shitsureiitashimashita.sugunitenpushitesaisouitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "quotation-attachment-follow-up",
+          "dialogueTitles": {
+            "zh": "报价附件跟进",
+            "en": "Quotation Attachment Follow-up",
+            "ja": "見積書添付の確認電話"
+          },
+          "dialogueScenes": {
+            "zh": "女销售致电男客户，确认报价邮件并重新发送缺失附件。",
+            "en": "A female sales representative calls a male client and resends a missing quotation attachment.",
+            "ja": "女性営業担当者が男性顧客に電話し、見積書の添付ファイルを再送します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "销售绫",
+            "en": "Aya, Sales Representative",
+            "ja": "営業の綾"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "ありがとうございます。届きましたら、本日中に確認します。",
+          "answer": "ありがとうございます。届きましたら、本日中に確認します。",
+          "hints": {
+            "zh": "谢谢。收到后我会在今天之内确认。",
+            "en": "The client promises to review the attachment today.",
+            "ja": "顧客が受信後、本日中に確認すると答えます。"
+          },
+          "hint": "谢谢。收到后我会在今天之内确认。 / The client promises to review the attachment today. / 顧客が受信後、本日中に確認すると答えます。",
+          "furigana": "ありがとうございます。とどきましたら、ほんじつちゅうにかくにんします。",
+          "romaji": "arigatougozaimasu.todokimashitara,honjitsuchuunikakuninshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "quotation-attachment-follow-up",
+          "dialogueTitles": {
+            "zh": "报价附件跟进",
+            "en": "Quotation Attachment Follow-up",
+            "ja": "見積書添付の確認電話"
+          },
+          "dialogueScenes": {
+            "zh": "女销售致电男客户，确认报价邮件并重新发送缺失附件。",
+            "en": "A female sales representative calls a male client and resends a missing quotation attachment.",
+            "ja": "女性営業担当者が男性顧客に電話し、見積書の添付ファイルを再送します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客户铃木",
+            "en": "Mr. Suzuki, Client",
+            "ja": "顧客の鈴木"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

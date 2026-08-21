@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-hospitality-words",
+  "course": {
+    "title": "服务行业 · 日语餐饮 · 词汇",
+    "description": "飲食店とホテルの接客・ホスピタリティ（单词与短语）",
+    "titles": {
+      "zh": "服务行业 · 日语餐饮酒店 · 词汇",
+      "en": "Service & Hospitality · Japanese Hospitality · Vocabulary",
+      "ja": "サービス業 · 日本語接客 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习餐饮与酒店接待中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for hospitality service.",
+      "ja": "飲食店・ホテルの接客で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "接客・ホスピタリティ",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "メニュー",
+          "answer": "メニュー",
+          "hints": {
+            "zh": "菜单",
+            "en": "menu",
+            "ja": "メニュー"
+          },
+          "hint": "菜单 / menu / メニュー",
+          "furigana": "メニュー",
+          "romaji": "menyuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "前菜",
+          "answer": "前菜",
+          "hints": {
+            "zh": "开胃菜",
+            "en": "appetizer",
+            "ja": "前菜"
+          },
+          "hint": "开胃菜 / appetizer / 前菜",
+          "furigana": "ぜんさい",
+          "romaji": "zensai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "メイン",
+          "answer": "メイン",
+          "hints": {
+            "zh": "主菜",
+            "en": "main course",
+            "ja": "メイン"
+          },
+          "hint": "主菜 / main course / メイン",
+          "furigana": "メイン",
+          "romaji": "mein",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "デザート",
+          "answer": "デザート",
+          "hints": {
+            "zh": "甜点",
+            "en": "dessert",
+            "ja": "デザート"
+          },
+          "hint": "甜点 / dessert / デザート",
+          "furigana": "デザート",
+          "romaji": "dezaato",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "お会計",
+          "answer": "お会計",
+          "hints": {
+            "zh": "结账；账单",
+            "en": "bill",
+            "ja": "お会計"
+          },
+          "hint": "结账；账单 / bill / お会計",
+          "furigana": "おかいけい",
+          "romaji": "okaikei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "アレルギー",
+          "answer": "アレルギー",
+          "hints": {
+            "zh": "过敏",
+            "en": "allergy",
+            "ja": "アレルギー"
+          },
+          "hint": "过敏 / allergy / アレルギー",
+          "furigana": "アレルギー",
+          "romaji": "arerugii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "ベジタリアン",
+          "answer": "ベジタリアン",
+          "hints": {
+            "zh": "素食者",
+            "en": "vegetarian",
+            "ja": "ベジタリアン"
+          },
+          "hint": "素食者 / vegetarian / ベジタリアン",
+          "furigana": "ベジタリアン",
+          "romaji": "bejitarian",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "チェックイン",
+          "answer": "チェックイン",
+          "hints": {
+            "zh": "入住",
+            "en": "check-in",
+            "ja": "チェックイン"
+          },
+          "hint": "入住 / check-in / チェックイン",
+          "furigana": "チェックイン",
+          "romaji": "chekkuin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "チェックアウト",
+          "answer": "チェックアウト",
+          "hints": {
+            "zh": "退房",
+            "en": "check-out",
+            "ja": "チェックアウト"
+          },
+          "hint": "退房 / check-out / チェックアウト",
+          "furigana": "チェックアウト",
+          "romaji": "chekkuauto",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "ルームキー",
+          "answer": "ルームキー",
+          "hints": {
+            "zh": "房卡",
+            "en": "room key",
+            "ja": "ルームキー"
+          },
+          "hint": "房卡 / room key / ルームキー",
+          "furigana": "ルームキー",
+          "romaji": "ruumukii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "アメニティ",
+          "answer": "アメニティ",
+          "hints": {
+            "zh": "备品；设施",
+            "en": "amenities",
+            "ja": "アメニティ"
+          },
+          "hint": "备品；设施 / amenities / アメニティ",
+          "furigana": "アメニティ",
+          "romaji": "ameniti",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "ハウスキーピング",
+          "answer": "ハウスキーピング",
+          "hints": {
+            "zh": "客房清洁",
+            "en": "housekeeping",
+            "ja": "ハウスキーピング"
+          },
+          "hint": "客房清洁 / housekeeping / ハウスキーピング",
+          "furigana": "ハウスキーピング",
+          "romaji": "hausukiipingu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ご注文はお決まりでしょうか",
+          "answer": "ご注文はお決まりでしょうか",
+          "hints": {
+            "zh": "您点好了吗？",
+            "en": "Are you ready to order?",
+            "ja": "ご注文はお決まりでしょうか"
+          },
+          "hint": "您点好了吗？ / Are you ready to order? / ご注文はお決まりでしょうか",
+          "furigana": "ごちゅうもんはおきまりでしょうか",
+          "romaji": "gochuumonhaokimarideshouka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "デザートはいかがですか",
+          "answer": "デザートはいかがですか",
+          "hints": {
+            "zh": "需要甜点吗？",
+            "en": "Would you like dessert?",
+            "ja": "デザートはいかがですか"
+          },
+          "hint": "需要甜点吗？ / Would you like dessert? / デザートはいかがですか",
+          "furigana": "デザートはいかがですか",
+          "romaji": "dezaatohaikagadesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お味はいかがですか",
+          "answer": "お味はいかがですか",
+          "hints": {
+            "zh": "味道怎么样？",
+            "en": "How is everything?",
+            "ja": "お味はいかがですか"
+          },
+          "hint": "味道怎么样？ / How is everything? / お味はいかがですか",
+          "furigana": "おあじはいかがですか",
+          "romaji": "oajihaikagadesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "他にご注文はございますか",
+          "answer": "他にご注文はございますか",
+          "hints": {
+            "zh": "还需要别的吗？",
+            "en": "Would you like anything else?",
+            "ja": "他にご注文はございますか"
+          },
+          "hint": "还需要别的吗？ / Would you like anything else? / 他にご注文はございますか",
+          "furigana": "ほかにごちゅうもんはございますか",
+          "romaji": "hokanigochuumonhagozaimasuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "喫煙席と禁煙席、どちらをご希望ですか",
+          "answer": "喫煙席と禁煙席、どちらをご希望ですか",
+          "hints": {
+            "zh": "吸烟席还是禁烟席？",
+            "en": "Smoking or non-smoking?",
+            "ja": "喫煙席と禁煙席、どちらをご希望ですか"
+          },
+          "hint": "吸烟席还是禁烟席？ / Smoking or non-smoking? / 喫煙席と禁煙席、どちらをご希望ですか",
+          "furigana": "きつえんせきときんえんせき、どちらをごきぼうですか",
+          "romaji": "kitsuensekitokin'enseki,dochirawogokiboudesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お席のご用意ができました",
+          "answer": "お席のご用意ができました",
+          "hints": {
+            "zh": "您的座位准备好了",
+            "en": "Your table is ready",
+            "ja": "お席のご用意ができました"
+          },
+          "hint": "您的座位准备好了 / Your table is ready / お席のご用意ができました",
+          "furigana": "おせきのごよういができました",
+          "romaji": "osekinogoyouigadekimashita",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "どうぞお召し上がりください",
+          "answer": "どうぞお召し上がりください",
+          "hints": {
+            "zh": "请慢用",
+            "en": "Enjoy your meal",
+            "ja": "どうぞお召し上がりください"
+          },
+          "hint": "请慢用 / Enjoy your meal / どうぞお召し上がりください",
+          "furigana": "どうぞおめしあがりください",
+          "romaji": "douzoomeshiagarikudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "食事制限はございますか",
+          "answer": "食事制限はございますか",
+          "hints": {
+            "zh": "您有饮食限制吗？",
+            "en": "Do you have dietary restrictions?",
+            "ja": "食事制限はございますか"
+          },
+          "hint": "您有饮食限制吗？ / Do you have dietary restrictions? / 食事制限はございますか",
+          "furigana": "しょくじせいげんはございますか",
+          "romaji": "shokujiseigenhagozaimasuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ルームキーをお持ちします",
+          "answer": "ルームキーをお持ちします",
+          "hints": {
+            "zh": "我去拿房卡",
+            "en": "I will bring your room key",
+            "ja": "ルームキーをお持ちします"
+          },
+          "hint": "我去拿房卡 / I will bring your room key / ルームキーをお持ちします",
+          "furigana": "ルームキーをおもちします",
+          "romaji": "ruumukiiwoomochishimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "本日のおすすめはこちらでございます",
+          "answer": "本日のおすすめはこちらでございます",
+          "hints": {
+            "zh": "今日推荐在这里",
+            "en": "Today recommendation is here",
+            "ja": "本日のおすすめはこちらでございます"
+          },
+          "hint": "今日推荐在这里 / Today recommendation is here / 本日のおすすめはこちらでございます",
+          "furigana": "ほんじつのおすすめはこちらでございます",
+          "romaji": "honjitsunoosusumehakochiradegozaimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "ソムリエ",
+          "answer": "ソムリエ",
+          "hints": {
+            "zh": "侍酒师",
+            "en": "sommelier",
+            "ja": "ソムリエ"
+          },
+          "hint": "侍酒师 / sommelier / ソムリエ",
+          "furigana": "ソムリエ",
+          "romaji": "somurie",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "予約席",
+          "answer": "予約席",
+          "hints": {
+            "zh": "预订座位",
+            "en": "reserved seat",
+            "ja": "予約席"
+          },
+          "hint": "预订座位 / reserved seat / 予約席",
+          "furigana": "よやくせき",
+          "romaji": "yoyakuseki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "ビュッフェ",
+          "answer": "ビュッフェ",
+          "hints": {
+            "zh": "自助餐",
+            "en": "buffet",
+            "ja": "ビュッフェ"
+          },
+          "hint": "自助餐 / buffet / ビュッフェ",
+          "furigana": "ビュッフェ",
+          "romaji": "byuffe",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "グルテンフリー",
+          "answer": "グルテンフリー",
+          "hints": {
+            "zh": "无麸质",
+            "en": "gluten-free",
+            "ja": "グルテンフリー"
+          },
+          "hint": "无麸质 / gluten-free / グルテンフリー",
+          "furigana": "グルテンフリー",
+          "romaji": "gurutenfurii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "ターンダウン",
+          "answer": "ターンダウン",
+          "hints": {
+            "zh": "夜床服务",
+            "en": "turn-down service",
+            "ja": "ターンダウン"
+          },
+          "hint": "夜床服务 / turn-down service / ターンダウン",
+          "furigana": "ターンダウン",
+          "romaji": "taandaun",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "ランドリー",
+          "answer": "ランドリー",
+          "hints": {
+            "zh": "洗衣",
+            "en": "laundry",
+            "ja": "ランドリー"
+          },
+          "hint": "洗衣 / laundry / ランドリー",
+          "furigana": "ランドリー",
+          "romaji": "randorii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "無料サービス",
+          "answer": "無料サービス",
+          "hints": {
+            "zh": "免费服务",
+            "en": "complimentary service",
+            "ja": "無料サービス"
+          },
+          "hint": "免费服务 / complimentary service / 無料サービス",
+          "furigana": "むりょう",
+          "romaji": "muryou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "コンシェルジュデスク",
+          "answer": "コンシェルジュデスク",
+          "hints": {
+            "zh": "礼宾台",
+            "en": "concierge desk",
+            "ja": "コンシェルジュデスク"
+          },
+          "hint": "礼宾台 / concierge desk / コンシェルジュデスク",
+          "furigana": "コンシェルジュデスク",
+          "romaji": "konsherujudesuku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "internet",
+  "slug": "ja-internet-social-sentences",
+  "course": {
+    "title": "网络文化 · 日语 · 句子",
+    "description": "学习社交媒体、内容创作、网络礼仪和安全相关日语。（常用句子）",
+    "titles": {
+      "zh": "网络文化 · 日语社交网络 · 句子",
+      "en": "Internet Culture · Japanese Social Media · Sentences",
+      "ja": "ネット文化 · 日本語SNS · 例文"
+    },
+    "descriptions": {
+      "zh": "学习社交媒体与网络文化中的常用日语句子。",
+      "en": "Practice common Japanese sentences for social media and internet culture.",
+      "ja": "ソーシャルメディアとネット文化で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语网络文化 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "プロフィール画像を更新してください。",
+          "answer": "プロフィール画像を更新してください。",
+          "hints": {
+            "zh": "请更新个人资料图片。",
+            "en": "Please update your profile picture.",
+            "ja": "プロフィール画像を更新してください。"
+          },
+          "hint": "请更新个人资料图片。 / Please update your profile picture. / プロフィール画像を更新してください。",
+          "furigana": "プロフィールがぞうをこうしんしてください。",
+          "romaji": "purofiirugazouwokoushinshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "パスワードは誰にも教えません。",
+          "answer": "パスワードは誰にも教えません。",
+          "hints": {
+            "zh": "不要把密码告诉任何人。",
+            "en": "Never share your password.",
+            "ja": "パスワードは誰にも教えません。"
+          },
+          "hint": "不要把密码告诉任何人。 / Never share your password. / パスワードは誰にも教えません。",
+          "furigana": "パスワードはだれにもおしえません。",
+          "romaji": "pasuwaadohadarenimooshiemasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この動画は一晩で話題になりました。",
+          "answer": "この動画は一晩で話題になりました。",
+          "hints": {
+            "zh": "这个视频一夜之间火了。",
+            "en": "This video went viral overnight.",
+            "ja": "この動画は一晩で話題になりました。"
+          },
+          "hint": "这个视频一夜之间火了。 / This video went viral overnight. / この動画は一晩で話題になりました。",
+          "furigana": "このどうがはひとばんでわだいになりました。",
+          "romaji": "konodougahahitobandewadaininarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ハッシュタグから投稿を見つけました。",
+          "answer": "ハッシュタグから投稿を見つけました。",
+          "hints": {
+            "zh": "我通过话题标签找到了帖子。",
+            "en": "I found the post through a hashtag.",
+            "ja": "ハッシュタグから投稿を見つけました。"
+          },
+          "hint": "我通过话题标签找到了帖子。 / I found the post through a hashtag. / ハッシュタグから投稿を見つけました。",
+          "furigana": "ハッシュタグからとうこうをみつけました。",
+          "romaji": "hasshutagukaratoukouwomitsukemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "登録者が一万人を超えました。",
+          "answer": "登録者が一万人を超えました。",
+          "hints": {
+            "zh": "订阅者超过了一万人。",
+            "en": "The subscriber count passed ten thousand.",
+            "ja": "登録者が一万人を超えました。"
+          },
+          "hint": "订阅者超过了一万人。 / The subscriber count passed ten thousand. / 登録者が一万人を超えました。",
+          "furigana": "とうろくしゃがいちまんにんをこえました。",
+          "romaji": "tourokushagaichiman'ninwokoemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ライブ配信は五分後に始まります。",
+          "answer": "ライブ配信は五分後に始まります。",
+          "hints": {
+            "zh": "直播五分钟后开始。",
+            "en": "The live stream starts in five minutes.",
+            "ja": "ライブ配信は五分後に始まります。"
+          },
+          "hint": "直播五分钟后开始。 / The live stream starts in five minutes. / ライブ配信は五分後に始まります。",
+          "furigana": "ライブはいしんはごふんごにはじまります。",
+          "romaji": "raibuhaishinhagofungonihajimarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コメントにネタバレを書かないでください。",
+          "answer": "コメントにネタバレを書かないでください。",
+          "hints": {
+            "zh": "请不要在评论区剧透。",
+            "en": "Do not post spoilers in the comments.",
+            "ja": "コメントにネタバレを書かないでください。"
+          },
+          "hint": "请不要在评论区剧透。 / Do not post spoilers in the comments. / コメントにネタバレを書かないでください。",
+          "furigana": "コメントにネタバレをかかないでください。",
+          "romaji": "komentoninetabarewokakanaidekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このミームを見ると笑ってしまいます。",
+          "answer": "このミームを見ると笑ってしまいます。",
+          "hints": {
+            "zh": "看到这个梗我就会笑。",
+            "en": "This meme always makes me laugh.",
+            "ja": "このミームを見ると笑ってしまいます。"
+          },
+          "hint": "看到这个梗我就会笑。 / This meme always makes me laugh. / このミームを見ると笑ってしまいます。",
+          "furigana": "このミームをみるとわらってしまいます。",
+          "romaji": "konomiimuwomirutowaratteshimaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "集中する時は通知を切ります。",
+          "answer": "集中する時は通知を切ります。",
+          "hints": {
+            "zh": "专注时我会关闭通知。",
+            "en": "I turn off notifications when focusing.",
+            "ja": "集中する時は通知を切ります。"
+          },
+          "hint": "专注时我会关闭通知。 / I turn off notifications when focusing. / 集中する時は通知を切ります。",
+          "furigana": "しゅうちゅうするときはつうちをきります。",
+          "romaji": "shuuchuusurutokihatsuuchiwokirimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "おすすめで役立つ動画を見つけました。",
+          "answer": "おすすめで役立つ動画を見つけました。",
+          "hints": {
+            "zh": "我通过推荐发现了有用视频。",
+            "en": "I found a useful video through recommendations.",
+            "ja": "おすすめで役立つ動画を見つけました。"
+          },
+          "hint": "我通过推荐发现了有用视频。 / I found a useful video through recommendations. / おすすめで役立つ動画を見つけました。",
+          "furigana": "おすすめでやくだつどうがをみつけました。",
+          "romaji": "osusumedeyakudatsudougawomitsukemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "新しい仲間を歓迎します。",
+          "answer": "新しい仲間を歓迎します。",
+          "hints": {
+            "zh": "欢迎新成员。",
+            "en": "We welcome new community members.",
+            "ja": "新しい仲間を歓迎します。"
+          },
+          "hint": "欢迎新成员。 / We welcome new community members. / 新しい仲間を歓迎します。",
+          "furigana": "あたらしいなかまをかんげいします。",
+          "romaji": "atarashiinakamawokangeishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "共有する前によく考えましょう。",
+          "answer": "共有する前によく考えましょう。",
+          "hints": {
+            "zh": "分享前请仔细考虑。",
+            "en": "Think carefully before sharing.",
+            "ja": "共有する前によく考えましょう。"
+          },
+          "hint": "分享前请仔细考虑。 / Think carefully before sharing. / 共有する前によく考えましょう。",
+          "furigana": "きょうゆうするまえによくかんがえましょう。",
+          "romaji": "kyouyuusurumaeniyokukangaemashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "毎週金曜日に動画を投稿します。",
+          "answer": "毎週金曜日に動画を投稿します。",
+          "hints": {
+            "zh": "每周五发布视频。",
+            "en": "I upload a video every Friday.",
+            "ja": "毎週金曜日に動画を投稿します。"
+          },
+          "hint": "每周五发布视频。 / I upload a video every Friday. / 毎週金曜日に動画を投稿します。",
+          "furigana": "まいしゅうきんようびにどうがをとうこうします。",
+          "romaji": "maishuukin'youbinidougawotoukoushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "見出しを信じる前に情報源を確認します。",
+          "answer": "見出しを信じる前に情報源を確認します。",
+          "hints": {
+            "zh": "相信标题前先核实信息源。",
+            "en": "Check the source before trusting a headline.",
+            "ja": "見出しを信じる前に情報源を確認します。"
+          },
+          "hint": "相信标题前先核实信息源。 / Check the source before trusting a headline. / 見出しを信じる前に情報源を確認します。",
+          "furigana": "みだしをしんじるまえにじょうほうげんをかくにんします。",
+          "romaji": "midashiwoshinjirumaenijouhougenwokakuninshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スレッドの通知を切りました。",
+          "answer": "スレッドの通知を切りました。",
+          "hints": {
+            "zh": "我关闭了讨论串通知。",
+            "en": "I muted the thread notifications.",
+            "ja": "スレッドの通知を切りました。"
+          },
+          "hint": "我关闭了讨论串通知。 / I muted the thread notifications. / スレッドの通知を切りました。",
+          "furigana": "スレッドのつうちをきりました。",
+          "romaji": "sureddonotsuuchiwokirimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "アカウントごとに違うパスワードを使います。",
+          "answer": "アカウントごとに違うパスワードを使います。",
+          "hints": {
+            "zh": "每个账号使用不同密码。",
+            "en": "Use a different password for each account.",
+            "ja": "アカウントごとに違うパスワードを使います。"
+          },
+          "hint": "每个账号使用不同密码。 / Use a different password for each account. / アカウントごとに違うパスワードを使います。",
+          "furigana": "アカウントごとにちがうパスワードをつかいます。",
+          "romaji": "akauntogotonichigaupasuwaadowotsukaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "管理者が有害なコメントを削除しました。",
+          "answer": "管理者が有害なコメントを削除しました。",
+          "hints": {
+            "zh": "管理员删除了有害评论。",
+            "en": "The moderator removed the harmful comment.",
+            "ja": "管理者が有害なコメントを削除しました。"
+          },
+          "hint": "管理员删除了有害评论。 / The moderator removed the harmful comment. / 管理者が有害なコメントを削除しました。",
+          "furigana": "かんりしゃがゆうがいなコメントをさくじょしました。",
+          "romaji": "kanrishagayuugainakomentowosakujoshimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "今日のフィードは料理動画ばかりです。",
+          "answer": "今日のフィードは料理動画ばかりです。",
+          "hints": {
+            "zh": "今天的信息流全是烹饪视频。",
+            "en": "My feed is full of cooking videos today.",
+            "ja": "今日のフィードは料理動画ばかりです。"
+          },
+          "hint": "今天的信息流全是烹饪视频。 / My feed is full of cooking videos today. / 今日のフィードは料理動画ばかりです。",
+          "furigana": "きょうのフィードはりょうりどうがばかりです。",
+          "romaji": "kyounofiidoharyouridougabakaridesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゲーム用のアバターを作りました。",
+          "answer": "ゲーム用のアバターを作りました。",
+          "hints": {
+            "zh": "我制作了游戏头像。",
+            "en": "I made an avatar for the game.",
+            "ja": "ゲーム用のアバターを作りました。"
+          },
+          "hint": "我制作了游戏头像。 / I made an avatar for the game. / ゲーム用のアバターを作りました。",
+          "furigana": "ゲームようのアバターをつくりました。",
+          "romaji": "geemuyounoabataawotsukurimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "怪しいリンクは通報してください。",
+          "answer": "怪しいリンクは通報してください。",
+          "hints": {
+            "zh": "请举报可疑链接。",
+            "en": "Please report suspicious links.",
+            "ja": "怪しいリンクは通報してください。"
+          },
+          "hint": "请举报可疑链接。 / Please report suspicious links. / 怪しいリンクは通報してください。",
+          "furigana": "あやしいリンクはつうほうしてください。",
+          "romaji": "ayashiirinkuhatsuuhoushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "優しいコメントは人を元気にします。",
+          "answer": "優しいコメントは人を元気にします。",
+          "hints": {
+            "zh": "友善评论能让人振作。",
+            "en": "A kind comment can cheer someone up.",
+            "ja": "優しいコメントは人を元気にします。"
+          },
+          "hint": "友善评论能让人振作。 / A kind comment can cheer someone up. / 優しいコメントは人を元気にします。",
+          "furigana": "やさしいコメントはひとをげんきにします。",
+          "romaji": "yasashiikomentohahitowogenkinishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ファイルはまだダウンロード中です。",
+          "answer": "ファイルはまだダウンロード中です。",
+          "hints": {
+            "zh": "文件仍在下载中。",
+            "en": "The file is still downloading.",
+            "ja": "ファイルはまだダウンロード中です。"
+          },
+          "hint": "文件仍在下载中。 / The file is still downloading. / ファイルはまだダウンロード中です。",
+          "furigana": "ファイルはまだダウンロードちゅうです。",
+          "romaji": "fairuhamadadaunroodochuudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "写真を共有フォルダーに上げました。",
+          "answer": "写真を共有フォルダーに上げました。",
+          "hints": {
+            "zh": "我把照片上传到了共享文件夹。",
+            "en": "I uploaded the photos to a shared folder.",
+            "ja": "写真を共有フォルダーに上げました。"
+          },
+          "hint": "我把照片上传到了共享文件夹。 / I uploaded the photos to a shared folder. / 写真を共有フォルダーに上げました。",
+          "furigana": "しゃしんをきょうゆうフォルダーにあげました。",
+          "romaji": "shashinwokyouyuuforudaaniagemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "公共の回線では個人情報を守ります。",
+          "answer": "公共の回線では個人情報を守ります。",
+          "hints": {
+            "zh": "在公共网络上保护个人信息。",
+            "en": "Protect personal information on public networks.",
+            "ja": "公共の回線では個人情報を守ります。"
+          },
+          "hint": "在公共网络上保护个人信息。 / Protect personal information on public networks. / 公共の回線では個人情報を守ります。",
+          "furigana": "こうきょうのかいせんではこじんじょうほうをまもります。",
+          "romaji": "koukyounokaisendehakojinjouhouwomamorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "嫌がらせをする相手はブロックします。",
+          "answer": "嫌がらせをする相手はブロックします。",
+          "hints": {
+            "zh": "我会屏蔽骚扰者。",
+            "en": "I block accounts that harass me.",
+            "ja": "嫌がらせをする相手はブロックします。"
+          },
+          "hint": "我会屏蔽骚扰者。 / I block accounts that harass me. / 嫌がらせをする相手はブロックします。",
+          "furigana": "いやがらせをするあいてはブロックします。",
+          "romaji": "iyagarasewosuruaitehaburokkushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "そのハッシュタグから議論が始まりました。",
+          "answer": "そのハッシュタグから議論が始まりました。",
+          "hints": {
+            "zh": "这个话题标签引发了讨论。",
+            "en": "The hashtag started a discussion.",
+            "ja": "そのハッシュタグから議論が始まりました。"
+          },
+          "hint": "这个话题标签引发了讨论。 / The hashtag started a discussion. / そのハッシュタグから議論が始まりました。",
+          "furigana": "そのハッシュタグからぎろんがはじまりました。",
+          "romaji": "sonohasshutagukaragirongahajimarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大会をライブ配信で見ました。",
+          "answer": "大会をライブ配信で見ました。",
+          "hints": {
+            "zh": "我通过直播观看了比赛。",
+            "en": "I watched the tournament through a live stream.",
+            "ja": "大会をライブ配信で見ました。"
+          },
+          "hint": "我通过直播观看了比赛。 / I watched the tournament through a live stream. / 大会をライブ配信で見ました。",
+          "furigana": "たいかいをライブはいしんでみました。",
+          "romaji": "taikaiworaibuhaishindemimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ネットの冗談は文化によって変わります。",
+          "answer": "ネットの冗談は文化によって変わります。",
+          "hints": {
+            "zh": "网络笑话因文化而异。",
+            "en": "Internet jokes vary across cultures.",
+            "ja": "ネットの冗談は文化によって変わります。"
+          },
+          "hint": "网络笑话因文化而异。 / Internet jokes vary across cultures. / ネットの冗談は文化によって変わります。",
+          "furigana": "ネットのじょうだんはぶんかによってかわります。",
+          "romaji": "nettonojoudanhabunkaniyottekawarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "定期的に画面から離れて休みます。",
+          "answer": "定期的に画面から離れて休みます。",
+          "hints": {
+            "zh": "我会定期离开屏幕休息。",
+            "en": "I take regular breaks from the screen.",
+            "ja": "定期的に画面から離れて休みます。"
+          },
+          "hint": "我会定期离开屏幕休息。 / I take regular breaks from the screen. / 定期的に画面から離れて休みます。",
+          "furigana": "ていきてきにがめんからはなれてやすみます。",
+          "romaji": "teikitekinigamenkarahanareteyasumimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "良いネットマナーが交流を育てます。",
+          "answer": "良いネットマナーが交流を育てます。",
+          "hints": {
+            "zh": "良好的网络礼仪促进交流。",
+            "en": "Good digital manners build better communication.",
+            "ja": "良いネットマナーが交流を育てます。"
+          },
+          "hint": "良好的网络礼仪促进交流。 / Good digital manners build better communication. / 良いネットマナーが交流を育てます。",
+          "furigana": "よいネットマナーがこうりゅうをそだてます。",
+          "romaji": "yoinettomanaagakouryuuwosodatemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

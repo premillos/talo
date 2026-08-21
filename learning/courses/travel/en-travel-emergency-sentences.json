@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-emergency-sentences",
+  "course": {
+    "title": "旅游 · 英语应急 · 句子",
+    "description": "旅行中求助、医疗与失物等应急英语（常用句子）",
+    "titles": {
+      "zh": "旅游 · 英语应急 · 句子",
+      "en": "Travel · English Emergencies · Sentences",
+      "ja": "旅行 · 英語緊急時 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习旅行应急中的常用英语句子。",
+      "en": "Practice common English sentences for travel emergencies.",
+      "ja": "旅行中の緊急時で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "求助与紧急情况 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "I need help!",
+          "answer": "I need help!",
+          "hints": {
+            "zh": "我需要帮助！",
+            "en": "I need help!",
+            "ja": "助けが必要です！"
+          },
+          "hint": "我需要帮助！ / I need help! / 助けが必要です！",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid hɛlp/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can you call an ambulance?",
+          "answer": "Can you call an ambulance?",
+          "hints": {
+            "zh": "可以叫救护车吗？",
+            "en": "Can you call an ambulance?",
+            "ja": "救急車を呼んでもらえますか？"
+          },
+          "hint": "可以叫救护车吗？ / Can you call an ambulance? / 救急車を呼んでもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ju kɔl ən ˈæmbjələns/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I lost my passport.",
+          "answer": "I lost my passport.",
+          "hints": {
+            "zh": "我的护照丢了。",
+            "en": "I lost my passport.",
+            "ja": "パスポートをなくしました。"
+          },
+          "hint": "我的护照丢了。 / I lost my passport. / パスポートをなくしました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ lɔst maɪ ˈpæspɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I feel very sick.",
+          "answer": "I feel very sick.",
+          "hints": {
+            "zh": "我感觉非常不舒服。",
+            "en": "I feel very sick.",
+            "ja": "とても気分が悪いです。"
+          },
+          "hint": "我感觉非常不舒服。 / I feel very sick. / とても気分が悪いです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ fil ˈvɛɹi sɪk/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Someone stole my wallet.",
+          "answer": "Someone stole my wallet.",
+          "hints": {
+            "zh": "有人偷了我的钱包。",
+            "en": "Someone stole my wallet.",
+            "ja": "財布を盗まれました。"
+          },
+          "hint": "有人偷了我的钱包。 / Someone stole my wallet. / 財布を盗まれました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsəmwən stoʊl maɪ ˈwɔlət/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Where is the nearest hospital?",
+          "answer": "Where is the nearest hospital?",
+          "hints": {
+            "zh": "最近的医院在哪里？",
+            "en": "Where is the nearest hospital?",
+            "ja": "最寄りの病院はどこですか？"
+          },
+          "hint": "最近的医院在哪里？ / Where is the nearest hospital? / 最寄りの病院はどこですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɛɹ ɪz ðə ˈnɪɹəst ˈhɑˌspɪtəl/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is there a pharmacy nearby?",
+          "answer": "Is there a pharmacy nearby?",
+          "hints": {
+            "zh": "附近有药店吗？",
+            "en": "Is there a pharmacy nearby?",
+            "ja": "近くに薬局はありますか？"
+          },
+          "hint": "附近有药店吗？ / Is there a pharmacy nearby? / 近くに薬局はありますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɛɹ ə ˈfɑɹməsi ˌnɪɹˈbaɪ/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I need help, it is an emergency.",
+          "answer": "I need help, it is an emergency.",
+          "hints": {
+            "zh": "我需要帮助，这是紧急情况。",
+            "en": "I need help, it is an emergency.",
+            "ja": "助けが必要です、緊急事態です。"
+          },
+          "hint": "我需要帮助，这是紧急情况。 / I need help, it is an emergency. / 助けが必要です、緊急事態です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid hɛlp ɪt ɪz ən ˈimɚdʒənsi/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please call the police immediately.",
+          "answer": "Please call the police immediately.",
+          "hints": {
+            "zh": "请立刻报警。",
+            "en": "Please call the police immediately.",
+            "ja": "すぐに警察を呼んでください。"
+          },
+          "hint": "请立刻报警。 / Please call the police immediately. / すぐに警察を呼んでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz kɔl ðə pəˈlis ˌɪˈmiˌdiətli/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I have a severe allergy to peanuts.",
+          "answer": "I have a severe allergy to peanuts.",
+          "hints": {
+            "zh": "我对花生严重过敏。",
+            "en": "I have a severe allergy to peanuts.",
+            "ja": "ピーナッツに重度のアレルギーがあります。"
+          },
+          "hint": "我对花生严重过敏。 / I have a severe allergy to peanuts. / ピーナッツに重度のアレルギーがあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ həv ə səˈvɪɹ ˈælɚdʒi tə ˈpinəts/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "My travel insurance covers medical costs.",
+          "answer": "My travel insurance covers medical costs.",
+          "hints": {
+            "zh": "我的旅行保险涵盖医疗费用。",
+            "en": "My travel insurance covers medical costs.",
+            "ja": "旅行保険で医療費がカバーされます。"
+          },
+          "hint": "我的旅行保险涵盖医疗费用。 / My travel insurance covers medical costs. / 旅行保険で医療費がカバーされます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/maɪ ˈtɹævəl ˌɪnˈʃʊɹəns ˈkəvɚz ˈmɛdəkəl kɑsts/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I was injured in a traffic accident.",
+          "answer": "I was injured in a traffic accident.",
+          "hints": {
+            "zh": "我在交通事故中受伤了。",
+            "en": "I was injured in a traffic accident.",
+            "ja": "交通事故でけがをしました。"
+          },
+          "hint": "我在交通事故中受伤了。 / I was injured in a traffic accident. / 交通事故でけがをしました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəz ˈɪndʒɚd ɪn ə ˈtɹæfɪk ˈæksədənt/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can you contact my embassy?",
+          "answer": "Can you contact my embassy?",
+          "hints": {
+            "zh": "能联系我的大使馆吗？",
+            "en": "Can you contact my embassy?",
+            "ja": "大使館に連絡してもらえますか？"
+          },
+          "hint": "能联系我的大使馆吗？ / Can you contact my embassy? / 大使館に連絡してもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ju ˈkɑntækt maɪ ˈɛmbəsi/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I need a prescription for this medicine.",
+          "answer": "I need a prescription for this medicine.",
+          "hints": {
+            "zh": "这种药需要处方。",
+            "en": "I need a prescription for this medicine.",
+            "ja": "この薬には処方箋が必要です。"
+          },
+          "hint": "这种药需要处方。 / I need a prescription for this medicine. / この薬には処方箋が必要です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid ə pɹəsˈkɹɪpʃən fɚ ðɪs ˈmɛdəsən/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "My symptoms started this morning.",
+          "answer": "My symptoms started this morning.",
+          "hints": {
+            "zh": "症状从今天早上开始。",
+            "en": "My symptoms started this morning.",
+            "ja": "症状は今朝から始まりました。"
+          },
+          "hint": "症状从今天早上开始。 / My symptoms started this morning. / 症状は今朝から始まりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/maɪ ˈsɪmptəmz ˈstɑɹtɪd ðɪs ˈmɔɹnɪŋ/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is there an English-speaking doctor?",
+          "answer": "Is there an English-speaking doctor?",
+          "hints": {
+            "zh": "有会说英语的医生吗？",
+            "en": "Is there an English-speaking doctor?",
+            "ja": "英語が話せる医者はいますか？"
+          },
+          "hint": "有会说英语的医生吗？ / Is there an English-speaking doctor? / 英語が話せる医者はいますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɛɹ ən ˈɪŋɡlɪʃ ˈspikɪŋ ˈdɑktɚ/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I report a theft at the hotel.",
+          "answer": "I report a theft at the hotel.",
+          "hints": {
+            "zh": "我要报案酒店失窃。",
+            "en": "I report a theft at the hotel.",
+            "ja": "ホテルでの盗難を届け出ます。"
+          },
+          "hint": "我要报案酒店失窃。 / I report a theft at the hotel. / ホテルでの盗難を届け出ます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ ɹiˈpɔɹt ə θɛft æt ðə hoʊˈtɛl/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please provide first aid for this cut.",
+          "answer": "Please provide first aid for this cut.",
+          "hints": {
+            "zh": "请为这个伤口做急救。",
+            "en": "Please provide first aid for this cut.",
+            "ja": "この切り傷の応急処置をお願いします。"
+          },
+          "hint": "请为这个伤口做急救。 / Please provide first aid for this cut. / この切り傷の応急処置をお願いします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz pɹəˈvaɪd fɝst eɪd fɚ ðɪs kət/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The emergency number is on my phone.",
+          "answer": "The emergency number is on my phone.",
+          "hints": {
+            "zh": "紧急号码在我手机里。",
+            "en": "The emergency number is on my phone.",
+            "ja": "緊急連絡先は携帯にあります。"
+          },
+          "hint": "紧急号码在我手机里。 / The emergency number is on my phone. / 緊急連絡先は携帯にあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˈimɚdʒənsi ˈnəmbɚ ɪz ɑn maɪ foʊn/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I feel dizzy and nauseous.",
+          "answer": "I feel dizzy and nauseous.",
+          "hints": {
+            "zh": "我感到头晕恶心。",
+            "en": "I feel dizzy and nauseous.",
+            "ja": "めまいと吐き気があります。"
+          },
+          "hint": "我感到头晕恶心。 / I feel dizzy and nauseous. / めまいと吐き気があります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ fil ˈdɪzi ən ˈnɔʃəs/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "My passport was stolen at the station.",
+          "answer": "My passport was stolen at the station.",
+          "hints": {
+            "zh": "我的护照在车站被偷了。",
+            "en": "My passport was stolen at the station.",
+            "ja": "駅でパスポートを盗まれました。"
+          },
+          "hint": "我的护照在车站被偷了。 / My passport was stolen at the station. / 駅でパスポートを盗まれました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/maɪ ˈpæspɔɹt wəz ˈstoʊlən æt ðə ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Where is the emergency room entrance?",
+          "answer": "Where is the emergency room entrance?",
+          "hints": {
+            "zh": "急诊室入口在哪？",
+            "en": "Where is the emergency room entrance?",
+            "ja": "救急外来の入口はどこですか？"
+          },
+          "hint": "急诊室入口在哪？ / Where is the emergency room entrance? / 救急外来の入口はどこですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɛɹ ɪz ði ˈimɚdʒənsi ɹum ˈɛntɹəns/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I need an interpreter for the police report.",
+          "answer": "I need an interpreter for the police report.",
+          "hints": {
+            "zh": "报警我需要翻译。",
+            "en": "I need an interpreter for the police report.",
+            "ja": "警察への届出に通訳が必要です。"
+          },
+          "hint": "报警我需要翻译。 / I need an interpreter for the police report. / 警察への届出に通訳が必要です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid ən ˌɪnˈtɝpɹətɚ fɚ ðə pəˈlis ɹiˈpɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please keep calm and stay on the line.",
+          "answer": "Please keep calm and stay on the line.",
+          "hints": {
+            "zh": "请保持冷静，不要挂断。",
+            "en": "Please keep calm and stay on the line.",
+            "ja": "落ち着いて、電話を切らないでください。"
+          },
+          "hint": "请保持冷静，不要挂断。 / Please keep calm and stay on the line. / 落ち着いて、電話を切らないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz kip kɑlm ən steɪ ɑn ðə laɪn/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The pharmacy closes at nine PM.",
+          "answer": "The pharmacy closes at nine PM.",
+          "hints": {
+            "zh": "药店晚上九点关门。",
+            "en": "The pharmacy closes at nine PM.",
+            "ja": "薬局は午後9時に閉まります。"
+          },
+          "hint": "药店晚上九点关门。 / The pharmacy closes at nine PM. / 薬局は午後9時に閉まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈfɑɹməsi ˈkloʊzɪz æt naɪn ˌpi ˈɛm/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I lost my wallet but kept my passport.",
+          "answer": "I lost my wallet but kept my passport.",
+          "hints": {
+            "zh": "钱包丢了但护照还在。",
+            "en": "I lost my wallet but kept my passport.",
+            "ja": "財布をなくしましたがパスポートはあります。"
+          },
+          "hint": "钱包丢了但护照还在。 / I lost my wallet but kept my passport. / 財布をなくしましたがパスポートはあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ lɔst maɪ ˈwɔlət bət kæpt maɪ ˈpæspɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This is a medical emergency.",
+          "answer": "This is a medical emergency.",
+          "hints": {
+            "zh": "这是医疗紧急情况。",
+            "en": "This is a medical emergency.",
+            "ja": "これは医療上の緊急事態です。"
+          },
+          "hint": "这是医疗紧急情况。 / This is a medical emergency. / これは医療上の緊急事態です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs ɪz ə ˈmɛdəkəl ˈimɚdʒənsi/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can someone accompany me to the hospital?",
+          "answer": "Can someone accompany me to the hospital?",
+          "hints": {
+            "zh": "有人能陪我去医院吗？",
+            "en": "Can someone accompany me to the hospital?",
+            "ja": "病院まで付き添ってもらえますか？"
+          },
+          "hint": "有人能陪我去医院吗？ / Can someone accompany me to the hospital? / 病院まで付き添ってもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ˈsəmwən əˈkəmpəni mi tə ðə ˈhɑˌspɪtəl/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I have travel insurance with this company.",
+          "answer": "I have travel insurance with this company.",
+          "hints": {
+            "zh": "我在这家公司买了旅行保险。",
+            "en": "I have travel insurance with this company.",
+            "ja": "この会社の旅行保険に加入しています。"
+          },
+          "hint": "我在这家公司买了旅行保险。 / I have travel insurance with this company. / この会社の旅行保険に加入しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ həv ˈtɹævəl ˌɪnˈʃʊɹəns wɪð ðɪs ˈkəmpəˌni/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Report the incident at the nearest police station.",
+          "answer": "Report the incident at the nearest police station.",
+          "hints": {
+            "zh": "去最近的派出所报案。",
+            "en": "Report the incident at the nearest police station.",
+            "ja": "最寄りの警察署で届け出てください。"
+          },
+          "hint": "去最近的派出所报案。 / Report the incident at the nearest police station. / 最寄りの警察署で届け出てください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈpɔɹt ði ˈɪnsədənt æt ðə ˈnɪɹəst pəˈlis ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

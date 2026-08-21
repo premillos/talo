@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "programming",
+  "slug": "ja-prog-basics-sentences",
+  "course": {
+    "title": "编程知识 · 日语基础 · 句子",
+    "description": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）",
+    "titles": {
+      "zh": "编程知识 · 日语基础 · 句子",
+      "en": "编程知识 · 日语基础 · 句子",
+      "ja": "编程知识 · 日语基础 · 句子"
+    },
+    "descriptions": {
+      "zh": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）",
+      "en": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）",
+      "ja": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "プログラミング基礎 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "この関数は真偽値を返します。",
+          "answer": "この関数は真偽値を返します。",
+          "hints": {
+            "zh": "该函数返回一个布尔值。",
+            "en": "The function returns a boolean value.",
+            "ja": "この関数は真偽値を返します。"
+          },
+          "hint": "该函数返回一个布尔值。 / The function returns a boolean value. / この関数は真偽値を返します。",
+          "furigana": "このかんすうはしんぎちをかえします。",
+          "romaji": "konokansuuhashingichiwokaeshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "まず配列を初期化する必要があります。",
+          "answer": "まず配列を初期化する必要があります。",
+          "hints": {
+            "zh": "我们需要先初始化数组。",
+            "en": "We need to initialize the array first.",
+            "ja": "まず配列を初期化する必要があります。"
+          },
+          "hint": "我们需要先初始化数组。 / We need to initialize the array first. / まず配列を初期化する必要があります。",
+          "furigana": "まずはいれつをしょきかするひつようがあります。",
+          "romaji": "mazuhairetsuwoshokikasuruhitsuyougaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このループは条件が偽になるまで実行されます。",
+          "answer": "このループは条件が偽になるまで実行されます。",
+          "hints": {
+            "zh": "这个循环会一直运行直到条件为假。",
+            "en": "This loop runs until the condition is false.",
+            "ja": "このループは条件が偽になるまで実行されます。"
+          },
+          "hint": "这个循环会一直运行直到条件为假。 / This loop runs until the condition is false. / このループは条件が偽になるまで実行されます。",
+          "furigana": "このループはじょうけんがきになるまでじっこうされます。",
+          "romaji": "konoruupuhajoukengakininarumadejikkousaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "変数がスコープ外です。",
+          "answer": "変数がスコープ外です。",
+          "hints": {
+            "zh": "该变量已超出作用域。",
+            "en": "The variable is out of scope.",
+            "ja": "変数がスコープ外です。"
+          },
+          "hint": "该变量已超出作用域。 / The variable is out of scope. / 変数がスコープ外です。",
+          "furigana": "へんすうがスコープがいです。",
+          "romaji": "hensuugasukoopugaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "可読性のためにこのメソッドをリファクタリングしてください。",
+          "answer": "可読性のためにこのメソッドをリファクタリングしてください。",
+          "hints": {
+            "zh": "请重构这个方法以提高可读性。",
+            "en": "Please refactor this method for readability.",
+            "ja": "可読性のためにこのメソッドをリファクタリングしてください。"
+          },
+          "hint": "请重构这个方法以提高可读性。 / Please refactor this method for readability. / 可読性のためにこのメソッドをリファクタリングしてください。",
+          "furigana": "かどくせいのためにこのメソッドをリファクタリングしてください。",
+          "romaji": "kadokuseinotamenikonomesoddoworifakutaringushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "オブジェクトは基底クラスを継承しています。",
+          "answer": "オブジェクトは基底クラスを継承しています。",
+          "hints": {
+            "zh": "该对象继承自基类。",
+            "en": "The object inherits from the base class.",
+            "ja": "オブジェクトは基底クラスを継承しています。"
+          },
+          "hint": "该对象继承自基类。 / The object inherits from the base class. / オブジェクトは基底クラスを継承しています。",
+          "furigana": "オブジェクトはきていクラスをけいしょうしています。",
+          "romaji": "obujekutohakiteikurasuwokeishoushiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "参照渡しで引数を渡してください。",
+          "answer": "参照渡しで引数を渡してください。",
+          "hints": {
+            "zh": "请通过引用传递该参数。",
+            "en": "Pass the parameter by reference.",
+            "ja": "参照渡しで引数を渡してください。"
+          },
+          "hint": "请通过引用传递该参数。 / Pass the parameter by reference. / 参照渡しで引数を渡してください。",
+          "furigana": "さんしょうわたしでひきすうをわたしてください。",
+          "romaji": "sanshouwatashidehikisuuwowatashitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "クラッシュする前に例外を処理してください。",
+          "answer": "クラッシュする前に例外を処理してください。",
+          "hints": {
+            "zh": "在程序崩溃前先处理这个异常。",
+            "en": "Handle the exception before it crashes.",
+            "ja": "クラッシュする前に例外を処理してください。"
+          },
+          "hint": "在程序崩溃前先处理这个异常。 / Handle the exception before it crashes. / クラッシュする前に例外を処理してください。",
+          "furigana": "クラッシュするまえにれいがいをしょりしてください。",
+          "romaji": "kurasshusurumaenireigaiwoshorishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "変数にデフォルト値を代入してください。",
+          "answer": "変数にデフォルト値を代入してください。",
+          "hints": {
+            "zh": "给变量赋默认值。",
+            "en": "Assign a default value to the variable.",
+            "ja": "変数にデフォルト値を代入してください。"
+          },
+          "hint": "给变量赋默认值。 / Assign a default value to the variable. / 変数にデフォルト値を代入してください。",
+          "furigana": "へんすうにデフォルトちをだいにゅうしてください。",
+          "romaji": "hensuunideforutochiwodainyuushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この関数は2つのオプション引数を受け付けます。",
+          "answer": "この関数は2つのオプション引数を受け付けます。",
+          "hints": {
+            "zh": "该函数接受两个可选参数。",
+            "en": "The function accepts two optional parameters.",
+            "ja": "この関数は2つのオプション引数を受け付けます。"
+          },
+          "hint": "该函数接受两个可选参数。 / The function accepts two optional parameters. / この関数は2つのオプション引数を受け付けます。",
+          "furigana": "このかんすうは2つのオプションひきすうをうけつけます。",
+          "romaji": "konokansuuha2tsunoopushonhikisuuwouketsukemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "カウンターが10に達したらループを抜けてください。",
+          "answer": "カウンターが10に達したらループを抜けてください。",
+          "hints": {
+            "zh": "计数到十时跳出循环。",
+            "en": "Break out of the loop when the counter reaches ten.",
+            "ja": "カウンターが10に達したらループを抜けてください。"
+          },
+          "hint": "计数到十时跳出循环。 / Break out of the loop when the counter reaches ten. / カウンターが10に達したらループを抜けてください。",
+          "furigana": "カウンターが10にたっしたらループをぬけてください。",
+          "romaji": "kauntaaga10nitasshitararuupuwonuketekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "配列を昇順にソートしてください。",
+          "answer": "配列を昇順にソートしてください。",
+          "hints": {
+            "zh": "将数组升序排序。",
+            "en": "Sort the array in ascending order.",
+            "ja": "配列を昇順にソートしてください。"
+          },
+          "hint": "将数组升序排序。 / Sort the array in ascending order. / 配列を昇順にソートしてください。",
+          "furigana": "はいれつをしょうじゅんにソートしてください。",
+          "romaji": "hairetsuwoshoujun'nisootoshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "真偽値フラグが真かどうか確認してください。",
+          "answer": "真偽値フラグが真かどうか確認してください。",
+          "hints": {
+            "zh": "确认布尔标志是否为真。",
+            "en": "Check whether the boolean flag is true.",
+            "ja": "真偽値フラグが真かどうか確認してください。"
+          },
+          "hint": "确认布尔标志是否为真。 / Check whether the boolean flag is true. / 真偽値フラグが真かどうか確認してください。",
+          "furigana": "しんぎちフラグがしんかどうかかくにんしてください。",
+          "romaji": "shingichifuragugashinkadoukakakuninshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スペースで2つの文字列を連結してください。",
+          "answer": "スペースで2つの文字列を連結してください。",
+          "hints": {
+            "zh": "用空格连接两个字符串。",
+            "en": "Concatenate two strings with a space.",
+            "ja": "スペースで2つの文字列を連結してください。"
+          },
+          "hint": "用空格连接两个字符串。 / Concatenate two strings with a space. / スペースで2つの文字列を連結してください。",
+          "furigana": "スペースで2つのもじれつをれんけつしてください。",
+          "romaji": "supeesude2tsunomojiretsuworenketsushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ユーザー入力から整数を解析してください。",
+          "answer": "ユーザー入力から整数を解析してください。",
+          "hints": {
+            "zh": "从用户输入解析整数。",
+            "en": "Parse the integer from the user input.",
+            "ja": "ユーザー入力から整数を解析してください。"
+          },
+          "hint": "从用户输入解析整数。 / Parse the integer from the user input. / ユーザー入力から整数を解析してください。",
+          "furigana": "ユーザーにゅうりょくからせいすうをかいせきしてください。",
+          "romaji": "yuuzaanyuuryokukaraseisuuwokaisekishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "クラスの新しいインスタンスを作成してください。",
+          "answer": "クラスの新しいインスタンスを作成してください。",
+          "hints": {
+            "zh": "创建类的新实例。",
+            "en": "Create a new instance of the class.",
+            "ja": "クラスの新しいインスタンスを作成してください。"
+          },
+          "hint": "创建类的新实例。 / Create a new instance of the class. / クラスの新しいインスタンスを作成してください。",
+          "furigana": "クラスのあたらしいインスタンスをさくせいしてください。",
+          "romaji": "kurasunoatarashiiinsutansuwosakuseishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "クラスの静的メソッドを呼び出してください。",
+          "answer": "クラスの静的メソッドを呼び出してください。",
+          "hints": {
+            "zh": "调用类的静态方法。",
+            "en": "Call the static method on the class.",
+            "ja": "クラスの静的メソッドを呼び出してください。"
+          },
+          "hint": "调用类的静态方法。 / Call the static method on the class. / クラスの静的メソッドを呼び出してください。",
+          "furigana": "クラスのせいてきメソッドをよびだしてください。",
+          "romaji": "kurasunoseitekimesoddowoyobidashitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "メソッドはオブジェクトをその場で変更します。",
+          "answer": "メソッドはオブジェクトをその場で変更します。",
+          "hints": {
+            "zh": "方法会就地修改对象。",
+            "en": "The method modifies the object in place.",
+            "ja": "メソッドはオブジェクトをその場で変更します。"
+          },
+          "hint": "方法会就地修改对象。 / The method modifies the object in place. / メソッドはオブジェクトをその場で変更します。",
+          "furigana": "メソッドはオブジェクトをそのばでへんこうします。",
+          "romaji": "mesoddohaobujekutowosonobadehenkoushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "項目が見つからない場合はnullを返してください。",
+          "answer": "項目が見つからない場合はnullを返してください。",
+          "hints": {
+            "zh": "找不到项时返回 null。",
+            "en": "Return null when the item is not found.",
+            "ja": "項目が見つからない場合はnullを返してください。"
+          },
+          "hint": "找不到项时返回 null。 / Return null when the item is not found. / 項目が見つからない場合はnullを返してください。",
+          "furigana": "こうもくがみつからないばあいはnullをかえしてください。",
+          "romaji": "koumokugamitsukaranaibaaihanullwokaeshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ファイルの先頭で定数を定義してください。",
+          "answer": "ファイルの先頭で定数を定義してください。",
+          "hints": {
+            "zh": "在文件顶部定义常量。",
+            "en": "Define the constant at the top of the file.",
+            "ja": "ファイルの先頭で定数を定義してください。"
+          },
+          "hint": "在文件顶部定义常量。 / Define the constant at the top of the file. / ファイルの先頭で定数を定義してください。",
+          "furigana": "ファイルのせんとうでていすうをていぎしてください。",
+          "romaji": "fairunosentoudeteisuuwoteigishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "変数は宣言されていますが使用されていません。",
+          "answer": "変数は宣言されていますが使用されていません。",
+          "hints": {
+            "zh": "变量已声明但未使用。",
+            "en": "The variable is declared but never used.",
+            "ja": "変数は宣言されていますが使用されていません。"
+          },
+          "hint": "变量已声明但未使用。 / The variable is declared but never used. / 変数は宣言されていますが使用されていません。",
+          "furigana": "へんすうはせんげんされていますがしようされていません。",
+          "romaji": "hensuuhasengensareteimasugashiyousareteimasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "関数を呼び出す前にモジュールをインポートしてください。",
+          "answer": "関数を呼び出す前にモジュールをインポートしてください。",
+          "hints": {
+            "zh": "调用函数前先导入模块。",
+            "en": "Import the module before calling its functions.",
+            "ja": "関数を呼び出す前にモジュールをインポートしてください。"
+          },
+          "hint": "调用函数前先导入模块。 / Import the module before calling its functions. / 関数を呼び出す前にモジュールをインポートしてください。",
+          "furigana": "かんすうをよびだすまえにモジュールをインポートしてください。",
+          "romaji": "kansuuwoyobidasumaenimojuuruwoinpootoshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コンパイラが5行目で構文エラーを報告しました。",
+          "answer": "コンパイラが5行目で構文エラーを報告しました。",
+          "hints": {
+            "zh": "编译器在第5行报告语法错误。",
+            "en": "The compiler reported a syntax error on line five.",
+            "ja": "コンパイラが5行目で構文エラーを報告しました。"
+          },
+          "hint": "编译器在第5行报告语法错误。 / The compiler reported a syntax error on line five. / コンパイラが5行目で構文エラーを報告しました。",
+          "furigana": "コンパイラが5ぎょうめでこうぶんエラーをほうこくしました。",
+          "romaji": "konpairaga5gyoumedekoubun'eraawohoukokushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "例外をキャッチしてメッセージをログに記録してください。",
+          "answer": "例外をキャッチしてメッセージをログに記録してください。",
+          "hints": {
+            "zh": "捕获异常并记录日志。",
+            "en": "Catch the exception and log the message.",
+            "ja": "例外をキャッチしてメッセージをログに記録してください。"
+          },
+          "hint": "捕获异常并记录日志。 / Catch the exception and log the message. / 例外をキャッチしてメッセージをログに記録してください。",
+          "furigana": "れいがいをキャッチしてメッセージをログにきろくしてください。",
+          "romaji": "reigaiwokyatchishitemesseejiworogunikirokushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "子クラスが親メソッドをオーバーライドします。",
+          "answer": "子クラスが親メソッドをオーバーライドします。",
+          "hints": {
+            "zh": "子类重写父类方法。",
+            "en": "The child class overrides the parent method.",
+            "ja": "子クラスが親メソッドをオーバーライドします。"
+          },
+          "hint": "子类重写父类方法。 / The child class overrides the parent method. / 子クラスが親メソッドをオーバーライドします。",
+          "furigana": "こクラスがおやメソッドをオーバーライドします。",
+          "romaji": "kokurasugaoyamesoddowooobaaraidoshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "具象クラスでインターフェースを実装してください。",
+          "answer": "具象クラスでインターフェースを実装してください。",
+          "hints": {
+            "zh": "在具体类中实现接口。",
+            "en": "Implement the interface in your concrete class.",
+            "ja": "具象クラスでインターフェースを実装してください。"
+          },
+          "hint": "在具体类中实现接口。 / Implement the interface in your concrete class. / 具象クラスでインターフェースを実装してください。",
+          "furigana": "ぐしょうクラスでインターフェースをじっそうしてください。",
+          "romaji": "gushoukurasudeintaafeesuwojissoushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "デバッガーでコードをステップ実行してください。",
+          "answer": "デバッガーでコードをステップ実行してください。",
+          "hints": {
+            "zh": "用调试器逐步执行代码。",
+            "en": "Use a debugger to step through the code.",
+            "ja": "デバッガーでコードをステップ実行してください。"
+          },
+          "hint": "用调试器逐步执行代码。 / Use a debugger to step through the code. / デバッガーでコードをステップ実行してください。",
+          "furigana": "デバッガーでコードをステップじっこうしてください。",
+          "romaji": "debaggaadekoodowosuteppujikkoushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "変数のスコープはこのブロックに限定されます。",
+          "answer": "変数のスコープはこのブロックに限定されます。",
+          "hints": {
+            "zh": "变量作用域仅限此代码块。",
+            "en": "The scope of the variable is limited to this block.",
+            "ja": "変数のスコープはこのブロックに限定されます。"
+          },
+          "hint": "变量作用域仅限此代码块。 / The scope of the variable is limited to this block. / 変数のスコープはこのブロックに限定されます。",
+          "furigana": "へんすうのスコープはこのブロックにげんていされます。",
+          "romaji": "hensuunosukoopuhakonoburokkunigenteisaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "データを処理する前に入力を検証してください。",
+          "answer": "データを処理する前に入力を検証してください。",
+          "hints": {
+            "zh": "处理数据前先验证输入。",
+            "en": "Validate the input before processing the data.",
+            "ja": "データを処理する前に入力を検証してください。"
+          },
+          "hint": "处理数据前先验证输入。 / Validate the input before processing the data. / データを処理する前に入力を検証してください。",
+          "furigana": "データをしょりするまえににゅうりょくをけんしょうしてください。",
+          "romaji": "deetawoshorisurumaeninyuuryokuwokenshoushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ネストループは時間計算量を増やします。",
+          "answer": "ネストループは時間計算量を増やします。",
+          "hints": {
+            "zh": "嵌套循环增加时间复杂度。",
+            "en": "The nested loop increases time complexity.",
+            "ja": "ネストループは時間計算量を増やします。"
+          },
+          "hint": "嵌套循环增加时间复杂度。 / The nested loop increases time complexity. / ネストループは時間計算量を増やします。",
+          "furigana": "ネストループはじかんけいさんりょうをふやします。",
+          "romaji": "nesutoruupuhajikankeisanryouwofuyashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

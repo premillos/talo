@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-interview-dialogues",
+  "course": {
+    "title": "编程知识 · 英语面试 · 情景对话",
+    "description": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 英语面试 · 情景对话",
+      "en": "编程知识 · 英语面试 · 情景对话",
+      "ja": "编程知识 · 英语面试 · 情景对话"
+    },
+    "descriptions": {
+      "zh": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）",
+      "en": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）",
+      "ja": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "技术面试表达 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "I would use a hash map to store each value.",
+          "answer": "I would use a hash map to store each value.",
+          "hints": {
+            "zh": "我会用哈希表存储每个值。",
+            "en": "I would use a hash map to store each value.",
+            "ja": "各値を保存するためにハッシュマップを使います。"
+          },
+          "hint": "我会用哈希表存储每个值。 / I would use a hash map to store each value. / 各値を保存するためにハッシュマップを使います。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəd juz ə hæʃ mæp tə stɔɹ itʃ ˈvælju/",
+          "audioUrl": "learning/audio/en/en-prog-interview-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "algorithm-interview",
+          "dialogueTitles": {
+            "zh": "算法面试讨论",
+            "en": "Algorithm Interview Discussion",
+            "ja": "アルゴリズム面接の対話"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论数组查找题的解法。",
+            "en": "A candidate and interviewer discuss a solution to an array search problem.",
+            "ja": "候補者と面接官が配列探索問題の解法を話し合います。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "索菲娅",
+            "en": "Sophia",
+            "ja": "ソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "What is the time complexity of that approach?",
+          "answer": "What is the time complexity of that approach?",
+          "hints": {
+            "zh": "这个方案的时间复杂度是多少？",
+            "en": "What is the time complexity of that approach?",
+            "ja": "その方法の時間計算量はいくつですか？"
+          },
+          "hint": "这个方案的时间复杂度是多少？ / What is the time complexity of that approach? / その方法の時間計算量はいくつですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət ɪz ðə taɪm kəmˈplɛksəti əv ðæt əˈpɹoʊtʃ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "algorithm-interview",
+          "dialogueTitles": {
+            "zh": "算法面试讨论",
+            "en": "Algorithm Interview Discussion",
+            "ja": "アルゴリズム面接の対話"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论数组查找题的解法。",
+            "en": "A candidate and interviewer discuss a solution to an array search problem.",
+            "ja": "候補者と面接官が配列探索問題の解法を話し合います。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "詹姆斯",
+            "en": "James",
+            "ja": "ジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "It takes linear time and linear extra space.",
+          "answer": "It takes linear time and linear extra space.",
+          "hints": {
+            "zh": "它需要线性时间和线性额外空间。",
+            "en": "It takes linear time and linear extra space.",
+            "ja": "線形時間と線形の追加領域が必要です。"
+          },
+          "hint": "它需要线性时间和线性额外空间。 / It takes linear time and linear extra space. / 線形時間と線形の追加領域が必要です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪt teɪks ˈlɪniɚ taɪm ən ˈlɪniɚ ˈɛkstɹə speɪs/",
+          "audioUrl": "learning/audio/en/en-prog-interview-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "algorithm-interview",
+          "dialogueTitles": {
+            "zh": "算法面试讨论",
+            "en": "Algorithm Interview Discussion",
+            "ja": "アルゴリズム面接の対話"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论数组查找题的解法。",
+            "en": "A candidate and interviewer discuss a solution to an array search problem.",
+            "ja": "候補者と面接官が配列探索問題の解法を話し合います。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "索菲娅",
+            "en": "Sophia",
+            "ja": "ソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "How would you handle duplicate values?",
+          "answer": "How would you handle duplicate values?",
+          "hints": {
+            "zh": "你会如何处理重复值？",
+            "en": "How would you handle duplicate values?",
+            "ja": "重複する値をどのように処理しますか？"
+          },
+          "hint": "你会如何处理重复值？ / How would you handle duplicate values? / 重複する値をどのように処理しますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ wəd ju ˈhændəl ˈdupləˌkeɪt ˈvæljuz/",
+          "audioUrl": "learning/audio/en/en-prog-interview-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "algorithm-interview",
+          "dialogueTitles": {
+            "zh": "算法面试讨论",
+            "en": "Algorithm Interview Discussion",
+            "ja": "アルゴリズム面接の対話"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论数组查找题的解法。",
+            "en": "A candidate and interviewer discuss a solution to an array search problem.",
+            "ja": "候補者と面接官が配列探索問題の解法を話し合います。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "詹姆斯",
+            "en": "James",
+            "ja": "ジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I would check the map before inserting each index.",
+          "answer": "I would check the map before inserting each index.",
+          "hints": {
+            "zh": "插入每个索引前，我会先检查哈希表。",
+            "en": "I would check the map before inserting each index.",
+            "ja": "各インデックスを追加する前にマップを確認します。"
+          },
+          "hint": "插入每个索引前，我会先检查哈希表。 / I would check the map before inserting each index. / 各インデックスを追加する前にマップを確認します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəd tʃɛk ðə mæp bɪˈfɔɹ ˌɪnˈsɝtɪŋ itʃ ˈɪndɛks/",
+          "audioUrl": "learning/audio/en/en-prog-interview-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "algorithm-interview",
+          "dialogueTitles": {
+            "zh": "算法面试讨论",
+            "en": "Algorithm Interview Discussion",
+            "ja": "アルゴリズム面接の対話"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论数组查找题的解法。",
+            "en": "A candidate and interviewer discuss a solution to an array search problem.",
+            "ja": "候補者と面接官が配列探索問題の解法を話し合います。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "索菲娅",
+            "en": "Sophia",
+            "ja": "ソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Good, now walk me through a small example.",
+          "answer": "Good, now walk me through a small example.",
+          "hints": {
+            "zh": "很好，现在用一个小例子逐步讲解。",
+            "en": "Good, now walk me through a small example.",
+            "ja": "では、小さな例を使って順に説明してください。"
+          },
+          "hint": "很好，现在用一个小例子逐步讲解。 / Good, now walk me through a small example. / では、小さな例を使って順に説明してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd naʊ wɑk mi θɹu ə smɔl ɪɡˈzæmpəl/",
+          "audioUrl": "learning/audio/en/en-prog-interview-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "algorithm-interview",
+          "dialogueTitles": {
+            "zh": "算法面试讨论",
+            "en": "Algorithm Interview Discussion",
+            "ja": "アルゴリズム面接の対話"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论数组查找题的解法。",
+            "en": "A candidate and interviewer discuss a solution to an array search problem.",
+            "ja": "候補者と面接官が配列探索問題の解法を話し合います。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "詹姆斯",
+            "en": "James",
+            "ja": "ジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

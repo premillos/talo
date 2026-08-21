@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-web-sentences",
+  "course": {
+    "title": "编程知识 · 英语 Web · 句子",
+    "description": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）",
+    "titles": {
+      "zh": "编程知识 · 英语 Web · 句子",
+      "en": "编程知识 · 英语 Web · 句子",
+      "ja": "编程知识 · 英语 Web · 句子"
+    },
+    "descriptions": {
+      "zh": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）",
+      "en": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）",
+      "ja": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Web 开发与 API · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "The server returns a 404 response.",
+          "answer": "The server returns a 404 response.",
+          "hints": {
+            "zh": "服务器返回了 404 响应。",
+            "en": "The server returns a 404 response.",
+            "ja": "サーバーは404レスポンスを返します。"
+          },
+          "hint": "服务器返回了 404 响应。 / The server returns a 404 response. / サーバーは404レスポンスを返します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsɝvɚ ɹiˈtɝnz ə fɔɹ oʊ fɔɹ ɹiˈspɑns/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Send a POST request with JSON payload.",
+          "answer": "Send a POST request with JSON payload.",
+          "hints": {
+            "zh": "发送一个带 JSON 请求体的 POST 请求。",
+            "en": "Send a POST request with JSON payload.",
+            "ja": "JSONペイロード付きのPOSTリクエストを送信してください。"
+          },
+          "hint": "发送一个带 JSON 请求体的 POST 请求。 / Send a POST request with JSON payload. / JSONペイロード付きのPOSTリクエストを送信してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sɛnd ə poʊst ɹiˈkwɛst wɪð ˈdʒeɪˌsɑn ˈpeɪloʊd/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We deployed the app to production.",
+          "answer": "We deployed the app to production.",
+          "hints": {
+            "zh": "我们已将应用部署到生产环境。",
+            "en": "We deployed the app to production.",
+            "ja": "アプリを本番環境にデプロイしました。"
+          },
+          "hint": "我们已将应用部署到生产环境。 / We deployed the app to production. / アプリを本番環境にデプロイしました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi dɪˈplɔɪd ði æp tə pɚˈdəkʃən/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Enable CORS for the frontend domain.",
+          "answer": "Enable CORS for the frontend domain.",
+          "hints": {
+            "zh": "为前端域名启用 CORS。",
+            "en": "Enable CORS for the frontend domain.",
+            "ja": "フロントエンドドメインでCORSを有効にしてください。"
+          },
+          "hint": "为前端域名启用 CORS。 / Enable CORS for the frontend domain. / フロントエンドドメインでCORSを有効にしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɛˈneɪbəl kɔɹz fɚ ðə ˈfrʌntˌɛnd doʊˈmeɪn/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The middleware validates the auth token.",
+          "answer": "The middleware validates the auth token.",
+          "hints": {
+            "zh": "中间件会校验认证令牌。",
+            "en": "The middleware validates the auth token.",
+            "ja": "ミドルウェアが認証トークンを検証します。"
+          },
+          "hint": "中间件会校验认证令牌。 / The middleware validates the auth token. / ミドルウェアが認証トークンを検証します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmɪdəlˌwɛɹ ˈvæləˌdeɪts ði ɔθ ˈtoʊkən/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Cache the response to improve performance.",
+          "answer": "Cache the response to improve performance.",
+          "hints": {
+            "zh": "缓存响应以提升性能。",
+            "en": "Cache the response to improve performance.",
+            "ja": "パフォーマンス向上のためレスポンスをキャッシュしてください。"
+          },
+          "hint": "缓存响应以提升性能。 / Cache the response to improve performance. / パフォーマンス向上のためレスポンスをキャッシュしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kæʃ ðə ɹiˈspɑns tə ɪmˈpɹuv pɚˈfɔɹməns/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The API endpoint accepts query parameters.",
+          "answer": "The API endpoint accepts query parameters.",
+          "hints": {
+            "zh": "该 API 端点接受查询参数。",
+            "en": "The API endpoint accepts query parameters.",
+            "ja": "このAPIエンドポイントはクエリパラメータを受け付けます。"
+          },
+          "hint": "该 API 端点接受查询参数。 / The API endpoint accepts query parameters. / このAPIエンドポイントはクエリパラメータを受け付けます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˌeɪ pi ˈaɪ ˈɛndpɔɪnt ækˈsɛpts ˈkwiɹi pɚˈæmətɚz/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Set the Content-Type header to application/json.",
+          "answer": "Set the Content-Type header to application/json.",
+          "hints": {
+            "zh": "将 Content-Type 请求头设置为 application/json。",
+            "en": "Set the Content-Type header to application/json.",
+            "ja": "Content-Typeヘッダーをapplication/jsonに設定してください。"
+          },
+          "hint": "将 Content-Type 请求头设置为 application/json。 / Set the Content-Type header to application/json. / Content-Typeヘッダーをapplication/jsonに設定してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sɛt ðə ˈkɑntɛnt taɪp ˈhɛdɚ tə ˌæpləˈkeɪʃən ˈdʒeɪˌsɑn/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The client sends an HTTP GET request.",
+          "answer": "The client sends an HTTP GET request.",
+          "hints": {
+            "zh": "客户端发送 HTTP GET 请求。",
+            "en": "The client sends an HTTP GET request.",
+            "ja": "クライアントはHTTP GETリクエストを送信します。"
+          },
+          "hint": "客户端发送 HTTP GET 请求。 / The client sends an HTTP GET request. / クライアントはHTTP GETリクエストを送信します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈklaɪənt sɛndz ən ˌeɪtʃ ti ti ˈpi ɡɛt ɹiˈkwɛst/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The server responds with a 200 status code.",
+          "answer": "The server responds with a 200 status code.",
+          "hints": {
+            "zh": "服务器返回 200 状态码。",
+            "en": "The server responds with a 200 status code.",
+            "ja": "サーバーは200ステータスコードで応答します。"
+          },
+          "hint": "服务器返回 200 状态码。 / The server responds with a 200 status code. / サーバーは200ステータスコードで応答します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsɝvɚ ɹiˈspɑndz wɪð ə tu ˈhʌndrəd ˈstætəs koʊd/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Authenticate the user with a JWT token.",
+          "answer": "Authenticate the user with a JWT token.",
+          "hints": {
+            "zh": "用 JWT 令牌认证用户。",
+            "en": "Authenticate the user with a JWT token.",
+            "ja": "JWTトークンでユーザーを認証してください。"
+          },
+          "hint": "用 JWT 令牌认证用户。 / Authenticate the user with a JWT token. / JWTトークンでユーザーを認証してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɔˈθɛntəˌkeɪt ðə ˈjuzɚ wɪð ə ˌdʒeɪ dʌbəlju ˈti ˈtoʊkən/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Configure the reverse proxy for load balancing.",
+          "answer": "Configure the reverse proxy for load balancing.",
+          "hints": {
+            "zh": "配置反向代理以实现负载均衡。",
+            "en": "Configure the reverse proxy for load balancing.",
+            "ja": "ロードバランシングのためにリバースプロキシを設定してください。"
+          },
+          "hint": "配置反向代理以实现负载均衡。 / Configure the reverse proxy for load balancing. / ロードバランシングのためにリバースプロキシを設定してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kənˈfɪɡjɚ ðə ɹiˈvɝs ˈpɹɑksi fɚ loʊd ˈbælənsɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The API returns paginated results.",
+          "answer": "The API returns paginated results.",
+          "hints": {
+            "zh": "API 返回分页结果。",
+            "en": "The API returns paginated results.",
+            "ja": "APIはページネーション結果を返します。"
+          },
+          "hint": "API 返回分页结果。 / The API returns paginated results. / APIはページネーション結果を返します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˌeɪ pi ˈaɪ ɹiˈtɝnz ˈpædʒəˌneɪtəd ɹiˈzəlts/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Store the session ID in a secure cookie.",
+          "answer": "Store the session ID in a secure cookie.",
+          "hints": {
+            "zh": "将 session ID 存入安全 Cookie。",
+            "en": "Store the session ID in a secure cookie.",
+            "ja": "セッションIDを安全なクッキーに保存してください。"
+          },
+          "hint": "将 session ID 存入安全 Cookie。 / Store the session ID in a secure cookie. / セッションIDを安全なクッキーに保存してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stɔɹ ðə ˈsɛʃən ˌaɪ ˈdi ɪn ə sɪkˈjʊɹ ˈkʊki/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The webhook triggers on new user signup.",
+          "answer": "The webhook triggers on new user signup.",
+          "hints": {
+            "zh": "Webhook 在新用户注册时触发。",
+            "en": "The webhook triggers on new user signup.",
+            "ja": "Webhookは新規ユーザー登録時にトリガーされます。"
+          },
+          "hint": "Webhook 在新用户注册时触发。 / The webhook triggers on new user signup. / Webhookは新規ユーザー登録時にトリガーされます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈwɛbˌhʊk ˈtɹɪɡɚz ɑn nju ˈjuzɚ ˈsaɪnˌʌp/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Validate the request payload before saving.",
+          "answer": "Validate the request payload before saving.",
+          "hints": {
+            "zh": "保存前先校验请求体。",
+            "en": "Validate the request payload before saving.",
+            "ja": "保存前にリクエストペイロードを検証してください。"
+          },
+          "hint": "保存前先校验请求体。 / Validate the request payload before saving. / 保存前にリクエストペイロードを検証してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvælədeɪt ðə ɹiˈkwɛst ˈpeɪloʊd bɪˈfɔɹ ˈseɪvɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The frontend fetches data from the REST API.",
+          "answer": "The frontend fetches data from the REST API.",
+          "hints": {
+            "zh": "前端从 REST API 获取数据。",
+            "en": "The frontend fetches data from the REST API.",
+            "ja": "フロントエンドはREST APIからデータを取得します。"
+          },
+          "hint": "前端从 REST API 获取数据。 / The frontend fetches data from the REST API. / フロントエンドはREST APIからデータを取得します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈfrʌntˌɛnd ˈfɛtʃɪz ˈdeɪtə fɹəm ðə ɹɛst ˌeɪ pi ˈaɪ/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Add rate limiting to prevent abuse.",
+          "answer": "Add rate limiting to prevent abuse.",
+          "hints": {
+            "zh": "添加限流以防滥用。",
+            "en": "Add rate limiting to prevent abuse.",
+            "ja": "乱用を防ぐためにレート制限を追加してください。"
+          },
+          "hint": "添加限流以防滥用。 / Add rate limiting to prevent abuse. / 乱用を防ぐためにレート制限を追加してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/æd ɹeɪt ˈlɪmətɪŋ tə pɹiˈvɛnt əbˈjus/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use HTTPS to encrypt traffic in transit.",
+          "answer": "Use HTTPS to encrypt traffic in transit.",
+          "hints": {
+            "zh": "使用 HTTPS 加密传输流量。",
+            "en": "Use HTTPS to encrypt traffic in transit.",
+            "ja": "転送中のトラフィックを暗号化するためにHTTPSを使用してください。"
+          },
+          "hint": "使用 HTTPS 加密传输流量。 / Use HTTPS to encrypt traffic in transit. / 転送中のトラフィックを暗号化するためにHTTPSを使用してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ˌeɪtʃ ti ti pi ˈɛs tə ɛnˈkɹɪpt ˈtɹæfɪk ɪn ˈtɹænzɪt/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The router maps URLs to handler functions.",
+          "answer": "The router maps URLs to handler functions.",
+          "hints": {
+            "zh": "路由器将 URL 映射到处理函数。",
+            "en": "The router maps URLs to handler functions.",
+            "ja": "ルーターはURLをハンドラー関数にマッピングします。"
+          },
+          "hint": "路由器将 URL 映射到处理函数。 / The router maps URLs to handler functions. / ルーターはURLをハンドラー関数にマッピングします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈɹaʊtɚ mæps ˌjuˌɑˈɹɛlz tə ˈhændəlɚ ˈfəŋkʃənz/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Clear the cache when data is updated.",
+          "answer": "Clear the cache when data is updated.",
+          "hints": {
+            "zh": "数据更新时清除缓存。",
+            "en": "Clear the cache when data is updated.",
+            "ja": "データ更新時にキャッシュをクリアしてください。"
+          },
+          "hint": "数据更新时清除缓存。 / Clear the cache when data is updated. / データ更新時にキャッシュをクリアしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/klɪɹ ðə kæʃ wɛn ˈdeɪtə ɪz əpˈdeɪtəd/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The database connection pool is exhausted.",
+          "answer": "The database connection pool is exhausted.",
+          "hints": {
+            "zh": "数据库连接池已耗尽。",
+            "en": "The database connection pool is exhausted.",
+            "ja": "データベース接続プールが枯渇しました。"
+          },
+          "hint": "数据库连接池已耗尽。 / The database connection pool is exhausted. / データベース接続プールが枯渇しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈdeɪtəˌbeɪs kəˈnɛkʃən pul ɪz ɪɡˈzɔstɪd/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Deploy the new version with zero downtime.",
+          "answer": "Deploy the new version with zero downtime.",
+          "hints": {
+            "zh": "零停机部署新版本。",
+            "en": "Deploy the new version with zero downtime.",
+            "ja": "ダウンタイムなしで新バージョンをデプロイしてください。"
+          },
+          "hint": "零停机部署新版本。 / Deploy the new version with zero downtime. / ダウンタイムなしで新バージョンをデプロイしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈplɔɪ ðə nju ˈvɝʒən wɪð ˈziɹoʊ ˈdaʊntaɪm/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The CDN serves static assets globally.",
+          "answer": "The CDN serves static assets globally.",
+          "hints": {
+            "zh": "CDN 在全球分发静态资源。",
+            "en": "The CDN serves static assets globally.",
+            "ja": "CDNは静的アセットを世界中に配信します。"
+          },
+          "hint": "CDN 在全球分发静态资源。 / The CDN serves static assets globally. / CDNは静的アセットを世界中に配信します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˌsi di ˈɛn sɝvz ˈstætɪk ˈæsɛts ˈɡloʊbəli/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Parse the query string from the URL.",
+          "answer": "Parse the query string from the URL.",
+          "hints": {
+            "zh": "从 URL 解析查询字符串。",
+            "en": "Parse the query string from the URL.",
+            "ja": "URLからクエリ文字列を解析してください。"
+          },
+          "hint": "从 URL 解析查询字符串。 / Parse the query string from the URL. / URLからクエリ文字列を解析してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɑɹs ðə ˈkwiɹi stɹɪŋ fɹəm ðə ˌju ɑɹ ˈɛl/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Return a JSON response with proper headers.",
+          "answer": "Return a JSON response with proper headers.",
+          "hints": {
+            "zh": "返回带正确请求头的 JSON 响应。",
+            "en": "Return a JSON response with proper headers.",
+            "ja": "適切なヘッダー付きのJSONレスポンスを返してください。"
+          },
+          "hint": "返回带正确请求头的 JSON 响应。 / Return a JSON response with proper headers. / 適切なヘッダー付きのJSONレスポンスを返してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈtɝn ə ˈdʒeɪˌsɑn ɹiˈspɑns wɪð ˈpɹɑpɚ ˈhɛdɚz/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The middleware logs every incoming request.",
+          "answer": "The middleware logs every incoming request.",
+          "hints": {
+            "zh": "中间件记录每个传入请求。",
+            "en": "The middleware logs every incoming request.",
+            "ja": "ミドルウェアはすべての受信リクエストをログに記録します。"
+          },
+          "hint": "中间件记录每个传入请求。 / The middleware logs every incoming request. / ミドルウェアはすべての受信リクエストをログに記録します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmɪdəlˌwɛɹ lɔɡz ˈɛvɚi ˈɪnˌkəmɪŋ ɹiˈkwɛst/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Configure CORS for cross-origin requests.",
+          "answer": "Configure CORS for cross-origin requests.",
+          "hints": {
+            "zh": "为跨域请求配置 CORS。",
+            "en": "Configure CORS for cross-origin requests.",
+            "ja": "クロスオリジンリクエスト用にCORSを設定してください。"
+          },
+          "hint": "为跨域请求配置 CORS。 / Configure CORS for cross-origin requests. / クロスオリジンリクエスト用にCORSを設定してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kənˈfɪɡjɚ kɔɹz fɚ kɹɔs ˈɔɹədʒən ɹiˈkwɛs/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The SPA loads a single HTML page.",
+          "answer": "The SPA loads a single HTML page.",
+          "hints": {
+            "zh": "单页应用只加载一个 HTML 页面。",
+            "en": "The SPA loads a single HTML page.",
+            "ja": "SPAは単一のHTMLページを読み込みます。"
+          },
+          "hint": "单页应用只加载一个 HTML 页面。 / The SPA loads a single HTML page. / SPAは単一のHTMLページを読み込みます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˌɛs pi ˈeɪ loʊdz ə ˈsɪŋɡəl ˌeɪtʃ ti ɛm ˈɛl peɪdʒ/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use server-side rendering for better SEO.",
+          "answer": "Use server-side rendering for better SEO.",
+          "hints": {
+            "zh": "使用服务端渲染以改善 SEO。",
+            "en": "Use server-side rendering for better SEO.",
+            "ja": "SEO向上のためにサーバーサイドレンダリングを使用してください。"
+          },
+          "hint": "使用服务端渲染以改善 SEO。 / Use server-side rendering for better SEO. / SEO向上のためにサーバーサイドレンダリングを使用してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ˈsɝvɚ saɪd ˈɹɛndɚɪŋ fɚ ˈbɛtɚ ˌɛs i ˈoʊ/",
+          "audioUrl": "learning/audio/en/en-prog-web-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

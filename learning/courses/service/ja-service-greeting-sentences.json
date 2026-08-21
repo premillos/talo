@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-greeting-sentences",
+  "course": {
+    "title": "服务行业 · 日语接待 · 句子",
+    "description": "店舗・ホテル受付の挨拶と予約対応（常用句子）",
+    "titles": {
+      "zh": "服务行业 · 日语接待 · 句子",
+      "en": "Service & Hospitality · Japanese Greetings & Reception · Sentences",
+      "ja": "サービス業 · 日本語挨拶・受付 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习问候与前台接待中的常用日语句子。",
+      "en": "Practice common Japanese sentences for greetings and reception.",
+      "ja": "挨拶と受付で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "挨拶・予約 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "当店へようこそ。本日はどのようなご用件でしょうか。",
+          "answer": "当店へようこそ。本日はどのようなご用件でしょうか。",
+          "hints": {
+            "zh": "欢迎光临本店，今天有什么可以帮您的？",
+            "en": "Welcome to our store. How may I assist you today?",
+            "ja": "当店へようこそ。本日はどのようなご用件でしょうか。"
+          },
+          "hint": "欢迎光临本店，今天有什么可以帮您的？ / Welcome to our store. How may I assist you today? / 当店へようこそ。本日はどのようなご用件でしょうか。",
+          "furigana": "とうてんへようこそ。ほんじつはどのようなごようけんでしょうか。",
+          "romaji": "toutenheyoukoso.honjitsuhadonoyounagoyoukendeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご予約の時間を確認させていただきます。",
+          "answer": "ご予約の時間を確認させていただきます。",
+          "hints": {
+            "zh": "我来确认一下您的预约时间。",
+            "en": "Let me confirm your appointment time.",
+            "ja": "ご予約の時間を確認させていただきます。"
+          },
+          "hint": "我来确认一下您的预约时间。 / Let me confirm your appointment time. / ご予約の時間を確認させていただきます。",
+          "furigana": "ごよやくのじかんをかくにんさせていただきます。",
+          "romaji": "goyoyakunojikanwokakuninsaseteitadakimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご予約は午後三時に設定されております。",
+          "answer": "ご予約は午後三時に設定されております。",
+          "hints": {
+            "zh": "您的预约安排在下午三点。",
+            "en": "Your appointment is scheduled for three PM.",
+            "ja": "ご予約は午後三時に設定されております。"
+          },
+          "hint": "您的预约安排在下午三点。 / Your appointment is scheduled for three PM. / ご予約は午後三時に設定されております。",
+          "furigana": "ごよやくはごごさんじにせっていされております。",
+          "romaji": "goyoyakuhagogosanjinisetteisareteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "何かございましたら、お気軽にお申し付けください。",
+          "answer": "何かございましたら、お気軽にお申し付けください。",
+          "hints": {
+            "zh": "如有需要请随时告诉我们。",
+            "en": "Please feel free to ask if you need anything.",
+            "ja": "何かございましたら、お気軽にお申し付けください。"
+          },
+          "hint": "如有需要请随时告诉我们。 / Please feel free to ask if you need anything. / 何かございましたら、お気軽にお申し付けください。",
+          "furigana": "なにかございましたら、おきがるにおもうしつけください。",
+          "romaji": "nanikagozaimashitara,okigaruniomoushitsukekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "確認メールをまもなくお送りいたします。",
+          "answer": "確認メールをまもなくお送りいたします。",
+          "hints": {
+            "zh": "我稍后会发送确认邮件。",
+            "en": "I will send a confirmation email shortly.",
+            "ja": "確認メールをまもなくお送りいたします。"
+          },
+          "hint": "我稍后会发送确认邮件。 / I will send a confirmation email shortly. / 確認メールをまもなくお送りいたします。",
+          "furigana": "かくにんメールをまもなくおおくりいたします。",
+          "romaji": "kakuninmeeruwomamonakuookuriitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "午前と午後、どちらの時間帯をご希望ですか。",
+          "answer": "午前と午後、どちらの時間帯をご希望ですか。",
+          "hints": {
+            "zh": "您希望上午还是下午的时间段？",
+            "en": "Would you prefer a morning or afternoon slot?",
+            "ja": "午前と午後、どちらの時間帯をご希望ですか。"
+          },
+          "hint": "您希望上午还是下午的时间段？ / Would you prefer a morning or afternoon slot? / 午前と午後、どちらの時間帯をご希望ですか。",
+          "furigana": "ごぜんとごご、どちらのじかんたいをごきぼうですか。",
+          "romaji": "gozentogogo,dochiranojikantaiwogokiboudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご来店を心よりお待ちしております。",
+          "answer": "ご来店を心よりお待ちしております。",
+          "hints": {
+            "zh": "我们期待您的光临。",
+            "en": "We look forward to your visit.",
+            "ja": "ご来店を心よりお待ちしております。"
+          },
+          "hint": "我们期待您的光临。 / We look forward to your visit. / ご来店を心よりお待ちしております。",
+          "furigana": "ごらいてんをこころよりおまちしております。",
+          "romaji": "goraitenwokokoroyoriomachishiteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "担当の者が参りますので、少々お待ちください。",
+          "answer": "担当の者が参りますので、少々お待ちください。",
+          "hints": {
+            "zh": "负责人马上过来，请稍等。",
+            "en": "The person in charge will be with you shortly.",
+            "ja": "担当の者が参りますので、少々お待ちください。"
+          },
+          "hint": "负责人马上过来，请稍等。 / The person in charge will be with you shortly. / 担当の者が参りますので、少々お待ちください。",
+          "furigana": "たんとうのものがまいりますので、しょうしょうおまちください。",
+          "romaji": "tantounomonogamairimasunode,shoushouomachikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "オフィスへようこそ。ご用件はございますか。",
+          "answer": "オフィスへようこそ。ご用件はございますか。",
+          "hints": {
+            "zh": "欢迎来办公室，有什么事吗？",
+            "en": "Welcome to our office. How may I help you?",
+            "ja": "オフィスへようこそ。ご用件はございますか。"
+          },
+          "hint": "欢迎来办公室，有什么事吗？ / Welcome to our office. How may I help you? / オフィスへようこそ。ご用件はございますか。",
+          "furigana": "オフィスへようこそ。ごようけんはございますか。",
+          "romaji": "ofisuheyoukoso.goyoukenhagozaimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "フロントでサインインしてください。",
+          "answer": "フロントでサインインしてください。",
+          "hints": {
+            "zh": "请在前台签到。",
+            "en": "Please sign in at the front desk.",
+            "ja": "フロントでサインインしてください。"
+          },
+          "hint": "请在前台签到。 / Please sign in at the front desk. / フロントでサインインしてください。",
+          "furigana": "フロントでサインインしてください。",
+          "romaji": "furontodesain'inshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "来訪者バッジのご用意ができました。",
+          "answer": "来訪者バッジのご用意ができました。",
+          "hints": {
+            "zh": "访客证准备好了。",
+            "en": "Your visitor badge is ready.",
+            "ja": "来訪者バッジのご用意ができました。"
+          },
+          "hint": "访客证准备好了。 / Your visitor badge is ready. / 来訪者バッジのご用意ができました。",
+          "furigana": "らいほうしゃバッジのごよういができました。",
+          "romaji": "raihoushabajjinogoyouigadekimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "会議室までご案内いたします。",
+          "answer": "会議室までご案内いたします。",
+          "hints": {
+            "zh": "我带您去会议室。",
+            "en": "I will escort you to the meeting room.",
+            "ja": "会議室までご案内いたします。"
+          },
+          "hint": "我带您去会议室。 / I will escort you to the meeting room. / 会議室までご案内いたします。",
+          "furigana": "かいぎしつまでごあんないいたします。",
+          "romaji": "kaigishitsumadegoan'naiitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "受付は2階にございます。",
+          "answer": "受付は2階にございます。",
+          "hints": {
+            "zh": "前台在二楼。",
+            "en": "Reception is on the second floor.",
+            "ja": "受付は2階にございます。"
+          },
+          "hint": "前台在二楼。 / Reception is on the second floor. / 受付は2階にございます。",
+          "furigana": "うけつけは2かいにございます。",
+          "romaji": "uketsukeha2kainigozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "待合室でお待ちください。",
+          "answer": "待合室でお待ちください。",
+          "hints": {
+            "zh": "请在等候室等待。",
+            "en": "Please wait in the waiting area.",
+            "ja": "待合室でお待ちください。"
+          },
+          "hint": "请在等候室等待。 / Please wait in the waiting area. / 待合室でお待ちください。",
+          "furigana": "まちあいしつでおまちください。",
+          "romaji": "machiaishitsudeomachikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "本日ご予約はございますか。",
+          "answer": "本日ご予約はございますか。",
+          "hints": {
+            "zh": "今天有预约吗？",
+            "en": "Do you have an appointment today?",
+            "ja": "本日ご予約はございますか。"
+          },
+          "hint": "今天有预约吗？ / Do you have an appointment today? / 本日ご予約はございますか。",
+          "furigana": "ほんじつごよやくはございますか。",
+          "romaji": "honjitsugoyoyakuhagozaimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ただいま来訪登録いたします。",
+          "answer": "ただいま来訪登録いたします。",
+          "hints": {
+            "zh": "现在登记来访。",
+            "en": "I will register your visit now.",
+            "ja": "ただいま来訪登録いたします。"
+          },
+          "hint": "现在登记来访。 / I will register your visit now. / ただいま来訪登録いたします。",
+          "furigana": "ただいまらいほうとうろくいたします。",
+          "romaji": "tadaimaraihoutourokuitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スケジュールを更新いたしました。",
+          "answer": "スケジュールを更新いたしました。",
+          "hints": {
+            "zh": "日程已更新。",
+            "en": "The schedule has been updated.",
+            "ja": "スケジュールを更新いたしました。"
+          },
+          "hint": "日程已更新。 / The schedule has been updated. / スケジュールを更新いたしました。",
+          "furigana": "スケジュールをこうしんいたしました。",
+          "romaji": "sukejuuruwokoushin'itashimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お待ちの間、どうぞお座りください。",
+          "answer": "お待ちの間、どうぞお座りください。",
+          "hints": {
+            "zh": "等候期间请就座。",
+            "en": "Please take a seat while you wait.",
+            "ja": "お待ちの間、どうぞお座りください。"
+          },
+          "hint": "等候期间请就座。 / Please take a seat while you wait. / お待ちの間、どうぞお座りください。",
+          "furigana": "おまちのあいだ、どうぞおすわりください。",
+          "romaji": "omachinoaida,douzoosuwarikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "連絡先を確認してもよろしいでしょうか。",
+          "answer": "連絡先を確認してもよろしいでしょうか。",
+          "hints": {
+            "zh": "可以确认联系方式吗？",
+            "en": "May I verify your contact information?",
+            "ja": "連絡先を確認してもよろしいでしょうか。"
+          },
+          "hint": "可以确认联系方式吗？ / May I verify your contact information? / 連絡先を確認してもよろしいでしょうか。",
+          "furigana": "れんらくさきをかくにんしてもよろしいでしょうか。",
+          "romaji": "renrakusakiwokakuninshitemoyoroshiideshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "本日はご来訪ありがとうございます。",
+          "answer": "本日はご来訪ありがとうございます。",
+          "hints": {
+            "zh": "感谢今天光临。",
+            "en": "Thank you for visiting today.",
+            "ja": "本日はご来訪ありがとうございます。"
+          },
+          "hint": "感谢今天光临。 / Thank you for visiting today. / 本日はご来訪ありがとうございます。",
+          "furigana": "ほんじつはごらいほうありがとうございます。",
+          "romaji": "honjitsuhagoraihouarigatougozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "カウンターは午前9時から開いております。",
+          "answer": "カウンターは午前9時から開いております。",
+          "hints": {
+            "zh": "柜台上午九点开放。",
+            "en": "The counter opens at nine AM.",
+            "ja": "カウンターは午前9時から開いております。"
+          },
+          "hint": "柜台上午九点开放。 / The counter opens at nine AM. / カウンターは午前9時から開いております。",
+          "furigana": "カウンターはごぜん9じからひらいております。",
+          "romaji": "kauntaahagozen9jikarahiraiteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お客様が受付に到着されました。",
+          "answer": "お客様が受付に到着されました。",
+          "hints": {
+            "zh": "客人已到前台。",
+            "en": "Your guest has arrived at reception.",
+            "ja": "お客様が受付に到着されました。"
+          },
+          "hint": "客人已到前台。 / Your guest has arrived at reception. / お客様が受付に到着されました。",
+          "furigana": "おきゃくさまがうけつけにとうちゃくされました。",
+          "romaji": "okyakusamagauketsukenitouchakusaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "カウンターで身分証明書をご提示ください。",
+          "answer": "カウンターで身分証明書をご提示ください。",
+          "hints": {
+            "zh": "请在柜台出示证件。",
+            "en": "Please present your ID at the counter.",
+            "ja": "カウンターでみぶんしょうめいしょをごていじください。"
+          },
+          "hint": "请在柜台出示证件。 / Please present your ID at the counter. / カウンターでみぶんしょうめいしょをごていじください。",
+          "furigana": "カウンターでみぶんしょうめいしょをごていじください。",
+          "romaji": "kauntaademibunshoumeishowogoteijikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "順番が来ましたらお知らせいたします。",
+          "answer": "順番が来ましたらお知らせいたします。",
+          "hints": {
+            "zh": "轮到您时我们会通知。",
+            "en": "We will notify you when it is your turn.",
+            "ja": "順番が来ましたらお知らせいたします。"
+          },
+          "hint": "轮到您时我们会通知。 / We will notify you when it is your turn. / 順番が来ましたらお知らせいたします。",
+          "furigana": "じゅんばんがきましたらおしらせいたします。",
+          "romaji": "junbangakimashitaraoshiraseitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ロビー受付がお問い合わせを承ります。",
+          "answer": "ロビー受付がお問い合わせを承ります。",
+          "hints": {
+            "zh": "大堂前台受理咨询。",
+            "en": "Lobby reception handles inquiries.",
+            "ja": "ロビー受付がおといあわせをうけたまわります。"
+          },
+          "hint": "大堂前台受理咨询。 / Lobby reception handles inquiries. / ロビー受付がおといあわせをうけたまわります。",
+          "furigana": "ロビーうけつけがおといあわせをうけたまわります。",
+          "romaji": "robiiuketsukegaotoiawasewouketamawarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご予約の日程変更をご希望ですか。",
+          "answer": "ご予約の日程変更をご希望ですか。",
+          "hints": {
+            "zh": "想改预约日期吗？",
+            "en": "Would you like to reschedule?",
+            "ja": "ご予約のにっていへんこうをごきぼうですか。"
+          },
+          "hint": "想改预约日期吗？ / Would you like to reschedule? / ご予約のにっていへんこうをごきぼうですか。",
+          "furigana": "ごよやくのにっていへんこうをごきぼうですか。",
+          "romaji": "goyoyakunonitteihenkouwogokiboudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "登録用紙にご記入ください。",
+          "answer": "登録用紙にご記入ください。",
+          "hints": {
+            "zh": "请填写登记表。",
+            "en": "Please fill out the registration form.",
+            "ja": "登録ようしにごきにゅうください。"
+          },
+          "hint": "请填写登记表。 / Please fill out the registration form. / 登録ようしにごきにゅうください。",
+          "furigana": "とうろくようしにごきにゅうください。",
+          "romaji": "tourokuyoushinigokinyuukudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スタッフ一同、お会いできることを楽しみにしております。",
+          "answer": "スタッフ一同、お会いできることを楽しみにしております。",
+          "hints": {
+            "zh": "全体员工期待与您见面。",
+            "en": "Our team looks forward to meeting you.",
+            "ja": "スタッフいちどう、おあいできることをたのしみにしております。"
+          },
+          "hint": "全体员工期待与您见面。 / Our team looks forward to meeting you. / スタッフいちどう、おあいできることをたのしみにしております。",
+          "furigana": "スタッフいちどう、おあいできることをたのしみにしております。",
+          "romaji": "sutaffuichidou,oaidekirukotowotanoshiminishiteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "来訪者ポリシーによりバッジ着用をお願いします。",
+          "answer": "来訪者ポリシーによりバッジ着用をお願いします。",
+          "hints": {
+            "zh": "按访客政策请佩戴胸牌。",
+            "en": "Please wear your badge per visitor policy.",
+            "ja": "来訪者ポリシーによりバッジちゃくようをおねがいします。"
+          },
+          "hint": "按访客政策请佩戴胸牌。 / Please wear your badge per visitor policy. / 来訪者ポリシーによりバッジちゃくようをおねがいします。",
+          "furigana": "らいほうしゃポリシーによりバッジちゃくようをおねがいします。",
+          "romaji": "raihoushaporishiiniyoribajjichakuyouwoonegaishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "こんばんは、どのようなご用件でしょうか。",
+          "answer": "こんばんは、どのようなご用件でしょうか。",
+          "hints": {
+            "zh": "晚上好，有什么可以帮您？",
+            "en": "Good evening, how may I assist you?",
+            "ja": "こんばんは、どのようなごようけんでしょうか。"
+          },
+          "hint": "晚上好，有什么可以帮您？ / Good evening, how may I assist you? / こんばんは、どのようなごようけんでしょうか。",
+          "furigana": "こんばんは、どのようなごようけんでしょうか。",
+          "romaji": "konbanha,donoyounagoyoukendeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

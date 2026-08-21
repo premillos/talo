@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-interview-words",
+  "course": {
+    "title": "编程知识 · 英语面试 · 词汇",
+    "description": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）",
+    "titles": {
+      "zh": "编程知识 · 英语面试 · 词汇",
+      "en": "编程知识 · 英语面试 · 词汇",
+      "ja": "编程知识 · 英语面试 · 词汇"
+    },
+    "descriptions": {
+      "zh": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）",
+      "en": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）",
+      "ja": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "技术面试表达",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "algorithm",
+          "answer": "algorithm",
+          "hints": {
+            "zh": "算法",
+            "en": "algorithm",
+            "ja": "アルゴリズム"
+          },
+          "hint": "算法 / algorithm / アルゴリズム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈælɡɚˌɪðəm/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "complexity",
+          "answer": "complexity",
+          "hints": {
+            "zh": "复杂度",
+            "en": "complexity",
+            "ja": "計算量"
+          },
+          "hint": "复杂度 / complexity / 計算量",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəmˈplɛksəti/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "refactor",
+          "answer": "refactor",
+          "hints": {
+            "zh": "重构",
+            "en": "refactor",
+            "ja": "リファクタリング"
+          },
+          "hint": "重构 / refactor / リファクタリング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈfæktɚ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "scalable",
+          "answer": "scalable",
+          "hints": {
+            "zh": "可扩展的",
+            "en": "scalable",
+            "ja": "スケーラブル"
+          },
+          "hint": "可扩展的 / scalable / スケーラブル",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈskeɪləbəl/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "bottleneck",
+          "answer": "bottleneck",
+          "hints": {
+            "zh": "性能瓶颈",
+            "en": "bottleneck",
+            "ja": "ボトルネック"
+          },
+          "hint": "性能瓶颈 / bottleneck / ボトルネック",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbɑtəlˌnɛk/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "latency",
+          "answer": "latency",
+          "hints": {
+            "zh": "延迟",
+            "en": "latency",
+            "ja": "レイテンシ"
+          },
+          "hint": "延迟 / latency / レイテンシ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈleɪtənsi/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "throughput",
+          "answer": "throughput",
+          "hints": {
+            "zh": "吞吐量",
+            "en": "throughput",
+            "ja": "スループット"
+          },
+          "hint": "吞吐量 / throughput / スループット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈθɹupʊt/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "deadlock",
+          "answer": "deadlock",
+          "hints": {
+            "zh": "死锁",
+            "en": "deadlock",
+            "ja": "デッドロック"
+          },
+          "hint": "死锁 / deadlock / デッドロック",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdɛdlɑk/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "recursion",
+          "answer": "recursion",
+          "hints": {
+            "zh": "递归",
+            "en": "recursion",
+            "ja": "再帰"
+          },
+          "hint": "递归 / recursion / 再帰",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈkɝʒən/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "iteration",
+          "answer": "iteration",
+          "hints": {
+            "zh": "迭代",
+            "en": "iteration",
+            "ja": "反復"
+          },
+          "hint": "迭代 / iteration / 反復",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɪtɚˈeɪʃən/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "hashmap",
+          "answer": "hashmap",
+          "hints": {
+            "zh": "哈希表",
+            "en": "hashmap",
+            "ja": "ハッシュマップ"
+          },
+          "hint": "哈希表 / hashmap / ハッシュマップ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhæʃˌmæp/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "binary",
+          "answer": "binary",
+          "hints": {
+            "zh": "二进制",
+            "en": "binary",
+            "ja": "バイナリ"
+          },
+          "hint": "二进制 / binary / バイナリ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbaɪnɚi/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "time complexity",
+          "answer": "time complexity",
+          "hints": {
+            "zh": "时间复杂度",
+            "en": "time complexity",
+            "ja": "時間計算量"
+          },
+          "hint": "时间复杂度 / time complexity / 時間計算量",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/taɪm kəmˈplɛksəti/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "space complexity",
+          "answer": "space complexity",
+          "hints": {
+            "zh": "空间复杂度",
+            "en": "space complexity",
+            "ja": "空間計算量"
+          },
+          "hint": "空间复杂度 / space complexity / 空間計算量",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/speɪs kəmˈplɛksəti/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "big O notation",
+          "answer": "big O notation",
+          "hints": {
+            "zh": "大 O 表示法",
+            "en": "big O notation",
+            "ja": "ビッグO記法"
+          },
+          "hint": "大 O 表示法 / big O notation / ビッグO記法",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bɪɡ oʊ noʊˈteɪʃən/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "unit test",
+          "answer": "unit test",
+          "hints": {
+            "zh": "单元测试",
+            "en": "unit test",
+            "ja": "ユニットテスト"
+          },
+          "hint": "单元测试 / unit test / ユニットテスト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈjunət tɛst/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "code review",
+          "answer": "code review",
+          "hints": {
+            "zh": "代码审查",
+            "en": "code review",
+            "ja": "コードレビュー"
+          },
+          "hint": "代码审查 / code review / コードレビュー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/koʊd ɹivˈju/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "design pattern",
+          "answer": "design pattern",
+          "hints": {
+            "zh": "设计模式",
+            "en": "design pattern",
+            "ja": "デザインパターン"
+          },
+          "hint": "设计模式 / design pattern / デザインパターン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈzaɪn ˈpætɚn/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "trade off",
+          "answer": "trade off",
+          "hints": {
+            "zh": "权衡取舍",
+            "en": "trade off",
+            "ja": "トレードオフ"
+          },
+          "hint": "权衡取舍 / trade off / トレードオフ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɹeɪd ɔf/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "edge case",
+          "answer": "edge case",
+          "hints": {
+            "zh": "边界情况",
+            "en": "edge case",
+            "ja": "エッジケース"
+          },
+          "hint": "边界情况 / edge case / エッジケース",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɛdʒ keɪs/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "dry run",
+          "answer": "dry run",
+          "hints": {
+            "zh": "演练",
+            "en": "dry run",
+            "ja": "ドライラン"
+          },
+          "hint": "演练 / dry run / ドライラン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɹaɪ ɹən/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "pair programming",
+          "answer": "pair programming",
+          "hints": {
+            "zh": "结对编程",
+            "en": "pair programming",
+            "ja": "ペアプログラミング"
+          },
+          "hint": "结对编程 / pair programming / ペアプログラミング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɛɹ ˈpɹoʊˌɡɹæmɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "queue",
+          "answer": "queue",
+          "hints": {
+            "zh": "队列",
+            "en": "queue",
+            "ja": "キュー"
+          },
+          "hint": "队列 / queue / キュー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kju/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "stack",
+          "answer": "stack",
+          "hints": {
+            "zh": "栈",
+            "en": "stack",
+            "ja": "スタック"
+          },
+          "hint": "栈 / stack / スタック",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stæk/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "pointer",
+          "answer": "pointer",
+          "hints": {
+            "zh": "指针",
+            "en": "pointer",
+            "ja": "ポインタ"
+          },
+          "hint": "指针 / pointer / ポインタ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɔɪntɚ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "cache",
+          "answer": "cache",
+          "hints": {
+            "zh": "缓存",
+            "en": "cache",
+            "ja": "キャッシュ"
+          },
+          "hint": "缓存 / cache / キャッシュ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kæʃ/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "index",
+          "answer": "index",
+          "hints": {
+            "zh": "索引",
+            "en": "index",
+            "ja": "インデックス"
+          },
+          "hint": "索引 / index / インデックス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɪndɛks/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "optimize",
+          "answer": "optimize",
+          "hints": {
+            "zh": "优化",
+            "en": "optimize",
+            "ja": "最適化する"
+          },
+          "hint": "优化 / optimize / 最適化する",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɑptəˌmaɪz/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "parallel",
+          "answer": "parallel",
+          "hints": {
+            "zh": "并行",
+            "en": "parallel",
+            "ja": "並列"
+          },
+          "hint": "并行 / parallel / 並列",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɛɹəˌlɛl/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "concurrency",
+          "answer": "concurrency",
+          "hints": {
+            "zh": "并发",
+            "en": "concurrency",
+            "ja": "並行処理"
+          },
+          "hint": "并发 / concurrency / 並行処理",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kənˈkɝənsi/",
+          "audioUrl": "learning/audio/en/en-prog-interview-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

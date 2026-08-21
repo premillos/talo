@@ -1,0 +1,2385 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-14T10:38:53.898Z",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "enabled": true
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "enabled": true
+    }
+  ],
+  "settings": {
+    "sessionQuestionCount": 20,
+    "initialHearts": 5,
+    "comboEnabled": true,
+    "dailyStreakEnabled": true,
+    "englishCaseSensitive": false
+  },
+  "courses": [
+    {
+      "id": "en-anime-community-words",
+      "slug": "en-anime-community-words",
+      "category": "anime",
+      "languageCode": "en",
+      "title": "二次元/动漫 · 英语社区 · 词汇",
+      "description": "学习动漫粉丝社区讨论、追番与同人文化中的常用英语表达。（单词与短语）",
+      "titles": {
+        "zh": "二次元/动漫 · 英语社区 · 词汇",
+        "en": "Anime & ACG · English Community · Vocabulary",
+        "ja": "アニメ・ACG · 英語コミュニティ · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习动漫粉丝社区中的常用英语词汇。",
+        "en": "Practice common English vocabulary for anime fan communities.",
+        "ja": "アニメファンコミュニティで使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-anime-foundation-words",
+      "slug": "en-anime-foundation-words",
+      "category": "anime",
+      "languageCode": "en",
+      "title": "二次元/动漫 · 英语基础 · 词汇",
+      "description": "掌握动漫与 ACG 文化中最常用的英语基础词汇与表达。（单词与短语）",
+      "titles": {
+        "zh": "二次元/动漫 · 英语基础 · 词汇",
+        "en": "Anime & ACG · English Foundations · Vocabulary",
+        "ja": "アニメ・ACG · 英語基礎 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习动漫与 ACG 基础中的常用英语词汇。",
+        "en": "Practice common English vocabulary for anime and ACG foundations.",
+        "ja": "アニメ・ACGの基礎で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-internet-gaming-words",
+      "slug": "en-internet-gaming-words",
+      "category": "internet",
+      "languageCode": "en",
+      "title": "网络游戏 · 英语 · 词汇",
+      "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关英语。（单词与短语）",
+      "titles": {
+        "zh": "网络文化 · 英语网络游戏 · 词汇",
+        "en": "Internet Culture · English Online Gaming · Vocabulary",
+        "ja": "ネット文化 · 英語オンラインゲーム · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习网络游戏、电竞协作与健康习惯中的常用英语词汇。",
+        "en": "Practice common English vocabulary for online gaming, esports teamwork, and healthy play habits.",
+        "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-internet-social-words",
+      "slug": "en-internet-social-words",
+      "category": "internet",
+      "languageCode": "en",
+      "title": "网络文化 · 英语 · 词汇",
+      "description": "学习社交媒体、内容创作、网络礼仪和安全相关英语。（单词与短语）",
+      "titles": {
+        "zh": "网络文化 · 英语社交网络 · 词汇",
+        "en": "Internet Culture · English Social Media · Vocabulary",
+        "ja": "ネット文化 · 英語SNS · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习社交媒体与网络文化中的常用英语词汇。",
+        "en": "Practice common English vocabulary for social media and internet culture.",
+        "ja": "ソーシャルメディアとネット文化で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-basics-words",
+      "slug": "en-prog-basics-words",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语基础 · 词汇",
+      "description": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 英语基础 · 词汇",
+        "en": "编程知识 · 英语基础 · 词汇",
+        "ja": "编程知识 · 英语基础 · 词汇"
+      },
+      "descriptions": {
+        "zh": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）",
+        "en": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）",
+        "ja": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-git-cli-words",
+      "slug": "en-prog-git-cli-words",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语 Git 与命令行 · 词汇",
+      "description": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 英语 Git 与命令行 · 词汇",
+        "en": "编程知识 · 英语 Git 与命令行 · 词汇",
+        "ja": "编程知识 · 英语 Git 与命令行 · 词汇"
+      },
+      "descriptions": {
+        "zh": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）",
+        "en": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）",
+        "ja": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-interview-words",
+      "slug": "en-prog-interview-words",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语面试 · 词汇",
+      "description": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 英语面试 · 词汇",
+        "en": "编程知识 · 英语面试 · 词汇",
+        "ja": "编程知识 · 英语面试 · 词汇"
+      },
+      "descriptions": {
+        "zh": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）",
+        "en": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）",
+        "ja": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-web-words",
+      "slug": "en-prog-web-words",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语 Web · 词汇",
+      "description": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 英语 Web · 词汇",
+        "en": "编程知识 · 英语 Web · 词汇",
+        "ja": "编程知识 · 英语 Web · 词汇"
+      },
+      "descriptions": {
+        "zh": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）",
+        "en": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）",
+        "ja": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-service-complaint-words",
+      "slug": "en-service-complaint-words",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语投诉 · 词汇",
+      "description": "投诉处理、道歉与补救沟通（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 英语投诉 · 词汇",
+        "en": "Service & Hospitality · English Complaints · Vocabulary",
+        "ja": "サービス業 · 英語クレーム対応 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习投诉处理中的常用英语词汇。",
+        "en": "Practice common English vocabulary for complaint handling.",
+        "ja": "クレーム対応で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-service-greeting-words",
+      "slug": "en-service-greeting-words",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语接待 · 词汇",
+      "description": "前台接待、问候与预约确认常用表达（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 英语接待 · 词汇",
+        "en": "Service & Hospitality · English Greetings & Reception · Vocabulary",
+        "ja": "サービス業 · 英語挨拶・受付 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习问候与前台接待中的常用英语词汇。",
+        "en": "Practice common English vocabulary for greetings and reception.",
+        "ja": "挨拶と受付で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-service-hospitality-words",
+      "slug": "en-service-hospitality-words",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语餐饮酒店 · 词汇",
+      "description": "餐厅点单与酒店客房服务用语（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 英语餐饮酒店 · 词汇",
+        "en": "Service & Hospitality · English Hospitality · Vocabulary",
+        "ja": "サービス業 · 英語接客 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习餐饮与酒店接待中的常用英语词汇。",
+        "en": "Practice common English vocabulary for hospitality service.",
+        "ja": "飲食店・ホテルの接客で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-service-phone-email-words",
+      "slug": "en-service-phone-email-words",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语电话邮件 · 词汇",
+      "description": "电话接听与商务邮件常用句型（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 英语电话邮件 · 词汇",
+        "en": "Service & Hospitality · English Phone & Email · Vocabulary",
+        "ja": "サービス業 · 英語電話・メール · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习电话与商务邮件中的常用英语词汇。",
+        "en": "Practice common English vocabulary for phone calls and business email.",
+        "ja": "電話応対とビジネスメールで使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-sports-competition-words",
+      "slug": "en-sports-competition-words",
+      "category": "sports",
+      "languageCode": "en",
+      "title": "运动 · 英语赛事 · 词汇",
+      "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用英语表达。（单词与短语）",
+      "titles": {
+        "zh": "运动 · 英语赛事 · 词汇",
+        "en": "Sports · English Competition · Vocabulary",
+        "ja": "スポーツ · 英語大会 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习赛事赛程、判罚与赛后交流中的常用英语词汇。",
+        "en": "Practice common English vocabulary for competition schedules, officiating, and post-match communication.",
+        "ja": "大会日程・判定・試合後の交流で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-sports-training-words",
+      "slug": "en-sports-training-words",
+      "category": "sports",
+      "languageCode": "en",
+      "title": "运动 · 英语日常 · 词汇",
+      "description": "学习训练、比赛和观赛场景中的常用英语表达。（单词与短语）",
+      "titles": {
+        "zh": "运动 · 英语训练 · 词汇",
+        "en": "Sports · English Training · Vocabulary",
+        "ja": "スポーツ · 英語トレーニング · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习日常训练、比赛与观赛中的常用英语词汇。",
+        "en": "Practice common English vocabulary for everyday training, matches, and sports viewing.",
+        "ja": "日常の練習・試合・観戦で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-airport-words",
+      "slug": "en-travel-airport-words",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语机场 · 词汇",
+      "description": "机场值机、安检、登机等常用英语词汇与句子（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 英语机场 · 词汇",
+        "en": "Travel · English Airport · Vocabulary",
+        "ja": "旅行 · 英語空港 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习机场出行中的常用英语词汇。",
+        "en": "Practice common English vocabulary for airport travel.",
+        "ja": "空港での移動で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-directions-words",
+      "slug": "en-travel-directions-words",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语问路与交通 · 词汇",
+      "description": "问路、购票与公共交通相关英语（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 英语问路与交通 · 词汇",
+        "en": "Travel · English Directions & Transit · Vocabulary",
+        "ja": "旅行 · 英語道案内・交通 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习问路与公共交通中的常用英语词汇。",
+        "en": "Practice common English vocabulary for directions and public transit.",
+        "ja": "道案内と公共交通で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-emergency-words",
+      "slug": "en-travel-emergency-words",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语应急 · 词汇",
+      "description": "旅行中求助、医疗与失物等应急英语（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 英语应急 · 词汇",
+        "en": "Travel · English Emergencies · Vocabulary",
+        "ja": "旅行 · 英語緊急時 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习旅行应急中的常用英语词汇。",
+        "en": "Practice common English vocabulary for travel emergencies.",
+        "ja": "旅行中の緊急時で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-hotel-words",
+      "slug": "en-travel-hotel-words",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语酒店 · 词汇",
+      "description": "酒店预订、入住、退房与服务请求英语表达（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 英语酒店 · 词汇",
+        "en": "Travel · English Hotel · Vocabulary",
+        "ja": "旅行 · 英語ホテル · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习酒店住宿中的常用英语词汇。",
+        "en": "Practice common English vocabulary for hotel stays.",
+        "ja": "ホテル滞在で使う英語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "en-anime-community-sentences",
+      "slug": "en-anime-community-sentences",
+      "category": "anime",
+      "languageCode": "en",
+      "title": "二次元/动漫 · 英语社区 · 句子",
+      "description": "学习动漫粉丝社区讨论、追番与同人文化中的常用英语表达。（常用句子）",
+      "titles": {
+        "zh": "二次元/动漫 · 英语社区 · 句子",
+        "en": "Anime & ACG · English Community · Sentences",
+        "ja": "アニメ・ACG · 英語コミュニティ · 例文"
+      },
+      "descriptions": {
+        "zh": "学习动漫粉丝社区中的常用英语句子。",
+        "en": "Practice common English sentences for anime fan communities.",
+        "ja": "アニメファンコミュニティで使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-anime-foundation-sentences",
+      "slug": "en-anime-foundation-sentences",
+      "category": "anime",
+      "languageCode": "en",
+      "title": "二次元/动漫 · 英语基础 · 句子",
+      "description": "掌握动漫与 ACG 文化中最常用的英语基础词汇与表达。（常用句子）",
+      "titles": {
+        "zh": "二次元/动漫 · 英语基础 · 句子",
+        "en": "Anime & ACG · English Foundations · Sentences",
+        "ja": "アニメ・ACG · 英語基礎 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习动漫与 ACG 基础中的常用英语句子。",
+        "en": "Practice common English sentences for anime and ACG foundations.",
+        "ja": "アニメ・ACGの基礎で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-internet-gaming-sentences",
+      "slug": "en-internet-gaming-sentences",
+      "category": "internet",
+      "languageCode": "en",
+      "title": "网络游戏 · 英语 · 句子",
+      "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关英语。（常用句子）",
+      "titles": {
+        "zh": "网络文化 · 英语网络游戏 · 句子",
+        "en": "Internet Culture · English Online Gaming · Sentences",
+        "ja": "ネット文化 · 英語オンラインゲーム · 例文"
+      },
+      "descriptions": {
+        "zh": "学习网络游戏、电竞协作与健康习惯中的常用英语句子。",
+        "en": "Practice common English sentences for online gaming, esports teamwork, and healthy play habits.",
+        "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-internet-social-sentences",
+      "slug": "en-internet-social-sentences",
+      "category": "internet",
+      "languageCode": "en",
+      "title": "网络文化 · 英语 · 句子",
+      "description": "学习社交媒体、内容创作、网络礼仪和安全相关英语。（常用句子）",
+      "titles": {
+        "zh": "网络文化 · 英语社交网络 · 句子",
+        "en": "Internet Culture · English Social Media · Sentences",
+        "ja": "ネット文化 · 英語SNS · 例文"
+      },
+      "descriptions": {
+        "zh": "学习社交媒体与网络文化中的常用英语句子。",
+        "en": "Practice common English sentences for social media and internet culture.",
+        "ja": "ソーシャルメディアとネット文化で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-basics-sentences",
+      "slug": "en-prog-basics-sentences",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语基础 · 句子",
+      "description": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 英语基础 · 句子",
+        "en": "编程知识 · 英语基础 · 句子",
+        "ja": "编程知识 · 英语基础 · 句子"
+      },
+      "descriptions": {
+        "zh": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）",
+        "en": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）",
+        "ja": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-git-cli-sentences",
+      "slug": "en-prog-git-cli-sentences",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语 Git 与命令行 · 句子",
+      "description": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 英语 Git 与命令行 · 句子",
+        "en": "编程知识 · 英语 Git 与命令行 · 句子",
+        "ja": "编程知识 · 英语 Git 与命令行 · 句子"
+      },
+      "descriptions": {
+        "zh": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（常用句子）",
+        "en": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（常用句子）",
+        "ja": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-interview-sentences",
+      "slug": "en-prog-interview-sentences",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语面试 · 句子",
+      "description": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 英语面试 · 句子",
+        "en": "编程知识 · 英语面试 · 句子",
+        "ja": "编程知识 · 英语面试 · 句子"
+      },
+      "descriptions": {
+        "zh": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）",
+        "en": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）",
+        "ja": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-web-sentences",
+      "slug": "en-prog-web-sentences",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语 Web · 句子",
+      "description": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 英语 Web · 句子",
+        "en": "编程知识 · 英语 Web · 句子",
+        "ja": "编程知识 · 英语 Web · 句子"
+      },
+      "descriptions": {
+        "zh": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）",
+        "en": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）",
+        "ja": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-quotes-classics-sentences",
+      "slug": "en-quotes-classics-sentences",
+      "category": "quotes",
+      "languageCode": "en",
+      "title": "名言名句 · 英语智慧 · 句子",
+      "description": "通过经典格言与励志短句练习英语整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 英语经典 · 句子",
+        "en": "Quotes & Wisdom · English Classics · Sentences",
+        "ja": "名言・格言 · 英語名句 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习经典格言与励志名句中的常用英语句子。",
+        "en": "Practice common English sentences for classic quotes and practical wisdom.",
+        "ja": "古典的な格言と励ましの言葉で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-quotes-courage-sentences",
+      "slug": "en-quotes-courage-sentences",
+      "category": "quotes",
+      "languageCode": "en",
+      "title": "名言名句 · 英语勇气 · 句子",
+      "description": "通过关于勇气、尝试与坚持的格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 英语勇气 · 句子",
+        "en": "Quotes & Wisdom · English Courage · Sentences",
+        "ja": "名言・格言 · 英語勇気 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习勇气、尝试与坚持中的常用英语句子。",
+        "en": "Practice common English sentences for courage, trying, and perseverance.",
+        "ja": "勇気・挑戦・継続で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-quotes-friendship-sentences",
+      "slug": "en-quotes-friendship-sentences",
+      "category": "quotes",
+      "languageCode": "en",
+      "title": "名言名句 · 英语友谊 · 句子",
+      "description": "通过关于信任、陪伴与互助的格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 英语友谊 · 句子",
+        "en": "Quotes & Wisdom · English Friendship · Sentences",
+        "ja": "名言・格言 · 英語友情 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习友谊、信任与陪伴中的常用英语句子。",
+        "en": "Practice common English sentences for friendship, trust, and companionship.",
+        "ja": "友情・信頼・支え合いで使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-quotes-learning-sentences",
+      "slug": "en-quotes-learning-sentences",
+      "category": "quotes",
+      "languageCode": "en",
+      "title": "名言名句 · 英语学习 · 句子",
+      "description": "通过关于求知、练习与思考的格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 英语学习 · 句子",
+        "en": "Quotes & Wisdom · English Learning · Sentences",
+        "ja": "名言・格言 · 英語学び · 例文"
+      },
+      "descriptions": {
+        "zh": "学习学习方法与成长中的常用英语句子。",
+        "en": "Practice common English sentences for learning methods and personal growth.",
+        "ja": "学び方と成長で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-quotes-life-sentences",
+      "slug": "en-quotes-life-sentences",
+      "category": "quotes",
+      "languageCode": "en",
+      "title": "名言名句 · 英语人生 · 句子",
+      "description": "通过关于时间、选择与成长的人生格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 英语人生 · 句子",
+        "en": "Quotes & Wisdom · English Life · Sentences",
+        "ja": "名言・格言 · 英語人生 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习生活态度与人生智慧中的常用英语句子。",
+        "en": "Practice common English sentences for attitudes toward life and everyday wisdom.",
+        "ja": "生き方と日々の知恵で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-service-complaint-sentences",
+      "slug": "en-service-complaint-sentences",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语投诉 · 句子",
+      "description": "投诉处理、道歉与补救沟通（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 英语投诉 · 句子",
+        "en": "Service & Hospitality · English Complaints · Sentences",
+        "ja": "サービス業 · 英語クレーム対応 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习投诉处理中的常用英语句子。",
+        "en": "Practice common English sentences for complaint handling.",
+        "ja": "クレーム対応で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-service-greeting-sentences",
+      "slug": "en-service-greeting-sentences",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语接待 · 句子",
+      "description": "前台接待、问候与预约确认常用表达（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 英语接待 · 句子",
+        "en": "Service & Hospitality · English Greetings & Reception · Sentences",
+        "ja": "サービス業 · 英語挨拶・受付 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习问候与前台接待中的常用英语句子。",
+        "en": "Practice common English sentences for greetings and reception.",
+        "ja": "挨拶と受付で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-service-hospitality-sentences",
+      "slug": "en-service-hospitality-sentences",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语餐饮酒店 · 句子",
+      "description": "餐厅点单与酒店客房服务用语（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 英语餐饮酒店 · 句子",
+        "en": "Service & Hospitality · English Hospitality · Sentences",
+        "ja": "サービス業 · 英語接客 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习餐饮与酒店接待中的常用英语句子。",
+        "en": "Practice common English sentences for hospitality service.",
+        "ja": "飲食店・ホテルの接客で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-service-phone-email-sentences",
+      "slug": "en-service-phone-email-sentences",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语电话邮件 · 句子",
+      "description": "电话接听与商务邮件常用句型（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 英语电话邮件 · 句子",
+        "en": "Service & Hospitality · English Phone & Email · Sentences",
+        "ja": "サービス業 · 英語電話・メール · 例文"
+      },
+      "descriptions": {
+        "zh": "学习电话与商务邮件中的常用英语句子。",
+        "en": "Practice common English sentences for phone calls and business email.",
+        "ja": "電話応対とビジネスメールで使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-sports-competition-sentences",
+      "slug": "en-sports-competition-sentences",
+      "category": "sports",
+      "languageCode": "en",
+      "title": "运动 · 英语赛事 · 句子",
+      "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用英语表达。（常用句子）",
+      "titles": {
+        "zh": "运动 · 英语赛事 · 句子",
+        "en": "Sports · English Competition · Sentences",
+        "ja": "スポーツ · 英語大会 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习赛事赛程、判罚与赛后交流中的常用英语句子。",
+        "en": "Practice common English sentences for competition schedules, officiating, and post-match communication.",
+        "ja": "大会日程・判定・試合後の交流で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-sports-training-sentences",
+      "slug": "en-sports-training-sentences",
+      "category": "sports",
+      "languageCode": "en",
+      "title": "运动 · 英语日常 · 句子",
+      "description": "学习训练、比赛和观赛场景中的常用英语表达。（常用句子）",
+      "titles": {
+        "zh": "运动 · 英语训练 · 句子",
+        "en": "Sports · English Training · Sentences",
+        "ja": "スポーツ · 英語トレーニング · 例文"
+      },
+      "descriptions": {
+        "zh": "学习日常训练、比赛与观赛中的常用英语句子。",
+        "en": "Practice common English sentences for everyday training, matches, and sports viewing.",
+        "ja": "日常の練習・試合・観戦で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-airport-sentences",
+      "slug": "en-travel-airport-sentences",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语机场 · 句子",
+      "description": "机场值机、安检、登机等常用英语词汇与句子（常用句子）",
+      "titles": {
+        "zh": "旅游 · 英语机场 · 句子",
+        "en": "Travel · English Airport · Sentences",
+        "ja": "旅行 · 英語空港 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习机场出行中的常用英语句子。",
+        "en": "Practice common English sentences for airport travel.",
+        "ja": "空港での移動で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-directions-sentences",
+      "slug": "en-travel-directions-sentences",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语问路与交通 · 句子",
+      "description": "问路、购票与公共交通相关英语（常用句子）",
+      "titles": {
+        "zh": "旅游 · 英语问路与交通 · 句子",
+        "en": "Travel · English Directions & Transit · Sentences",
+        "ja": "旅行 · 英語道案内・交通 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习问路与公共交通中的常用英语句子。",
+        "en": "Practice common English sentences for directions and public transit.",
+        "ja": "道案内と公共交通で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-emergency-sentences",
+      "slug": "en-travel-emergency-sentences",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语应急 · 句子",
+      "description": "旅行中求助、医疗与失物等应急英语（常用句子）",
+      "titles": {
+        "zh": "旅游 · 英语应急 · 句子",
+        "en": "Travel · English Emergencies · Sentences",
+        "ja": "旅行 · 英語緊急時 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习旅行应急中的常用英语句子。",
+        "en": "Practice common English sentences for travel emergencies.",
+        "ja": "旅行中の緊急時で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-hotel-sentences",
+      "slug": "en-travel-hotel-sentences",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语酒店 · 句子",
+      "description": "酒店预订、入住、退房与服务请求英语表达（常用句子）",
+      "titles": {
+        "zh": "旅游 · 英语酒店 · 句子",
+        "en": "Travel · English Hotel · Sentences",
+        "ja": "旅行 · 英語ホテル · 例文"
+      },
+      "descriptions": {
+        "zh": "学习酒店住宿中的常用英语句子。",
+        "en": "Practice common English sentences for hotel stays.",
+        "ja": "ホテル滞在で使う英語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "en-anime-community-dialogues",
+      "slug": "en-anime-community-dialogues",
+      "category": "anime",
+      "languageCode": "en",
+      "title": "二次元/动漫 · 英语社区 · 情景对话",
+      "description": "学习动漫粉丝社区讨论、追番与同人文化中的常用英语表达。（男女情景对话）",
+      "titles": {
+        "zh": "二次元/动漫 · 英语社区 · 情景对话",
+        "en": "Anime & ACG · English Community · Situational Dialogues",
+        "ja": "アニメ・ACG · 英語コミュニティ · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习动漫粉丝社区中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for anime fan communities.",
+        "ja": "アニメファンコミュニティで使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-anime-foundation-dialogues",
+      "slug": "en-anime-foundation-dialogues",
+      "category": "anime",
+      "languageCode": "en",
+      "title": "二次元/动漫 · 英语基础 · 情景对话",
+      "description": "掌握动漫与 ACG 文化中最常用的英语基础词汇与表达。（男女情景对话）",
+      "titles": {
+        "zh": "二次元/动漫 · 英语基础 · 情景对话",
+        "en": "Anime & ACG · English Foundations · Situational Dialogues",
+        "ja": "アニメ・ACG · 英語基礎 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习动漫与 ACG 基础中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for anime and ACG foundations.",
+        "ja": "アニメ・ACGの基礎で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-internet-gaming-dialogues",
+      "slug": "en-internet-gaming-dialogues",
+      "category": "internet",
+      "languageCode": "en",
+      "title": "网络游戏 · 英语 · 情景对话",
+      "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关英语。（男女情景对话）",
+      "titles": {
+        "zh": "网络文化 · 英语网络游戏 · 情景对话",
+        "en": "Internet Culture · English Online Gaming · Situational Dialogues",
+        "ja": "ネット文化 · 英語オンラインゲーム · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习网络游戏、电竞协作与健康习惯中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for online gaming, esports teamwork, and healthy play habits.",
+        "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-internet-social-dialogues",
+      "slug": "en-internet-social-dialogues",
+      "category": "internet",
+      "languageCode": "en",
+      "title": "网络文化 · 英语 · 情景对话",
+      "description": "学习社交媒体、内容创作、网络礼仪和安全相关英语。（男女情景对话）",
+      "titles": {
+        "zh": "网络文化 · 英语社交网络 · 情景对话",
+        "en": "Internet Culture · English Social Media · Situational Dialogues",
+        "ja": "ネット文化 · 英語SNS · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习社交媒体与网络文化中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for social media and internet culture.",
+        "ja": "ソーシャルメディアとネット文化で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-basics-dialogues",
+      "slug": "en-prog-basics-dialogues",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语基础 · 情景对话",
+      "description": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 英语基础 · 情景对话",
+        "en": "编程知识 · 英语基础 · 情景对话",
+        "ja": "编程知识 · 英语基础 · 情景对话"
+      },
+      "descriptions": {
+        "zh": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）",
+        "en": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）",
+        "ja": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-git-cli-dialogues",
+      "slug": "en-prog-git-cli-dialogues",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语 Git 与命令行 · 情景对话",
+      "description": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 英语 Git 与命令行 · 情景对话",
+        "en": "编程知识 · 英语 Git 与命令行 · 情景对话",
+        "ja": "编程知识 · 英语 Git 与命令行 · 情景对话"
+      },
+      "descriptions": {
+        "zh": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）",
+        "en": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）",
+        "ja": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-interview-dialogues",
+      "slug": "en-prog-interview-dialogues",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语面试 · 情景对话",
+      "description": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 英语面试 · 情景对话",
+        "en": "编程知识 · 英语面试 · 情景对话",
+        "ja": "编程知识 · 英语面试 · 情景对话"
+      },
+      "descriptions": {
+        "zh": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）",
+        "en": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）",
+        "ja": "技术面试表达：时间复杂度、重构、可扩展性、算法与系统设计常用面试用语。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-prog-web-dialogues",
+      "slug": "en-prog-web-dialogues",
+      "category": "programming",
+      "languageCode": "en",
+      "title": "编程知识 · 英语 Web · 情景对话",
+      "description": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 英语 Web · 情景对话",
+        "en": "编程知识 · 英语 Web · 情景对话",
+        "ja": "编程知识 · 英语 Web · 情景对话"
+      },
+      "descriptions": {
+        "zh": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）",
+        "en": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）",
+        "ja": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-service-complaint-dialogues",
+      "slug": "en-service-complaint-dialogues",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语投诉 · 情景对话",
+      "description": "投诉处理、道歉与补救沟通（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 英语投诉 · 情景对话",
+        "en": "Service & Hospitality · English Complaints · Situational Dialogues",
+        "ja": "サービス業 · 英語クレーム対応 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习投诉处理中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for complaint handling.",
+        "ja": "クレーム対応で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-service-greeting-dialogues",
+      "slug": "en-service-greeting-dialogues",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语接待 · 情景对话",
+      "description": "前台接待、问候与预约确认常用表达（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 英语接待 · 情景对话",
+        "en": "Service & Hospitality · English Greetings & Reception · Situational Dialogues",
+        "ja": "サービス業 · 英語挨拶・受付 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习问候与前台接待中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for greetings and reception.",
+        "ja": "挨拶と受付で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-service-hospitality-dialogues",
+      "slug": "en-service-hospitality-dialogues",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语餐饮酒店 · 情景对话",
+      "description": "餐厅点单与酒店客房服务用语（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 英语餐饮酒店 · 情景对话",
+        "en": "Service & Hospitality · English Hospitality · Situational Dialogues",
+        "ja": "サービス業 · 英語接客 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习餐饮与酒店接待中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for hospitality service.",
+        "ja": "飲食店・ホテルの接客で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-service-phone-email-dialogues",
+      "slug": "en-service-phone-email-dialogues",
+      "category": "service",
+      "languageCode": "en",
+      "title": "服务行业 · 英语电话邮件 · 情景对话",
+      "description": "电话接听与商务邮件常用句型（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 英语电话邮件 · 情景对话",
+        "en": "Service & Hospitality · English Phone & Email · Situational Dialogues",
+        "ja": "サービス業 · 英語電話・メール · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习电话与商务邮件中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for phone calls and business email.",
+        "ja": "電話応対とビジネスメールで使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-sports-competition-dialogues",
+      "slug": "en-sports-competition-dialogues",
+      "category": "sports",
+      "languageCode": "en",
+      "title": "运动 · 英语赛事 · 情景对话",
+      "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用英语表达。（男女情景对话）",
+      "titles": {
+        "zh": "运动 · 英语赛事 · 情景对话",
+        "en": "Sports · English Competition · Situational Dialogues",
+        "ja": "スポーツ · 英語大会 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习赛事赛程、判罚与赛后交流中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for competition schedules, officiating, and post-match communication.",
+        "ja": "大会日程・判定・試合後の交流で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-sports-training-dialogues",
+      "slug": "en-sports-training-dialogues",
+      "category": "sports",
+      "languageCode": "en",
+      "title": "运动 · 英语日常 · 情景对话",
+      "description": "学习训练、比赛和观赛场景中的常用英语表达。（男女情景对话）",
+      "titles": {
+        "zh": "运动 · 英语训练 · 情景对话",
+        "en": "Sports · English Training · Situational Dialogues",
+        "ja": "スポーツ · 英語トレーニング · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习日常训练、比赛与观赛中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for everyday training, matches, and sports viewing.",
+        "ja": "日常の練習・試合・観戦で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-airport-dialogues",
+      "slug": "en-travel-airport-dialogues",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语机场 · 情景对话",
+      "description": "机场值机、安检、登机等常用英语词汇与句子（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 英语机场 · 情景对话",
+        "en": "Travel · English Airport · Situational Dialogues",
+        "ja": "旅行 · 英語空港 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习机场出行中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for airport travel.",
+        "ja": "空港での移動で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-directions-dialogues",
+      "slug": "en-travel-directions-dialogues",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语问路与交通 · 情景对话",
+      "description": "问路、购票与公共交通相关英语（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 英语问路与交通 · 情景对话",
+        "en": "Travel · English Directions & Transit · Situational Dialogues",
+        "ja": "旅行 · 英語道案内・交通 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习问路与公共交通中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for directions and public transit.",
+        "ja": "道案内と公共交通で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-emergency-dialogues",
+      "slug": "en-travel-emergency-dialogues",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语应急 · 情景对话",
+      "description": "旅行中求助、医疗与失物等应急英语（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 英语应急 · 情景对话",
+        "en": "Travel · English Emergencies · Situational Dialogues",
+        "ja": "旅行 · 英語緊急時 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习旅行应急中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for travel emergencies.",
+        "ja": "旅行中の緊急時で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "en-travel-hotel-dialogues",
+      "slug": "en-travel-hotel-dialogues",
+      "category": "travel",
+      "languageCode": "en",
+      "title": "旅游 · 英语酒店 · 情景对话",
+      "description": "酒店预订、入住、退房与服务请求英语表达（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 英语酒店 · 情景对话",
+        "en": "Travel · English Hotel · Situational Dialogues",
+        "ja": "旅行 · 英語ホテル · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习酒店住宿中的常用英语情景对话。",
+        "en": "Practice common English situational dialogues for hotel stays.",
+        "ja": "ホテル滞在で使う英語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-anime-dialogue-words",
+      "slug": "ja-anime-dialogue-words",
+      "category": "anime",
+      "languageCode": "ja",
+      "title": "二次元/动漫 · 日语台词 · 词汇",
+      "description": "练习动漫场景中常见的日语台词与日常表达。（单词与短语）",
+      "titles": {
+        "zh": "二次元/动漫 · 日语台词 · 词汇",
+        "en": "Anime & ACG · Japanese Dialogue · Vocabulary",
+        "ja": "アニメ・ACG · 日本語セリフ · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习动漫台词中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for anime dialogue.",
+        "ja": "アニメのセリフで使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-anime-terms-words",
+      "slug": "ja-anime-terms-words",
+      "category": "anime",
+      "languageCode": "ja",
+      "title": "二次元/动漫 · 日语术语 · 词汇",
+      "description": "学习动漫、漫画与 ACG 文化中常见的日语专业术语。（单词与短语）",
+      "titles": {
+        "zh": "二次元/动漫 · 日语术语 · 词汇",
+        "en": "Anime & ACG · Japanese Terms · Vocabulary",
+        "ja": "アニメ・ACG · 日本語用語 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习动漫术语中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for anime terminology.",
+        "ja": "アニメ用語で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-internet-gaming-words",
+      "slug": "ja-internet-gaming-words",
+      "category": "internet",
+      "languageCode": "ja",
+      "title": "网络游戏 · 日语 · 词汇",
+      "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关日语。（单词与短语）",
+      "titles": {
+        "zh": "网络文化 · 日语网络游戏 · 词汇",
+        "en": "Internet Culture · Japanese Online Gaming · Vocabulary",
+        "ja": "ネット文化 · 日本語オンラインゲーム · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习网络游戏、电竞协作与健康习惯中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for online gaming, esports teamwork, and healthy play habits.",
+        "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-internet-social-words",
+      "slug": "ja-internet-social-words",
+      "category": "internet",
+      "languageCode": "ja",
+      "title": "网络文化 · 日语 · 词汇",
+      "description": "学习社交媒体、内容创作、网络礼仪和安全相关日语。（单词与短语）",
+      "titles": {
+        "zh": "网络文化 · 日语社交网络 · 词汇",
+        "en": "Internet Culture · Japanese Social Media · Vocabulary",
+        "ja": "ネット文化 · 日本語SNS · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习社交媒体与网络文化中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for social media and internet culture.",
+        "ja": "ソーシャルメディアとネット文化で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-basics-words",
+      "slug": "ja-prog-basics-words",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语基础 · 词汇",
+      "description": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 日语基础 · 词汇",
+        "en": "编程知识 · 日语基础 · 词汇",
+        "ja": "编程知识 · 日语基础 · 词汇"
+      },
+      "descriptions": {
+        "zh": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（单词与短语）",
+        "en": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（单词与短语）",
+        "ja": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-git-cli-words",
+      "slug": "ja-prog-git-cli-words",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语 Git · 词汇",
+      "description": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 日语 Git · 词汇",
+        "en": "编程知识 · 日语 Git · 词汇",
+        "ja": "编程知识 · 日语 Git · 词汇"
+      },
+      "descriptions": {
+        "zh": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（单词与短语）",
+        "en": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（单词与短语）",
+        "ja": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-interview-words",
+      "slug": "ja-prog-interview-words",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语面试 · 词汇",
+      "description": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 日语面试 · 词汇",
+        "en": "编程知识 · 日语面试 · 词汇",
+        "ja": "编程知识 · 日语面试 · 词汇"
+      },
+      "descriptions": {
+        "zh": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（单词与短语）",
+        "en": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（单词与短语）",
+        "ja": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-web-words",
+      "slug": "ja-prog-web-words",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语 Web · 词汇",
+      "description": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（单词与短语）",
+      "titles": {
+        "zh": "编程知识 · 日语 Web · 词汇",
+        "en": "编程知识 · 日语 Web · 词汇",
+        "ja": "编程知识 · 日语 Web · 词汇"
+      },
+      "descriptions": {
+        "zh": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（单词与短语）",
+        "en": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（单词与短语）",
+        "ja": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（单词与短语）"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-complaint-words",
+      "slug": "ja-service-complaint-words",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语投诉 · 词汇",
+      "description": "クレーム対応と謝罪・補償の表現（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 日语投诉 · 词汇",
+        "en": "Service & Hospitality · Japanese Complaints · Vocabulary",
+        "ja": "サービス業 · 日本語クレーム対応 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习投诉处理中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for complaint handling.",
+        "ja": "クレーム対応で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-greeting-words",
+      "slug": "ja-service-greeting-words",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语接待 · 词汇",
+      "description": "店舗・ホテル受付の挨拶と予約対応（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 日语接待 · 词汇",
+        "en": "Service & Hospitality · Japanese Greetings & Reception · Vocabulary",
+        "ja": "サービス業 · 日本語挨拶・受付 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习问候与前台接待中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for greetings and reception.",
+        "ja": "挨拶と受付で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-hospitality-words",
+      "slug": "ja-service-hospitality-words",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语餐饮 · 词汇",
+      "description": "飲食店とホテルの接客・ホスピタリティ（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 日语餐饮酒店 · 词汇",
+        "en": "Service & Hospitality · Japanese Hospitality · Vocabulary",
+        "ja": "サービス業 · 日本語接客 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习餐饮与酒店接待中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for hospitality service.",
+        "ja": "飲食店・ホテルの接客で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-phone-email-words",
+      "slug": "ja-service-phone-email-words",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语电话邮件 · 词汇",
+      "description": "電話応対とビジネスメールの定型表現（单词与短语）",
+      "titles": {
+        "zh": "服务行业 · 日语电话邮件 · 词汇",
+        "en": "Service & Hospitality · Japanese Phone & Email · Vocabulary",
+        "ja": "サービス業 · 日本語電話・メール · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习电话与商务邮件中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for phone calls and business email.",
+        "ja": "電話応対とビジネスメールで使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-sports-competition-words",
+      "slug": "ja-sports-competition-words",
+      "category": "sports",
+      "languageCode": "ja",
+      "title": "运动 · 日语赛事 · 词汇",
+      "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用日语表达。（单词与短语）",
+      "titles": {
+        "zh": "运动 · 日语赛事 · 词汇",
+        "en": "Sports · Japanese Competition · Vocabulary",
+        "ja": "スポーツ · 日本語大会 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习赛事赛程、判罚与赛后交流中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for competition schedules, officiating, and post-match communication.",
+        "ja": "大会日程・判定・試合後の交流で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-sports-training-words",
+      "slug": "ja-sports-training-words",
+      "category": "sports",
+      "languageCode": "ja",
+      "title": "运动 · 日语日常 · 词汇",
+      "description": "学习训练、比赛和观赛场景中的常用日语表达。（单词与短语）",
+      "titles": {
+        "zh": "运动 · 日语训练 · 词汇",
+        "en": "Sports · Japanese Training · Vocabulary",
+        "ja": "スポーツ · 日本語トレーニング · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习日常训练、比赛与观赛中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for everyday training, matches, and sports viewing.",
+        "ja": "日常の練習・試合・観戦で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-airport-words",
+      "slug": "ja-travel-airport-words",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语机场 · 词汇",
+      "description": "空港でのチェックイン、保安検査、搭乗に使う日本語（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 日语机场 · 词汇",
+        "en": "Travel · Japanese Airport · Vocabulary",
+        "ja": "旅行 · 日本語空港 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习机场出行中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for airport travel.",
+        "ja": "空港での移動で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-directions-words",
+      "slug": "ja-travel-directions-words",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语交通 · 词汇",
+      "description": "道案内、切符購入、公共交通の日本語（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 日语问路与交通 · 词汇",
+        "en": "Travel · Japanese Directions & Transit · Vocabulary",
+        "ja": "旅行 · 日本語道案内・交通 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习问路与公共交通中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for directions and public transit.",
+        "ja": "道案内と公共交通で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-emergency-words",
+      "slug": "ja-travel-emergency-words",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语应急 · 词汇",
+      "description": "トラブル、医療、紛失時の日本語表現（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 日语应急 · 词汇",
+        "en": "Travel · Japanese Emergencies · Vocabulary",
+        "ja": "旅行 · 日本語緊急時 · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习旅行应急中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for travel emergencies.",
+        "ja": "旅行中の緊急時で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-hotel-words",
+      "slug": "ja-travel-hotel-words",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语酒店 · 词汇",
+      "description": "ホテル予約、チェックイン、客室サービスの日本語（单词与短语）",
+      "titles": {
+        "zh": "旅游 · 日语酒店 · 词汇",
+        "en": "Travel · Japanese Hotel · Vocabulary",
+        "ja": "旅行 · 日本語ホテル · 単語・フレーズ"
+      },
+      "descriptions": {
+        "zh": "学习酒店住宿中的常用日语词汇。",
+        "en": "Practice common Japanese vocabulary for hotel stays.",
+        "ja": "ホテル滞在で使う日本語の単語・フレーズを練習します。"
+      },
+      "sortOrder": 0,
+      "status": "published"
+    },
+    {
+      "id": "ja-anime-dialogue-sentences",
+      "slug": "ja-anime-dialogue-sentences",
+      "category": "anime",
+      "languageCode": "ja",
+      "title": "二次元/动漫 · 日语台词 · 句子",
+      "description": "练习动漫场景中常见的日语台词与日常表达。（常用句子）",
+      "titles": {
+        "zh": "二次元/动漫 · 日语台词 · 句子",
+        "en": "Anime & ACG · Japanese Dialogue · Sentences",
+        "ja": "アニメ・ACG · 日本語セリフ · 例文"
+      },
+      "descriptions": {
+        "zh": "学习动漫台词中的常用日语句子。",
+        "en": "Practice common Japanese sentences for anime dialogue.",
+        "ja": "アニメのセリフで使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-anime-terms-sentences",
+      "slug": "ja-anime-terms-sentences",
+      "category": "anime",
+      "languageCode": "ja",
+      "title": "二次元/动漫 · 日语术语 · 句子",
+      "description": "学习动漫、漫画与 ACG 文化中常见的日语专业术语。（常用句子）",
+      "titles": {
+        "zh": "二次元/动漫 · 日语术语 · 句子",
+        "en": "Anime & ACG · Japanese Terms · Sentences",
+        "ja": "アニメ・ACG · 日本語用語 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习动漫术语中的常用日语句子。",
+        "en": "Practice common Japanese sentences for anime terminology.",
+        "ja": "アニメ用語で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-internet-gaming-sentences",
+      "slug": "ja-internet-gaming-sentences",
+      "category": "internet",
+      "languageCode": "ja",
+      "title": "网络游戏 · 日语 · 句子",
+      "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关日语。（常用句子）",
+      "titles": {
+        "zh": "网络文化 · 日语网络游戏 · 句子",
+        "en": "Internet Culture · Japanese Online Gaming · Sentences",
+        "ja": "ネット文化 · 日本語オンラインゲーム · 例文"
+      },
+      "descriptions": {
+        "zh": "学习网络游戏、电竞协作与健康习惯中的常用日语句子。",
+        "en": "Practice common Japanese sentences for online gaming, esports teamwork, and healthy play habits.",
+        "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-internet-social-sentences",
+      "slug": "ja-internet-social-sentences",
+      "category": "internet",
+      "languageCode": "ja",
+      "title": "网络文化 · 日语 · 句子",
+      "description": "学习社交媒体、内容创作、网络礼仪和安全相关日语。（常用句子）",
+      "titles": {
+        "zh": "网络文化 · 日语社交网络 · 句子",
+        "en": "Internet Culture · Japanese Social Media · Sentences",
+        "ja": "ネット文化 · 日本語SNS · 例文"
+      },
+      "descriptions": {
+        "zh": "学习社交媒体与网络文化中的常用日语句子。",
+        "en": "Practice common Japanese sentences for social media and internet culture.",
+        "ja": "ソーシャルメディアとネット文化で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-basics-sentences",
+      "slug": "ja-prog-basics-sentences",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语基础 · 句子",
+      "description": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 日语基础 · 句子",
+        "en": "编程知识 · 日语基础 · 句子",
+        "ja": "编程知识 · 日语基础 · 句子"
+      },
+      "descriptions": {
+        "zh": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）",
+        "en": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）",
+        "ja": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-git-cli-sentences",
+      "slug": "ja-prog-git-cli-sentences",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语 Git · 句子",
+      "description": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 日语 Git · 句子",
+        "en": "编程知识 · 日语 Git · 句子",
+        "ja": "编程知识 · 日语 Git · 句子"
+      },
+      "descriptions": {
+        "zh": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）",
+        "en": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）",
+        "ja": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-interview-sentences",
+      "slug": "ja-prog-interview-sentences",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语面试 · 句子",
+      "description": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 日语面试 · 句子",
+        "en": "编程知识 · 日语面试 · 句子",
+        "ja": "编程知识 · 日语面试 · 句子"
+      },
+      "descriptions": {
+        "zh": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（常用句子）",
+        "en": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（常用句子）",
+        "ja": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-web-sentences",
+      "slug": "ja-prog-web-sentences",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语 Web · 句子",
+      "description": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（常用句子）",
+      "titles": {
+        "zh": "编程知识 · 日语 Web · 句子",
+        "en": "编程知识 · 日语 Web · 句子",
+        "ja": "编程知识 · 日语 Web · 句子"
+      },
+      "descriptions": {
+        "zh": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（常用句子）",
+        "en": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（常用句子）",
+        "ja": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（常用句子）"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-quotes-classics-sentences",
+      "slug": "ja-quotes-classics-sentences",
+      "category": "quotes",
+      "languageCode": "ja",
+      "title": "名言名句 · 日语智慧 · 句子",
+      "description": "通过经典谚语与励志短句练习日语整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 日语经典 · 句子",
+        "en": "Quotes & Wisdom · Japanese Classics · Sentences",
+        "ja": "名言・格言 · 日本語名句 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习经典格言与励志名句中的常用日语句子。",
+        "en": "Practice common Japanese sentences for classic quotes and practical wisdom.",
+        "ja": "古典的な格言と励ましの言葉で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-quotes-courage-sentences",
+      "slug": "ja-quotes-courage-sentences",
+      "category": "quotes",
+      "languageCode": "ja",
+      "title": "名言名句 · 日语勇气 · 句子",
+      "description": "通过关于勇气、尝试与坚持的格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 日语勇气 · 句子",
+        "en": "Quotes & Wisdom · Japanese Courage · Sentences",
+        "ja": "名言・格言 · 日本語勇気 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习勇气、尝试与坚持中的常用日语句子。",
+        "en": "Practice common Japanese sentences for courage, trying, and perseverance.",
+        "ja": "勇気・挑戦・継続で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-quotes-friendship-sentences",
+      "slug": "ja-quotes-friendship-sentences",
+      "category": "quotes",
+      "languageCode": "ja",
+      "title": "名言名句 · 日语友谊 · 句子",
+      "description": "通过关于信任、陪伴与互助的格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 日语友谊 · 句子",
+        "en": "Quotes & Wisdom · Japanese Friendship · Sentences",
+        "ja": "名言・格言 · 日本語友情 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习友谊、信任与陪伴中的常用日语句子。",
+        "en": "Practice common Japanese sentences for friendship, trust, and companionship.",
+        "ja": "友情・信頼・支え合いで使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-quotes-learning-sentences",
+      "slug": "ja-quotes-learning-sentences",
+      "category": "quotes",
+      "languageCode": "ja",
+      "title": "名言名句 · 日语学习 · 句子",
+      "description": "通过关于求知、练习与思考的格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 日语学习 · 句子",
+        "en": "Quotes & Wisdom · Japanese Learning · Sentences",
+        "ja": "名言・格言 · 日本語学び · 例文"
+      },
+      "descriptions": {
+        "zh": "学习学习方法与成长中的常用日语句子。",
+        "en": "Practice common Japanese sentences for learning methods and personal growth.",
+        "ja": "学び方と成長で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-quotes-life-sentences",
+      "slug": "ja-quotes-life-sentences",
+      "category": "quotes",
+      "languageCode": "ja",
+      "title": "名言名句 · 日语人生 · 句子",
+      "description": "通过关于时间、选择与成长的人生格言练习整句输入。（常用句子）",
+      "titles": {
+        "zh": "名言名句 · 日语人生 · 句子",
+        "en": "Quotes & Wisdom · Japanese Life · Sentences",
+        "ja": "名言・格言 · 日本語人生 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习生活态度与人生智慧中的常用日语句子。",
+        "en": "Practice common Japanese sentences for attitudes toward life and everyday wisdom.",
+        "ja": "生き方と日々の知恵で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-complaint-sentences",
+      "slug": "ja-service-complaint-sentences",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语投诉 · 句子",
+      "description": "クレーム対応と謝罪・補償の表現（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 日语投诉 · 句子",
+        "en": "Service & Hospitality · Japanese Complaints · Sentences",
+        "ja": "サービス業 · 日本語クレーム対応 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习投诉处理中的常用日语句子。",
+        "en": "Practice common Japanese sentences for complaint handling.",
+        "ja": "クレーム対応で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-greeting-sentences",
+      "slug": "ja-service-greeting-sentences",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语接待 · 句子",
+      "description": "店舗・ホテル受付の挨拶と予約対応（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 日语接待 · 句子",
+        "en": "Service & Hospitality · Japanese Greetings & Reception · Sentences",
+        "ja": "サービス業 · 日本語挨拶・受付 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习问候与前台接待中的常用日语句子。",
+        "en": "Practice common Japanese sentences for greetings and reception.",
+        "ja": "挨拶と受付で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-hospitality-sentences",
+      "slug": "ja-service-hospitality-sentences",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语餐饮 · 句子",
+      "description": "飲食店とホテルの接客・ホスピタリティ（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 日语餐饮酒店 · 句子",
+        "en": "Service & Hospitality · Japanese Hospitality · Sentences",
+        "ja": "サービス業 · 日本語接客 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习餐饮与酒店接待中的常用日语句子。",
+        "en": "Practice common Japanese sentences for hospitality service.",
+        "ja": "飲食店・ホテルの接客で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-phone-email-sentences",
+      "slug": "ja-service-phone-email-sentences",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语电话邮件 · 句子",
+      "description": "電話応対とビジネスメールの定型表現（常用句子）",
+      "titles": {
+        "zh": "服务行业 · 日语电话邮件 · 句子",
+        "en": "Service & Hospitality · Japanese Phone & Email · Sentences",
+        "ja": "サービス業 · 日本語電話・メール · 例文"
+      },
+      "descriptions": {
+        "zh": "学习电话与商务邮件中的常用日语句子。",
+        "en": "Practice common Japanese sentences for phone calls and business email.",
+        "ja": "電話応対とビジネスメールで使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-sports-competition-sentences",
+      "slug": "ja-sports-competition-sentences",
+      "category": "sports",
+      "languageCode": "ja",
+      "title": "运动 · 日语赛事 · 句子",
+      "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用日语表达。（常用句子）",
+      "titles": {
+        "zh": "运动 · 日语赛事 · 句子",
+        "en": "Sports · Japanese Competition · Sentences",
+        "ja": "スポーツ · 日本語大会 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习赛事赛程、判罚与赛后交流中的常用日语句子。",
+        "en": "Practice common Japanese sentences for competition schedules, officiating, and post-match communication.",
+        "ja": "大会日程・判定・試合後の交流で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-sports-training-sentences",
+      "slug": "ja-sports-training-sentences",
+      "category": "sports",
+      "languageCode": "ja",
+      "title": "运动 · 日语日常 · 句子",
+      "description": "学习训练、比赛和观赛场景中的常用日语表达。（常用句子）",
+      "titles": {
+        "zh": "运动 · 日语训练 · 句子",
+        "en": "Sports · Japanese Training · Sentences",
+        "ja": "スポーツ · 日本語トレーニング · 例文"
+      },
+      "descriptions": {
+        "zh": "学习日常训练、比赛与观赛中的常用日语句子。",
+        "en": "Practice common Japanese sentences for everyday training, matches, and sports viewing.",
+        "ja": "日常の練習・試合・観戦で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-airport-sentences",
+      "slug": "ja-travel-airport-sentences",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语机场 · 句子",
+      "description": "空港でのチェックイン、保安検査、搭乗に使う日本語（常用句子）",
+      "titles": {
+        "zh": "旅游 · 日语机场 · 句子",
+        "en": "Travel · Japanese Airport · Sentences",
+        "ja": "旅行 · 日本語空港 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习机场出行中的常用日语句子。",
+        "en": "Practice common Japanese sentences for airport travel.",
+        "ja": "空港での移動で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-directions-sentences",
+      "slug": "ja-travel-directions-sentences",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语交通 · 句子",
+      "description": "道案内、切符購入、公共交通の日本語（常用句子）",
+      "titles": {
+        "zh": "旅游 · 日语问路与交通 · 句子",
+        "en": "Travel · Japanese Directions & Transit · Sentences",
+        "ja": "旅行 · 日本語道案内・交通 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习问路与公共交通中的常用日语句子。",
+        "en": "Practice common Japanese sentences for directions and public transit.",
+        "ja": "道案内と公共交通で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-emergency-sentences",
+      "slug": "ja-travel-emergency-sentences",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语应急 · 句子",
+      "description": "トラブル、医療、紛失時の日本語表現（常用句子）",
+      "titles": {
+        "zh": "旅游 · 日语应急 · 句子",
+        "en": "Travel · Japanese Emergencies · Sentences",
+        "ja": "旅行 · 日本語緊急時 · 例文"
+      },
+      "descriptions": {
+        "zh": "学习旅行应急中的常用日语句子。",
+        "en": "Practice common Japanese sentences for travel emergencies.",
+        "ja": "旅行中の緊急時で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-hotel-sentences",
+      "slug": "ja-travel-hotel-sentences",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语酒店 · 句子",
+      "description": "ホテル予約、チェックイン、客室サービスの日本語（常用句子）",
+      "titles": {
+        "zh": "旅游 · 日语酒店 · 句子",
+        "en": "Travel · Japanese Hotel · Sentences",
+        "ja": "旅行 · 日本語ホテル · 例文"
+      },
+      "descriptions": {
+        "zh": "学习酒店住宿中的常用日语句子。",
+        "en": "Practice common Japanese sentences for hotel stays.",
+        "ja": "ホテル滞在で使う日本語の例文を練習します。"
+      },
+      "sortOrder": 1,
+      "status": "published"
+    },
+    {
+      "id": "ja-anime-dialogue-dialogues",
+      "slug": "ja-anime-dialogue-dialogues",
+      "category": "anime",
+      "languageCode": "ja",
+      "title": "二次元/动漫 · 日语台词 · 情景对话",
+      "description": "练习动漫场景中常见的日语台词与日常表达。（男女情景对话）",
+      "titles": {
+        "zh": "二次元/动漫 · 日语台词 · 情景对话",
+        "en": "Anime & ACG · Japanese Dialogue · Situational Dialogues",
+        "ja": "アニメ・ACG · 日本語セリフ · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习动漫台词中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for anime dialogue.",
+        "ja": "アニメのセリフで使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-anime-terms-dialogues",
+      "slug": "ja-anime-terms-dialogues",
+      "category": "anime",
+      "languageCode": "ja",
+      "title": "二次元/动漫 · 日语术语 · 情景对话",
+      "description": "学习动漫、漫画与 ACG 文化中常见的日语专业术语。（男女情景对话）",
+      "titles": {
+        "zh": "二次元/动漫 · 日语术语 · 情景对话",
+        "en": "Anime & ACG · Japanese Terms · Situational Dialogues",
+        "ja": "アニメ・ACG · 日本語用語 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习动漫术语中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for anime terminology.",
+        "ja": "アニメ用語で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-internet-gaming-dialogues",
+      "slug": "ja-internet-gaming-dialogues",
+      "category": "internet",
+      "languageCode": "ja",
+      "title": "网络游戏 · 日语 · 情景对话",
+      "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关日语。（男女情景对话）",
+      "titles": {
+        "zh": "网络文化 · 日语网络游戏 · 情景对话",
+        "en": "Internet Culture · Japanese Online Gaming · Situational Dialogues",
+        "ja": "ネット文化 · 日本語オンラインゲーム · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习网络游戏、电竞协作与健康习惯中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for online gaming, esports teamwork, and healthy play habits.",
+        "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-internet-social-dialogues",
+      "slug": "ja-internet-social-dialogues",
+      "category": "internet",
+      "languageCode": "ja",
+      "title": "网络文化 · 日语 · 情景对话",
+      "description": "学习社交媒体、内容创作、网络礼仪和安全相关日语。（男女情景对话）",
+      "titles": {
+        "zh": "网络文化 · 日语社交网络 · 情景对话",
+        "en": "Internet Culture · Japanese Social Media · Situational Dialogues",
+        "ja": "ネット文化 · 日本語SNS · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习社交媒体与网络文化中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for social media and internet culture.",
+        "ja": "ソーシャルメディアとネット文化で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-basics-dialogues",
+      "slug": "ja-prog-basics-dialogues",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语基础 · 情景对话",
+      "description": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 日语基础 · 情景对话",
+        "en": "编程知识 · 日语基础 · 情景对话",
+        "ja": "编程知识 · 日语基础 · 情景对话"
+      },
+      "descriptions": {
+        "zh": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）",
+        "en": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）",
+        "ja": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-git-cli-dialogues",
+      "slug": "ja-prog-git-cli-dialogues",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语 Git · 情景对话",
+      "description": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 日语 Git · 情景对话",
+        "en": "编程知识 · 日语 Git · 情景对话",
+        "ja": "编程知识 · 日语 Git · 情景对话"
+      },
+      "descriptions": {
+        "zh": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）",
+        "en": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）",
+        "ja": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-interview-dialogues",
+      "slug": "ja-prog-interview-dialogues",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语面试 · 情景对话",
+      "description": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 日语面试 · 情景对话",
+        "en": "编程知识 · 日语面试 · 情景对话",
+        "ja": "编程知识 · 日语面试 · 情景对话"
+      },
+      "descriptions": {
+        "zh": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）",
+        "en": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）",
+        "ja": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-prog-web-dialogues",
+      "slug": "ja-prog-web-dialogues",
+      "category": "programming",
+      "languageCode": "ja",
+      "title": "编程知识 · 日语 Web · 情景对话",
+      "description": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）",
+      "titles": {
+        "zh": "编程知识 · 日语 Web · 情景对话",
+        "en": "编程知识 · 日语 Web · 情景对话",
+        "ja": "编程知识 · 日语 Web · 情景对话"
+      },
+      "descriptions": {
+        "zh": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）",
+        "en": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）",
+        "ja": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-complaint-dialogues",
+      "slug": "ja-service-complaint-dialogues",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语投诉 · 情景对话",
+      "description": "クレーム対応と謝罪・補償の表現（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 日语投诉 · 情景对话",
+        "en": "Service & Hospitality · Japanese Complaints · Situational Dialogues",
+        "ja": "サービス業 · 日本語クレーム対応 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习投诉处理中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for complaint handling.",
+        "ja": "クレーム対応で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-greeting-dialogues",
+      "slug": "ja-service-greeting-dialogues",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语接待 · 情景对话",
+      "description": "店舗・ホテル受付の挨拶と予約対応（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 日语接待 · 情景对话",
+        "en": "Service & Hospitality · Japanese Greetings & Reception · Situational Dialogues",
+        "ja": "サービス業 · 日本語挨拶・受付 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习问候与前台接待中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for greetings and reception.",
+        "ja": "挨拶と受付で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-hospitality-dialogues",
+      "slug": "ja-service-hospitality-dialogues",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语餐饮 · 情景对话",
+      "description": "飲食店とホテルの接客・ホスピタリティ（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 日语餐饮酒店 · 情景对话",
+        "en": "Service & Hospitality · Japanese Hospitality · Situational Dialogues",
+        "ja": "サービス業 · 日本語接客 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习餐饮与酒店接待中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for hospitality service.",
+        "ja": "飲食店・ホテルの接客で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-service-phone-email-dialogues",
+      "slug": "ja-service-phone-email-dialogues",
+      "category": "service",
+      "languageCode": "ja",
+      "title": "服务行业 · 日语电话邮件 · 情景对话",
+      "description": "電話応対とビジネスメールの定型表現（男女情景对话）",
+      "titles": {
+        "zh": "服务行业 · 日语电话邮件 · 情景对话",
+        "en": "Service & Hospitality · Japanese Phone & Email · Situational Dialogues",
+        "ja": "サービス業 · 日本語電話・メール · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习电话与商务邮件中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for phone calls and business email.",
+        "ja": "電話応対とビジネスメールで使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-sports-competition-dialogues",
+      "slug": "ja-sports-competition-dialogues",
+      "category": "sports",
+      "languageCode": "ja",
+      "title": "运动 · 日语赛事 · 情景对话",
+      "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用日语表达。（男女情景对话）",
+      "titles": {
+        "zh": "运动 · 日语赛事 · 情景对话",
+        "en": "Sports · Japanese Competition · Situational Dialogues",
+        "ja": "スポーツ · 日本語大会 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习赛事赛程、判罚与赛后交流中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for competition schedules, officiating, and post-match communication.",
+        "ja": "大会日程・判定・試合後の交流で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-sports-training-dialogues",
+      "slug": "ja-sports-training-dialogues",
+      "category": "sports",
+      "languageCode": "ja",
+      "title": "运动 · 日语日常 · 情景对话",
+      "description": "学习训练、比赛和观赛场景中的常用日语表达。（男女情景对话）",
+      "titles": {
+        "zh": "运动 · 日语训练 · 情景对话",
+        "en": "Sports · Japanese Training · Situational Dialogues",
+        "ja": "スポーツ · 日本語トレーニング · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习日常训练、比赛与观赛中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for everyday training, matches, and sports viewing.",
+        "ja": "日常の練習・試合・観戦で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-airport-dialogues",
+      "slug": "ja-travel-airport-dialogues",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语机场 · 情景对话",
+      "description": "空港でのチェックイン、保安検査、搭乗に使う日本語（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 日语机场 · 情景对话",
+        "en": "Travel · Japanese Airport · Situational Dialogues",
+        "ja": "旅行 · 日本語空港 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习机场出行中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for airport travel.",
+        "ja": "空港での移動で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-directions-dialogues",
+      "slug": "ja-travel-directions-dialogues",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语交通 · 情景对话",
+      "description": "道案内、切符購入、公共交通の日本語（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 日语问路与交通 · 情景对话",
+        "en": "Travel · Japanese Directions & Transit · Situational Dialogues",
+        "ja": "旅行 · 日本語道案内・交通 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习问路与公共交通中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for directions and public transit.",
+        "ja": "道案内と公共交通で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-emergency-dialogues",
+      "slug": "ja-travel-emergency-dialogues",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语应急 · 情景对话",
+      "description": "トラブル、医療、紛失時の日本語表現（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 日语应急 · 情景对话",
+        "en": "Travel · Japanese Emergencies · Situational Dialogues",
+        "ja": "旅行 · 日本語緊急時 · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习旅行应急中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for travel emergencies.",
+        "ja": "旅行中の緊急時で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
+      "id": "ja-travel-hotel-dialogues",
+      "slug": "ja-travel-hotel-dialogues",
+      "category": "travel",
+      "languageCode": "ja",
+      "title": "旅游 · 日语酒店 · 情景对话",
+      "description": "ホテル予約、チェックイン、客室サービスの日本語（男女情景对话）",
+      "titles": {
+        "zh": "旅游 · 日语酒店 · 情景对话",
+        "en": "Travel · Japanese Hotel · Situational Dialogues",
+        "ja": "旅行 · 日本語ホテル · 場面会話"
+      },
+      "descriptions": {
+        "zh": "学习酒店住宿中的常用日语情景对话。",
+        "en": "Practice common Japanese situational dialogues for hotel stays.",
+        "ja": "ホテル滞在で使う日本語の場面会話を練習します。"
+      },
+      "sortOrder": 2,
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "internet",
+  "slug": "en-internet-gaming-dialogues",
+  "course": {
+    "title": "网络游戏 · 英语 · 情景对话",
+    "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关英语。（男女情景对话）",
+    "titles": {
+      "zh": "网络文化 · 英语网络游戏 · 情景对话",
+      "en": "Internet Culture · English Online Gaming · Situational Dialogues",
+      "ja": "ネット文化 · 英語オンラインゲーム · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习网络游戏、电竞协作与健康习惯中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for online gaming, esports teamwork, and healthy play habits.",
+      "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语网络游戏 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Are we ready for tonight’s team match?",
+          "answer": "Are we ready for tonight’s team match?",
+          "hints": {
+            "zh": "今晚的团队赛准备好了吗？",
+            "en": "Are we ready for tonight’s team match?",
+            "ja": "今夜のチーム戦の準備はできましたか。"
+          },
+          "hint": "今晚的团队赛准备好了吗？ / Are we ready for tonight’s team match? / 今夜のチーム戦の準備はできましたか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɚ wi ˈɹɛdi fɚ təˈnaɪts tim mætʃ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "planning-a-team-match",
+          "dialogueTitles": {
+            "zh": "规划一场团队赛",
+            "en": "Planning a Team Match",
+            "ja": "チーム戦の計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚在比赛前确认分工、策略与休息安排。",
+            "en": "Emma and Noah confirm roles, strategy, and breaks before a match.",
+            "ja": "エマとノアが試合前に役割、作戦、休憩の予定を確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Almost. I am checking everyone’s roles now.",
+          "answer": "Almost. I am checking everyone’s roles now.",
+          "hints": {
+            "zh": "快好了，我正在确认每个人的角色。",
+            "en": "Almost. I am checking everyone’s roles now.",
+            "ja": "もう少しです。全員の役割を確認しています。"
+          },
+          "hint": "快好了，我正在确认每个人的角色。 / Almost. I am checking everyone’s roles now. / もう少しです。全員の役割を確認しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔlmoʊst aɪ əm ˈtʃɛkɪŋ ˈɛvɹiˌwənz ɹoʊlz naʊ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "planning-a-team-match",
+          "dialogueTitles": {
+            "zh": "规划一场团队赛",
+            "en": "Planning a Team Match",
+            "ja": "チーム戦の計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚在比赛前确认分工、策略与休息安排。",
+            "en": "Emma and Noah confirm roles, strategy, and breaks before a match.",
+            "ja": "エマとノアが試合前に役割、作戦、休憩の予定を確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I can handle support and watch the objective.",
+          "answer": "I can handle support and watch the objective.",
+          "hints": {
+            "zh": "我可以负责辅助并关注目标。",
+            "en": "I can handle support and watch the objective.",
+            "ja": "私は支援役として目標を見ます。"
+          },
+          "hint": "我可以负责辅助并关注目标。 / I can handle support and watch the objective. / 私は支援役として目標を見ます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ kən ˈhændəl səˈpɔɹt ən wɑtʃ ði əbˈdʒɛktɪv/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "planning-a-team-match",
+          "dialogueTitles": {
+            "zh": "规划一场团队赛",
+            "en": "Planning a Team Match",
+            "ja": "チーム戦の計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚在比赛前确认分工、策略与休息安排。",
+            "en": "Emma and Noah confirm roles, strategy, and breaks before a match.",
+            "ja": "エマとノアが試合前に役割、作戦、休憩の予定を確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great, I will share a simple strategy in the lobby.",
+          "answer": "Great, I will share a simple strategy in the lobby.",
+          "hints": {
+            "zh": "很好，我会在大厅分享一个简单策略。",
+            "en": "Great, I will share a simple strategy in the lobby.",
+            "ja": "では、待機室で簡単な作戦を共有します。"
+          },
+          "hint": "很好，我会在大厅分享一个简单策略。 / Great, I will share a simple strategy in the lobby. / では、待機室で簡単な作戦を共有します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt aɪ wəl ʃɛɹ ə ˈsɪmpəl ˈstɹætədʒi ɪn ðə ˈlɑbi/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "planning-a-team-match",
+          "dialogueTitles": {
+            "zh": "规划一场团队赛",
+            "en": "Planning a Team Match",
+            "ja": "チーム戦の計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚在比赛前确认分工、策略与休息安排。",
+            "en": "Emma and Noah confirm roles, strategy, and breaks before a match.",
+            "ja": "エマとノアが試合前に役割、作戦、休憩の予定を確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "After two rounds, let us take a water break.",
+          "answer": "After two rounds, let us take a water break.",
+          "hints": {
+            "zh": "两轮后我们休息一下喝水吧。",
+            "en": "After two rounds, let us take a water break.",
+            "ja": "二ラウンド後に水分休憩を取りましょう。"
+          },
+          "hint": "两轮后我们休息一下喝水吧。 / After two rounds, let us take a water break. / 二ラウンド後に水分休憩を取りましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈæftɚ tu ɹaʊndz lɛt əs teɪk ə ˈwɔtɚ bɹeɪk/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "planning-a-team-match",
+          "dialogueTitles": {
+            "zh": "规划一场团队赛",
+            "en": "Planning a Team Match",
+            "ja": "チーム戦の計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚在比赛前确认分工、策略与休息安排。",
+            "en": "Emma and Noah confirm roles, strategy, and breaks before a match.",
+            "ja": "エマとノアが試合前に役割、作戦、休憩の予定を確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Agreed. We will play fairly and keep chat positive.",
+          "answer": "Agreed. We will play fairly and keep chat positive.",
+          "hints": {
+            "zh": "同意，我们会公平游戏并保持友善交流。",
+            "en": "Agreed. We will play fairly and keep chat positive.",
+            "ja": "賛成です。公平に遊んで会話も明るくします。"
+          },
+          "hint": "同意，我们会公平游戏并保持友善交流。 / Agreed. We will play fairly and keep chat positive. / 賛成です。公平に遊んで会話も明るくします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈɡɹid wi wəl pleɪ ˈfɛɹli ən kip tʃæt ˈpɑzətɪv/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "planning-a-team-match",
+          "dialogueTitles": {
+            "zh": "规划一场团队赛",
+            "en": "Planning a Team Match",
+            "ja": "チーム戦の計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚在比赛前确认分工、策略与休息安排。",
+            "en": "Emma and Noah confirm roles, strategy, and breaks before a match.",
+            "ja": "エマとノアが試合前に役割、作戦、休憩の予定を確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

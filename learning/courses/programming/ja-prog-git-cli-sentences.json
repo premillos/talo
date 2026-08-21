@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "programming",
+  "slug": "ja-prog-git-cli-sentences",
+  "course": {
+    "title": "编程知识 · 日语 Git · 句子",
+    "description": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）",
+    "titles": {
+      "zh": "编程知识 · 日语 Git · 句子",
+      "en": "编程知识 · 日语 Git · 句子",
+      "ja": "编程知识 · 日语 Git · 句子"
+    },
+    "descriptions": {
+      "zh": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）",
+      "en": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）",
+      "ja": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（常用句子）"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Git と CLI · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "この機能のために新しいブランチを作成してください。",
+          "answer": "この機能のために新しいブランチを作成してください。",
+          "hints": {
+            "zh": "为这个功能创建一个新分支。",
+            "en": "Create a new branch for this feature.",
+            "ja": "この機能のために新しいブランチを作成してください。"
+          },
+          "hint": "为这个功能创建一个新分支。 / Create a new branch for this feature. / この機能のために新しいブランチを作成してください。",
+          "furigana": "このきのうのためにあたらしいブランチをさくせいしてください。",
+          "romaji": "konokinounotameniatarashiiburanchiwosakuseishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "私のプルリクエストをレビューしてください。",
+          "answer": "私のプルリクエストをレビューしてください。",
+          "hints": {
+            "zh": "请审查我的拉取请求。",
+            "en": "Please review my pull request.",
+            "ja": "私のプルリクエストをレビューしてください。"
+          },
+          "hint": "请审查我的拉取请求。 / Please review my pull request. / 私のプルリクエストをレビューしてください。",
+          "furigana": "わたしのプルリクエストをレビューしてください。",
+          "romaji": "watashinopururikuesutoworebyuushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "マージコンフリクトを手動で解決してください。",
+          "answer": "マージコンフリクトを手動で解決してください。",
+          "hints": {
+            "zh": "请手动解决合并冲突。",
+            "en": "Resolve the merge conflict manually.",
+            "ja": "マージコンフリクトを手動で解決してください。"
+          },
+          "hint": "请手动解决合并冲突。 / Resolve the merge conflict manually. / マージコンフリクトを手動で解決してください。",
+          "furigana": "マージコンフリクトをしゅどうでかいけつしてください。",
+          "romaji": "maajikonfurikutowoshudoudekaiketsushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "git statusを実行して変更を確認してください。",
+          "answer": "git statusを実行して変更を確認してください。",
+          "hints": {
+            "zh": "运行 git status 查看变更。",
+            "en": "Run git status to check changes.",
+            "ja": "git statusを実行して変更を確認してください。"
+          },
+          "hint": "运行 git status 查看变更。 / Run git status to check changes. / git statusを実行して変更を確認してください。",
+          "furigana": "git statusをじっこうしてへんこうをかくにんしてください。",
+          "romaji": "git statuswojikkoushitehenkouwokakuninshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コミットをリモートリポジトリにプッシュしてください。",
+          "answer": "コミットをリモートリポジトリにプッシュしてください。",
+          "hints": {
+            "zh": "将你的提交推送到远程仓库。",
+            "en": "Push your commits to the remote repository.",
+            "ja": "コミットをリモートリポジトリにプッシュしてください。"
+          },
+          "hint": "将你的提交推送到远程仓库。 / Push your commits to the remote repository. / コミットをリモートリポジトリにプッシュしてください。",
+          "furigana": "コミットをリモートリポジトリにプッシュしてください。",
+          "romaji": "komittoworimootoripojitorinipusshushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ブランチを切り替える前に変更をスタッシュしてください。",
+          "answer": "ブランチを切り替える前に変更をスタッシュしてください。",
+          "hints": {
+            "zh": "切换分支前先暂存你的更改。",
+            "en": "Stash your changes before switching branches.",
+            "ja": "ブランチを切り替える前に変更をスタッシュしてください。"
+          },
+          "hint": "切换分支前先暂存你的更改。 / Stash your changes before switching branches. / ブランチを切り替える前に変更をスタッシュしてください。",
+          "furigana": "ブランチをきりかえるまえにへんこうをスタッシュしてください。",
+          "romaji": "buranchiwokirikaerumaenihenkouwosutasshushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "メインブランチでビルドが失敗しました。",
+          "answer": "メインブランチでビルドが失敗しました。",
+          "hints": {
+            "zh": "主分支上的构建失败了。",
+            "en": "The build failed on the main branch.",
+            "ja": "メインブランチでビルドが失敗しました。"
+          },
+          "hint": "主分支上的构建失败了。 / The build failed on the main branch. / メインブランチでビルドが失敗しました。",
+          "furigana": "メインブランチでビルドがしっぱいしました。",
+          "romaji": "meinburanchidebirudogashippaishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最新のmainにブランチをリベースしてください。",
+          "answer": "最新のmainにブランチをリベースしてください。",
+          "hints": {
+            "zh": "将你的分支变基到最新的 main 分支上。",
+            "en": "Rebase your branch onto the latest main.",
+            "ja": "最新のmainにブランチをリベースしてください。"
+          },
+          "hint": "将你的分支变基到最新的 main 分支上。 / Rebase your branch onto the latest main. / 最新のmainにブランチをリベースしてください。",
+          "furigana": "さいしんのmainにブランチをリベースしてください。",
+          "romaji": "saishin'nomainniburanchiworibeesushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このフォルダで新しいGitリポジトリを初期化してください。",
+          "answer": "このフォルダで新しいGitリポジトリを初期化してください。",
+          "hints": {
+            "zh": "在此文件夹初始化 Git 仓库。",
+            "en": "Initialize a new Git repository in this folder.",
+            "ja": "このフォルダで新しいGitリポジトリを初期化してください。"
+          },
+          "hint": "在此文件夹初始化 Git 仓库。 / Initialize a new Git repository in this folder. / このフォルダで新しいGitリポジトリを初期化してください。",
+          "furigana": "このフォルダであたらしいGitリポジトリをしょきかしてください。",
+          "romaji": "konoforudadeatarashiiGitripojitoriwoshokikashitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コミット前にすべての変更をステージングしてください。",
+          "answer": "コミット前にすべての変更をステージングしてください。",
+          "hints": {
+            "zh": "提交前暂存所有更改。",
+            "en": "Stage all changes before committing.",
+            "ja": "コミット前にすべての変更をステージングしてください。"
+          },
+          "hint": "提交前暂存所有更改。 / Stage all changes before committing. / コミット前にすべての変更をステージングしてください。",
+          "furigana": "コミットまえにすべてのへんこうをステージングしてください。",
+          "romaji": "komittomaenisubetenohenkouwosuteejingushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "各変更に明確なコミットメッセージを書いてください。",
+          "answer": "各変更に明確なコミットメッセージを書いてください。",
+          "hints": {
+            "zh": "为每次更改写清晰提交信息。",
+            "en": "Write a clear commit message for each change.",
+            "ja": "各変更に明確なコミットメッセージを書いてください。"
+          },
+          "hint": "为每次更改写清晰提交信息。 / Write a clear commit message for each change. / 各変更に明確なコミットメッセージを書いてください。",
+          "furigana": "かくへんこうにめいかくなコミットメッセージをかいてください。",
+          "romaji": "kakuhenkounimeikakunakomittomesseejiwokaitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "リモートから最新の変更をプルしてください。",
+          "answer": "リモートから最新の変更をプルしてください。",
+          "hints": {
+            "zh": "从远程拉取最新更改。",
+            "en": "Pull the latest changes from the remote.",
+            "ja": "リモートから最新の変更をプルしてください。"
+          },
+          "hint": "从远程拉取最新更改。 / Pull the latest changes from the remote. / リモートから最新の変更をプルしてください。",
+          "furigana": "リモートからさいしんのへんこうをプルしてください。",
+          "romaji": "rimootokarasaishin'nohenkouwopurushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "マージ後にローカルブランチを削除してください。",
+          "answer": "マージ後にローカルブランチを削除してください。",
+          "hints": {
+            "zh": "合并后删除本地分支。",
+            "en": "Delete the local branch after merging.",
+            "ja": "マージ後にローカルブランチを削除してください。"
+          },
+          "hint": "合并后删除本地分支。 / Delete the local branch after merging. / マージ後にローカルブランチを削除してください。",
+          "furigana": "マージごにローカルブランチをさくじょしてください。",
+          "romaji": "maajigonirookaruburanchiwosakujoshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "git diffで2つのコミットを比較してください。",
+          "answer": "git diffで2つのコミットを比較してください。",
+          "hints": {
+            "zh": "用 git diff 比较两次提交。",
+            "en": "Compare two commits with git diff.",
+            "ja": "git diffで2つのコミットを比較してください。"
+          },
+          "hint": "用 git diff 比较两次提交。 / Compare two commits with git diff. / git diffで2つのコミットを比較してください。",
+          "furigana": "git diffで2つのコミットをひかくしてください。",
+          "romaji": "git diffde2tsunokomittowohikakushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "git logでコミット履歴を表示してください。",
+          "answer": "git logでコミット履歴を表示してください。",
+          "hints": {
+            "zh": "用 git log 查看提交历史。",
+            "en": "View the commit history with git log.",
+            "ja": "git logでコミット履歴を表示してください。"
+          },
+          "hint": "用 git log 查看提交历史。 / View the commit history with git log. / git logでコミット履歴を表示してください。",
+          "furigana": "git logでコミットりれきをひょうじしてください。",
+          "romaji": "git logdekomittorirekiwohyoujishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "リリースバージョンのタグを作成してください。",
+          "answer": "リリースバージョンのタグを作成してください。",
+          "hints": {
+            "zh": "为发布版本创建标签。",
+            "en": "Create a tag for the release version.",
+            "ja": "リリースバージョンのタグを作成してください。"
+          },
+          "hint": "为发布版本创建标签。 / Create a tag for the release version. / リリースバージョンのタグを作成してください。",
+          "furigana": "リリースバージョンのタグをさくせいしてください。",
+          "romaji": "ririisubaajon'notaguwosakuseishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "リポジトリを自分のアカウントにフォークしてください。",
+          "answer": "リポジトリを自分のアカウントにフォークしてください。",
+          "hints": {
+            "zh": "将仓库 Fork 到你的账户。",
+            "en": "Fork the repository to your account.",
+            "ja": "リポジトリを自分のアカウントにフォークしてください。"
+          },
+          "hint": "将仓库 Fork 到你的账户。 / Fork the repository to your account. / リポジトリを自分のアカウントにフォークしてください。",
+          "furigana": "リポジトリをじぶんのアカウントにフォークしてください。",
+          "romaji": "ripojitoriwojibun'noakauntonifookushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "バグ修正のパッチを適用してください。",
+          "answer": "バグ修正のパッチを適用してください。",
+          "hints": {
+            "zh": "应用补丁修复 bug。",
+            "en": "Apply the patch to fix the bug.",
+            "ja": "バグ修正のパッチを適用してください。"
+          },
+          "hint": "应用补丁修复 bug。 / Apply the patch to fix the bug. / バグ修正のパッチを適用してください。",
+          "furigana": "バグしゅうせいのパッチをてきようしてください。",
+          "romaji": "bagushuuseinopatchiwotekiyoushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最後のコミットをリセットして変更は保持してください。",
+          "answer": "最後のコミットをリセットして変更は保持してください。",
+          "hints": {
+            "zh": "重置最后提交但保留更改。",
+            "en": "Reset the last commit but keep the changes.",
+            "ja": "最後のコミットをリセットして変更は保持してください。"
+          },
+          "hint": "重置最后提交但保留更改。 / Reset the last commit but keep the changes. / 最後のコミットをリセットして変更は保持してください。",
+          "furigana": "さいごのコミットをリセットしてへんこうはほじしてください。",
+          "romaji": "saigonokomittoworisettoshitehenkouhahojishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "追跡用のアップストリームブランチを設定してください。",
+          "answer": "追跡用のアップストリームブランチを設定してください。",
+          "hints": {
+            "zh": "设置上游分支用于跟踪。",
+            "en": "Set the upstream branch for tracking.",
+            "ja": "追跡用のアップストリームブランチを設定してください。"
+          },
+          "hint": "设置上游分支用于跟踪。 / Set the upstream branch for tracking. / 追跡用のアップストリームブランチを設定してください。",
+          "furigana": "ついせきようのアップストリームブランチをせっていしてください。",
+          "romaji": "tsuisekiyounoappusutoriimuburanchiwosetteishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "修正コミットをmainにチェリーピックしてください。",
+          "answer": "修正コミットをmainにチェリーピックしてください。",
+          "hints": {
+            "zh": "将修复提交拣选到 main。",
+            "en": "Cherry-pick the fix commit to main.",
+            "ja": "修正コミットをmainにチェリーピックしてください。"
+          },
+          "hint": "将修复提交拣选到 main。 / Cherry-pick the fix commit to main. / 修正コミットをmainにチェリーピックしてください。",
+          "furigana": "しゅうせいコミットをmainにチェリーピックしてください。",
+          "romaji": "shuuseikomittowomainnicheriipikkushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "共有ブランチでの強制プッシュは避けてください。",
+          "answer": "共有ブランチでの強制プッシュは避けてください。",
+          "hints": {
+            "zh": "避免在共享分支强制推送。",
+            "en": "Avoid force push on shared branches.",
+            "ja": "共有ブランチでの強制プッシュは避けてください。"
+          },
+          "hint": "避免在共享分支强制推送。 / Avoid force push on shared branches. / 共有ブランチでの強制プッシュは避けてください。",
+          "furigana": "きょうゆうブランチでのきょうせいプッシュはさけてください。",
+          "romaji": "kyouyuuburanchidenokyouseipusshuhasaketekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "node_modulesをgitignoreに追加してください。",
+          "answer": "node_modulesをgitignoreに追加してください。",
+          "hints": {
+            "zh": "将 node_modules 加入 gitignore。",
+            "en": "Add node_modules to your gitignore file.",
+            "ja": "node_modulesをgitignoreに追加してください。"
+          },
+          "hint": "将 node_modules 加入 gitignore。 / Add node_modules to your gitignore file. / node_modulesをgitignoreに追加してください。",
+          "furigana": "node_modulesをgitignoreについかしてください。",
+          "romaji": "node_moduleswogitignorenitsuikashitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ハッシュで特定のコミットをチェックアウトしてください。",
+          "answer": "ハッシュで特定のコミットをチェックアウトしてください。",
+          "hints": {
+            "zh": "按哈希检出特定提交。",
+            "en": "Checkout a specific commit by hash.",
+            "ja": "ハッシュで特定のコミットをチェックアウトしてください。"
+          },
+          "hint": "按哈希检出特定提交。 / Checkout a specific commit by hash. / ハッシュで特定のコミットをチェックアウトしてください。",
+          "furigana": "ハッシュでとくていのコミットをチェックアウトしてください。",
+          "romaji": "hasshudetokuteinokomittowochekkuautoshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "デタッチHEAD状態はブランチ上にいないことを意味します。",
+          "answer": "デタッチHEAD状態はブランチ上にいないことを意味します。",
+          "hints": {
+            "zh": "游离 HEAD 表示不在分支上。",
+            "en": "The detached HEAD state means you are not on a branch.",
+            "ja": "デタッチHEAD状態はブランチ上にいないことを意味します。"
+          },
+          "hint": "游离 HEAD 表示不在分支上。 / The detached HEAD state means you are not on a branch. / デタッチHEAD状態はブランチ上にいないことを意味します。",
+          "furigana": "デタッチHEADじょうたいはブランチじょうにいないことをいみします。",
+          "romaji": "detatchiHEADjoutaihaburanchijouniinaikotowoimishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "プロジェクトのルートディレクトリでコマンドを実行してください。",
+          "answer": "プロジェクトのルートディレクトリでコマンドを実行してください。",
+          "hints": {
+            "zh": "在项目根目录运行命令。",
+            "en": "Run the command in the project root directory.",
+            "ja": "プロジェクトのルートディレクトリでコマンドを実行してください。"
+          },
+          "hint": "在项目根目录运行命令。 / Run the command in the project root directory. / プロジェクトのルートディレクトリでコマンドを実行してください。",
+          "furigana": "プロジェクトのルートディレクトリでコマンドをじっこうしてください。",
+          "romaji": "purojekutonoruutodirekutoridekomandowojikkoushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "HTTPSではなくSSHでリポジトリをクローンしてください。",
+          "answer": "HTTPSではなくSSHでリポジトリをクローンしてください。",
+          "hints": {
+            "zh": "用 SSH 克隆仓库。",
+            "en": "Clone the repo with SSH instead of HTTPS.",
+            "ja": "HTTPSではなくSSHでリポジトリをクローンしてください。"
+          },
+          "hint": "用 SSH 克隆仓库。 / Clone the repo with SSH instead of HTTPS. / HTTPSではなくSSHでリポジトリをクローンしてください。",
+          "furigana": "HTTPSではなくSSHでリポジトリをクローンしてください。",
+          "romaji": "HTTPSdehanakuSSHderipojitoriwokuroonshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "機能ブランチに定期的にmainをマージしてください。",
+          "answer": "機能ブランチに定期的にmainをマージしてください。",
+          "hints": {
+            "zh": "定期将 main 合并进功能分支。",
+            "en": "Merge main into your feature branch regularly.",
+            "ja": "機能ブランチに定期的にmainをマージしてください。"
+          },
+          "hint": "定期将 main 合并进功能分支。 / Merge main into your feature branch regularly. / 機能ブランチに定期的にmainをマージしてください。",
+          "furigana": "きのうブランチにていきてきにmainをマージしてください。",
+          "romaji": "kinouburanchiniteikitekinimainwomaajishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "git stash popでスタッシュした変更を復元してください。",
+          "answer": "git stash popでスタッシュした変更を復元してください。",
+          "hints": {
+            "zh": "用 git stash pop 恢复暂存更改。",
+            "en": "Use git stash pop to restore stashed changes.",
+            "ja": "git stash popでスタッシュした変更を復元してください。"
+          },
+          "hint": "用 git stash pop 恢复暂存更改。 / Use git stash pop to restore stashed changes. / git stash popでスタッシュした変更を復元してください。",
+          "furigana": "git stash popでスタッシュしたへんこうをふくげんしてください。",
+          "romaji": "git stash popdesutasshushitahenkouwofukugenshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "作業ディレクトリに未コミットの変更があります。",
+          "answer": "作業ディレクトリに未コミットの変更があります。",
+          "hints": {
+            "zh": "工作目录有未提交更改。",
+            "en": "The working directory has uncommitted changes.",
+            "ja": "作業ディレクトリに未コミットの変更があります。"
+          },
+          "hint": "工作目录有未提交更改。 / The working directory has uncommitted changes. / 作業ディレクトリに未コミットの変更があります。",
+          "furigana": "さぎょうディレクトリにみコミットのへんこうがあります。",
+          "romaji": "sagyoudirekutorinimikomittonohenkougaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "service",
+  "slug": "en-service-complaint-dialogues",
+  "course": {
+    "title": "服务行业 · 英语投诉 · 情景对话",
+    "description": "投诉处理、道歉与补救沟通（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 英语投诉 · 情景对话",
+      "en": "Service & Hospitality · English Complaints · Situational Dialogues",
+      "ja": "サービス業 · 英語クレーム対応 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习投诉处理中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for complaint handling.",
+      "ja": "クレーム対応で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "投诉与道歉 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Hello. The coffee maker I received today is cracked and does not work.",
+          "answer": "Hello. The coffee maker I received today is cracked and does not work.",
+          "hints": {
+            "zh": "您好，我今天收到的咖啡机有裂痕，而且无法使用。",
+            "en": "The customer clearly describes the damaged product.",
+            "ja": "客が商品の破損と故障を説明します。"
+          },
+          "hint": "您好，我今天收到的咖啡机有裂痕，而且无法使用。 / The customer clearly describes the damaged product. / 客が商品の破損と故障を説明します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həˈloʊ ðə ˈkɑfi ˈmeɪkɚ aɪ ɹəˈsivd təˈdeɪ ɪz kɹækt ən dəz nɑt wɝk/",
+          "audioUrl": "learning/audio/en/en-service-complaint-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "damaged-order-resolution",
+          "dialogueTitles": {
+            "zh": "损坏商品投诉",
+            "en": "Damaged Order Complaint",
+            "ja": "破損商品のクレーム"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客向男客服投诉刚收到的商品已损坏。",
+            "en": "A female customer reports a damaged delivery to a male service agent.",
+            "ja": "女性客が届いた破損商品について男性担当者に申し出ます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "顾客索菲娅",
+            "en": "Sophia, Customer",
+            "ja": "客のソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I am very sorry about that. Could you give me your order number?",
+          "answer": "I am very sorry about that. Could you give me your order number?",
+          "hints": {
+            "zh": "对此我非常抱歉。可以告诉我订单号吗？",
+            "en": "The agent apologizes and asks for the order number.",
+            "ja": "担当者が謝罪し、注文番号を尋ねます。"
+          },
+          "hint": "对此我非常抱歉。可以告诉我订单号吗？ / The agent apologizes and asks for the order number. / 担当者が謝罪し、注文番号を尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ əm ˈvɛɹi ˈsɑɹi əˈbaʊt ðæt kəd ju ɡɪv mi jɚ ˈɔɹdɚ ˈnəmbɚ/",
+          "audioUrl": "learning/audio/en/en-service-complaint-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "damaged-order-resolution",
+          "dialogueTitles": {
+            "zh": "损坏商品投诉",
+            "en": "Damaged Order Complaint",
+            "ja": "破損商品のクレーム"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客向男客服投诉刚收到的商品已损坏。",
+            "en": "A female customer reports a damaged delivery to a male service agent.",
+            "ja": "女性客が届いた破損商品について男性担当者に申し出ます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客服马克",
+            "en": "Mark, Service Agent",
+            "ja": "担当者のマーク"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, it is A four eight two one. I would like a replacement.",
+          "answer": "Yes, it is A four eight two one. I would like a replacement.",
+          "hints": {
+            "zh": "可以，订单号是 A4821。我想更换一台。",
+            "en": "The customer provides the order number and requests a replacement.",
+            "ja": "客が注文番号と交換希望を伝えます。"
+          },
+          "hint": "可以，订单号是 A4821。我想更换一台。 / The customer provides the order number and requests a replacement. / 客が注文番号と交換希望を伝えます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs ɪt ɪz eɪ fɔɹ eɪt tu wən aɪ wəd laɪk ə ɹɪˈpleɪsmənt/",
+          "audioUrl": "learning/audio/en/en-service-complaint-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "damaged-order-resolution",
+          "dialogueTitles": {
+            "zh": "损坏商品投诉",
+            "en": "Damaged Order Complaint",
+            "ja": "破損商品のクレーム"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客向男客服投诉刚收到的商品已损坏。",
+            "en": "A female customer reports a damaged delivery to a male service agent.",
+            "ja": "女性客が届いた破損商品について男性担当者に申し出ます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "顾客索菲娅",
+            "en": "Sophia, Customer",
+            "ja": "客のソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I found your order. We can send a replacement tomorrow at no charge.",
+          "answer": "I found your order. We can send a replacement tomorrow at no charge.",
+          "hints": {
+            "zh": "我找到您的订单了。我们可以明天免费寄出替换品。",
+            "en": "The agent offers a free replacement.",
+            "ja": "担当者が無料交換を提案します。"
+          },
+          "hint": "我找到您的订单了。我们可以明天免费寄出替换品。 / The agent offers a free replacement. / 担当者が無料交換を提案します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ faʊnd jɚ ˈɔɹdɚ wi kən sɛnd ə ɹɪˈpleɪsmənt təˈmɑˌɹoʊ æt noʊ tʃɑɹdʒ/",
+          "audioUrl": "learning/audio/en/en-service-complaint-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "damaged-order-resolution",
+          "dialogueTitles": {
+            "zh": "损坏商品投诉",
+            "en": "Damaged Order Complaint",
+            "ja": "破損商品のクレーム"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客向男客服投诉刚收到的商品已损坏。",
+            "en": "A female customer reports a damaged delivery to a male service agent.",
+            "ja": "女性客が届いた破損商品について男性担当者に申し出ます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客服马克",
+            "en": "Mark, Service Agent",
+            "ja": "担当者のマーク"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "That works for me. How should I return the damaged one?",
+          "answer": "That works for me. How should I return the damaged one?",
+          "hints": {
+            "zh": "可以。损坏的这台该怎么退回？",
+            "en": "The customer accepts and asks about the return.",
+            "ja": "客が提案を受け、返品方法を確認します。"
+          },
+          "hint": "可以。损坏的这台该怎么退回？ / The customer accepts and asks about the return. / 客が提案を受け、返品方法を確認します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðæt wɝks fɚ mi haʊ ʃəd aɪ ɹiˈtɝn ðə ˈdæmədʒd wən/",
+          "audioUrl": "learning/audio/en/en-service-complaint-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "damaged-order-resolution",
+          "dialogueTitles": {
+            "zh": "损坏商品投诉",
+            "en": "Damaged Order Complaint",
+            "ja": "破損商品のクレーム"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客向男客服投诉刚收到的商品已损坏。",
+            "en": "A female customer reports a damaged delivery to a male service agent.",
+            "ja": "女性客が届いた破損商品について男性担当者に申し出ます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "顾客索菲娅",
+            "en": "Sophia, Customer",
+            "ja": "客のソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "The courier will collect it when the replacement arrives. I will email the details now.",
+          "answer": "The courier will collect it when the replacement arrives. I will email the details now.",
+          "hints": {
+            "zh": "替换品送达时快递员会取走它。我现在把详情发到您的邮箱。",
+            "en": "The agent explains collection and confirms an email follow-up.",
+            "ja": "担当者が回収方法とメール連絡を案内します。"
+          },
+          "hint": "替换品送达时快递员会取走它。我现在把详情发到您的邮箱。 / The agent explains collection and confirms an email follow-up. / 担当者が回収方法とメール連絡を案内します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈkɝiɚ wəl kəˈlɛkt ɪt wɛn ðə ɹɪˈpleɪsmənt ɚˈaɪvz aɪ wəl iˈmeɪl ðə ˈditeɪlz naʊ/",
+          "audioUrl": "learning/audio/en/en-service-complaint-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "damaged-order-resolution",
+          "dialogueTitles": {
+            "zh": "损坏商品投诉",
+            "en": "Damaged Order Complaint",
+            "ja": "破損商品のクレーム"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客向男客服投诉刚收到的商品已损坏。",
+            "en": "A female customer reports a damaged delivery to a male service agent.",
+            "ja": "女性客が届いた破損商品について男性担当者に申し出ます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客服马克",
+            "en": "Mark, Service Agent",
+            "ja": "担当者のマーク"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "service",
+  "slug": "en-service-greeting-words",
+  "course": {
+    "title": "服务行业 · 英语接待 · 词汇",
+    "description": "前台接待、问候与预约确认常用表达（单词与短语）",
+    "titles": {
+      "zh": "服务行业 · 英语接待 · 词汇",
+      "en": "Service & Hospitality · English Greetings & Reception · Vocabulary",
+      "ja": "サービス業 · 英語挨拶・受付 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习问候与前台接待中的常用英语词汇。",
+      "en": "Practice common English vocabulary for greetings and reception.",
+      "ja": "挨拶と受付で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "问候与预约",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "welcome",
+          "answer": "welcome",
+          "hints": {
+            "zh": "欢迎",
+            "en": "welcome",
+            "ja": "ようこそ"
+          },
+          "hint": "欢迎 / welcome / ようこそ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɛlkəm/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "greeting",
+          "answer": "greeting",
+          "hints": {
+            "zh": "问候",
+            "en": "greeting",
+            "ja": "挨拶"
+          },
+          "hint": "问候 / greeting / 挨拶",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɡɹitɪŋ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "reception",
+          "answer": "reception",
+          "hints": {
+            "zh": "前台；接待处",
+            "en": "reception",
+            "ja": "受付"
+          },
+          "hint": "前台；接待处 / reception / 受付",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈsɛpʃən/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "appointment",
+          "answer": "appointment",
+          "hints": {
+            "zh": "预约",
+            "en": "appointment",
+            "ja": "予約"
+          },
+          "hint": "预约 / appointment / 予約",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈpɔɪntmənt/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "reservation",
+          "answer": "reservation",
+          "hints": {
+            "zh": "预订",
+            "en": "reservation",
+            "ja": "予約"
+          },
+          "hint": "预订 / reservation / 予約",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɹɛzɚˈveɪʃən/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "customer",
+          "answer": "customer",
+          "hints": {
+            "zh": "顾客",
+            "en": "customer",
+            "ja": "お客様"
+          },
+          "hint": "顾客 / customer / お客様",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkəstəmɚ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "guest",
+          "answer": "guest",
+          "hints": {
+            "zh": "客人",
+            "en": "guest",
+            "ja": "ゲスト"
+          },
+          "hint": "客人 / guest / ゲスト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɛst/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "concierge",
+          "answer": "concierge",
+          "hints": {
+            "zh": "礼宾员",
+            "en": "concierge",
+            "ja": "コンシェルジュ"
+          },
+          "hint": "礼宾员 / concierge / コンシェルジュ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌkɑnsiˈɛɹʒ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "lobby",
+          "answer": "lobby",
+          "hints": {
+            "zh": "大堂",
+            "en": "lobby",
+            "ja": "ロビー"
+          },
+          "hint": "大堂 / lobby / ロビー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlɑbi/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "inquiry",
+          "answer": "inquiry",
+          "hints": {
+            "zh": "咨询；询问",
+            "en": "inquiry",
+            "ja": "お問い合わせ"
+          },
+          "hint": "咨询；询问 / inquiry / お問い合わせ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɪnˈkwaɪˌɹi/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "availability",
+          "answer": "availability",
+          "hints": {
+            "zh": "空位；可用性",
+            "en": "availability",
+            "ja": "空き状況"
+          },
+          "hint": "空位；可用性 / availability / 空き状況",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˌveɪləˈbɪləti/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "confirmation",
+          "answer": "confirmation",
+          "hints": {
+            "zh": "确认",
+            "en": "confirmation",
+            "ja": "確認"
+          },
+          "hint": "确认 / confirmation / 確認",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌkɑnfɚˈmeɪʃən/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "How may I help you?",
+          "answer": "How may I help you?",
+          "hints": {
+            "zh": "我能帮您什么？",
+            "en": "How may I help you?",
+            "ja": "ご用件をお伺いしてもよろしいでしょうか"
+          },
+          "hint": "我能帮您什么？ / How may I help you? / ご用件をお伺いしてもよろしいでしょうか",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ meɪ aɪ hɛlp ju/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "Good morning",
+          "answer": "Good morning",
+          "hints": {
+            "zh": "早上好",
+            "en": "Good morning",
+            "ja": "おはようございます"
+          },
+          "hint": "早上好 / Good morning / おはようございます",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈmɔɹnɪŋ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "Good afternoon",
+          "answer": "Good afternoon",
+          "hints": {
+            "zh": "下午好",
+            "en": "Good afternoon",
+            "ja": "こんにちは"
+          },
+          "hint": "下午好 / Good afternoon / こんにちは",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˌæftɚˈnun/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "Good evening",
+          "answer": "Good evening",
+          "hints": {
+            "zh": "晚上好",
+            "en": "Good evening",
+            "ja": "こんばんは"
+          },
+          "hint": "晚上好 / Good evening / こんばんは",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈivnɪŋ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "Have a seat, please",
+          "answer": "Have a seat, please",
+          "hints": {
+            "zh": "请坐",
+            "en": "Have a seat, please",
+            "ja": "どうぞお座りください"
+          },
+          "hint": "请坐 / Have a seat, please / どうぞお座りください",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həv ə sit pliz/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "One moment, please",
+          "answer": "One moment, please",
+          "hints": {
+            "zh": "请稍等",
+            "en": "One moment, please",
+            "ja": "少々お待ちください"
+          },
+          "hint": "请稍等 / One moment, please / 少々お待ちください",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wən ˈmoʊmənt pliz/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "May I have your name?",
+          "answer": "May I have your name?",
+          "hints": {
+            "zh": "请问您的姓名？",
+            "en": "May I have your name?",
+            "ja": "お名前を伺ってもよろしいでしょうか"
+          },
+          "hint": "请问您的姓名？ / May I have your name? / お名前を伺ってもよろしいでしょうか",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/meɪ aɪ həv jɚ neɪm/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "Is this your first visit?",
+          "answer": "Is this your first visit?",
+          "hints": {
+            "zh": "这是您第一次来吗？",
+            "en": "Is this your first visit?",
+            "ja": "初めてのご来店でしょうか"
+          },
+          "hint": "这是您第一次来吗？ / Is this your first visit? / 初めてのご来店でしょうか",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɪs jɚ fɝst ˈvɪzɪt/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "I will check availability",
+          "answer": "I will check availability",
+          "hints": {
+            "zh": "我来查一下空位",
+            "en": "I will check availability",
+            "ja": "空き状況を確認いたします"
+          },
+          "hint": "我来查一下空位 / I will check availability / 空き状況を確認いたします",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəl tʃɛk əˌveɪləˈbɪləti/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "Thank you for waiting",
+          "answer": "Thank you for waiting",
+          "hints": {
+            "zh": "感谢您的等待",
+            "en": "Thank you for waiting",
+            "ja": "お待たせいたしました"
+          },
+          "hint": "感谢您的等待 / Thank you for waiting / お待たせいたしました",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/θæŋk ju fɚ ˈweɪtɪŋ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "receptionist",
+          "answer": "receptionist",
+          "hints": {
+            "zh": "前台接待员",
+            "en": "receptionist",
+            "ja": "受付係"
+          },
+          "hint": "前台接待员 / receptionist / 受付係",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈsɛpʃənɪst/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "schedule",
+          "answer": "schedule",
+          "hints": {
+            "zh": "日程；排班",
+            "en": "schedule",
+            "ja": "スケジュール"
+          },
+          "hint": "日程；排班 / schedule / スケジュール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈskɛdʒul/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "counter",
+          "answer": "counter",
+          "hints": {
+            "zh": "柜台",
+            "en": "counter",
+            "ja": "カウンター"
+          },
+          "hint": "柜台 / counter / カウンター",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkaʊntɚ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "visitor",
+          "answer": "visitor",
+          "hints": {
+            "zh": "访客",
+            "en": "visitor",
+            "ja": "来訪者"
+          },
+          "hint": "访客 / visitor / 来訪者",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɪzɪtɚ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "registration",
+          "answer": "registration",
+          "hints": {
+            "zh": "登记",
+            "en": "registration",
+            "ja": "登録"
+          },
+          "hint": "登记 / registration / 登録",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɹɛdʒɪˈstɹeɪʃən/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "waiting area",
+          "answer": "waiting area",
+          "hints": {
+            "zh": "等候区",
+            "en": "waiting area",
+            "ja": "待合室"
+          },
+          "hint": "等候区 / waiting area / 待合室",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈweɪtɪŋ ˈɛɹiə/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "badge",
+          "answer": "badge",
+          "hints": {
+            "zh": "胸牌；访客证",
+            "en": "badge",
+            "ja": "バッジ"
+          },
+          "hint": "胸牌；访客证 / badge / バッジ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bædʒ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "escort",
+          "answer": "escort",
+          "hints": {
+            "zh": "陪同；引导",
+            "en": "escort",
+            "ja": "案内"
+          },
+          "hint": "陪同；引导 / escort / 案内",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛskɔɹt/",
+          "audioUrl": "learning/audio/en/en-service-greeting-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

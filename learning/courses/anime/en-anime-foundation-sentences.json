@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "anime",
+  "slug": "en-anime-foundation-sentences",
+  "course": {
+    "title": "二次元/动漫 · 英语基础 · 句子",
+    "description": "掌握动漫与 ACG 文化中最常用的英语基础词汇与表达。（常用句子）",
+    "titles": {
+      "zh": "二次元/动漫 · 英语基础 · 句子",
+      "en": "Anime & ACG · English Foundations · Sentences",
+      "ja": "アニメ・ACG · 英語基礎 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习动漫与 ACG 基础中的常用英语句子。",
+      "en": "Practice common English sentences for anime and ACG foundations.",
+      "ja": "アニメ・ACGの基礎で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "ACG 基础词汇 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "I love watching anime.",
+          "answer": "I love watching anime.",
+          "hints": {
+            "zh": "我喜欢看动画。",
+            "en": "I enjoy watching Japanese animation.",
+            "ja": "アニメを見るのが大好きです。"
+          },
+          "hint": "我喜欢看动画。 / I enjoy watching Japanese animation. / アニメを見るのが大好きです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ ləv ˈwɑtʃɪŋ ˌænɪˈmeɪ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This manga is amazing.",
+          "answer": "This manga is amazing.",
+          "hints": {
+            "zh": "这部漫画太棒了。",
+            "en": "This comic is incredible.",
+            "ja": "この漫画はすごいです。"
+          },
+          "hint": "这部漫画太棒了。 / This comic is incredible. / この漫画はすごいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs ˈmæŋɡə ɪz əˈmeɪzɪŋ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "She cosplays every weekend.",
+          "answer": "She cosplays every weekend.",
+          "hints": {
+            "zh": "她每个周末都玩 cosplay。",
+            "en": "She dresses up as characters every weekend.",
+            "ja": "彼女は毎週末コスプレをします。"
+          },
+          "hint": "她每个周末都玩 cosplay。 / She dresses up as characters every weekend. / 彼女は毎週末コスプレをします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃi ˈkɑzˌpleɪz ˈɛvɚi ˈwikɛnd/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The animation quality is top-notch.",
+          "answer": "The animation quality is top-notch.",
+          "hints": {
+            "zh": "作画质量是一流的。",
+            "en": "The animation production is excellent.",
+            "ja": "作画のクオリティが最高です。"
+          },
+          "hint": "作画质量是一流的。 / The animation production is excellent. / 作画のクオリティが最高です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˌænəˈmeɪʃən ˈkwɑləti ɪz ˈtɑp nɑtʃ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "He reads manga before bed.",
+          "answer": "He reads manga before bed.",
+          "hints": {
+            "zh": "他睡前会看漫画。",
+            "en": "He reads comics before sleeping.",
+            "ja": "彼は寝る前に漫画を読みます。"
+          },
+          "hint": "他睡前会看漫画。 / He reads comics before sleeping. / 彼は寝る前に漫画を読みます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hi ɹidz ˈmæŋɡə bɪˈfɔɹ bɛd/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "They binge-watched the whole series.",
+          "answer": "They binge-watched the whole series.",
+          "hints": {
+            "zh": "他们一口气刷完了整部番。",
+            "en": "They watched the entire series in one go.",
+            "ja": "彼らは一気見で全話見ました。"
+          },
+          "hint": "他们一口气刷完了整部番。 / They watched the entire series in one go. / 彼らは一気見で全話見ました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðeɪ ˈbɪndʒ wɑtʃt ðə hoʊl ˈsɪɹiz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The soundtrack fits the mood perfectly.",
+          "answer": "The soundtrack fits the mood perfectly.",
+          "hints": {
+            "zh": "配乐和氛围完美契合。",
+            "en": "The music matches the scene perfectly.",
+            "ja": "サントラが雰囲気にぴったり合っています。"
+          },
+          "hint": "配乐和氛围完美契合。 / The music matches the scene perfectly. / サントラが雰囲気にぴったり合っています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsaʊntɹæk fɪts ðə mud ˈpɝfəkli/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This is my favorite anime of all time.",
+          "answer": "This is my favorite anime of all time.",
+          "hints": {
+            "zh": "这是我一生中最爱的动画。",
+            "en": "This is my all-time favorite anime.",
+            "ja": "これは私の人生で一番好きなアニメです。"
+          },
+          "hint": "这是我一生中最爱的动画。 / This is my all-time favorite anime. / これは私の人生で一番好きなアニメです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs ɪz maɪ ˈfeɪvɚɪt ˌænɪˈmeɪ əv ɔl taɪm/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The OVA has better animation than the TV series.",
+          "answer": "The OVA has better animation than the TV series.",
+          "hints": {
+            "zh": "OVA 的画质比 TV 版更好。",
+            "en": "The OVA has superior animation quality.",
+            "ja": "OVAはTV版より作画が良いです。"
+          },
+          "hint": "OVA 的画质比 TV 版更好。 / The OVA has superior animation quality. / OVAはTV版より作画が良いです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˌoʊ vi ˈeɪ həz ˈbɛtɚ ˌænəˈmeɪʃən ðən ðə ˌti ˈvi ˈsɪɹiz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "She collects anime merchandise from conventions.",
+          "answer": "She collects anime merchandise from conventions.",
+          "hints": {
+            "zh": "她从漫展收集动漫周边。",
+            "en": "She collects anime merch at conventions.",
+            "ja": "彼女はコンベンでアニメグッズを集めています。"
+          },
+          "hint": "她从漫展收集动漫周边。 / She collects anime merch at conventions. / 彼女はコンベンでアニメグッズを集めています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃi kəˈlɛkts ˌænɪˈmeɪ ˈmɝtʃənˌdaɪz fɹəm kənˈvɛnʃənz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The shonen genre focuses on action and growth.",
+          "answer": "The shonen genre focuses on action and growth.",
+          "hints": {
+            "zh": "少年向作品侧重动作与成长。",
+            "en": "Shonen anime emphasizes action and character growth.",
+            "ja": "少年向けはアクションと成長が中心です。"
+          },
+          "hint": "少年向作品侧重动作与成长。 / Shonen anime emphasizes action and character growth. / 少年向けはアクションと成長が中心です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈʃoʊnən ˈʒɑnɹə ˈfoʊkəsɪz ɑn ˈækʃən ən ɡɹoʊθ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This shojo manga has a romantic storyline.",
+          "answer": "This shojo manga has a romantic storyline.",
+          "hints": {
+            "zh": "这部少女漫画有浪漫剧情线。",
+            "en": "This shojo manga features romance.",
+            "ja": "この少女漫画はロマンスが主軸です。"
+          },
+          "hint": "这部少女漫画有浪漫剧情线。 / This shojo manga features romance. / この少女漫画はロマンスが主軸です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs ˈʃoʊdʒoʊ ˈmæŋɡə həz ə ɹoʊˈmæntɪk ˈstɔɹiˌlaɪn/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Episode twelve left everyone speechless.",
+          "answer": "Episode twelve left everyone speechless.",
+          "hints": {
+            "zh": "第十二话让所有人哑口无言。",
+            "en": "Episode twelve stunned everyone.",
+            "ja": "第12話は皆を言葉を失わせました。"
+          },
+          "hint": "第十二话让所有人哑口无言。 / Episode twelve stunned everyone. / 第12話は皆を言葉を失わせました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛpəˌsoʊd twɛlv lɛft ˈɛvɹiˌwən ˈspitʃləs/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The soundtrack album sold out in one day.",
+          "answer": "The soundtrack album sold out in one day.",
+          "hints": {
+            "zh": "原声带专辑一天就售罄了。",
+            "en": "The OST album sold out within a day.",
+            "ja": "サントラCDは一日で売り切れました。"
+          },
+          "hint": "原声带专辑一天就售罄了。 / The OST album sold out within a day. / サントラCDは一日で売り切れました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsaʊntɹæk ˈælbəm soʊld aʊt ɪn wən deɪ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The live-action adaptation received mixed reviews.",
+          "answer": "The live-action adaptation received mixed reviews.",
+          "hints": {
+            "zh": "真人改编版评价褒贬不一。",
+            "en": "The live-action adaptation got mixed reviews.",
+            "ja": "実写化は賛否両論でした。"
+          },
+          "hint": "真人改编版评价褒贬不一。 / The live-action adaptation got mixed reviews. / 実写化は賛否両論でした。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə laɪv ˈækʃən ˌædəpˈteɪʃən ɹəˈsivd mɪkst ɹəvˈjuz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Slice of life anime feels warm and relaxing.",
+          "answer": "Slice of life anime feels warm and relaxing.",
+          "hints": {
+            "zh": "日常系动画温暖又治愈。",
+            "en": "Slice-of-life anime feels cozy and calming.",
+            "ja": "日常系アニメはほっこり癒されます。"
+          },
+          "hint": "日常系动画温暖又治愈。 / Slice-of-life anime feels cozy and calming. / 日常系アニメはほっこり癒されます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/slaɪs əv laɪf ˌænɪˈmeɪ filz wɔɹm ən ɹiˈlæksɪŋ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The studio announced a sequel next year.",
+          "answer": "The studio announced a sequel next year.",
+          "hints": {
+            "zh": "制作公司宣布明年出续作。",
+            "en": "The studio announced a sequel for next year.",
+            "ja": "制作会社は来年続編を発表しました。"
+          },
+          "hint": "制作公司宣布明年出续作。 / The studio announced a sequel for next year. / 制作会社は来年続編を発表しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈstudiˌoʊ əˈnaʊnst ə ˈsikwəl nɛks jɪɹ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "He prefers the dubbed version over subtitles.",
+          "answer": "He prefers the dubbed version over subtitles.",
+          "hints": {
+            "zh": "他更喜欢配音版而非字幕版。",
+            "en": "He prefers dubs over subs.",
+            "ja": "彼は字幕より吹き替え版が好きです。"
+          },
+          "hint": "他更喜欢配音版而非字幕版。 / He prefers dubs over subs. / 彼は字幕より吹き替え版が好きです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hi pɹəˈfɝz ðə dəbd ˈvɝʒən ˈoʊvɚ ˈsəbˌtaɪtəlz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The prequel explains the villain's backstory.",
+          "answer": "The prequel explains the villain's backstory.",
+          "hints": {
+            "zh": "前传解释了反派的背景故事。",
+            "en": "The prequel reveals the villain's origin.",
+            "ja": "前日談で悪役の背景が明かされます。"
+          },
+          "hint": "前传解释了反派的背景故事。 / The prequel reveals the villain's origin. / 前日談で悪役の背景が明かされます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈpɹikwɛl ɪksˈpleɪnz ðə ˈvɪlənz ˈbækˌstɔɹi/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Light novels often get anime adaptations.",
+          "answer": "Light novels often get anime adaptations.",
+          "hints": {
+            "zh": "轻小说常被改编成动画。",
+            "en": "Light novels are frequently adapted into anime.",
+            "ja": "ラノベはよくアニメ化されます。"
+          },
+          "hint": "轻小说常被改编成动画。 / Light novels are frequently adapted into anime. / ラノベはよくアニメ化されます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/laɪt ˈnɑvəlz ˈɔfən ɡɛt ˌænɪˈmeɪ ˌædæpˈteɪʃənz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The voice actor won an award for this role.",
+          "answer": "The voice actor won an award for this role.",
+          "hints": {
+            "zh": "这位声优因该角色获奖。",
+            "en": "The voice actor won an award for this performance.",
+            "ja": "声優はこの役で賞を受賞しました。"
+          },
+          "hint": "这位声优因该角色获奖。 / The voice actor won an award for this performance. / 声優はこの役で賞を受賞しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə vɔɪs ˈæktɚ wɑn ən əˈwɔɹd fɚ ðɪs ɹoʊl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The opening theme goes perfectly with the visuals.",
+          "answer": "The opening theme goes perfectly with the visuals.",
+          "hints": {
+            "zh": "OP 与画面完美契合。",
+            "en": "The OP matches the visuals perfectly.",
+            "ja": "OPは映像と完璧に合っています。"
+          },
+          "hint": "OP 与画面完美契合。 / The OP matches the visuals perfectly. / OPは映像と完璧に合っています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˈoʊpənɪŋ θim ɡoʊz ˈpɝfəkli wɪð ðə ˈvɪʒwəlz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The ending theme always makes me emotional.",
+          "answer": "The ending theme always makes me emotional.",
+          "hints": {
+            "zh": "ED 总让我感动。",
+            "en": "The ED always gets me emotional.",
+            "ja": "EDはいつも感動させられます。"
+          },
+          "hint": "ED 总让我感动。 / The ED always gets me emotional. / EDはいつも感動させられます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˈɛndɪŋ θim ˈɔlweɪz meɪks mi ˈiˌmoʊʃənəl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Character design changed a lot in season two.",
+          "answer": "Character design changed a lot in season two.",
+          "hints": {
+            "zh": "第二季角色设计变化很大。",
+            "en": "Character designs changed significantly in S2.",
+            "ja": "第2シーズンでキャラデザが大きく変わりました。"
+          },
+          "hint": "第二季角色设计变化很大。 / Character designs changed significantly in S2. / 第2シーズンでキャラデザが大きく変わりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɛɹɪktɚ dɪˈzaɪn tʃeɪndʒd ə lɑt ɪn ˈsizən tu/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "That plot twist completely surprised the audience.",
+          "answer": "That plot twist completely surprised the audience.",
+          "hints": {
+            "zh": "那个剧情反转完全出乎观众意料。",
+            "en": "That plot twist shocked the audience.",
+            "ja": "あのどんでん返しは観客を驚かせました。"
+          },
+          "hint": "那个剧情反转完全出乎观众意料。 / That plot twist shocked the audience. / あのどんでん返しは観客を驚かせました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðæt plɑt twɪst kəmˈplitli səˈpɹaɪzd ði ˈɑdiəns/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Fan service scenes are controversial among fans.",
+          "answer": "Fan service scenes are controversial among fans.",
+          "hints": {
+            "zh": "粉丝向桥段在粉丝中争议很大。",
+            "en": "Fan service scenes divide the fandom.",
+            "ja": "ファンサービスシーンは賛否が分かれます。"
+          },
+          "hint": "粉丝向桥段在粉丝中争议很大。 / Fan service scenes divide the fandom. / ファンサービスシーンは賛否が分かれます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæn ˈsɝvəs sinz ɚ ˌkɑntɹəˈvɝʃəl əˈməŋ fænz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "His power level increased after the training arc.",
+          "answer": "His power level increased after the training arc.",
+          "hints": {
+            "zh": "修行篇后他的战斗力提升了。",
+            "en": "His power level rose after the training arc.",
+            "ja": "修行編の後、戦闘力が上がりました。"
+          },
+          "hint": "修行篇后他的战斗力提升了。 / His power level rose after the training arc. / 修行編の後、戦闘力が上がりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hɪz ˈpaʊɚ ˈlɛvəl ɪnˈkɹist ˈæftɚ ðə ˈtɹeɪnɪŋ ɑɹk/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The main character finally achieved their goal.",
+          "answer": "The main character finally achieved their goal.",
+          "hints": {
+            "zh": "主角终于实现了目标。",
+            "en": "The protagonist finally reached their goal.",
+            "ja": "主人公はついに目標を達成しました。"
+          },
+          "hint": "主角终于实现了目标。 / The protagonist finally reached their goal. / 主人公はついに目標を達成しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə meɪn ˈkɛɹɪktɚ ˈfaɪnəli əˈtʃivd ðɛɹ ɡoʊl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The side character stole every scene they were in.",
+          "answer": "The side character stole every scene they were in.",
+          "hints": {
+            "zh": "配角抢尽了每一幕的风头。",
+            "en": "The supporting character stole every scene.",
+            "ja": "脇役が出るシーンすべてを持っていきました。"
+          },
+          "hint": "配角抢尽了每一幕的风头。 / The supporting character stole every scene. / 脇役が出るシーンすべてを持っていきました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə saɪd ˈkɛɹɪktɚ stoʊl ˈɛvɚi sin ðeɪ wɚ ɪn/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Isekai stories often start in a fantasy world.",
+          "answer": "Isekai stories often start in a fantasy world.",
+          "hints": {
+            "zh": "异世界故事常从奇幻世界开始。",
+            "en": "Isekai plots often begin in another world.",
+            "ja": "異世界ものは別世界から始まることが多いです。"
+          },
+          "hint": "异世界故事常从奇幻世界开始。 / Isekai plots often begin in another world. / 異世界ものは別世界から始まることが多いです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌisəˈkaɪ ˈstɔɹiz ˈɔfən stɑɹt ɪn ə ˈfænəsi wɝld/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

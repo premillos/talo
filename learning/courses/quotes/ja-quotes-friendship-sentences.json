@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "quotes",
+  "slug": "ja-quotes-friendship-sentences",
+  "course": {
+    "title": "名言名句 · 日语友谊 · 句子",
+    "description": "通过关于信任、陪伴与互助的格言练习整句输入。（常用句子）",
+    "titles": {
+      "zh": "名言名句 · 日语友谊 · 句子",
+      "en": "Quotes & Wisdom · Japanese Friendship · Sentences",
+      "ja": "名言・格言 · 日本語友情 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习友谊、信任与陪伴中的常用日语句子。",
+      "en": "Practice common Japanese sentences for friendship, trust, and companionship.",
+      "ja": "友情・信頼・支え合いで使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语友谊格言 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "本当の友情は正直な言葉を受け入れる。",
+          "answer": "本当の友情は正直な言葉を受け入れる。",
+          "hints": {
+            "zh": "真正的友谊容得下坦诚的话语。",
+            "en": "True friendship makes room for honest words.",
+            "ja": "本当の友情は正直な言葉を受け入れる。"
+          },
+          "hint": "真正的友谊容得下坦诚的话语。 / True friendship makes room for honest words. / 本当の友情は正直な言葉を受け入れる。",
+          "furigana": "ほんとうのゆうじょうはしょうじきなことばをうけいれる。",
+          "romaji": "hontounoyuujouhashoujikinakotobawoukeireru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "誠実な友は道が険しくなってもそばにいる。",
+          "answer": "誠実な友は道が険しくなってもそばにいる。",
+          "hints": {
+            "zh": "忠诚的朋友会在道路艰难时留下。",
+            "en": "A loyal friend stays when the road grows rough.",
+            "ja": "誠実な友は道が険しくなってもそばにいる。"
+          },
+          "hint": "忠诚的朋友会在道路艰难时留下。 / A loyal friend stays when the road grows rough. / 誠実な友は道が険しくなってもそばにいる。",
+          "furigana": "せいじつなともはみちがけわしくなってもそばにいる。",
+          "romaji": "seijitsunatomohamichigakewashikunattemosobaniiru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "分かち合う喜びは二倍の明るさで返ってくる。",
+          "answer": "分かち合う喜びは二倍の明るさで返ってくる。",
+          "hints": {
+            "zh": "分享的喜悦会带着双倍光亮归来。",
+            "en": "Shared joy returns with twice the light.",
+            "ja": "分かち合う喜びは二倍の明るさで返ってくる。"
+          },
+          "hint": "分享的喜悦会带着双倍光亮归来。 / Shared joy returns with twice the light. / 分かち合う喜びは二倍の明るさで返ってくる。",
+          "furigana": "わかちあうよろこびはにばいのあかるさでかえってくる。",
+          "romaji": "wakachiauyorokobihanibainoakarusadekaettekuru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "耳を傾ける友は心に安らぎをくれる。",
+          "answer": "耳を傾ける友は心に安らぎをくれる。",
+          "hints": {
+            "zh": "愿意倾听的朋友会给心灵以庇护。",
+            "en": "A listening friend gives shelter to the heart.",
+            "ja": "耳を傾ける友は心に安らぎをくれる。"
+          },
+          "hint": "愿意倾听的朋友会给心灵以庇护。 / A listening friend gives shelter to the heart. / 耳を傾ける友は心に安らぎをくれる。",
+          "furigana": "みみをかたむけるともはこころにやすらぎをくれる。",
+          "romaji": "mimiwokatamukerutomohakokoroniyasuragiwokureru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "信頼は日々の小さな約束を守って築かれる。",
+          "answer": "信頼は日々の小さな約束を守って築かれる。",
+          "hints": {
+            "zh": "信任由许多被履行的日常承诺建立。",
+            "en": "Trust is built through many ordinary promises kept.",
+            "ja": "信頼は日々の小さな約束を守って築かれる。"
+          },
+          "hint": "信任由许多被履行的日常承诺建立。 / Trust is built through many ordinary promises kept. / 信頼は日々の小さな約束を守って築かれる。",
+          "furigana": "しんらいはひびのちいさなやくそくをまもってきずかれる。",
+          "romaji": "shinraihahibinochiisanayakusokuwomamottekizukareru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "良い友は互いに物事を明確に見る手助けをする。",
+          "answer": "良い友は互いに物事を明確に見る手助けをする。",
+          "hints": {
+            "zh": "好友帮助彼此看清事物。",
+            "en": "Good friends help each other see clearly.",
+            "ja": "良い友は互いに物事を明確に見る手助けをする。"
+          },
+          "hint": "好友帮助彼此看清事物。 / Good friends help each other see clearly. / 良い友は互いに物事を明確に見る手助けをする。",
+          "furigana": "よいともはたがいにものごとをめいかくにみるてだすけをする。",
+          "romaji": "yoitomohatagainimonogotowomeikakunimirutedasukewosuru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "離れていても真心の思いやりは消えない。",
+          "answer": "離れていても真心の思いやりは消えない。",
+          "hints": {
+            "zh": "距离无法抹去真诚的关心。",
+            "en": "Distance cannot erase sincere care.",
+            "ja": "離れていても真心の思いやりは消えない。"
+          },
+          "hint": "距离无法抹去真诚的关心。 / Distance cannot erase sincere care. / 離れていても真心の思いやりは消えない。",
+          "furigana": "はなれていてもまごころのおもいやりはきえない。",
+          "romaji": "hanareteitemomagokoronoomoiyarihakienai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "優しい忠告は長い絆を守る。",
+          "answer": "優しい忠告は長い絆を守る。",
+          "hints": {
+            "zh": "善意的纠正能守护长久的情谊。",
+            "en": "A kind correction protects a lasting bond.",
+            "ja": "優しい忠告は長い絆を守る。"
+          },
+          "hint": "善意的纠正能守护长久的情谊。 / A kind correction protects a lasting bond. / 優しい忠告は長い絆を守る。",
+          "furigana": "やさしいちゅうこくはながいきずなをまもる。",
+          "romaji": "yasashiichuukokuhanagaikizunawomamoru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "感謝を言葉にする場所で友情は育つ。",
+          "answer": "感謝を言葉にする場所で友情は育つ。",
+          "hints": {
+            "zh": "说出感谢的地方，友谊会成长。",
+            "en": "Friendship grows where gratitude is spoken.",
+            "ja": "感謝を言葉にする場所で友情は育つ。"
+          },
+          "hint": "说出感谢的地方，友谊会成长。 / Friendship grows where gratitude is spoken. / 感謝を言葉にする場所で友情は育つ。",
+          "furigana": "かんしゃをことばにするばしょでゆうじょうはそだつ。",
+          "romaji": "kanshawokotobanisurubashodeyuujouhasodatsu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "友の道を決めずその隣を歩こう。",
+          "answer": "友の道を決めずその隣を歩こう。",
+          "hints": {
+            "zh": "陪朋友同行，但不要替朋友选择道路。",
+            "en": "Walk beside a friend without choosing their path.",
+            "ja": "友の道を決めずその隣を歩こう。"
+          },
+          "hint": "陪朋友同行，但不要替朋友选择道路。 / Walk beside a friend without choosing their path. / 友の道を決めずその隣を歩こう。",
+          "furigana": "とものみちをきめずそのとなりをあるこう。",
+          "romaji": "tomonomichiwokimezusonotonariwoarukou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "重荷は分かち合えば運びやすくなる。",
+          "answer": "重荷は分かち合えば運びやすくなる。",
+          "hints": {
+            "zh": "负担经过分担就更容易承受。",
+            "en": "A shared burden becomes easier to carry.",
+            "ja": "重荷は分かち合えば運びやすくなる。"
+          },
+          "hint": "负担经过分担就更容易承受。 / A shared burden becomes easier to carry. / 重荷は分かち合えば運びやすくなる。",
+          "furigana": "おもにはわかちあえばはこびやすくなる。",
+          "romaji": "omonihawakachiaebahakobiyasukunaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "古い友は笑いの根を覚えている。",
+          "answer": "古い友は笑いの根を覚えている。",
+          "hints": {
+            "zh": "老朋友记得我们欢笑的根源。",
+            "en": "Old friends remember the roots of our laughter.",
+            "ja": "古い友は笑いの根を覚えている。"
+          },
+          "hint": "老朋友记得我们欢笑的根源。 / Old friends remember the roots of our laughter. / 古い友は笑いの根を覚えている。",
+          "furigana": "ふるいともはわらいのねをおぼえている。",
+          "romaji": "furuitomohawarainonewooboeteiru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "敬意は友情を独り占めから守る。",
+          "answer": "敬意は友情を独り占めから守る。",
+          "hints": {
+            "zh": "尊重让友谊不会变成占有。",
+            "en": "Respect keeps friendship from becoming possession.",
+            "ja": "敬意は友情を独り占めから守る。"
+          },
+          "hint": "尊重让友谊不会变成占有。 / Respect keeps friendship from becoming possession. / 敬意は友情を独り占めから守る。",
+          "furigana": "けいいはゆうじょうをひとりじめからまもる。",
+          "romaji": "keiihayuujouwohitorijimekaramamoru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "心のこもった便りは沈黙の季節を越える。",
+          "answer": "心のこもった便りは沈黙の季節を越える。",
+          "hints": {
+            "zh": "一条用心的消息能跨越沉默的季节。",
+            "en": "A thoughtful message can cross a silent season.",
+            "ja": "心のこもった便りは沈黙の季節を越える。"
+          },
+          "hint": "一条用心的消息能跨越沉默的季节。 / A thoughtful message can cross a silent season. / 心のこもった便りは沈黙の季節を越える。",
+          "furigana": "こころのこもったたよりはちんもくのきせつをこえる。",
+          "romaji": "kokoronokomottatayorihachinmokunokisetsuwokoeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "友には慰めと同じほど真実が必要だ。",
+          "answer": "友には慰めと同じほど真実が必要だ。",
+          "hints": {
+            "zh": "朋友既需要安慰，也同样需要真话。",
+            "en": "Friends need truth as much as comfort.",
+            "ja": "友には慰めと同じほど真実が必要だ。"
+          },
+          "hint": "朋友既需要安慰，也同样需要真话。 / Friends need truth as much as comfort. / 友には慰めと同じほど真実が必要だ。",
+          "furigana": "ともにはなぐさめとおなじほどしんじつがひつようだ。",
+          "romaji": "tomonihanagusametoonajihodoshinjitsugahitsuyouda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "許しは誇りが壊したものを直す。",
+          "answer": "許しは誇りが壊したものを直す。",
+          "hints": {
+            "zh": "宽恕会修复骄傲留下的裂痕。",
+            "en": "Forgiveness repairs what pride leaves broken.",
+            "ja": "許しは誇りが壊したものを直す。"
+          },
+          "hint": "宽恕会修复骄傲留下的裂痕。 / Forgiveness repairs what pride leaves broken. / 許しは誇りが壊したものを直す。",
+          "furigana": "ゆるしはほこりがこわしたものをなおす。",
+          "romaji": "yurushihahokorigakowashitamonowonaosu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "変わりゆく友の今を受け入れよう。",
+          "answer": "変わりゆく友の今を受け入れよう。",
+          "hints": {
+            "zh": "接纳朋友正在成为的样子。",
+            "en": "Welcome a friend as they are becoming.",
+            "ja": "変わりゆく友の今を受け入れよう。"
+          },
+          "hint": "接纳朋友正在成为的样子。 / Welcome a friend as they are becoming. / 変わりゆく友の今を受け入れよう。",
+          "furigana": "かわりゆくとものいまをうけいれよう。",
+          "romaji": "kawariyukutomonoimawoukeireyou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "小さな気遣いが長い友情を温かく保つ。",
+          "answer": "小さな気遣いが長い友情を温かく保つ。",
+          "hints": {
+            "zh": "小小的关怀让长久的友谊保持温暖。",
+            "en": "Small acts of care keep long friendships warm.",
+            "ja": "小さな気遣いが長い友情を温かく保つ。"
+          },
+          "hint": "小小的关怀让长久的友谊保持温暖。 / Small acts of care keep long friendships warm. / 小さな気遣いが長い友情を温かく保つ。",
+          "furigana": "ちいさなきづかいがながいゆうじょうをあたたかくたもつ。",
+          "romaji": "chiisanakizukaiganagaiyuujouwoatatakakutamotsu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "友は妬まずあなたの成長を喜ぶ。",
+          "answer": "友は妬まずあなたの成長を喜ぶ。",
+          "hints": {
+            "zh": "朋友会不带嫉妒地为你的成长高兴。",
+            "en": "A friend celebrates your growth without envy.",
+            "ja": "友は妬まずあなたの成長を喜ぶ。"
+          },
+          "hint": "朋友会不带嫉妒地为你的成长高兴。 / A friend celebrates your growth without envy. / 友は妬まずあなたの成長を喜ぶ。",
+          "furigana": "ともはねたまずあなたのせいちょうをよろこぶ。",
+          "romaji": "tomohanetamazuanatanoseichouwoyorokobu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "信じる友の隣では沈黙も穏やかだ。",
+          "answer": "信じる友の隣では沈黙も穏やかだ。",
+          "hints": {
+            "zh": "在信赖的伙伴身边，沉默也很温柔。",
+            "en": "Silence feels gentle beside a trusted companion.",
+            "ja": "信じる友の隣では沈黙も穏やかだ。"
+          },
+          "hint": "在信赖的伙伴身边，沉默也很温柔。 / Silence feels gentle beside a trusted companion. / 信じる友の隣では沈黙も穏やかだ。",
+          "furigana": "しんじるとものとなりではちんもくもおだやかだ。",
+          "romaji": "shinjirutomonotonaridehachinmokumoodayakada.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "互いの忍耐が友情に強い根を与える。",
+          "answer": "互いの忍耐が友情に強い根を与える。",
+          "hints": {
+            "zh": "彼此的耐心赋予友谊坚实的根。",
+            "en": "Mutual patience gives friendship strong roots.",
+            "ja": "互いの忍耐が友情に強い根を与える。"
+          },
+          "hint": "彼此的耐心赋予友谊坚实的根。 / Mutual patience gives friendship strong roots. / 互いの忍耐が友情に強い根を与える。",
+          "furigana": "たがいのにんたいがゆうじょうにつよいねをあたえる。",
+          "romaji": "tagainonintaigayuujounitsuyoinewoataeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "完璧な助言を探す前にそばにいよう。",
+          "answer": "完璧な助言を探す前にそばにいよう。",
+          "hints": {
+            "zh": "寻找完美建议前，先陪伴在身边。",
+            "en": "Be present before searching for perfect advice.",
+            "ja": "完璧な助言を探す前にそばにいよう。"
+          },
+          "hint": "寻找完美建议前，先陪伴在身边。 / Be present before searching for perfect advice. / 完璧な助言を探す前にそばにいよう。",
+          "furigana": "かんぺきなじょげんをさがすまえにそばにいよう。",
+          "romaji": "kanpekinajogenwosagasumaenisobaniiyou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "心からの謝罪は友の間の道を開く。",
+          "answer": "心からの謝罪は友の間の道を開く。",
+          "hints": {
+            "zh": "真诚的道歉会清理朋友之间的道路。",
+            "en": "A sincere apology clears the path between friends.",
+            "ja": "心からの謝罪は友の間の道を開く。"
+          },
+          "hint": "真诚的道歉会清理朋友之间的道路。 / A sincere apology clears the path between friends. / 心からの謝罪は友の間の道を開く。",
+          "furigana": "こころからのしゃざいはとものあいだのみちをひらく。",
+          "romaji": "kokorokaranoshazaihatomonoaidanomichiwohiraku.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "優しさを選ぶたびに友情は新しくなる。",
+          "answer": "優しさを選ぶたびに友情は新しくなる。",
+          "hints": {
+            "zh": "每次选择善意，友谊都会焕新。",
+            "en": "Friendship is renewed each time we choose kindness.",
+            "ja": "優しさを選ぶたびに友情は新しくなる。"
+          },
+          "hint": "每次选择善意，友谊都会焕新。 / Friendship is renewed each time we choose kindness. / 優しさを選ぶたびに友情は新しくなる。",
+          "furigana": "やさしさをえらぶたびにゆうじょうはあたらしくなる。",
+          "romaji": "yasashisawoerabutabiniyuujouhaatarashikunaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "友の秘密を自分のものと同じように大切に守ろう。",
+          "answer": "友の秘密を自分のものと同じように大切に守ろう。",
+          "hints": {
+            "zh": "像守护自己的秘密一样守护朋友的信任。",
+            "en": "Keep a friend’s confidence as carefully as your own.",
+            "ja": "友の秘密を自分のものと同じように大切に守ろう。"
+          },
+          "hint": "像守护自己的秘密一样守护朋友的信任。 / Keep a friend’s confidence as carefully as your own. / 友の秘密を自分のものと同じように大切に守ろう。",
+          "furigana": "とものひみつをじぶんのものとおなじようにたいせつにまもろう。",
+          "romaji": "tomonohimitsuwojibun'nomonotoonajiyounitaisetsunimamorou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "違う考えも同じ食卓を囲める。",
+          "answer": "違う考えも同じ食卓を囲める。",
+          "hints": {
+            "zh": "不同观点也可以围坐在同一张桌旁。",
+            "en": "Different views can share the same table.",
+            "ja": "違う考えも同じ食卓を囲める。"
+          },
+          "hint": "不同观点也可以围坐在同一张桌旁。 / Different views can share the same table. / 違う考えも同じ食卓を囲める。",
+          "furigana": "ちがうかんがえもおなじしょくたくをかこめる。",
+          "romaji": "chigaukangaemoonajishokutakuwokakomeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "頼れる友は言葉を助けに変える。",
+          "answer": "頼れる友は言葉を助けに変える。",
+          "hints": {
+            "zh": "可靠的朋友会把话语变成实际帮助。",
+            "en": "A dependable friend turns words into help.",
+            "ja": "頼れる友は言葉を助けに変える。"
+          },
+          "hint": "可靠的朋友会把话语变成实际帮助。 / A dependable friend turns words into help. / 頼れる友は言葉を助けに変える。",
+          "furigana": "たよれるともはことばをたすけにかえる。",
+          "romaji": "tayorerutomohakotobawotasukenikaeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "友情には親しさと自由な余白の両方が要る。",
+          "answer": "友情には親しさと自由な余白の両方が要る。",
+          "hints": {
+            "zh": "友谊既需要亲近，也需要自由空间。",
+            "en": "Friendship needs both closeness and breathing room.",
+            "ja": "友情には親しさと自由な余白の両方が要る。"
+          },
+          "hint": "友谊既需要亲近，也需要自由空间。 / Friendship needs both closeness and breathing room. / 友情には親しさと自由な余白の両方が要る。",
+          "furigana": "ゆうじょうにはしたしさとじゆうなよはくのりょうほうがいる。",
+          "romaji": "yuujounihashitashisatojiyuunayohakunoryouhougairu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最初の一歩に寄り添った友を忘れないでいよう。",
+          "answer": "最初の一歩に寄り添った友を忘れないでいよう。",
+          "hints": {
+            "zh": "不要忘记陪伴你迈出第一步的朋友。",
+            "en": "Remember the friend who stood beside your first step.",
+            "ja": "最初の一歩に寄り添った友を忘れないでいよう。"
+          },
+          "hint": "不要忘记陪伴你迈出第一步的朋友。 / Remember the friend who stood beside your first step. / 最初の一歩に寄り添った友を忘れないでいよう。",
+          "furigana": "さいしょのいっぽによりそったともをわすれないでいよう。",
+          "romaji": "saishonoipponiyorisottatomowowasurenaideiyou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "長く続く友情は見つけるだけでなく育てるものだ。",
+          "answer": "長く続く友情は見つけるだけでなく育てるものだ。",
+          "hints": {
+            "zh": "长久的友谊不仅靠遇见，更靠经营。",
+            "en": "A lasting friendship is tended, not merely found.",
+            "ja": "長く続く友情は見つけるだけでなく育てるものだ。"
+          },
+          "hint": "长久的友谊不仅靠遇见，更靠经营。 / A lasting friendship is tended, not merely found. / 長く続く友情は見つけるだけでなく育てるものだ。",
+          "furigana": "ながくつづくゆうじょうはみつけるだけでなくそだてるものだ。",
+          "romaji": "nagakutsuzukuyuujouhamitsukerudakedenakusodaterumonoda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-friendship-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

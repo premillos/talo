@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "service",
+  "slug": "en-service-phone-email-dialogues",
+  "course": {
+    "title": "服务行业 · 英语电话邮件 · 情景对话",
+    "description": "电话接听与商务邮件常用句型（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 英语电话邮件 · 情景对话",
+      "en": "Service & Hospitality · English Phone & Email · Situational Dialogues",
+      "ja": "サービス業 · 英語電話・メール · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习电话与商务邮件中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for phone calls and business email.",
+      "ja": "電話応対とビジネスメールで使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "电话与邮件用语 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Hello, Mr. Brown. This is Emma from Northstar Consulting. Is now a good time?",
+          "answer": "Hello, Mr. Brown. This is Emma from Northstar Consulting. Is now a good time?",
+          "hints": {
+            "zh": "您好，布朗先生。我是北极星咨询公司的艾玛。现在方便通话吗？",
+            "en": "The caller introduces herself and checks availability.",
+            "ja": "発信者が名乗り、通話可能か確認します。"
+          },
+          "hint": "您好，布朗先生。我是北极星咨询公司的艾玛。现在方便通话吗？ / The caller introduces herself and checks availability. / 発信者が名乗り、通話可能か確認します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həˈloʊ ˈmɪstɚ bɹaʊn ðɪs ɪz ˈɛmə fɹəm ˈnɔɹθstɑɹ kənˈsəltɪŋ ɪz naʊ ə ɡʊd taɪm/",
+          "audioUrl": "learning/audio/en/en-service-phone-email-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "meeting-reschedule-call",
+          "dialogueTitles": {
+            "zh": "会议改期电话",
+            "en": "Meeting Reschedule Call",
+            "ja": "会議日程変更の電話"
+          },
+          "dialogueScenes": {
+            "zh": "女行政助理致电男客户，协商会议改期并发送确认邮件。",
+            "en": "A female assistant calls a male client to reschedule a meeting and confirm by email.",
+            "ja": "女性アシスタントが男性顧客に電話し、会議の日程変更とメール確認を行います。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "助理艾玛",
+            "en": "Emma, Assistant",
+            "ja": "アシスタントのエマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Hello, Emma. Yes, I have a few minutes. What can I do for you?",
+          "answer": "Hello, Emma. Yes, I have a few minutes. What can I do for you?",
+          "hints": {
+            "zh": "您好，艾玛。可以，我有几分钟。有什么事吗？",
+            "en": "The client confirms he can speak.",
+            "ja": "顧客が通話できると答えます。"
+          },
+          "hint": "您好，艾玛。可以，我有几分钟。有什么事吗？ / The client confirms he can speak. / 顧客が通話できると答えます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həˈloʊ ˈɛmə jɛs aɪ həv ə fju ˈmɪnəts wət kən aɪ du fɚ ju/",
+          "audioUrl": "learning/audio/en/en-service-phone-email-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "meeting-reschedule-call",
+          "dialogueTitles": {
+            "zh": "会议改期电话",
+            "en": "Meeting Reschedule Call",
+            "ja": "会議日程変更の電話"
+          },
+          "dialogueScenes": {
+            "zh": "女行政助理致电男客户，协商会议改期并发送确认邮件。",
+            "en": "A female assistant calls a male client to reschedule a meeting and confirm by email.",
+            "ja": "女性アシスタントが男性顧客に電話し、会議の日程変更とメール確認を行います。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客户布朗先生",
+            "en": "Mr. Brown, Client",
+            "ja": "顧客のブラウンさん"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "We need to move Thursday meeting. Would Friday at ten AM work for you?",
+          "answer": "We need to move Thursday meeting. Would Friday at ten AM work for you?",
+          "hints": {
+            "zh": "我们需要调整周四的会议。周五上午十点您方便吗？",
+            "en": "The assistant proposes a new meeting time.",
+            "ja": "アシスタントが新しい会議時間を提案します。"
+          },
+          "hint": "我们需要调整周四的会议。周五上午十点您方便吗？ / The assistant proposes a new meeting time. / アシスタントが新しい会議時間を提案します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi nid tə muv ˈθɝzdeɪ ˈmitɪŋ wəd ˈfɹaɪdeɪ æt tɛn ˌeɪ ˈɛm wɝk fɚ ju/",
+          "audioUrl": "learning/audio/en/en-service-phone-email-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "meeting-reschedule-call",
+          "dialogueTitles": {
+            "zh": "会议改期电话",
+            "en": "Meeting Reschedule Call",
+            "ja": "会議日程変更の電話"
+          },
+          "dialogueScenes": {
+            "zh": "女行政助理致电男客户，协商会议改期并发送确认邮件。",
+            "en": "A female assistant calls a male client to reschedule a meeting and confirm by email.",
+            "ja": "女性アシスタントが男性顧客に電話し、会議の日程変更とメール確認を行います。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "助理艾玛",
+            "en": "Emma, Assistant",
+            "ja": "アシスタントのエマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Friday at ten is fine. Will we use the same video link?",
+          "answer": "Friday at ten is fine. Will we use the same video link?",
+          "hints": {
+            "zh": "周五十点可以。还是用同一个视频链接吗？",
+            "en": "The client accepts and asks about the meeting link.",
+            "ja": "顧客が承諾し、リンクについて尋ねます。"
+          },
+          "hint": "周五十点可以。还是用同一个视频链接吗？ / The client accepts and asks about the meeting link. / 顧客が承諾し、リンクについて尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfɹaɪdeɪ æt tɛn ɪz faɪn wəl wi juz ðə seɪm ˈvɪdioʊ lɪŋk/",
+          "audioUrl": "learning/audio/en/en-service-phone-email-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "meeting-reschedule-call",
+          "dialogueTitles": {
+            "zh": "会议改期电话",
+            "en": "Meeting Reschedule Call",
+            "ja": "会議日程変更の電話"
+          },
+          "dialogueScenes": {
+            "zh": "女行政助理致电男客户，协商会议改期并发送确认邮件。",
+            "en": "A female assistant calls a male client to reschedule a meeting and confirm by email.",
+            "ja": "女性アシスタントが男性顧客に電話し、会議の日程変更とメール確認を行います。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客户布朗先生",
+            "en": "Mr. Brown, Client",
+            "ja": "顧客のブラウンさん"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, the link will stay the same. I will send an updated invitation shortly.",
+          "answer": "Yes, the link will stay the same. I will send an updated invitation shortly.",
+          "hints": {
+            "zh": "是的，链接不变。我稍后会发送更新后的邀请。",
+            "en": "The assistant confirms the link and promises an updated invitation.",
+            "ja": "アシスタントがリンクと更新通知を確認します。"
+          },
+          "hint": "是的，链接不变。我稍后会发送更新后的邀请。 / The assistant confirms the link and promises an updated invitation. / アシスタントがリンクと更新通知を確認します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs ðə lɪŋk wəl steɪ ðə seɪm aɪ wəl sɛnd ən əpˈdeɪtəd ˌɪnvɪˈteɪʃən ˈʃɔɹtli/",
+          "audioUrl": "learning/audio/en/en-service-phone-email-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "meeting-reschedule-call",
+          "dialogueTitles": {
+            "zh": "会议改期电话",
+            "en": "Meeting Reschedule Call",
+            "ja": "会議日程変更の電話"
+          },
+          "dialogueScenes": {
+            "zh": "女行政助理致电男客户，协商会议改期并发送确认邮件。",
+            "en": "A female assistant calls a male client to reschedule a meeting and confirm by email.",
+            "ja": "女性アシスタントが男性顧客に電話し、会議の日程変更とメール確認を行います。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "助理艾玛",
+            "en": "Emma, Assistant",
+            "ja": "アシスタントのエマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great. I will look for your email. Thank you for letting me know.",
+          "answer": "Great. I will look for your email. Thank you for letting me know.",
+          "hints": {
+            "zh": "好的，我会留意您的邮件。谢谢您通知我。",
+            "en": "The client confirms and thanks the caller.",
+            "ja": "顧客がメール確認を約束し、連絡に感謝します。"
+          },
+          "hint": "好的，我会留意您的邮件。谢谢您通知我。 / The client confirms and thanks the caller. / 顧客がメール確認を約束し、連絡に感謝します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt aɪ wəl lʊk fɚ jɚ iˈmeɪl θæŋk ju fɚ ˈlɛtɪŋ mi noʊ/",
+          "audioUrl": "learning/audio/en/en-service-phone-email-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "meeting-reschedule-call",
+          "dialogueTitles": {
+            "zh": "会议改期电话",
+            "en": "Meeting Reschedule Call",
+            "ja": "会議日程変更の電話"
+          },
+          "dialogueScenes": {
+            "zh": "女行政助理致电男客户，协商会议改期并发送确认邮件。",
+            "en": "A female assistant calls a male client to reschedule a meeting and confirm by email.",
+            "ja": "女性アシスタントが男性顧客に電話し、会議の日程変更とメール確認を行います。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客户布朗先生",
+            "en": "Mr. Brown, Client",
+            "ja": "顧客のブラウンさん"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

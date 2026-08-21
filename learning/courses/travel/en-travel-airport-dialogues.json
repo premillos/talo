@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-airport-dialogues",
+  "course": {
+    "title": "旅游 · 英语机场 · 情景对话",
+    "description": "机场值机、安检、登机等常用英语词汇与句子（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 英语机场 · 情景对话",
+      "en": "Travel · English Airport · Situational Dialogues",
+      "ja": "旅行 · 英語空港 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习机场出行中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for airport travel.",
+      "ja": "空港での移動で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "机场与航班 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Hello, I would like to check in for my flight to Tokyo.",
+          "answer": "Hello, I would like to check in for my flight to Tokyo.",
+          "hints": {
+            "zh": "你好，我想办理飞往东京的航班值机。",
+            "en": "Hello, I would like to check in for my flight to Tokyo.",
+            "ja": "こんにちは、東京行きの便にチェックインしたいです。"
+          },
+          "hint": "你好，我想办理飞往东京的航班值机。 / Hello, I would like to check in for my flight to Tokyo. / こんにちは、東京行きの便にチェックインしたいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həˈloʊ aɪ wəd laɪk tə tʃɛk ɪn fɚ maɪ flaɪt tə ˈtoʊkiˌoʊ/",
+          "audioUrl": "learning/audio/en/en-travel-airport-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "airport-check-in",
+          "dialogueTitles": {
+            "zh": "机场值机",
+            "en": "Airport Check-in",
+            "ja": "空港チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在柜台办理值机并确认登机信息。",
+            "en": "A traveler checks in and confirms her boarding details at the counter.",
+            "ja": "旅行者がカウンターでチェックインし、搭乗情報を確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅",
+            "en": "Mia",
+            "ja": "ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Certainly. May I see your passport, please?",
+          "answer": "Certainly. May I see your passport, please?",
+          "hints": {
+            "zh": "当然可以。请出示您的护照好吗？",
+            "en": "Certainly. May I see your passport, please?",
+            "ja": "かしこまりました。パスポートを拝見できますか？"
+          },
+          "hint": "当然可以。请出示您的护照好吗？ / Certainly. May I see your passport, please? / かしこまりました。パスポートを拝見できますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɝtənli meɪ aɪ si jɚ ˈpæspɔɹt pliz/",
+          "audioUrl": "learning/audio/en/en-travel-airport-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "airport-check-in",
+          "dialogueTitles": {
+            "zh": "机场值机",
+            "en": "Airport Check-in",
+            "ja": "空港チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在柜台办理值机并确认登机信息。",
+            "en": "A traveler checks in and confirms her boarding details at the counter.",
+            "ja": "旅行者がカウンターでチェックインし、搭乗情報を確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "丹尼尔",
+            "en": "Daniel",
+            "ja": "ダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Here it is. Can I check this suitcase?",
+          "answer": "Here it is. Can I check this suitcase?",
+          "hints": {
+            "zh": "给您。这个行李箱可以托运吗？",
+            "en": "Here it is. Can I check this suitcase?",
+            "ja": "どうぞ。このスーツケースを預けられますか？"
+          },
+          "hint": "给您。这个行李箱可以托运吗？ / Here it is. Can I check this suitcase? / どうぞ。このスーツケースを預けられますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hiɹ ɪt ɪz kən aɪ tʃɛk ðɪs ˈsutkeɪs/",
+          "audioUrl": "learning/audio/en/en-travel-airport-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "airport-check-in",
+          "dialogueTitles": {
+            "zh": "机场值机",
+            "en": "Airport Check-in",
+            "ja": "空港チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在柜台办理值机并确认登机信息。",
+            "en": "A traveler checks in and confirms her boarding details at the counter.",
+            "ja": "旅行者がカウンターでチェックインし、搭乗情報を確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅",
+            "en": "Mia",
+            "ja": "ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes. Please place it on the scale.",
+          "answer": "Yes. Please place it on the scale.",
+          "hints": {
+            "zh": "可以。请把它放到秤上。",
+            "en": "Yes. Please place it on the scale.",
+            "ja": "はい。はかりの上に置いてください。"
+          },
+          "hint": "可以。请把它放到秤上。 / Yes. Please place it on the scale. / はい。はかりの上に置いてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs pliz pleɪs ɪt ɑn ðə skeɪl/",
+          "audioUrl": "learning/audio/en/en-travel-airport-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "airport-check-in",
+          "dialogueTitles": {
+            "zh": "机场值机",
+            "en": "Airport Check-in",
+            "ja": "空港チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在柜台办理值机并确认登机信息。",
+            "en": "A traveler checks in and confirms her boarding details at the counter.",
+            "ja": "旅行者がカウンターでチェックインし、搭乗情報を確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "丹尼尔",
+            "en": "Daniel",
+            "ja": "ダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Thank you. What time does boarding begin?",
+          "answer": "Thank you. What time does boarding begin?",
+          "hints": {
+            "zh": "谢谢。几点开始登机？",
+            "en": "Thank you. What time does boarding begin?",
+            "ja": "ありがとうございます。搭乗は何時からですか？"
+          },
+          "hint": "谢谢。几点开始登机？ / Thank you. What time does boarding begin? / ありがとうございます。搭乗は何時からですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/θæŋk ju wət taɪm dəz ˈbɔɹdɪŋ bɪˈɡɪn/",
+          "audioUrl": "learning/audio/en/en-travel-airport-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "airport-check-in",
+          "dialogueTitles": {
+            "zh": "机场值机",
+            "en": "Airport Check-in",
+            "ja": "空港チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在柜台办理值机并确认登机信息。",
+            "en": "A traveler checks in and confirms her boarding details at the counter.",
+            "ja": "旅行者がカウンターでチェックインし、搭乗情報を確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅",
+            "en": "Mia",
+            "ja": "ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Boarding begins at nine at gate B12.",
+          "answer": "Boarding begins at nine at gate B12.",
+          "hints": {
+            "zh": "九点在 B12 登机口开始登机。",
+            "en": "Boarding begins at nine at gate B12.",
+            "ja": "九時にB12ゲートで搭乗開始です。"
+          },
+          "hint": "九点在 B12 登机口开始登机。 / Boarding begins at nine at gate B12. / 九時にB12ゲートで搭乗開始です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbɔɹdɪŋ bɪˈɡɪnz æt naɪn æt ɡeɪt bi twɛlv/",
+          "audioUrl": "learning/audio/en/en-travel-airport-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "airport-check-in",
+          "dialogueTitles": {
+            "zh": "机场值机",
+            "en": "Airport Check-in",
+            "ja": "空港チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在柜台办理值机并确认登机信息。",
+            "en": "A traveler checks in and confirms her boarding details at the counter.",
+            "ja": "旅行者がカウンターでチェックインし、搭乗情報を確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "丹尼尔",
+            "en": "Daniel",
+            "ja": "ダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

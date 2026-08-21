@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-phone-email-words",
+  "course": {
+    "title": "服务行业 · 日语电话邮件 · 词汇",
+    "description": "電話応対とビジネスメールの定型表現（单词与短语）",
+    "titles": {
+      "zh": "服务行业 · 日语电话邮件 · 词汇",
+      "en": "Service & Hospitality · Japanese Phone & Email · Vocabulary",
+      "ja": "サービス業 · 日本語電話・メール · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习电话与商务邮件中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for phone calls and business email.",
+      "ja": "電話応対とビジネスメールで使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "電話・メール",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "ボイスメール",
+          "answer": "ボイスメール",
+          "hints": {
+            "zh": "语音留言",
+            "en": "voicemail",
+            "ja": "ボイスメール"
+          },
+          "hint": "语音留言 / voicemail / ボイスメール",
+          "furigana": "ボイスメール",
+          "romaji": "boisumeeru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "折り返し",
+          "answer": "折り返し",
+          "hints": {
+            "zh": "回电；折返",
+            "en": "callback",
+            "ja": "折り返し"
+          },
+          "hint": "回电；折返 / callback / 折り返し",
+          "furigana": "おりかえし",
+          "romaji": "orikaeshi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "内線",
+          "answer": "内線",
+          "hints": {
+            "zh": "内线；分机",
+            "en": "extension",
+            "ja": "内線"
+          },
+          "hint": "内线；分机 / extension / 内線",
+          "furigana": "ないせん",
+          "romaji": "naisen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "転送",
+          "answer": "転送",
+          "hints": {
+            "zh": "转接；转发",
+            "en": "transfer",
+            "ja": "転送"
+          },
+          "hint": "转接；转发 / transfer / 転送",
+          "furigana": "てんそう",
+          "romaji": "tensou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "保留",
+          "answer": "保留",
+          "hints": {
+            "zh": "通话保留",
+            "en": "hold",
+            "ja": "保留"
+          },
+          "hint": "通话保留 / hold / 保留",
+          "furigana": "ほりゅう",
+          "romaji": "horyuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "添付",
+          "answer": "添付",
+          "hints": {
+            "zh": "附件",
+            "en": "attachment",
+            "ja": "添付"
+          },
+          "hint": "附件 / attachment / 添付",
+          "furigana": "てんぷ",
+          "romaji": "tenpu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "件名",
+          "answer": "件名",
+          "hints": {
+            "zh": "邮件主题",
+            "en": "subject line",
+            "ja": "件名"
+          },
+          "hint": "邮件主题 / subject line / 件名",
+          "furigana": "けんめい",
+          "romaji": "kenmei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "返信",
+          "answer": "返信",
+          "hints": {
+            "zh": "回复",
+            "en": "reply",
+            "ja": "返信"
+          },
+          "hint": "回复 / reply / 返信",
+          "furigana": "へんしん",
+          "romaji": "henshin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "受取人",
+          "answer": "受取人",
+          "hints": {
+            "zh": "收件人",
+            "en": "recipient",
+            "ja": "受取人"
+          },
+          "hint": "收件人 / recipient / 受取人",
+          "furigana": "うけとりにん",
+          "romaji": "uketorinin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "署名",
+          "answer": "署名",
+          "hints": {
+            "zh": "签名",
+            "en": "signature",
+            "ja": "署名"
+          },
+          "hint": "签名 / signature / 署名",
+          "furigana": "しょめい",
+          "romaji": "shomei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "伝言",
+          "answer": "伝言",
+          "hints": {
+            "zh": "留言",
+            "en": "message",
+            "ja": "伝言"
+          },
+          "hint": "留言 / message / 伝言",
+          "furigana": "でんごん",
+          "romaji": "dengon",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "フォロー",
+          "answer": "フォロー",
+          "hints": {
+            "zh": "跟进",
+            "en": "follow-up",
+            "ja": "フォロー"
+          },
+          "hint": "跟进 / follow-up / フォロー",
+          "furigana": "フォロー",
+          "romaji": "foroo",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "保留にしてもよろしいでしょうか",
+          "answer": "保留にしてもよろしいでしょうか",
+          "hints": {
+            "zh": "可以请您稍等吗？",
+            "en": "May I put you on hold?",
+            "ja": "保留にしてもよろしいでしょうか"
+          },
+          "hint": "可以请您稍等吗？ / May I put you on hold? / 保留にしてもよろしいでしょうか",
+          "furigana": "ほりゅうにしてもよろしいでしょうか",
+          "romaji": "horyuunishitemoyoroshiideshouka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ただいまお繋ぎいたします",
+          "answer": "ただいまお繋ぎいたします",
+          "hints": {
+            "zh": "现在为您转接",
+            "en": "I will transfer you now",
+            "ja": "ただいまお繋ぎいたします"
+          },
+          "hint": "现在为您转接 / I will transfer you now / ただいまお繋ぎいたします",
+          "furigana": "ただいまおつなぎいたします",
+          "romaji": "tadaimaotsunagiitashimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "伝言を承りましょうか",
+          "answer": "伝言を承りましょうか",
+          "hints": {
+            "zh": "需要帮您留言吗？",
+            "en": "Shall I take a message?",
+            "ja": "伝言を承りましょうか"
+          },
+          "hint": "需要帮您留言吗？ / Shall I take a message? / 伝言を承りましょうか",
+          "furigana": "でんごんをうけたまわりましょうか",
+          "romaji": "dengonwouketamawarimashouka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "折り返しご連絡いたします",
+          "answer": "折り返しご連絡いたします",
+          "hints": {
+            "zh": "我会回电联系您",
+            "en": "I will call you back",
+            "ja": "折り返しご連絡いたします"
+          },
+          "hint": "我会回电联系您 / I will call you back / 折り返しご連絡いたします",
+          "furigana": "おりかえしごれんらくいたします",
+          "romaji": "orikaeshigorenrakuitashimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お電話ありがとうございます",
+          "answer": "お電話ありがとうございます",
+          "hints": {
+            "zh": "感谢您的来电",
+            "en": "Thank you for calling",
+            "ja": "お電話ありがとうございます"
+          },
+          "hint": "感谢您的来电 / Thank you for calling / お電話ありがとうございます",
+          "furigana": "おでんわありがとうございます",
+          "romaji": "odenwaarigatougozaimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お問い合わせについて",
+          "answer": "お問い合わせについて",
+          "hints": {
+            "zh": "关于您的咨询",
+            "en": "Regarding your inquiry",
+            "ja": "お問い合わせについて"
+          },
+          "hint": "关于您的咨询 / Regarding your inquiry / お問い合わせについて",
+          "furigana": "おといあわせについて",
+          "romaji": "otoiawasenitsuite",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "添付ファイルをご確認ください",
+          "answer": "添付ファイルをご確認ください",
+          "hints": {
+            "zh": "请查收附件",
+            "en": "Please check the attachment",
+            "ja": "添付ファイルをご確認ください"
+          },
+          "hint": "请查收附件 / Please check the attachment / 添付ファイルをご確認ください",
+          "furigana": "てんぷファイルをごかくにんください",
+          "romaji": "tenpufairuwogokakuninkudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ご返信をお待ちしております",
+          "answer": "ご返信をお待ちしております",
+          "hints": {
+            "zh": "期待您的回复",
+            "en": "Looking forward to your reply",
+            "ja": "ご返信をお待ちしております"
+          },
+          "hint": "期待您的回复 / Looking forward to your reply / ご返信をお待ちしております",
+          "furigana": "へんしんをおまちしております",
+          "romaji": "henshinwoomachishiteorimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ご都合のよい時に",
+          "answer": "ご都合のよい時に",
+          "hints": {
+            "zh": "在您方便的时候",
+            "en": "At your convenience",
+            "ja": "ご都合のよい時に"
+          },
+          "hint": "在您方便的时候 / At your convenience / ご都合のよい時に",
+          "furigana": "ごつごうのよいときに",
+          "romaji": "gotsugounoyoitokini",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "敬具",
+          "answer": "敬具",
+          "hints": {
+            "zh": "此致敬礼",
+            "en": "Best regards",
+            "ja": "敬具"
+          },
+          "hint": "此致敬礼 / Best regards / 敬具",
+          "furigana": "けいぐ",
+          "romaji": "keigu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "ダイヤルトーン",
+          "answer": "ダイヤルトーン",
+          "hints": {
+            "zh": "拨号音",
+            "en": "dial tone",
+            "ja": "ダイヤルトーン"
+          },
+          "hint": "拨号音 / dial tone / ダイヤルトーン",
+          "furigana": "ダイヤルトーン",
+          "romaji": "daiyarutoon",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "電話会議",
+          "answer": "電話会議",
+          "hints": {
+            "zh": "电话会议",
+            "en": "conference call",
+            "ja": "電話会議"
+          },
+          "hint": "电话会议 / conference call / 電話会議",
+          "furigana": "でんわかいぎ",
+          "romaji": "denwakaigi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "CC",
+          "answer": "CC",
+          "hints": {
+            "zh": "抄送",
+            "en": "carbon copy",
+            "ja": "CC"
+          },
+          "hint": "抄送 / carbon copy / CC",
+          "furigana": "CC",
+          "romaji": "CC",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "BCC",
+          "answer": "BCC",
+          "hints": {
+            "zh": "密送",
+            "en": "blind carbon copy",
+            "ja": "BCC"
+          },
+          "hint": "密送 / blind carbon copy / BCC",
+          "furigana": "BCC",
+          "romaji": "BCC",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "不在",
+          "answer": "不在",
+          "hints": {
+            "zh": "不在",
+            "en": "out of office",
+            "ja": "不在"
+          },
+          "hint": "不在 / out of office / 不在",
+          "furigana": "ふざい",
+          "romaji": "fuzai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "自動返信",
+          "answer": "自動返信",
+          "hints": {
+            "zh": "自动回复",
+            "en": "auto-reply",
+            "ja": "自動返信"
+          },
+          "hint": "自动回复 / auto-reply / 自動返信",
+          "furigana": "じどうへんしん",
+          "romaji": "jidouhenshin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "迷惑メール",
+          "answer": "迷惑メール",
+          "hints": {
+            "zh": "垃圾邮件",
+            "en": "spam mail",
+            "ja": "迷惑メール"
+          },
+          "hint": "垃圾邮件 / spam mail / 迷惑メール",
+          "furigana": "めいわく",
+          "romaji": "meiwaku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "開封確認",
+          "answer": "開封確認",
+          "hints": {
+            "zh": "已读回执",
+            "en": "read receipt",
+            "ja": "開封確認"
+          },
+          "hint": "已读回执 / read receipt / 開封確認",
+          "furigana": "かいふうかくにん",
+          "romaji": "kaifuukakunin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-phone-email-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-emergency-dialogues",
+  "course": {
+    "title": "旅游 · 日语应急 · 情景对话",
+    "description": "トラブル、医療、紛失時の日本語表現（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 日语应急 · 情景对话",
+      "en": "Travel · Japanese Emergencies · Situational Dialogues",
+      "ja": "旅行 · 日本語緊急時 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习旅行应急中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for travel emergencies.",
+      "ja": "旅行中の緊急時で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "トラブル・緊急 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "すみません、食事の後から息が苦しいです。",
+          "answer": "すみません、食事の後から息が苦しいです。",
+          "hints": {
+            "zh": "不好意思，吃饭后我开始呼吸困难。",
+            "en": "Excuse me, I have had trouble breathing since the meal.",
+            "ja": "すみません、食事の後から息が苦しいです。"
+          },
+          "hint": "不好意思，吃饭后我开始呼吸困难。 / Excuse me, I have had trouble breathing since the meal. / すみません、食事の後から息が苦しいです。",
+          "furigana": "すみませんしょくじのあとからいきがくるしいです",
+          "romaji": "sumimasenshokujinoatokaraikigakurushiidesu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "allergy-pharmacy-help",
+          "dialogueTitles": {
+            "zh": "药店过敏求助",
+            "en": "Allergy Help at a Pharmacy",
+            "ja": "薬局でのアレルギー相談"
+          },
+          "dialogueScenes": {
+            "zh": "游客在药店说明过敏症状，药剂师建议立即就医。",
+            "en": "A tourist describes an allergic reaction, and the pharmacist advises immediate medical care.",
+            "ja": "旅行者が薬局でアレルギー症状を説明し、薬剤師がすぐに受診するよう勧めます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "真由",
+            "en": "Mayu",
+            "ja": "まゆ"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "何か食べ物のアレルギーはありますか。",
+          "answer": "何か食べ物のアレルギーはありますか。",
+          "hints": {
+            "zh": "您对什么食物过敏吗？",
+            "en": "Do you have any food allergies?",
+            "ja": "何か食べ物のアレルギーはありますか。"
+          },
+          "hint": "您对什么食物过敏吗？ / Do you have any food allergies? / 何か食べ物のアレルギーはありますか。",
+          "furigana": "なにかたべもののあれるぎーはありますか",
+          "romaji": "nanikatabemononoarerugiihaarimasuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "allergy-pharmacy-help",
+          "dialogueTitles": {
+            "zh": "药店过敏求助",
+            "en": "Allergy Help at a Pharmacy",
+            "ja": "薬局でのアレルギー相談"
+          },
+          "dialogueScenes": {
+            "zh": "游客在药店说明过敏症状，药剂师建议立即就医。",
+            "en": "A tourist describes an allergic reaction, and the pharmacist advises immediate medical care.",
+            "ja": "旅行者が薬局でアレルギー症状を説明し、薬剤師がすぐに受診するよう勧めます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "直树",
+            "en": "Naoki",
+            "ja": "なおき"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、えびに強いアレルギーがあります。",
+          "answer": "はい、えびに強いアレルギーがあります。",
+          "hints": {
+            "zh": "有，我对虾严重过敏。",
+            "en": "Yes, I have a severe allergy to shrimp.",
+            "ja": "はい、えびに強いアレルギーがあります。"
+          },
+          "hint": "有，我对虾严重过敏。 / Yes, I have a severe allergy to shrimp. / はい、えびに強いアレルギーがあります。",
+          "furigana": "はいえびにつよいあれるぎーがあります",
+          "romaji": "haiebinitsuyoiarerugiigaarimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "allergy-pharmacy-help",
+          "dialogueTitles": {
+            "zh": "药店过敏求助",
+            "en": "Allergy Help at a Pharmacy",
+            "ja": "薬局でのアレルギー相談"
+          },
+          "dialogueScenes": {
+            "zh": "游客在药店说明过敏症状，药剂师建议立即就医。",
+            "en": "A tourist describes an allergic reaction, and the pharmacist advises immediate medical care.",
+            "ja": "旅行者が薬局でアレルギー症状を説明し、薬剤師がすぐに受診するよう勧めます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "真由",
+            "en": "Mayu",
+            "ja": "まゆ"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "すぐに救急車を呼びましょう。",
+          "answer": "すぐに救急車を呼びましょう。",
+          "hints": {
+            "zh": "我们马上叫救护车吧。",
+            "en": "Let us call an ambulance right away.",
+            "ja": "すぐに救急車を呼びましょう。"
+          },
+          "hint": "我们马上叫救护车吧。 / Let us call an ambulance right away. / すぐに救急車を呼びましょう。",
+          "furigana": "すぐにきゅうきゅうしゃをよびましょう",
+          "romaji": "sugunikyuukyuushawoyobimashou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "allergy-pharmacy-help",
+          "dialogueTitles": {
+            "zh": "药店过敏求助",
+            "en": "Allergy Help at a Pharmacy",
+            "ja": "薬局でのアレルギー相談"
+          },
+          "dialogueScenes": {
+            "zh": "游客在药店说明过敏症状，药剂师建议立即就医。",
+            "en": "A tourist describes an allergic reaction, and the pharmacist advises immediate medical care.",
+            "ja": "旅行者が薬局でアレルギー症状を説明し、薬剤師がすぐに受診するよう勧めます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "直树",
+            "en": "Naoki",
+            "ja": "なおき"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "お願いします。保険証は持っています。",
+          "answer": "お願いします。保険証は持っています。",
+          "hints": {
+            "zh": "拜托了。我带着保险证。",
+            "en": "Please do. I have my insurance card.",
+            "ja": "お願いします。保険証は持っています。"
+          },
+          "hint": "拜托了。我带着保险证。 / Please do. I have my insurance card. / お願いします。保険証は持っています。",
+          "furigana": "おねがいしますほけんしょうはもっています",
+          "romaji": "onegaishimasuhokenshouhamotteimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "allergy-pharmacy-help",
+          "dialogueTitles": {
+            "zh": "药店过敏求助",
+            "en": "Allergy Help at a Pharmacy",
+            "ja": "薬局でのアレルギー相談"
+          },
+          "dialogueScenes": {
+            "zh": "游客在药店说明过敏症状，药剂师建议立即就医。",
+            "en": "A tourist describes an allergic reaction, and the pharmacist advises immediate medical care.",
+            "ja": "旅行者が薬局でアレルギー症状を説明し、薬剤師がすぐに受診するよう勧めます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "真由",
+            "en": "Mayu",
+            "ja": "まゆ"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "ここに座って、ゆっくり呼吸してください。",
+          "answer": "ここに座って、ゆっくり呼吸してください。",
+          "hints": {
+            "zh": "请坐在这里，慢慢呼吸。",
+            "en": "Sit here and breathe slowly, please.",
+            "ja": "ここに座って、ゆっくり呼吸してください。"
+          },
+          "hint": "请坐在这里，慢慢呼吸。 / Sit here and breathe slowly, please. / ここに座って、ゆっくり呼吸してください。",
+          "furigana": "ここにすわってゆっくりこきゅうしてください",
+          "romaji": "kokonisuwatteyukkurikokyuushitekudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "allergy-pharmacy-help",
+          "dialogueTitles": {
+            "zh": "药店过敏求助",
+            "en": "Allergy Help at a Pharmacy",
+            "ja": "薬局でのアレルギー相談"
+          },
+          "dialogueScenes": {
+            "zh": "游客在药店说明过敏症状，药剂师建议立即就医。",
+            "en": "A tourist describes an allergic reaction, and the pharmacist advises immediate medical care.",
+            "ja": "旅行者が薬局でアレルギー症状を説明し、薬剤師がすぐに受診するよう勧めます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "直树",
+            "en": "Naoki",
+            "ja": "なおき"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

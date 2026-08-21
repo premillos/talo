@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-emergency-words",
+  "course": {
+    "title": "旅游 · 日语应急 · 词汇",
+    "description": "トラブル、医療、紛失時の日本語表現（单词与短语）",
+    "titles": {
+      "zh": "旅游 · 日语应急 · 词汇",
+      "en": "Travel · Japanese Emergencies · Vocabulary",
+      "ja": "旅行 · 日本語緊急時 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习旅行应急中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for travel emergencies.",
+      "ja": "旅行中の緊急時で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "トラブル・緊急",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "助け",
+          "answer": "助け",
+          "hints": {
+            "zh": "帮助",
+            "en": "help",
+            "ja": "助け"
+          },
+          "hint": "帮助 / help / 助け",
+          "furigana": "たすけ",
+          "romaji": "tasuke",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "緊急",
+          "answer": "緊急",
+          "hints": {
+            "zh": "紧急",
+            "en": "emergency",
+            "ja": "緊急"
+          },
+          "hint": "紧急 / emergency / 緊急",
+          "furigana": "きんきゅう",
+          "romaji": "kinkyuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "警察",
+          "answer": "警察",
+          "hints": {
+            "zh": "警察",
+            "en": "police",
+            "ja": "警察"
+          },
+          "hint": "警察 / police / 警察",
+          "furigana": "けいさつ",
+          "romaji": "keisatsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "病院",
+          "answer": "病院",
+          "hints": {
+            "zh": "医院",
+            "en": "hospital",
+            "ja": "病院"
+          },
+          "hint": "医院 / hospital / 病院",
+          "furigana": "びょういん",
+          "romaji": "byouin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "薬局",
+          "answer": "薬局",
+          "hints": {
+            "zh": "药店",
+            "en": "pharmacy",
+            "ja": "薬局"
+          },
+          "hint": "药店 / pharmacy / 薬局",
+          "furigana": "やっきょく",
+          "romaji": "yakkyoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "事故",
+          "answer": "事故",
+          "hints": {
+            "zh": "事故",
+            "en": "accident",
+            "ja": "事故"
+          },
+          "hint": "事故 / accident / 事故",
+          "furigana": "じこ",
+          "romaji": "jiko",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "救急車",
+          "answer": "救急車",
+          "hints": {
+            "zh": "救护车",
+            "en": "ambulance",
+            "ja": "救急車"
+          },
+          "hint": "救护车 / ambulance / 救急車",
+          "furigana": "きゅうきゅうしゃ",
+          "romaji": "kyuukyuusha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "保険",
+          "answer": "保険",
+          "hints": {
+            "zh": "保险",
+            "en": "insurance",
+            "ja": "保険"
+          },
+          "hint": "保险 / insurance / 保険",
+          "furigana": "ほけん",
+          "romaji": "hoken",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "財布",
+          "answer": "財布",
+          "hints": {
+            "zh": "钱包",
+            "en": "wallet",
+            "ja": "財布"
+          },
+          "hint": "钱包 / wallet / 財布",
+          "furigana": "さいふ",
+          "romaji": "saifu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "大使館",
+          "answer": "大使館",
+          "hints": {
+            "zh": "大使馆",
+            "en": "embassy",
+            "ja": "大使館"
+          },
+          "hint": "大使馆 / embassy / 大使館",
+          "furigana": "たいしかん",
+          "romaji": "taishikan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "アレルギー",
+          "answer": "アレルギー",
+          "hints": {
+            "zh": "过敏",
+            "en": "allergy",
+            "ja": "アレルギー"
+          },
+          "hint": "过敏 / allergy / アレルギー",
+          "furigana": "アレルギー",
+          "romaji": "arerugii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "薬",
+          "answer": "薬",
+          "hints": {
+            "zh": "药",
+            "en": "medicine",
+            "ja": "薬"
+          },
+          "hint": "药 / medicine / 薬",
+          "furigana": "くすり",
+          "romaji": "kusuri",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "警察を呼ぶ",
+          "answer": "警察を呼ぶ",
+          "hints": {
+            "zh": "报警",
+            "en": "call the police",
+            "ja": "警察を呼ぶ"
+          },
+          "hint": "报警 / call the police / 警察を呼ぶ",
+          "furigana": "よぶ",
+          "romaji": "yobu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "医療援助",
+          "answer": "医療援助",
+          "hints": {
+            "zh": "医疗援助",
+            "en": "medical assistance",
+            "ja": "医療援助"
+          },
+          "hint": "医疗援助 / medical assistance / 医療援助",
+          "furigana": "いりょうえんじょ",
+          "romaji": "iryouenjo",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "パスポート紛失",
+          "answer": "パスポート紛失",
+          "hints": {
+            "zh": "护照丢失",
+            "en": "lost passport",
+            "ja": "パスポート紛失"
+          },
+          "hint": "护照丢失 / lost passport / パスポート紛失",
+          "furigana": "ふんしつ",
+          "romaji": "funshitsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "盗難届",
+          "answer": "盗難届",
+          "hints": {
+            "zh": "失窃报案",
+            "en": "theft report",
+            "ja": "盗難届"
+          },
+          "hint": "失窃报案 / theft report / 盗難届",
+          "furigana": "とうなんとどけ",
+          "romaji": "tounantodoke",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "旅行保険",
+          "answer": "旅行保険",
+          "hints": {
+            "zh": "旅行保险",
+            "en": "travel insurance",
+            "ja": "旅行保険"
+          },
+          "hint": "旅行保险 / travel insurance / 旅行保険",
+          "furigana": "りょこう",
+          "romaji": "ryokou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "応急処置",
+          "answer": "応急処置",
+          "hints": {
+            "zh": "急救",
+            "en": "first aid",
+            "ja": "応急処置"
+          },
+          "hint": "急救 / first aid / 応急処置",
+          "furigana": "おうきゅうしょち",
+          "romaji": "oukyuushochi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "緊急連絡先",
+          "answer": "緊急連絡先",
+          "hints": {
+            "zh": "紧急联系人",
+            "en": "emergency contact",
+            "ja": "緊急連絡先"
+          },
+          "hint": "紧急联系人 / emergency contact / 緊急連絡先",
+          "furigana": "れんらくさき",
+          "romaji": "renrakusaki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "気分が悪い",
+          "answer": "気分が悪い",
+          "hints": {
+            "zh": "感觉不舒服",
+            "en": "feel sick",
+            "ja": "気分が悪い"
+          },
+          "hint": "感觉不舒服 / feel sick / 気分が悪い",
+          "furigana": "きぶん",
+          "romaji": "kibun",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "めまいがする",
+          "answer": "めまいがする",
+          "hints": {
+            "zh": "头晕",
+            "en": "feel dizzy",
+            "ja": "めまいがする"
+          },
+          "hint": "头晕 / feel dizzy / めまいがする",
+          "furigana": "めまいがする",
+          "romaji": "memaigasuru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "医者が必要",
+          "answer": "医者が必要",
+          "hints": {
+            "zh": "需要医生",
+            "en": "need a doctor",
+            "ja": "医者が必要"
+          },
+          "hint": "需要医生 / need a doctor / 医者が必要",
+          "furigana": "いしゃ ひつよう",
+          "romaji": "isha hitsuyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "財布を盗まれた",
+          "answer": "財布を盗まれた",
+          "hints": {
+            "zh": "钱包被偷",
+            "en": "wallet was stolen",
+            "ja": "財布を盗まれた"
+          },
+          "hint": "钱包被偷 / wallet was stolen / 財布を盗まれた",
+          "furigana": "ぬす",
+          "romaji": "nusu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "けが",
+          "answer": "けが",
+          "hints": {
+            "zh": "受伤",
+            "en": "injury",
+            "ja": "けが"
+          },
+          "hint": "受伤 / injury / けが",
+          "furigana": "けが",
+          "romaji": "kega",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "盗難",
+          "answer": "盗難",
+          "hints": {
+            "zh": "盗窃",
+            "en": "theft",
+            "ja": "盗難"
+          },
+          "hint": "盗窃 / theft / 盗難",
+          "furigana": "とうなん",
+          "romaji": "tounan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "救急外来",
+          "answer": "救急外来",
+          "hints": {
+            "zh": "急诊室",
+            "en": "emergency room",
+            "ja": "救急外来"
+          },
+          "hint": "急诊室 / emergency room / 救急外来",
+          "furigana": "きゅうきゅうがいらい",
+          "romaji": "kyuukyuugairai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "症状",
+          "answer": "症状",
+          "hints": {
+            "zh": "症状",
+            "en": "symptom",
+            "ja": "症状"
+          },
+          "hint": "症状 / symptom / 症状",
+          "furigana": "しょうじょう",
+          "romaji": "shoujou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "処方箋",
+          "answer": "処方箋",
+          "hints": {
+            "zh": "处方",
+            "en": "prescription",
+            "ja": "処方箋"
+          },
+          "hint": "处方 / prescription / 処方箋",
+          "furigana": "しょほうせん",
+          "romaji": "shohousen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "通訳",
+          "answer": "通訳",
+          "hints": {
+            "zh": "翻译",
+            "en": "interpreter",
+            "ja": "通訳"
+          },
+          "hint": "翻译 / interpreter / 通訳",
+          "furigana": "つうやく",
+          "romaji": "tsuuyaku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "救急車を呼ぶ",
+          "answer": "救急車を呼ぶ",
+          "hints": {
+            "zh": "叫救护车",
+            "en": "call an ambulance",
+            "ja": "救急車を呼ぶ"
+          },
+          "hint": "叫救护车 / call an ambulance / 救急車を呼ぶ",
+          "furigana": "きゅうきゅうしゃをよぶ",
+          "romaji": "kyuukyuushawoyobu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

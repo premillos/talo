@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "programming",
+  "slug": "ja-prog-web-dialogues",
+  "course": {
+    "title": "编程知识 · 日语 Web · 情景对话",
+    "description": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 日语 Web · 情景对话",
+      "en": "编程知识 · 日语 Web · 情景对话",
+      "ja": "编程知识 · 日语 Web · 情景对话"
+    },
+    "descriptions": {
+      "zh": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）",
+      "en": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）",
+      "ja": "Web 開発：リクエスト、レスポンス、デプロイ、ミドルウェアなど Web 開発用語。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Web 開発 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "本番環境でAPIが五百エラーを返しています。",
+          "answer": "本番環境でAPIが五百エラーを返しています。",
+          "hints": {
+            "zh": "生产环境中的 API 返回 500 错误。",
+            "en": "The API returns a 500 error in production.",
+            "ja": "本番環境でAPIが五百エラーを返しています。"
+          },
+          "hint": "生产环境中的 API 返回 500 错误。 / The API returns a 500 error in production. / 本番環境でAPIが五百エラーを返しています。",
+          "furigana": "ほんばんかんきょうでAPIがごひゃくエラーをかえしています。",
+          "romaji": "honbankankyoudeAPIgagohyakueraawokaeshiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-web-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "production-deployment-check",
+          "dialogueTitles": {
+            "zh": "确认生产部署",
+            "en": "Checking a Production Deployment",
+            "ja": "本番デプロイの確認"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者确认部署后出现的接口错误。",
+            "en": "Frontend and backend developers check an API error after deployment.",
+            "ja": "フロントエンドとバックエンドの開発者がデプロイ後のAPIエラーを確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "绫",
+            "en": "Aya",
+            "ja": "彩"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "サーバーのログに原因は出ていますか。",
+          "answer": "サーバーのログに原因は出ていますか。",
+          "hints": {
+            "zh": "服务器日志里显示原因了吗？",
+            "en": "Does the server log show the cause?",
+            "ja": "サーバーのログに原因は出ていますか。"
+          },
+          "hint": "服务器日志里显示原因了吗？ / Does the server log show the cause? / サーバーのログに原因は出ていますか。",
+          "furigana": "サーバーのログにげんいんはでていますか。",
+          "romaji": "saabaanorogunigen'inhadeteimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-web-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "production-deployment-check",
+          "dialogueTitles": {
+            "zh": "确认生产部署",
+            "en": "Checking a Production Deployment",
+            "ja": "本番デプロイの確認"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者确认部署后出现的接口错误。",
+            "en": "Frontend and backend developers check an API error after deployment.",
+            "ja": "フロントエンドとバックエンドの開発者がデプロイ後のAPIエラーを確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "拓海",
+            "en": "Takumi",
+            "ja": "拓海"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "データベース接続の設定が見つからないようです。",
+          "answer": "データベース接続の設定が見つからないようです。",
+          "hints": {
+            "zh": "似乎找不到数据库连接配置。",
+            "en": "The database connection setting appears to be missing.",
+            "ja": "データベース接続の設定が見つからないようです。"
+          },
+          "hint": "似乎找不到数据库连接配置。 / The database connection setting appears to be missing. / データベース接続の設定が見つからないようです。",
+          "furigana": "データベースせつぞくのせっていがみつからないようです。",
+          "romaji": "deetabeesusetsuzokunosetteigamitsukaranaiyoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-web-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "production-deployment-check",
+          "dialogueTitles": {
+            "zh": "确认生产部署",
+            "en": "Checking a Production Deployment",
+            "ja": "本番デプロイの確認"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者确认部署后出现的接口错误。",
+            "en": "Frontend and backend developers check an API error after deployment.",
+            "ja": "フロントエンドとバックエンドの開発者がデプロイ後のAPIエラーを確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "绫",
+            "en": "Aya",
+            "ja": "彩"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "環境変数が正しく反映されたか確認します。",
+          "answer": "環境変数が正しく反映されたか確認します。",
+          "hints": {
+            "zh": "我来确认环境变量是否正确生效。",
+            "en": "I will check whether the environment variable was applied correctly.",
+            "ja": "環境変数が正しく反映されたか確認します。"
+          },
+          "hint": "我来确认环境变量是否正确生效。 / I will check whether the environment variable was applied correctly. / 環境変数が正しく反映されたか確認します。",
+          "furigana": "かんきょうへんすうがただしくはんえいされたかかくにんします。",
+          "romaji": "kankyouhensuugatadashikuhan'eisaretakakakuninshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-web-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "production-deployment-check",
+          "dialogueTitles": {
+            "zh": "确认生产部署",
+            "en": "Checking a Production Deployment",
+            "ja": "本番デプロイの確認"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者确认部署后出现的接口错误。",
+            "en": "Frontend and backend developers check an API error after deployment.",
+            "ja": "フロントエンドとバックエンドの開発者がデプロイ後のAPIエラーを確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "拓海",
+            "en": "Takumi",
+            "ja": "拓海"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "修正後にヘルスチェックを試します。",
+          "answer": "修正後にヘルスチェックを試します。",
+          "hints": {
+            "zh": "修复后我会尝试健康检查。",
+            "en": "I will try the health check after the fix.",
+            "ja": "修正後にヘルスチェックを試します。"
+          },
+          "hint": "修复后我会尝试健康检查。 / I will try the health check after the fix. / 修正後にヘルスチェックを試します。",
+          "furigana": "しゅうせいごにヘルスチェックをためします。",
+          "romaji": "shuuseigoniherusuchekkuwotameshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-web-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "production-deployment-check",
+          "dialogueTitles": {
+            "zh": "确认生产部署",
+            "en": "Checking a Production Deployment",
+            "ja": "本番デプロイの確認"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者确认部署后出现的接口错误。",
+            "en": "Frontend and backend developers check an API error after deployment.",
+            "ja": "フロントエンドとバックエンドの開発者がデプロイ後のAPIエラーを確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "绫",
+            "en": "Aya",
+            "ja": "彩"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "正常なレスポンスに戻ったら共有してください。",
+          "answer": "正常なレスポンスに戻ったら共有してください。",
+          "hints": {
+            "zh": "恢复正常响应后请通知我。",
+            "en": "Please let me know when the response returns to normal.",
+            "ja": "正常なレスポンスに戻ったら共有してください。"
+          },
+          "hint": "恢复正常响应后请通知我。 / Please let me know when the response returns to normal. / 正常なレスポンスに戻ったら共有してください。",
+          "furigana": "せいじょうなレスポンスにもどったらきょうゆうしてください。",
+          "romaji": "seijounaresuponsunimodottarakyouyuushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-web-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "production-deployment-check",
+          "dialogueTitles": {
+            "zh": "确认生产部署",
+            "en": "Checking a Production Deployment",
+            "ja": "本番デプロイの確認"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者确认部署后出现的接口错误。",
+            "en": "Frontend and backend developers check an API error after deployment.",
+            "ja": "フロントエンドとバックエンドの開発者がデプロイ後のAPIエラーを確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "拓海",
+            "en": "Takumi",
+            "ja": "拓海"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

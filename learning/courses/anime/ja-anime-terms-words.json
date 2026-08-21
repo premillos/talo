@@ -1,0 +1,577 @@
+{
+  "languageCode": "ja",
+  "category": "anime",
+  "slug": "ja-anime-terms-words",
+  "course": {
+    "title": "二次元/动漫 · 日语术语 · 词汇",
+    "description": "学习动漫、漫画与 ACG 文化中常见的日语专业术语。（单词与短语）",
+    "titles": {
+      "zh": "二次元/动漫 · 日语术语 · 词汇",
+      "en": "Anime & ACG · Japanese Terms · Vocabulary",
+      "ja": "アニメ・ACG · 日本語用語 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习动漫术语中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for anime terminology.",
+      "ja": "アニメ用語で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "动漫日语词汇",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "アニメ",
+          "answer": "アニメ",
+          "hints": {
+            "zh": "动画",
+            "en": "anime",
+            "ja": "アニメ"
+          },
+          "hint": "动画 / anime / アニメ",
+          "furigana": "あにめ",
+          "romaji": "anime",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "漫画",
+          "answer": "漫画",
+          "hints": {
+            "zh": "漫画",
+            "en": "manga",
+            "ja": "漫画"
+          },
+          "hint": "漫画 / manga / 漫画",
+          "furigana": "まんが",
+          "romaji": "manga",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "声優",
+          "answer": "声優",
+          "hints": {
+            "zh": "声优",
+            "en": "voice actor",
+            "ja": "声優"
+          },
+          "hint": "声优 / voice actor / 声優",
+          "furigana": "せいゆう",
+          "romaji": "seiyuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "作画",
+          "answer": "作画",
+          "hints": {
+            "zh": "作画；画面绘制质量",
+            "en": "animation drawing quality",
+            "ja": "作画"
+          },
+          "hint": "作画；画面绘制质量 / animation drawing quality / 作画",
+          "furigana": "さくが",
+          "romaji": "sakuga",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "設定",
+          "answer": "設定",
+          "hints": {
+            "zh": "设定；世界观设定",
+            "en": "setting; world-building",
+            "ja": "設定"
+          },
+          "hint": "设定；世界观设定 / setting; world-building / 設定",
+          "furigana": "せってい",
+          "romaji": "settei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "原作",
+          "answer": "原作",
+          "hints": {
+            "zh": "原作；原著",
+            "en": "original source work",
+            "ja": "原作"
+          },
+          "hint": "原作；原著 / original source work / 原作",
+          "furigana": "げんさく",
+          "romaji": "gensaku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "連載",
+          "answer": "連載",
+          "hints": {
+            "zh": "连载",
+            "en": "serialized publication",
+            "ja": "連載"
+          },
+          "hint": "连载 / serialized publication / 連載",
+          "furigana": "れんさい",
+          "romaji": "rensai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "単行本",
+          "answer": "単行本",
+          "hints": {
+            "zh": "单行本；卷册",
+            "en": "tankobon volume",
+            "ja": "単行本"
+          },
+          "hint": "单行本；卷册 / tankobon volume / 単行本",
+          "furigana": "たんこうぼん",
+          "romaji": "tankoubon",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "同人",
+          "answer": "同人",
+          "hints": {
+            "zh": "同人；同人创作",
+            "en": "doujin; fan-made works",
+            "ja": "同人"
+          },
+          "hint": "同人；同人创作 / doujin; fan-made works / 同人",
+          "furigana": "どうじん",
+          "romaji": "doujin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "コスプレ",
+          "answer": "コスプレ",
+          "hints": {
+            "zh": "角色扮演",
+            "en": "cosplay",
+            "ja": "コスプレ"
+          },
+          "hint": "角色扮演 / cosplay / コスプレ",
+          "furigana": "コスプレ",
+          "romaji": "kosupure",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "オタク",
+          "answer": "オタク",
+          "hints": {
+            "zh": "御宅族",
+            "en": "otaku",
+            "ja": "オタク"
+          },
+          "hint": "御宅族 / otaku / オタク",
+          "furigana": "オタク",
+          "romaji": "otaku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "萌え",
+          "answer": "萌え",
+          "hints": {
+            "zh": "萌；可爱属性",
+            "en": "moe; cuteness appeal",
+            "ja": "萌え"
+          },
+          "hint": "萌；可爱属性 / moe; cuteness appeal / 萌え",
+          "furigana": "もえ",
+          "romaji": "moe",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "オープニング",
+          "answer": "オープニング",
+          "hints": {
+            "zh": "片头曲；OP",
+            "en": "opening theme",
+            "ja": "オープニング"
+          },
+          "hint": "片头曲；OP / opening theme / オープニング",
+          "furigana": "オープニング",
+          "romaji": "oopuningu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/13.wav",
+          "acceptVariants": [
+            "OP"
+          ],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "エンディング",
+          "answer": "エンディング",
+          "hints": {
+            "zh": "片尾曲；ED",
+            "en": "ending theme",
+            "ja": "エンディング"
+          },
+          "hint": "片尾曲；ED / ending theme / エンディング",
+          "furigana": "エンディング",
+          "romaji": "endingu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/14.wav",
+          "acceptVariants": [
+            "ED"
+          ],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "キャラクター",
+          "answer": "キャラクター",
+          "hints": {
+            "zh": "角色",
+            "en": "character",
+            "ja": "キャラクター"
+          },
+          "hint": "角色 / character / キャラクター",
+          "furigana": "キャラクター",
+          "romaji": "kyarakutaa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/15.wav",
+          "acceptVariants": [
+            "キャラ"
+          ],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ストーリー",
+          "answer": "ストーリー",
+          "hints": {
+            "zh": "故事；剧情",
+            "en": "story",
+            "ja": "ストーリー"
+          },
+          "hint": "故事；剧情 / story / ストーリー",
+          "furigana": "ストーリー",
+          "romaji": "sutoorii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "作画崩壊",
+          "answer": "作画崩壊",
+          "hints": {
+            "zh": "作画崩坏",
+            "en": "off-model animation frames",
+            "ja": "作画崩壊"
+          },
+          "hint": "作画崩坏 / off-model animation frames / 作画崩壊",
+          "furigana": "さくがほうかい",
+          "romaji": "sakugahoukai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "伏線",
+          "answer": "伏線",
+          "hints": {
+            "zh": "伏笔",
+            "en": "foreshadowing plot thread",
+            "ja": "伏線"
+          },
+          "hint": "伏笔 / foreshadowing plot thread / 伏線",
+          "furigana": "ふくせん",
+          "romaji": "fukusen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "神回",
+          "answer": "神回",
+          "hints": {
+            "zh": "神回；超精彩的一集",
+            "en": "legendary amazing episode",
+            "ja": "神回"
+          },
+          "hint": "神回；超精彩的一集 / legendary amazing episode / 神回",
+          "furigana": "かみかい",
+          "romaji": "kamikai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "作画監督",
+          "answer": "作画監督",
+          "hints": {
+            "zh": "作画监督",
+            "en": "animation director",
+            "ja": "作画監督"
+          },
+          "hint": "作画监督 / animation director / 作画監督",
+          "furigana": "さくがかんとく",
+          "romaji": "sakugakantoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "原作者",
+          "answer": "原作者",
+          "hints": {
+            "zh": "原作者",
+            "en": "original author",
+            "ja": "原作者"
+          },
+          "hint": "原作者 / original author / 原作者",
+          "furigana": "げんさくしゃ",
+          "romaji": "gensakusha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ラノベ",
+          "answer": "ラノベ",
+          "hints": {
+            "zh": "轻小说",
+            "en": "light novel",
+            "ja": "ラノベ"
+          },
+          "hint": "轻小说 / light novel / ラノベ",
+          "furigana": "ラノベ",
+          "romaji": "ranobe",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "異世界",
+          "answer": "異世界",
+          "hints": {
+            "zh": "异世界",
+            "en": "another world; isekai",
+            "ja": "異世界"
+          },
+          "hint": "异世界 / another world; isekai / 異世界",
+          "furigana": "いせかい",
+          "romaji": "isekai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "監督",
+          "answer": "監督",
+          "hints": {
+            "zh": "导演",
+            "en": "director",
+            "ja": "監督"
+          },
+          "hint": "导演 / director / 監督",
+          "furigana": "かんとく",
+          "romaji": "kantoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "脚本",
+          "answer": "脚本",
+          "hints": {
+            "zh": "剧本",
+            "en": "screenplay",
+            "ja": "脚本"
+          },
+          "hint": "剧本 / screenplay / 脚本",
+          "furigana": "きゃくほん",
+          "romaji": "kyakuhon",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "演出",
+          "answer": "演出",
+          "hints": {
+            "zh": "演出；演出效果",
+            "en": "direction; staging",
+            "ja": "演出"
+          },
+          "hint": "演出；演出效果 / direction; staging / 演出",
+          "furigana": "えんしゅつ",
+          "romaji": "enshutsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "背景",
+          "answer": "背景",
+          "hints": {
+            "zh": "背景美术",
+            "en": "background art",
+            "ja": "背景"
+          },
+          "hint": "背景美术 / background art / 背景",
+          "furigana": "はいけい",
+          "romaji": "haikei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "セル画",
+          "answer": "セル画",
+          "hints": {
+            "zh": "赛璐珞片",
+            "en": "animation cel",
+            "ja": "セル画"
+          },
+          "hint": "赛璐珞片 / animation cel / セル画",
+          "furigana": "セルが",
+          "romaji": "seruga",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "総集編",
+          "answer": "総集編",
+          "hints": {
+            "zh": "总集篇",
+            "en": "compilation episode",
+            "ja": "総集編"
+          },
+          "hint": "总集篇 / compilation episode / 総集編",
+          "furigana": "そうしゅうへん",
+          "romaji": "soushuuhen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "制作委員会",
+          "answer": "制作委員会",
+          "hints": {
+            "zh": "制作委员会",
+            "en": "production committee",
+            "ja": "制作委員会"
+          },
+          "hint": "制作委员会 / production committee / 制作委員会",
+          "furigana": "せいさくいいんかい",
+          "romaji": "seisakuiinkai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

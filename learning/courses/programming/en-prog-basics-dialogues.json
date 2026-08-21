@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-basics-dialogues",
+  "course": {
+    "title": "编程知识 · 英语基础 · 情景对话",
+    "description": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 英语基础 · 情景对话",
+      "en": "编程知识 · 英语基础 · 情景对话",
+      "ja": "编程知识 · 英语基础 · 情景对话"
+    },
+    "descriptions": {
+      "zh": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）",
+      "en": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）",
+      "ja": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "编程核心概念 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "This function returns null every time.",
+          "answer": "This function returns null every time.",
+          "hints": {
+            "zh": "这个函数每次都返回 null。",
+            "en": "This function returns null every time.",
+            "ja": "この関数は毎回nullを返します。"
+          },
+          "hint": "这个函数每次都返回 null。 / This function returns null every time. / この関数は毎回nullを返します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs ˈfəŋkʃən ɹiˈtɝnz nəl ˈɛvɚi taɪm/",
+          "audioUrl": "learning/audio/en/en-prog-basics-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "pair-debugging-basics",
+          "dialogueTitles": {
+            "zh": "结对调试基础代码",
+            "en": "Pair Debugging Basic Code",
+            "ja": "ペアで基礎コードをデバッグ"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者一起排查函数返回值错误。",
+            "en": "Two developers investigate an incorrect function return value.",
+            "ja": "二人の開発者が関数の戻り値の誤りを調べます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾米",
+            "en": "Amy",
+            "ja": "エイミー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Let me check the return condition.",
+          "answer": "Let me check the return condition.",
+          "hints": {
+            "zh": "让我检查一下返回条件。",
+            "en": "Let me check the return condition.",
+            "ja": "戻り値の条件を確認します。"
+          },
+          "hint": "让我检查一下返回条件。 / Let me check the return condition. / 戻り値の条件を確認します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lɛt mi tʃɛk ðə ɹiˈtɝn kənˈdɪʃən/",
+          "audioUrl": "learning/audio/en/en-prog-basics-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "pair-debugging-basics",
+          "dialogueTitles": {
+            "zh": "结对调试基础代码",
+            "en": "Pair Debugging Basic Code",
+            "ja": "ペアで基礎コードをデバッグ"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者一起排查函数返回值错误。",
+            "en": "Two developers investigate an incorrect function return value.",
+            "ja": "二人の開発者が関数の戻り値の誤りを調べます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "本",
+            "en": "Ben",
+            "ja": "ベン"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "The boolean flag is never set to true.",
+          "answer": "The boolean flag is never set to true.",
+          "hints": {
+            "zh": "布尔标志从未被设为 true。",
+            "en": "The boolean flag is never set to true.",
+            "ja": "真偽値フラグが一度もtrueに設定されていません。"
+          },
+          "hint": "布尔标志从未被设为 true。 / The boolean flag is never set to true. / 真偽値フラグが一度もtrueに設定されていません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə buˈliən flæɡ ɪz ˈnɛvɚ sɛt tə tɹu/",
+          "audioUrl": "learning/audio/en/en-prog-basics-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "pair-debugging-basics",
+          "dialogueTitles": {
+            "zh": "结对调试基础代码",
+            "en": "Pair Debugging Basic Code",
+            "ja": "ペアで基礎コードをデバッグ"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者一起排查函数返回值错误。",
+            "en": "Two developers investigate an incorrect function return value.",
+            "ja": "二人の開発者が関数の戻り値の誤りを調べます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾米",
+            "en": "Amy",
+            "ja": "エイミー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "We should initialize it before the loop.",
+          "answer": "We should initialize it before the loop.",
+          "hints": {
+            "zh": "我们应该在循环前初始化它。",
+            "en": "We should initialize it before the loop.",
+            "ja": "ループの前に初期化すべきです。"
+          },
+          "hint": "我们应该在循环前初始化它。 / We should initialize it before the loop. / ループの前に初期化すべきです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ʃəd ˌɪˈnɪʃəˌlaɪz ɪt bɪˈfɔɹ ðə lup/",
+          "audioUrl": "learning/audio/en/en-prog-basics-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "pair-debugging-basics",
+          "dialogueTitles": {
+            "zh": "结对调试基础代码",
+            "en": "Pair Debugging Basic Code",
+            "ja": "ペアで基礎コードをデバッグ"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者一起排查函数返回值错误。",
+            "en": "Two developers investigate an incorrect function return value.",
+            "ja": "二人の開発者が関数の戻り値の誤りを調べます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "本",
+            "en": "Ben",
+            "ja": "ベン"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I will add a default value and rerun the test.",
+          "answer": "I will add a default value and rerun the test.",
+          "hints": {
+            "zh": "我会添加默认值并重新运行测试。",
+            "en": "I will add a default value and rerun the test.",
+            "ja": "デフォルト値を追加してテストを再実行します。"
+          },
+          "hint": "我会添加默认值并重新运行测试。 / I will add a default value and rerun the test. / デフォルト値を追加してテストを再実行します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəl æd ə dɪˈfɔlt ˈvælju ən ˌɹiˈɹən ðə tɛst/",
+          "audioUrl": "learning/audio/en/en-prog-basics-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "pair-debugging-basics",
+          "dialogueTitles": {
+            "zh": "结对调试基础代码",
+            "en": "Pair Debugging Basic Code",
+            "ja": "ペアで基礎コードをデバッグ"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者一起排查函数返回值错误。",
+            "en": "Two developers investigate an incorrect function return value.",
+            "ja": "二人の開発者が関数の戻り値の誤りを調べます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾米",
+            "en": "Amy",
+            "ja": "エイミー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great, the function now returns the expected result.",
+          "answer": "Great, the function now returns the expected result.",
+          "hints": {
+            "zh": "很好，函数现在返回预期结果了。",
+            "en": "Great, the function now returns the expected result.",
+            "ja": "よし、関数が期待どおりの結果を返すようになりました。"
+          },
+          "hint": "很好，函数现在返回预期结果了。 / Great, the function now returns the expected result. / よし、関数が期待どおりの結果を返すようになりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt ðə ˈfəŋkʃən naʊ ɹiˈtɝnz ði ɪkˈspɛktəd ɹiˈzəlt/",
+          "audioUrl": "learning/audio/en/en-prog-basics-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "pair-debugging-basics",
+          "dialogueTitles": {
+            "zh": "结对调试基础代码",
+            "en": "Pair Debugging Basic Code",
+            "ja": "ペアで基礎コードをデバッグ"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者一起排查函数返回值错误。",
+            "en": "Two developers investigate an incorrect function return value.",
+            "ja": "二人の開発者が関数の戻り値の誤りを調べます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "本",
+            "en": "Ben",
+            "ja": "ベン"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+/* Talo 自定义鼠标，源文件 client/design/cursor_*.png */
+:root {
+  --talo-cursor-normal: url('./cursor_normal.png') 5 5, default;
+  --talo-cursor-pointer: url('./cursor_pointer.png') 18 17, pointer;
+  --talo-cursor-disable: url('./cursor_disable.png') 5 5, not-allowed;
+}
+
+html,
+body {
+  cursor: var(--talo-cursor-normal);
+}
+
+/* 文本输入保留系统 I 形光标 */
+input:not([type='button']):not([type='submit']):not([type='reset']):not([type='checkbox']):not([type='radio']),
+textarea,
+[contenteditable='true'] {
+  cursor: text;
+}
+
+/* 可点击元素 */
+a,
+area,
+button:not(:disabled),
+label,
+select,
+summary,
+[role='link'],
+[role='button']:not([aria-disabled='true']),
+input[type='button'],
+input[type='submit'],
+input[type='reset'],
+input[type='checkbox'],
+input[type='radio'] {
+  cursor: var(--talo-cursor-pointer);
+}
+
+/* 不可用状态 */
+:disabled,
+[disabled],
+[aria-disabled='true'] {
+  cursor: var(--talo-cursor-disable);
+}
+
+/* 站点内可点击区块（Vue 页面 class） */
+.list-row--clickable,
+.link-back,
+.site-nav a,
+.brand,
+.text-button:not(:disabled),
+.home-cta,
+.home-language-card:not(.home-language-card--empty),
+.home-mode-card,
+.home-faq__item summary {
+  cursor: var(--talo-cursor-pointer);
+}
+
+.auth-page__back,
+.auth-page__mark,
+.login-layout__mobile-back,
+.login-layout__mobile-mark,
+.login-layout__desktop-back,
+.login-method,
+.login-page__skip,
+.mode-button {
+  cursor: var(--talo-cursor-pointer);
+}
+
+.locale-switcher__item {
+  cursor: var(--talo-cursor-pointer);
+}
+
+.home-language-card--empty {
+  cursor: var(--talo-cursor-normal);
+}

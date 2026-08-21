@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "service",
+  "slug": "en-service-hospitality-dialogues",
+  "course": {
+    "title": "服务行业 · 英语餐饮酒店 · 情景对话",
+    "description": "餐厅点单与酒店客房服务用语（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 英语餐饮酒店 · 情景对话",
+      "en": "Service & Hospitality · English Hospitality · Situational Dialogues",
+      "ja": "サービス業 · 英語接客 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习餐饮与酒店接待中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for hospitality service.",
+      "ja": "飲食店・ホテルの接客で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "餐饮与客房服务 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Good evening. Are you ready to order, or would you like a few more minutes?",
+          "answer": "Good evening. Are you ready to order, or would you like a few more minutes?",
+          "hints": {
+            "zh": "晚上好。您准备好点餐了吗，还是需要再看几分钟？",
+            "en": "The server politely asks whether the guest is ready.",
+            "ja": "店員が注文の準備ができたか尋ねます。"
+          },
+          "hint": "晚上好。您准备好点餐了吗，还是需要再看几分钟？ / The server politely asks whether the guest is ready. / 店員が注文の準備ができたか尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈivnɪŋ ɚ ju ˈɹɛdi tə ˈɔɹdɚ ɚ wəd ju laɪk ə fju mɔɹ ˈmɪnəts/",
+          "audioUrl": "learning/audio/en/en-service-hospitality-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "restaurant-allergy-order",
+          "dialogueTitles": {
+            "zh": "餐厅过敏点单",
+            "en": "Restaurant Allergy Order",
+            "ja": "レストランでのアレルギー対応"
+          },
+          "dialogueScenes": {
+            "zh": "女服务员协助有坚果过敏的男顾客安全点餐。",
+            "en": "A female server helps a male guest with a nut allergy order safely.",
+            "ja": "女性店員がナッツアレルギーのある男性客の注文を手伝います。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "服务员莉莉",
+            "en": "Lily, Server",
+            "ja": "店員のリリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I am ready, but I have a serious nut allergy. Which main course is safe?",
+          "answer": "I am ready, but I have a serious nut allergy. Which main course is safe?",
+          "hints": {
+            "zh": "我准备好了，但我对坚果严重过敏。哪道主菜是安全的？",
+            "en": "The guest states his allergy and asks for guidance.",
+            "ja": "客がアレルギーを伝え、安全な料理を尋ねます。"
+          },
+          "hint": "我准备好了，但我对坚果严重过敏。哪道主菜是安全的？ / The guest states his allergy and asks for guidance. / 客がアレルギーを伝え、安全な料理を尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ əm ˈɹɛdi bət aɪ həv ə ˈsɪɹiəs nət ˈælɚdʒi wɪtʃ meɪn kɔɹs ɪz seɪf/",
+          "audioUrl": "learning/audio/en/en-service-hospitality-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "restaurant-allergy-order",
+          "dialogueTitles": {
+            "zh": "餐厅过敏点单",
+            "en": "Restaurant Allergy Order",
+            "ja": "レストランでのアレルギー対応"
+          },
+          "dialogueScenes": {
+            "zh": "女服务员协助有坚果过敏的男顾客安全点餐。",
+            "en": "A female server helps a male guest with a nut allergy order safely.",
+            "ja": "女性店員がナッツアレルギーのある男性客の注文を手伝います。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "顾客詹姆斯",
+            "en": "James, Guest",
+            "ja": "客のジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "The grilled salmon is nut-free, and I will alert the kitchen about your allergy.",
+          "answer": "The grilled salmon is nut-free, and I will alert the kitchen about your allergy.",
+          "hints": {
+            "zh": "烤三文鱼不含坚果，我也会把您的过敏情况告知厨房。",
+            "en": "The server recommends a dish and promises to notify the kitchen.",
+            "ja": "店員が料理を勧め、厨房への共有を約束します。"
+          },
+          "hint": "烤三文鱼不含坚果，我也会把您的过敏情况告知厨房。 / The server recommends a dish and promises to notify the kitchen. / 店員が料理を勧め、厨房への共有を約束します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ɡɹɪld ˈsæmən ɪz ˈnət fɹi ən aɪ wəl əˈlɝt ðə ˈkɪtʃən əˈbaʊt jɚ ˈælɚdʒi/",
+          "audioUrl": "learning/audio/en/en-service-hospitality-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "restaurant-allergy-order",
+          "dialogueTitles": {
+            "zh": "餐厅过敏点单",
+            "en": "Restaurant Allergy Order",
+            "ja": "レストランでのアレルギー対応"
+          },
+          "dialogueScenes": {
+            "zh": "女服务员协助有坚果过敏的男顾客安全点餐。",
+            "en": "A female server helps a male guest with a nut allergy order safely.",
+            "ja": "女性店員がナッツアレルギーのある男性客の注文を手伝います。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "服务员莉莉",
+            "en": "Lily, Server",
+            "ja": "店員のリリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I will have the salmon, please. Could I get the sauce on the side?",
+          "answer": "I will have the salmon, please. Could I get the sauce on the side?",
+          "hints": {
+            "zh": "请给我烤三文鱼。酱汁可以另外放吗？",
+            "en": "The guest orders and requests sauce on the side.",
+            "ja": "客が料理を注文し、ソースを別添えで頼みます。"
+          },
+          "hint": "请给我烤三文鱼。酱汁可以另外放吗？ / The guest orders and requests sauce on the side. / 客が料理を注文し、ソースを別添えで頼みます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəl həv ðə ˈsæmən pliz kəd aɪ ɡɛt ðə sɔs ɑn ðə saɪd/",
+          "audioUrl": "learning/audio/en/en-service-hospitality-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "restaurant-allergy-order",
+          "dialogueTitles": {
+            "zh": "餐厅过敏点单",
+            "en": "Restaurant Allergy Order",
+            "ja": "レストランでのアレルギー対応"
+          },
+          "dialogueScenes": {
+            "zh": "女服务员协助有坚果过敏的男顾客安全点餐。",
+            "en": "A female server helps a male guest with a nut allergy order safely.",
+            "ja": "女性店員がナッツアレルギーのある男性客の注文を手伝います。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "顾客詹姆斯",
+            "en": "James, Guest",
+            "ja": "客のジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Certainly. Would you like rice or vegetables with that?",
+          "answer": "Certainly. Would you like rice or vegetables with that?",
+          "hints": {
+            "zh": "当然。您想配米饭还是蔬菜？",
+            "en": "The server confirms and offers side choices.",
+            "ja": "店員が希望を受け、付け合わせを尋ねます。"
+          },
+          "hint": "当然。您想配米饭还是蔬菜？ / The server confirms and offers side choices. / 店員が希望を受け、付け合わせを尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɝtənli wəd ju laɪk ɹaɪs ɚ ˈvɛdʒtəbəlz wɪð ðæt/",
+          "audioUrl": "learning/audio/en/en-service-hospitality-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "restaurant-allergy-order",
+          "dialogueTitles": {
+            "zh": "餐厅过敏点单",
+            "en": "Restaurant Allergy Order",
+            "ja": "レストランでのアレルギー対応"
+          },
+          "dialogueScenes": {
+            "zh": "女服务员协助有坚果过敏的男顾客安全点餐。",
+            "en": "A female server helps a male guest with a nut allergy order safely.",
+            "ja": "女性店員がナッツアレルギーのある男性客の注文を手伝います。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "服务员莉莉",
+            "en": "Lily, Server",
+            "ja": "店員のリリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Vegetables, please. Thank you for taking care with my allergy.",
+          "answer": "Vegetables, please. Thank you for taking care with my allergy.",
+          "hints": {
+            "zh": "请配蔬菜。谢谢您认真处理我的过敏问题。",
+            "en": "The guest selects a side and expresses thanks.",
+            "ja": "客が付け合わせを選び、配慮に感謝します。"
+          },
+          "hint": "请配蔬菜。谢谢您认真处理我的过敏问题。 / The guest selects a side and expresses thanks. / 客が付け合わせを選び、配慮に感謝します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɛdʒtəbəlz pliz θæŋk ju fɚ ˈteɪkɪŋ kɛɹ wɪð maɪ ˈælɚdʒi/",
+          "audioUrl": "learning/audio/en/en-service-hospitality-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "restaurant-allergy-order",
+          "dialogueTitles": {
+            "zh": "餐厅过敏点单",
+            "en": "Restaurant Allergy Order",
+            "ja": "レストランでのアレルギー対応"
+          },
+          "dialogueScenes": {
+            "zh": "女服务员协助有坚果过敏的男顾客安全点餐。",
+            "en": "A female server helps a male guest with a nut allergy order safely.",
+            "ja": "女性店員がナッツアレルギーのある男性客の注文を手伝います。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "顾客詹姆斯",
+            "en": "James, Guest",
+            "ja": "客のジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

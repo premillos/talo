@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "internet",
+  "slug": "ja-internet-gaming-sentences",
+  "course": {
+    "title": "网络游戏 · 日语 · 句子",
+    "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关日语。（常用句子）",
+    "titles": {
+      "zh": "网络文化 · 日语网络游戏 · 句子",
+      "en": "Internet Culture · Japanese Online Gaming · Sentences",
+      "ja": "ネット文化 · 日本語オンラインゲーム · 例文"
+    },
+    "descriptions": {
+      "zh": "学习网络游戏、电竞协作与健康习惯中的常用日语句子。",
+      "en": "Practice common Japanese sentences for online gaming, esports teamwork, and healthy play habits.",
+      "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语网络游戏 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "八時に待機室で合流しましょう。",
+          "answer": "八時に待機室で合流しましょう。",
+          "hints": {
+            "zh": "我们八点在游戏大厅集合。",
+            "en": "Let us meet in the lobby at eight.",
+            "ja": "八時に待機室で合流しましょう。"
+          },
+          "hint": "我们八点在游戏大厅集合。 / Let us meet in the lobby at eight. / 八時に待機室で合流しましょう。",
+          "furigana": "はちじにたいきしつでごうりゅうしましょう。",
+          "romaji": "hachijinitaikishitsudegouryuushimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "今夜はマッチメイキングの待ち時間が短いです。",
+          "answer": "今夜はマッチメイキングの待ち時間が短いです。",
+          "hints": {
+            "zh": "今晚的匹配等待时间更短。",
+            "en": "The matchmaking wait is shorter tonight.",
+            "ja": "今夜はマッチメイキングの待ち時間が短いです。"
+          },
+          "hint": "今晚的匹配等待时间更短。 / The matchmaking wait is shorter tonight. / 今夜はマッチメイキングの待ち時間が短いです。",
+          "furigana": "こんやはマッチメイキングのまちじかんがみじかいです。",
+          "romaji": "kon'yahamatchimeikingunomachijikangamijikaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "参加する前にマイクを確認してください。",
+          "answer": "参加する前にマイクを確認してください。",
+          "hints": {
+            "zh": "加入前请检查麦克风。",
+            "en": "Please check your microphone before joining.",
+            "ja": "参加する前にマイクを確認してください。"
+          },
+          "hint": "加入前请检查麦克风。 / Please check your microphone before joining. / 参加する前にマイクを確認してください。",
+          "furigana": "さんかするまえにマイクをかくにんしてください。",
+          "romaji": "sankasurumaenimaikuwokakuninshitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "私たちの分隊には支援役が必要です。",
+          "answer": "私たちの分隊には支援役が必要です。",
+          "hints": {
+            "zh": "我们的小队需要辅助角色。",
+            "en": "Our squad needs a support player.",
+            "ja": "私たちの分隊には支援役が必要です。"
+          },
+          "hint": "我们的小队需要辅助角色。 / Our squad needs a support player. / 私たちの分隊には支援役が必要です。",
+          "furigana": "わたしたちのぶんたいにはしえんやくがひつようです。",
+          "romaji": "watashitachinobuntainihashien'yakugahitsuyoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "遅延が大きいと操作が遅れます。",
+          "answer": "遅延が大きいと操作が遅れます。",
+          "hints": {
+            "zh": "延迟较高时操作会变慢。",
+            "en": "High latency delays game actions.",
+            "ja": "遅延が大きいと操作が遅れます。"
+          },
+          "hint": "延迟较高时操作会变慢。 / High latency delays game actions. / 遅延が大きいと操作が遅れます。",
+          "furigana": "ちえんがおおきいとそうさがおくれます。",
+          "romaji": "chiengaookiitosousagaokuremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この地図にはバランスの良い装備構成を選びましょう。",
+          "answer": "この地図にはバランスの良い装備構成を選びましょう。",
+          "hints": {
+            "zh": "为这张地图选择均衡的装备配置。",
+            "en": "Choose a balanced loadout for this map.",
+            "ja": "この地図にはバランスの良い装備構成を選びましょう。"
+          },
+          "hint": "为这张地图选择均衡的装备配置。 / Choose a balanced loadout for this map. / この地図にはバランスの良い装備構成を選びましょう。",
+          "furigana": "このちずにはバランスのよいそうびこうせいをえらびましょう。",
+          "romaji": "konochizunihabaransunoyoisoubikouseiwoerabimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最初に主な目標を決めましょう。",
+          "answer": "最初に主な目標を決めましょう。",
+          "hints": {
+            "zh": "先确定主要目标吧。",
+            "en": "Let us decide on the main objective first.",
+            "ja": "最初に主な目標を決めましょう。"
+          },
+          "hint": "先确定主要目标吧。 / Let us decide on the main objective first. / 最初に主な目標を決めましょう。",
+          "furigana": "さいしょにおもなもくひょうをきめましょう。",
+          "romaji": "saishoniomonamokuhyouwokimemashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "個人の得点より連携が大切です。",
+          "answer": "個人の得点より連携が大切です。",
+          "hints": {
+            "zh": "合作比个人得分更重要。",
+            "en": "Teamwork matters more than individual scores.",
+            "ja": "個人の得点より連携が大切です。"
+          },
+          "hint": "合作比个人得分更重要。 / Teamwork matters more than individual scores. / 個人の得点より連携が大切です。",
+          "furigana": "こじんのとくてんよりれんけいがたいせつです。",
+          "romaji": "kojin'notokuten'yorirenkeigataisetsudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "新しい更新版で接続が安定しました。",
+          "answer": "新しい更新版で接続が安定しました。",
+          "hints": {
+            "zh": "新补丁让连接更稳定了。",
+            "en": "The new patch made the connection stable.",
+            "ja": "新しい更新版で接続が安定しました。"
+          },
+          "hint": "新补丁让连接更稳定了。 / The new patch made the connection stable. / 新しい更新版で接続が安定しました。",
+          "furigana": "あたらしいこうしんばんでせつぞくがあんていしました。",
+          "romaji": "atarashiikoushinbandesetsuzokugaanteishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "一試合ごとに短い休憩を取りましょう。",
+          "answer": "一試合ごとに短い休憩を取りましょう。",
+          "hints": {
+            "zh": "每场比赛后短暂休息。",
+            "en": "Take a short break after each match.",
+            "ja": "一試合ごとに短い休憩を取りましょう。"
+          },
+          "hint": "每场比赛后短暂休息。 / Take a short break after each match. / 一試合ごとに短い休憩を取りましょう。",
+          "furigana": "いちしあいごとにみじかいきゅうけいをとりましょう。",
+          "romaji": "ichishiaigotonimijikaikyuukeiwotorimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "音声チャットでは親切に話しましょう。",
+          "answer": "音声チャットでは親切に話しましょう。",
+          "hints": {
+            "zh": "语音聊天时要友善交流。",
+            "en": "Speak kindly in voice chat.",
+            "ja": "音声チャットでは親切に話しましょう。"
+          },
+          "hint": "语音聊天时要友善交流。 / Speak kindly in voice chat. / 音声チャットでは親切に話しましょう。",
+          "furigana": "おんせいチャットではしんせつにはなしましょう。",
+          "romaji": "onseichattodehashinsetsunihanashimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "不正行為は公式の画面から報告してください。",
+          "answer": "不正行為は公式の画面から報告してください。",
+          "hints": {
+            "zh": "请通过官方界面举报作弊。",
+            "en": "Report cheating through the official screen.",
+            "ja": "不正行為は公式の画面から報告してください。"
+          },
+          "hint": "请通过官方界面举报作弊。 / Report cheating through the official screen. / 不正行為は公式の画面から報告してください。",
+          "furigana": "ふせいこういはこうしきのがめんからほうこくしてください。",
+          "romaji": "fuseikouihakoushikinogamenkarahoukokushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゲーム内で知らない人に個人情報を教えないでください。",
+          "answer": "ゲーム内で知らない人に個人情報を教えないでください。",
+          "hints": {
+            "zh": "不要向游戏里的陌生人透露个人信息。",
+            "en": "Do not tell strangers personal details in game.",
+            "ja": "ゲーム内で知らない人に個人情報を教えないでください。"
+          },
+          "hint": "不要向游戏里的陌生人透露个人信息。 / Do not tell strangers personal details in game. / ゲーム内で知らない人に個人情報を教えないでください。",
+          "furigana": "ゲームないでしらないひとにこじんじょうほうをおしえないでください。",
+          "romaji": "geemunaideshiranaihitonikojinjouhouwooshienaidekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "遊ぶ前に制限時間を決めます。",
+          "answer": "遊ぶ前に制限時間を決めます。",
+          "hints": {
+            "zh": "玩之前先设定时间限制。",
+            "en": "Set a time limit before playing.",
+            "ja": "遊ぶ前に制限時間を決めます。"
+          },
+          "hint": "玩之前先设定时间限制。 / Set a time limit before playing. / 遊ぶ前に制限時間を決めます。",
+          "furigana": "あそぶまえにせいげんじかんをきめます。",
+          "romaji": "asobumaeniseigenjikanwokimemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大会のラウンド間に水を飲みましょう。",
+          "answer": "大会のラウンド間に水を飲みましょう。",
+          "hints": {
+            "zh": "比赛轮次之间要喝水。",
+            "en": "Drink water between tournament rounds.",
+            "ja": "大会のラウンド間に水を飲みましょう。"
+          },
+          "hint": "比赛轮次之间要喝水。 / Drink water between tournament rounds. / 大会のラウンド間に水を飲みましょう。",
+          "furigana": "たいかいのラウンドかんにみずをのみましょう。",
+          "romaji": "taikainoraundokan'nimizuwonomimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "指導者が最後の作戦を確認しました。",
+          "answer": "指導者が最後の作戦を確認しました。",
+          "hints": {
+            "zh": "教练确认了最终策略。",
+            "en": "The coach checked the final strategy.",
+            "ja": "指導者が最後の作戦を確認しました。"
+          },
+          "hint": "教练确认了最终策略。 / The coach checked the final strategy. / 指導者が最後の作戦を確認しました。",
+          "furigana": "しどうしゃがさいごのさくせんをかくにんしました。",
+          "romaji": "shidoushagasaigonosakusenwokakuninshimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "電子競技のチームは週に三回練習します。",
+          "answer": "電子競技のチームは週に三回練習します。",
+          "hints": {
+            "zh": "电竞队每周训练三次。",
+            "en": "The esports team practices three times a week.",
+            "ja": "電子競技のチームは週に三回練習します。"
+          },
+          "hint": "电竞队每周训练三次。 / The esports team practices three times a week. / 電子競技のチームは週に三回練習します。",
+          "furigana": "でんしきょうぎのチームはしゅうにさんかいれんしゅうします。",
+          "romaji": "denshikyouginochiimuhashuunisankairenshuushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "協力戦を始める前に全員を待ちましょう。",
+          "answer": "協力戦を始める前に全員を待ちましょう。",
+          "hints": {
+            "zh": "开始团队副本前等齐所有人。",
+            "en": "Wait for everyone before starting the raid.",
+            "ja": "協力戦を始める前に全員を待ちましょう。"
+          },
+          "hint": "开始团队副本前等齐所有人。 / Wait for everyone before starting the raid. / 協力戦を始める前に全員を待ちましょう。",
+          "furigana": "きょうりょくせんをはじめるまえにぜんいんをまちましょう。",
+          "romaji": "kyouryokusenwohajimerumaenizen'inwomachimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "明確な合図で中継地点を守れました。",
+          "answer": "明確な合図で中継地点を守れました。",
+          "hints": {
+            "zh": "清晰的报点帮助守住了检查点。",
+            "en": "A clear callout helped defend the checkpoint.",
+            "ja": "明確な合図で中継地点を守れました。"
+          },
+          "hint": "清晰的报点帮助守住了检查点。 / A clear callout helped defend the checkpoint. / 明確な合図で中継地点を守れました。",
+          "furigana": "めいかくなあいずでちゅうけいちてんをまもれました。",
+          "romaji": "meikakunaaizudechuukeichitenwomamoremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "耳を守るために音量を下げました。",
+          "answer": "耳を守るために音量を下げました。",
+          "hints": {
+            "zh": "我调低音量来保护听力。",
+            "en": "I lowered the volume to protect my hearing.",
+            "ja": "耳を守るために音量を下げました。"
+          },
+          "hint": "我调低音量来保护听力。 / I lowered the volume to protect my hearing. / 耳を守るために音量を下げました。",
+          "furigana": "みみをまもるためにおんりょうをさげました。",
+          "romaji": "mimiwomamorutamenionryouwosagemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "長く遊ぶ時は手を伸ばしましょう。",
+          "answer": "長く遊ぶ時は手を伸ばしましょう。",
+          "hints": {
+            "zh": "长时间游戏时活动一下双手。",
+            "en": "Stretch your hands during longer sessions.",
+            "ja": "長く遊ぶ時は手を伸ばしましょう。"
+          },
+          "hint": "长时间游戏时活动一下双手。 / Stretch your hands during longer sessions. / 長く遊ぶ時は手を伸ばしましょう。",
+          "furigana": "ながくあそぶときはてをのばしましょう。",
+          "romaji": "nagakuasobutokihatewonobashimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "接戦の後は相手チームを称えましょう。",
+          "answer": "接戦の後は相手チームを称えましょう。",
+          "hints": {
+            "zh": "势均力敌的比赛后要称赞对手。",
+            "en": "Congratulate the other team after a close match.",
+            "ja": "接戦の後は相手チームを称えましょう。"
+          },
+          "hint": "势均力敌的比赛后要称赞对手。 / Congratulate the other team after a close match. / 接戦の後は相手チームを称えましょう。",
+          "furigana": "せっせんのあとはあいてチームをたたえましょう。",
+          "romaji": "sessen'noatohaaitechiimuwotataemashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "順位表はシーズンの終わりに更新されます。",
+          "answer": "順位表はシーズンの終わりに更新されます。",
+          "hints": {
+            "zh": "排行榜会在赛季结束时更新。",
+            "en": "The leaderboard updates at the end of the season.",
+            "ja": "順位表はシーズンの終わりに更新されます。"
+          },
+          "hint": "排行榜会在赛季结束时更新。 / The leaderboard updates at the end of the season. / 順位表はシーズンの終わりに更新されます。",
+          "furigana": "じゅんいひょうはシーズンのおわりにこうしんされます。",
+          "romaji": "jun'ihyouhashiizun'noowarinikoushinsaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "接続先を変えたら応答速度が上がりました。",
+          "answer": "接続先を変えたら応答速度が上がりました。",
+          "hints": {
+            "zh": "更换服务器后响应速度提高了。",
+            "en": "Our ping improved after switching servers.",
+            "ja": "接続先を変えたら応答速度が上がりました。"
+          },
+          "hint": "更换服务器后响应速度提高了。 / Our ping improved after switching servers. / 接続先を変えたら応答速度が上がりました。",
+          "furigana": "せつぞくさきをかえたらおうとうそくどがあがりました。",
+          "romaji": "setsuzokusakiwokaetaraoutousokudogaagarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "子どもには利用時間設定を使いましょう。",
+          "answer": "子どもには利用時間設定を使いましょう。",
+          "hints": {
+            "zh": "为儿童使用游戏时间设置。",
+            "en": "Use parental controls for children.",
+            "ja": "子どもには利用時間設定を使いましょう。"
+          },
+          "hint": "为儿童使用游戏时间设置。 / Use parental controls for children. / 子どもには利用時間設定を使いましょう。",
+          "furigana": "こどもにはりようじかんせっていをつかいましょう。",
+          "romaji": "kodomonihariyoujikansetteiwotsukaimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "分隊のバランスを整えるために役割を変えました。",
+          "answer": "分隊のバランスを整えるために役割を変えました。",
+          "hints": {
+            "zh": "为了平衡小队，我们调整了角色。",
+            "en": "We changed roles to balance the squad.",
+            "ja": "分隊のバランスを整えるために役割を変えました。"
+          },
+          "hint": "为了平衡小队，我们调整了角色。 / We changed roles to balance the squad. / 分隊のバランスを整えるために役割を変えました。",
+          "furigana": "ぶんたいのバランスをととのえるためにやくわりをかえました。",
+          "romaji": "buntainobaransuwototonoerutameniyakuwariwokaemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "地域の選手権は初心者も歓迎します。",
+          "answer": "地域の選手権は初心者も歓迎します。",
+          "hints": {
+            "zh": "社区锦标赛也欢迎新手。",
+            "en": "The local tournament welcomes beginners.",
+            "ja": "地域の選手権は初心者も歓迎します。"
+          },
+          "hint": "社区锦标赛也欢迎新手。 / The local tournament welcomes beginners. / 地域の選手権は初心者も歓迎します。",
+          "furigana": "ちいきのせんしゅけんはしょしんしゃもかんげいします。",
+          "romaji": "chiikinosenshukenhashoshinshamokangeishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "疲れたらゲームを止めて休みましょう。",
+          "answer": "疲れたらゲームを止めて休みましょう。",
+          "hints": {
+            "zh": "感到疲劳时停止游戏并休息。",
+            "en": "Stop the game and rest when tired.",
+            "ja": "疲れたらゲームを止めて休みましょう。"
+          },
+          "hint": "感到疲劳时停止游戏并休息。 / Stop the game and rest when tired. / 疲れたらゲームを止めて休みましょう。",
+          "furigana": "つかれたらゲームをとめてやすみましょう。",
+          "romaji": "tsukaretarageemuwotometeyasumimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "公平な対戦は競技を楽しくします。",
+          "answer": "公平な対戦は競技を楽しくします。",
+          "hints": {
+            "zh": "公平竞赛让比赛更有乐趣。",
+            "en": "Fair play makes competition enjoyable.",
+            "ja": "公平な対戦は競技を楽しくします。"
+          },
+          "hint": "公平竞赛让比赛更有乐趣。 / Fair play makes competition enjoyable. / 公平な対戦は競技を楽しくします。",
+          "furigana": "こうへいなたいせんはきょうぎをたのしくします。",
+          "romaji": "kouheinataisenhakyougiwotanoshikushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "全員の空き時間に合わせて練習を決めましょう。",
+          "answer": "全員の空き時間に合わせて練習を決めましょう。",
+          "hints": {
+            "zh": "根据所有人的空闲时间安排训练。",
+            "en": "Schedule practice around everyone’s free time.",
+            "ja": "全員の空き時間に合わせて練習を決めましょう。"
+          },
+          "hint": "根据所有人的空闲时间安排训练。 / Schedule practice around everyone’s free time. / 全員の空き時間に合わせて練習を決めましょう。",
+          "furigana": "ぜんいんのあきじかんにあわせてれんしゅうをきめましょう。",
+          "romaji": "zen'in'noakijikan'niawaseterenshuuwokimemashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

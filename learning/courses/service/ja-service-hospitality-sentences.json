@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-hospitality-sentences",
+  "course": {
+    "title": "服务行业 · 日语餐饮 · 句子",
+    "description": "飲食店とホテルの接客・ホスピタリティ（常用句子）",
+    "titles": {
+      "zh": "服务行业 · 日语餐饮酒店 · 句子",
+      "en": "Service & Hospitality · Japanese Hospitality · Sentences",
+      "ja": "サービス業 · 日本語接客 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习餐饮与酒店接待中的常用日语句子。",
+      "en": "Practice common Japanese sentences for hospitality service.",
+      "ja": "飲食店・ホテルの接客で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "接客・ホスピタリティ · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "ワインリストをご覧になりますか。",
+          "answer": "ワインリストをご覧になりますか。",
+          "hints": {
+            "zh": "您要看酒单吗？",
+            "en": "Would you like to see the wine list?",
+            "ja": "ワインリストをご覧になりますか。"
+          },
+          "hint": "您要看酒单吗？ / Would you like to see the wine list? / ワインリストをご覧になりますか。",
+          "furigana": "ワインリストをごらんになりますか。",
+          "romaji": "wainrisutowogoran'ninarimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "シェフが本日のおすすめをご提案します。",
+          "answer": "シェフが本日のおすすめをご提案します。",
+          "hints": {
+            "zh": "主厨会推荐今日特选。",
+            "en": "The chef will recommend today special.",
+            "ja": "シェフが本日のおすすめをご提案します。"
+          },
+          "hint": "主厨会推荐今日特选。 / The chef will recommend today special. / シェフが本日のおすすめをご提案します。",
+          "furigana": "シェフがほんじつのおすすめをごていあんします。",
+          "romaji": "shefugahonjitsunoosusumewogoteianshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お部屋を無料でアップグレードいたしました。",
+          "answer": "お部屋を無料でアップグレードいたしました。",
+          "hints": {
+            "zh": "我们已免费升级您的房间。",
+            "en": "Your room has been upgraded for free.",
+            "ja": "お部屋を無料でアップグレードいたしました。"
+          },
+          "hint": "我们已免费升级您的房间。 / Your room has been upgraded for free. / お部屋を無料でアップグレードいたしました。",
+          "furigana": "へやをむりょうでアップグレードいたしました。",
+          "romaji": "heyawomuryoudeappugureedoitashimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ハウスキーピングは午前中にお伺いします。",
+          "answer": "ハウスキーピングは午前中にお伺いします。",
+          "hints": {
+            "zh": "客房清洁会在上午来。",
+            "en": "Housekeeping will come in the morning.",
+            "ja": "ハウスキーピングは午前中にお伺いします。"
+          },
+          "hint": "客房清洁会在上午来。 / Housekeeping will come in the morning. / ハウスキーピングは午前中にお伺いします。",
+          "furigana": "ハウスキーピングはごぜんちゅうにおうかがいします。",
+          "romaji": "hausukiipinguhagozenchuunioukagaishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "チェックアウトは午前十一時です。",
+          "answer": "チェックアウトは午前十一時です。",
+          "hints": {
+            "zh": "退房时间是上午十一点。",
+            "en": "Check-out is at eleven AM.",
+            "ja": "チェックアウトは午前十一時です。"
+          },
+          "hint": "退房时间是上午十一点。 / Check-out is at eleven AM. / チェックアウトは午前十一時です。",
+          "furigana": "チェックアウトはごぜんじゅういちじです。",
+          "romaji": "chekkuautohagozenjuuichijidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "モーニングコールを手配できます。",
+          "answer": "モーニングコールを手配できます。",
+          "hints": {
+            "zh": "可以安排叫醒服务。",
+            "en": "We can arrange a wake-up call.",
+            "ja": "モーニングコールを手配できます。"
+          },
+          "hint": "可以安排叫醒服务。 / We can arrange a wake-up call. / モーニングコールを手配できます。",
+          "furigana": "モーニングコールをてはいできます。",
+          "romaji": "mooningukooruwotehaidekimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "キングベッドとツインベッド、どちらをご希望ですか。",
+          "answer": "キングベッドとツインベッド、どちらをご希望ですか。",
+          "hints": {
+            "zh": "大床还是双床？",
+            "en": "King bed or twin beds?",
+            "ja": "キングベッドとツインベッド、どちらをご希望ですか。"
+          },
+          "hint": "大床还是双床？ / King bed or twin beds? / キングベッドとツインベッド、どちらをご希望ですか。",
+          "furigana": "キングベッドとツインベッド、どちらをごきぼうですか。",
+          "romaji": "kingubeddototsuinbeddo,dochirawogokiboudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "タオルの追加が必要でしたらお知らせください。",
+          "answer": "タオルの追加が必要でしたらお知らせください。",
+          "hints": {
+            "zh": "如需额外毛巾请告知。",
+            "en": "Please let us know if you need extra towels.",
+            "ja": "タオルの追加が必要でしたらお知らせください。"
+          },
+          "hint": "如需额外毛巾请告知。 / Please let us know if you need extra towels. / タオルの追加が必要でしたらお知らせください。",
+          "furigana": "タオルのついかがひつようでしたらおしらせください。",
+          "romaji": "taorunotsuikagahitsuyoudeshitaraoshirasekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ソムリエがワインのペアリングをご提案します。",
+          "answer": "ソムリエがワインのペアリングをご提案します。",
+          "hints": {
+            "zh": "侍酒师推荐配酒。",
+            "en": "Our sommelier recommends wine pairings.",
+            "ja": "ソムリエがワインのペアリングをご提案します。"
+          },
+          "hint": "侍酒师推荐配酒。 / Our sommelier recommends wine pairings. / ソムリエがワインのペアリングをご提案します。",
+          "furigana": "ソムリエがワインのペアリングをごていあんします。",
+          "romaji": "somuriegawain'nopearinguwogoteianshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このお名前でご予約はございますか。",
+          "answer": "このお名前でご予約はございますか。",
+          "hints": {
+            "zh": "此姓名有预订吗？",
+            "en": "Do you have a reservation under this name?",
+            "ja": "このお名前でご予約はございますか。"
+          },
+          "hint": "此姓名有预订吗？ / Do you have a reservation under this name? / このお名前でご予約はございますか。",
+          "furigana": "このおなまえでごよやくはございますか。",
+          "romaji": "konoonamaedegoyoyakuhagozaimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "朝食ビュッフェは午前7時からです。",
+          "answer": "朝食ビュッフェは午前7時からです。",
+          "hints": {
+            "zh": "早餐自助从七点开始。",
+            "en": "Breakfast buffet starts at seven AM.",
+            "ja": "朝食ビュッフェは午前7時からです。"
+          },
+          "hint": "早餐自助从七点开始。 / Breakfast buffet starts at seven AM. / 朝食ビュッフェは午前7時からです。",
+          "furigana": "ちょうしょくビュッフェはごぜん7じからです。",
+          "romaji": "choushokubyuffehagozen7jikaradesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "グルテンフリーのメニューもございます。",
+          "answer": "グルテンフリーのメニューもございます。",
+          "hints": {
+            "zh": "也有无麸质菜单。",
+            "en": "We have gluten-free menu options.",
+            "ja": "グルテンフリーのメニューもございます。"
+          },
+          "hint": "也有无麸质菜单。 / We have gluten-free menu options. / グルテンフリーのメニューもございます。",
+          "furigana": "グルテンフリーのメニューもございます。",
+          "romaji": "gurutenfuriinomenyuumogozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ターンダウンサービスは毎晩ございます。",
+          "answer": "ターンダウンサービスは毎晩ございます。",
+          "hints": {
+            "zh": "每晚有夜床服务。",
+            "en": "Turn-down service is every evening.",
+            "ja": "ターンダウンサービスは毎晩ございます。"
+          },
+          "hint": "每晚有夜床服务。 / Turn-down service is every evening. / ターンダウンサービスは毎晩ございます。",
+          "furigana": "ターンダウンサービスはまいばんございます。",
+          "romaji": "taandaunsaabisuhamaibangozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "特急ランドリーサービスをご利用いただけます。",
+          "answer": "特急ランドリーサービスをご利用いただけます。",
+          "hints": {
+            "zh": "可用快洗服务。",
+            "en": "Express laundry is available.",
+            "ja": "特急ランドリーサービスをご利用いただけます。"
+          },
+          "hint": "可用快洗服务。 / Express laundry is available. / 特急ランドリーサービスをご利用いただけます。",
+          "furigana": "とっきゅうランドリーサービスをごりよういただけます。",
+          "romaji": "tokkyuurandoriisaabisuwogoriyouitadakemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お部屋に無料のウォーターをご用意しております。",
+          "answer": "お部屋に無料のウォーターをご用意しております。",
+          "hints": {
+            "zh": "房间备有免费水。",
+            "en": "Complimentary water is in your room.",
+            "ja": "お部屋に無料のウォーターをご用意しております。"
+          },
+          "hint": "房间备有免费水。 / Complimentary water is in your room. / お部屋に無料のウォーターをご用意しております。",
+          "furigana": "おへやにむりょうのウォーターをごよういしております。",
+          "romaji": "oheyanimuryounowootaawogoyouishiteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コンシェルジュデスクは24時間対応です。",
+          "answer": "コンシェルジュデスクは24時間対応です。",
+          "hints": {
+            "zh": "礼宾台二十四小时服务。",
+            "en": "The concierge desk is open 24 hours.",
+            "ja": "コンシェルジュデスクは24時間対応です。"
+          },
+          "hint": "礼宾台二十四小时服务。 / The concierge desk is open 24 hours. / コンシェルジュデスクは24時間対応です。",
+          "furigana": "コンシェルジュデスクは24じかんたいおうです。",
+          "romaji": "konsherujudesukuha24jikantaioudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スチルとスパークリング、どちらになさいますか。",
+          "answer": "スチルとスパークリング、どちらになさいますか。",
+          "hints": {
+            "zh": "静水还是气泡水？",
+            "en": "Still or sparkling water?",
+            "ja": "スチルとスパークリング、どちらになさいますか。"
+          },
+          "hint": "静水还是气泡水？ / Still or sparkling water? / スチルとスパークリング、どちらになさいますか。",
+          "furigana": "スチルとスパークリング、どちらになさいますか。",
+          "romaji": "suchirutosupaakuringu,dochiraninasaimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "シェフがベジタリアンコースをご用意できます。",
+          "answer": "シェフがベジタリアンコースをご用意できます。",
+          "hints": {
+            "zh": "主厨可准备素食套餐。",
+            "en": "The chef can prepare a vegetarian course.",
+            "ja": "シェフがベジタリアンコースをご用意できます。"
+          },
+          "hint": "主厨可准备素食套餐。 / The chef can prepare a vegetarian course. / シェフがベジタリアンコースをご用意できます。",
+          "furigana": "シェフがベジタリアンコースをごよういできます。",
+          "romaji": "shefugabejitariankoosuwogoyouidekimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "窓際のお席のご用意ができました。",
+          "answer": "窓際のお席のご用意ができました。",
+          "hints": {
+            "zh": "靠窗座位准备好了。",
+            "en": "Your window table is ready.",
+            "ja": "窓際のお席のご用意ができました。"
+          },
+          "hint": "靠窗座位准备好了。 / Your window table is ready. / 窓際のお席のご用意ができました。",
+          "furigana": "まどぎわのおせきのごよういができました。",
+          "romaji": "madogiwanoosekinogoyouigadekimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コートをお預かりしましょうか。",
+          "answer": "コートをお預かりしましょうか。",
+          "hints": {
+            "zh": "帮您挂外套吗？",
+            "en": "May I take your coat?",
+            "ja": "コートをお預かりしましょうか。"
+          },
+          "hint": "帮您挂外套吗？ / May I take your coat? / コートをお預かりしましょうか。",
+          "furigana": "コートをおあずかりしましょうか。",
+          "romaji": "kootowooazukarishimashouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お会計には税金とサービス料が含まれます。",
+          "answer": "お会計には税金とサービス料が含まれます。",
+          "hints": {
+            "zh": "账单含税费和服务费。",
+            "en": "The bill includes tax and service charge.",
+            "ja": "お会計には税金とサービス料が含まれます。"
+          },
+          "hint": "账单含税费和服务费。 / The bill includes tax and service charge. / お会計には税金とサービス料が含まれます。",
+          "furigana": "おかいけいにはぜいきんとサービスりょうがふくまれます。",
+          "romaji": "okaikeinihazeikintosaabisuryougafukumaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "チップは任意で承っております。",
+          "answer": "チップは任意で承っております。",
+          "hints": {
+            "zh": "小费自愿。",
+            "en": "Tips are optional.",
+            "ja": "チップは任意で承っております。"
+          },
+          "hint": "小费自愿。 / Tips are optional. / チップは任意で承っております。",
+          "furigana": "チップはにんいでうけたまわっております。",
+          "romaji": "chippuhanin'ideuketamawatteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "食物アレルギーがございましたらお知らせください。",
+          "answer": "食物アレルギーがございましたらお知らせください。",
+          "hints": {
+            "zh": "有食物过敏请告知。",
+            "en": "Please inform us of food allergies.",
+            "ja": "食物アレルギーがございましたらお知らせください。"
+          },
+          "hint": "有食物过敏请告知。 / Please inform us of food allergies. / 食物アレルギーがございましたらお知らせください。",
+          "furigana": "しょくもつアレルギーがございましたらおしらせください。",
+          "romaji": "shokumotsuarerugiigagozaimashitaraoshirasekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ハウスキーピングはご希望の時間にお伺いします。",
+          "answer": "ハウスキーピングはご希望の時間にお伺いします。",
+          "hints": {
+            "zh": "清洁可按您希望的时间来。",
+            "en": "Housekeeping comes at your preferred time.",
+            "ja": "ハウスキーピングはご希望の時間にお伺いします。"
+          },
+          "hint": "清洁可按您希望的时间来。 / Housekeeping comes at your preferred time. / ハウスキーピングはご希望の時間にお伺いします。",
+          "furigana": "ハウスキーピングはごきぼうのじかんにおうかがいします。",
+          "romaji": "hausukiipinguhagokibounojikan'nioukagaishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "チェックアウト時間はご要望に応じ柔軟に対応します。",
+          "answer": "チェックアウト時間はご要望に応じ柔軟に対応します。",
+          "hints": {
+            "zh": "退房时间可灵活安排。",
+            "en": "Check-out time is flexible on request.",
+            "ja": "チェックアウト時間はご要望に応じ柔軟に対応します。"
+          },
+          "hint": "退房时间可灵活安排。 / Check-out time is flexible on request. / チェックアウト時間はご要望に応じ柔軟に対応します。",
+          "furigana": "チェックアウトじかんはごようぼうにおうじじゅうなんにたいおうします。",
+          "romaji": "chekkuautojikanhagoyoubounioujijuunan'nitaioushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ミニバーの料金表はデスクにございます。",
+          "answer": "ミニバーの料金表はデスクにございます。",
+          "hints": {
+            "zh": "迷你吧价目在桌上。",
+            "en": "Minibar prices are on the desk.",
+            "ja": "ミニバーの料金表はデスクにございます。"
+          },
+          "hint": "迷你吧价目在桌上。 / Minibar prices are on the desk. / ミニバーの料金表はデスクにございます。",
+          "furigana": "ミニバーのりょうきんひょうはデスクにございます。",
+          "romaji": "minibaanoryoukinhyouhadesukunigozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "アメニティにシャンプーとコンディショナーが含まれます。",
+          "answer": "アメニティにシャンプーとコンディショナーが含まれます。",
+          "hints": {
+            "zh": "备品含洗发护发。",
+            "en": "Amenities include shampoo and conditioner.",
+            "ja": "アメニティにシャンプーとコンディショナーが含まれます。"
+          },
+          "hint": "备品含洗发护发。 / Amenities include shampoo and conditioner. / アメニティにシャンプーとコンディショナーが含まれます。",
+          "furigana": "アメニティにシャンプーとコンディショナーがふくまれます。",
+          "romaji": "amenitinishanpuutokondishonaagafukumaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ディナーのご予約をお取りしましょうか。",
+          "answer": "ディナーのご予約をお取りしましょうか。",
+          "hints": {
+            "zh": "帮您订晚餐吗？",
+            "en": "Shall we make a dinner reservation?",
+            "ja": "ディナーのご予約をお取りしましょうか。"
+          },
+          "hint": "帮您订晚餐吗？ / Shall we make a dinner reservation? / ディナーのご予約をお取りしましょうか。",
+          "furigana": "ディナーのごよやくをおとりしましょうか。",
+          "romaji": "dinaanogoyoyakuwootorishimashouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スパは午前10時に開館いたします。",
+          "answer": "スパは午前10時に開館いたします。",
+          "hints": {
+            "zh": "水疗十点开门。",
+            "en": "The spa opens at ten AM.",
+            "ja": "スパは午前10時に開館いたします。"
+          },
+          "hint": "水疗十点开门。 / The spa opens at ten AM. / スパは午前10時に開館いたします。",
+          "furigana": "スパはごぜん10じにかいかんいたします。",
+          "romaji": "supahagozen10jinikaikan'itashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご滞在をお楽しみください。",
+          "answer": "ご滞在をお楽しみください。",
+          "hints": {
+            "zh": "祝您住得愉快。",
+            "en": "We hope you enjoy your stay.",
+            "ja": "ご滞在をお楽しみください。"
+          },
+          "hint": "祝您住得愉快。 / We hope you enjoy your stay. / ご滞在をお楽しみください。",
+          "furigana": "ごたいざいをおたのしみください。",
+          "romaji": "gotaizaiwootanoshimikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "sports",
+  "slug": "ja-sports-training-sentences",
+  "course": {
+    "title": "运动 · 日语日常 · 句子",
+    "description": "学习训练、比赛和观赛场景中的常用日语表达。（常用句子）",
+    "titles": {
+      "zh": "运动 · 日语训练 · 句子",
+      "en": "Sports · Japanese Training · Sentences",
+      "ja": "スポーツ · 日本語トレーニング · 例文"
+    },
+    "descriptions": {
+      "zh": "学习日常训练、比赛与观赛中的常用日语句子。",
+      "en": "Practice common Japanese sentences for everyday training, matches, and sports viewing.",
+      "ja": "日常の練習・試合・観戦で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语运动表达 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "チームは毎朝練習します。",
+          "answer": "チームは毎朝練習します。",
+          "hints": {
+            "zh": "队伍每天早晨训练。",
+            "en": "The team practices every morning.",
+            "ja": "チームは毎朝練習します。"
+          },
+          "hint": "队伍每天早晨训练。 / The team practices every morning. / チームは毎朝練習します。",
+          "furigana": "チームはまいあされんしゅうします。",
+          "romaji": "chiimuhamaiasarenshuushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "走る前に準備運動をします。",
+          "answer": "走る前に準備運動をします。",
+          "hints": {
+            "zh": "跑步前要做热身运动。",
+            "en": "I warm up before running.",
+            "ja": "走る前に準備運動をします。"
+          },
+          "hint": "跑步前要做热身运动。 / I warm up before running. / 走る前に準備運動をします。",
+          "furigana": "はしるまえにじゅんびうんどうをします。",
+          "romaji": "hashirumaenijunbiundouwoshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "主将が決勝点を取りました。",
+          "answer": "主将が決勝点を取りました。",
+          "hints": {
+            "zh": "队长拿下了制胜分。",
+            "en": "The captain scored the winning point.",
+            "ja": "主将が決勝点を取りました。"
+          },
+          "hint": "队长拿下了制胜分。 / The captain scored the winning point. / 主将が決勝点を取りました。",
+          "furigana": "しゅしょうがけっしょうてんをとりました。",
+          "romaji": "shushougakesshoutenwotorimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "試合は今夜七時に始まります。",
+          "answer": "試合は今夜七時に始まります。",
+          "hints": {
+            "zh": "比赛今晚七点开始。",
+            "en": "The match starts at seven tonight.",
+            "ja": "試合は今夜七時に始まります。"
+          },
+          "hint": "比赛今晚七点开始。 / The match starts at seven tonight. / 試合は今夜七時に始まります。",
+          "furigana": "しあいはこんやしちじにはじまります。",
+          "romaji": "shiaihakon'yashichijinihajimarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "彼女は国内記録を更新しました。",
+          "answer": "彼女は国内記録を更新しました。",
+          "hints": {
+            "zh": "她刷新了全国纪录。",
+            "en": "She broke the national record.",
+            "ja": "彼女は国内記録を更新しました。"
+          },
+          "hint": "她刷新了全国纪录。 / She broke the national record. / 彼女は国内記録を更新しました。",
+          "furigana": "かのじょはこくないきろくをこうしんしました。",
+          "romaji": "kanojohakokunaikirokuwokoushinshimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "週に三回泳いでいます。",
+          "answer": "週に三回泳いでいます。",
+          "hints": {
+            "zh": "我每周游泳三次。",
+            "en": "I swim three times a week.",
+            "ja": "週に三回泳いでいます。"
+          },
+          "hint": "我每周游泳三次。 / I swim three times a week. / 週に三回泳いでいます。",
+          "furigana": "しゅうにさんかいおよいでいます。",
+          "romaji": "shuunisankaioyoideimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "審判が試合を止めました。",
+          "answer": "審判が試合を止めました。",
+          "hints": {
+            "zh": "裁判暂停了比赛。",
+            "en": "The referee stopped the match.",
+            "ja": "審判が試合を止めました。"
+          },
+          "hint": "裁判暂停了比赛。 / The referee stopped the match. / 審判が試合を止めました。",
+          "furigana": "しんぱんがしあいをとめました。",
+          "romaji": "shinpangashiaiwotomemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勝つにはあと一点必要です。",
+          "answer": "勝つにはあと一点必要です。",
+          "hints": {
+            "zh": "还差一分就能赢。",
+            "en": "We need one more point to win.",
+            "ja": "勝つにはあと一点必要です。"
+          },
+          "hint": "还差一分就能赢。 / We need one more point to win. / 勝つにはあと一点必要です。",
+          "furigana": "かつにはあといってんひつようです。",
+          "romaji": "katsunihaatoittenhitsuyoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "運動は持久力を高めます。",
+          "answer": "運動は持久力を高めます。",
+          "hints": {
+            "zh": "运动可以提高耐力。",
+            "en": "Exercise improves stamina.",
+            "ja": "運動は持久力を高めます。"
+          },
+          "hint": "运动可以提高耐力。 / Exercise improves stamina. / 運動は持久力を高めます。",
+          "furigana": "うんどうはじきゅうりょくをたかめます。",
+          "romaji": "undouhajikyuuryokuwotakamemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "競技場は観客で満員でした。",
+          "answer": "競技場は観客で満員でした。",
+          "hints": {
+            "zh": "体育场里坐满了观众。",
+            "en": "The stadium was full of spectators.",
+            "ja": "競技場は観客で満員でした。"
+          },
+          "hint": "体育场里坐满了观众。 / The stadium was full of spectators. / 競技場は観客で満員でした。",
+          "furigana": "きょうぎじょうはかんきゃくでまんいんでした。",
+          "romaji": "kyougijouhakankyakudeman'indeshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "動く時はバランスを保ちます。",
+          "answer": "動く時はバランスを保ちます。",
+          "hints": {
+            "zh": "运动时要保持平衡。",
+            "en": "Keep your balance while moving.",
+            "ja": "動く時はバランスを保ちます。"
+          },
+          "hint": "运动时要保持平衡。 / Keep your balance while moving. / 動く時はバランスを保ちます。",
+          "furigana": "うごくときはバランスをたもちます。",
+          "romaji": "ugokutokihabaransuwotamochimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "監督が練習計画を変えました。",
+          "answer": "監督が練習計画を変えました。",
+          "hints": {
+            "zh": "教练调整了训练计划。",
+            "en": "The coach changed the training plan.",
+            "ja": "監督が練習計画を変えました。"
+          },
+          "hint": "教练调整了训练计划。 / The coach changed the training plan. / 監督が練習計画を変えました。",
+          "furigana": "かんとくがれんしゅうけいかくをかえました。",
+          "romaji": "kantokugarenshuukeikakuwokaemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "去年の大会で優勝しました。",
+          "answer": "去年の大会で優勝しました。",
+          "hints": {
+            "zh": "去年在大赛中夺冠。",
+            "en": "We won last year's tournament.",
+            "ja": "去年の大会で優勝しました。"
+          },
+          "hint": "去年在大赛中夺冠。 / We won last year's tournament. / 去年の大会で優勝しました。",
+          "furigana": "きょねんのたいかいでゆうしょうしました。",
+          "romaji": "kyonen'notaikaideyuushoushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "自転車は心臓の健康に良いです。",
+          "answer": "自転車は心臓の健康に良いです。",
+          "hints": {
+            "zh": "骑自行车有益心脏健康。",
+            "en": "Cycling is good for heart health.",
+            "ja": "自転車は心臓の健康に良いです。"
+          },
+          "hint": "骑自行车有益心脏健康。 / Cycling is good for heart health. / 自転車は心臓の健康に良いです。",
+          "furigana": "じてんしゃはしんぞうのけんこうによいです。",
+          "romaji": "jitenshahashinzounokenkouniyoidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "試合後に選手たちは握手しました。",
+          "answer": "試合後に選手たちは握手しました。",
+          "hints": {
+            "zh": "赛后选手们握了手。",
+            "en": "The players shook hands after the match.",
+            "ja": "試合後に選手たちは握手しました。"
+          },
+          "hint": "赛后选手们握了手。 / The players shook hands after the match. / 試合後に選手たちは握手しました。",
+          "furigana": "しあいごにせんしゅたちはあくしゅしました。",
+          "romaji": "shiaigonisenshutachihaakushushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "水泳で金メダルを取りました。",
+          "answer": "水泳で金メダルを取りました。",
+          "hints": {
+            "zh": "在游泳项目中获得金牌。",
+            "en": "She won a gold medal in swimming.",
+            "ja": "水泳で金メダルを取りました。"
+          },
+          "hint": "在游泳项目中获得金牌。 / She won a gold medal in swimming. / 水泳で金メダルを取りました。",
+          "furigana": "すいえいできんメダルをとりました。",
+          "romaji": "suieidekinmedaruwotorimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この運動は体幹を鍛えます。",
+          "answer": "この運動は体幹を鍛えます。",
+          "hints": {
+            "zh": "这项运动锻炼核心。",
+            "en": "This exercise builds core strength.",
+            "ja": "この運動は体幹を鍛えます。"
+          },
+          "hint": "这项运动锻炼核心。 / This exercise builds core strength. / この運動は体幹を鍛えます。",
+          "furigana": "このうんどうはたいかんをきたえます。",
+          "romaji": "konoundouhataikanwokitaemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "得点は二対二です。",
+          "answer": "得点は二対二です。",
+          "hints": {
+            "zh": "比分是二比二。",
+            "en": "The score is tied at two to two.",
+            "ja": "得点は二対二です。"
+          },
+          "hint": "比分是二比二。 / The score is tied at two to two. / 得点は二対二です。",
+          "furigana": "とくてんはにたいにです。",
+          "romaji": "tokutenhanitainidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "いつか優勝したいです。",
+          "answer": "いつか優勝したいです。",
+          "hints": {
+            "zh": "我想有一天夺冠。",
+            "en": "I want to become a champion someday.",
+            "ja": "いつか優勝したいです。"
+          },
+          "hint": "我想有一天夺冠。 / I want to become a champion someday. / いつか優勝したいです。",
+          "furigana": "いつかゆうしょうしたいです。",
+          "romaji": "itsukayuushoushitaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "練習中は水を十分に飲みます。",
+          "answer": "練習中は水を十分に飲みます。",
+          "hints": {
+            "zh": "训练时要喝足水。",
+            "en": "Drink enough water during practice.",
+            "ja": "練習中は水を十分に飲みます。"
+          },
+          "hint": "训练时要喝足水。 / Drink enough water during practice. / 練習中は水を十分に飲みます。",
+          "furigana": "れんしゅうちゅうはみずをじゅうぶんにのみます。",
+          "romaji": "renshuuchuuhamizuwojuubun'ninomimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "野球チームは守備が強いです。",
+          "answer": "野球チームは守備が強いです。",
+          "hints": {
+            "zh": "这支棒球队防守很强。",
+            "en": "The baseball team has strong defense.",
+            "ja": "野球チームは守備が強いです。"
+          },
+          "hint": "这支棒球队防守很强。 / The baseball team has strong defense. / 野球チームは守備が強いです。",
+          "furigana": "やきゅうチームはしゅびがつよいです。",
+          "romaji": "yakyuuchiimuhashubigatsuyoidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "走ると気分がすっきりします。",
+          "answer": "走ると気分がすっきりします。",
+          "hints": {
+            "zh": "跑步会让心情舒畅。",
+            "en": "Running clears my mind.",
+            "ja": "走ると気分がすっきりします。"
+          },
+          "hint": "跑步会让心情舒畅。 / Running clears my mind. / 走ると気分がすっきりします。",
+          "furigana": "はしるときぶんがすっきりします。",
+          "romaji": "hashirutokibungasukkirishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "テニスの決勝は三時間続きました。",
+          "answer": "テニスの決勝は三時間続きました。",
+          "hints": {
+            "zh": "网球决赛持续了三小时。",
+            "en": "The tennis final lasted three hours.",
+            "ja": "テニスの決勝は三時間続きました。"
+          },
+          "hint": "网球决赛持续了三小时。 / The tennis final lasted three hours. / テニスの決勝は三時間続きました。",
+          "furigana": "テニスのけっしょうはさんじかんつづきました。",
+          "romaji": "tenisunokesshouhasanjikantsuzukimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "バレーの練習は放課後です。",
+          "answer": "バレーの練習は放課後です。",
+          "hints": {
+            "zh": "排球训练在放学后。",
+            "en": "Volleyball practice is after school.",
+            "ja": "バレーの練習は放課後です。"
+          },
+          "hint": "排球训练在放学后。 / Volleyball practice is after school. / バレーの練習は放課後です。",
+          "furigana": "バレーのれんしゅうはほうかごです。",
+          "romaji": "bareenorenshuuhahoukagodesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "速さだけでなく技術も大切です。",
+          "answer": "速さだけでなく技術も大切です。",
+          "hints": {
+            "zh": "不仅速度重要，技术也重要。",
+            "en": "Technique matters as much as speed.",
+            "ja": "速さだけでなく技術も大切です。"
+          },
+          "hint": "不仅速度重要，技术也重要。 / Technique matters as much as speed. / 速さだけでなく技術も大切です。",
+          "furigana": "はやさだけでなくぎじゅつもたいせつです。",
+          "romaji": "hayasadakedenakugijutsumotaisetsudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "選手はけがから復帰しました。",
+          "answer": "選手はけがから復帰しました。",
+          "hints": {
+            "zh": "运动员伤愈复出了。",
+            "en": "The athlete returned from injury.",
+            "ja": "選手はけがから復帰しました。"
+          },
+          "hint": "运动员伤愈复出了。 / The athlete returned from injury. / 選手はけがから復帰しました。",
+          "furigana": "せんしゅはけがからふっきしました。",
+          "romaji": "senshuhakegakarafukkishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "初めての勝利を一緒に祝いました。",
+          "answer": "初めての勝利を一緒に祝いました。",
+          "hints": {
+            "zh": "大家一起庆祝首胜。",
+            "en": "We celebrated our first victory together.",
+            "ja": "初めての勝利を一緒に祝いました。"
+          },
+          "hint": "大家一起庆祝首胜。 / We celebrated our first victory together. / 初めての勝利を一緒に祝いました。",
+          "furigana": "はじめてのしょうりをいっしょにいわいました。",
+          "romaji": "hajimetenoshouriwoisshoniiwaimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "良い睡眠は記録を伸ばします。",
+          "answer": "良い睡眠は記録を伸ばします。",
+          "hints": {
+            "zh": "良好睡眠有助于提升成绩。",
+            "en": "Good sleep improves performance.",
+            "ja": "良い睡眠は記録を伸ばします。"
+          },
+          "hint": "良好睡眠有助于提升成绩。 / Good sleep improves performance. / 良い睡眠は記録を伸ばします。",
+          "furigana": "よいすいみんはきろくをのばします。",
+          "romaji": "yoisuiminhakirokuwonobashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゴールまで諦めません。",
+          "answer": "ゴールまで諦めません。",
+          "hints": {
+            "zh": "到终点前绝不放弃。",
+            "en": "I will not give up before the finish.",
+            "ja": "ゴールまで諦めません。"
+          },
+          "hint": "到终点前绝不放弃。 / I will not give up before the finish. / ゴールまで諦めません。",
+          "furigana": "ゴールまであきらめません。",
+          "romaji": "goorumadeakiramemasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "スポーツは協力と自律を教えます。",
+          "answer": "スポーツは協力と自律を教えます。",
+          "hints": {
+            "zh": "运动教会合作与自律。",
+            "en": "Sports teach teamwork and discipline.",
+            "ja": "スポーツは協力と自律を教えます。"
+          },
+          "hint": "运动教会合作与自律。 / Sports teach teamwork and discipline. / スポーツは協力と自律を教えます。",
+          "furigana": "スポーツはきょうりょくとじりつをおしえます。",
+          "romaji": "supootsuhakyouryokutojiritsuwooshiemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

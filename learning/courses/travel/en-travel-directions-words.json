@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-directions-words",
+  "course": {
+    "title": "旅游 · 英语问路与交通 · 词汇",
+    "description": "问路、购票与公共交通相关英语（单词与短语）",
+    "titles": {
+      "zh": "旅游 · 英语问路与交通 · 词汇",
+      "en": "Travel · English Directions & Transit · Vocabulary",
+      "ja": "旅行 · 英語道案内・交通 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习问路与公共交通中的常用英语词汇。",
+      "en": "Practice common English vocabulary for directions and public transit.",
+      "ja": "道案内と公共交通で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "问路与公共交通",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "map",
+          "answer": "map",
+          "hints": {
+            "zh": "地图",
+            "en": "map",
+            "ja": "地図"
+          },
+          "hint": "地图 / map / 地図",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mæp/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "subway",
+          "answer": "subway",
+          "hints": {
+            "zh": "地铁",
+            "en": "subway",
+            "ja": "地下鉄"
+          },
+          "hint": "地铁 / subway / 地下鉄",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsəbweɪ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "bus",
+          "answer": "bus",
+          "hints": {
+            "zh": "公交车",
+            "en": "bus",
+            "ja": "バス"
+          },
+          "hint": "公交车 / bus / バス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bəs/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "train",
+          "answer": "train",
+          "hints": {
+            "zh": "火车",
+            "en": "train",
+            "ja": "電車"
+          },
+          "hint": "火车 / train / 電車",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɹeɪn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "ticket",
+          "answer": "ticket",
+          "hints": {
+            "zh": "票",
+            "en": "ticket",
+            "ja": "切符"
+          },
+          "hint": "票 / ticket / 切符",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɪkət/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "station",
+          "answer": "station",
+          "hints": {
+            "zh": "车站",
+            "en": "station",
+            "ja": "駅"
+          },
+          "hint": "车站 / station / 駅",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "platform",
+          "answer": "platform",
+          "hints": {
+            "zh": "站台",
+            "en": "platform",
+            "ja": "ホーム"
+          },
+          "hint": "站台 / platform / ホーム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈplætfɔɹm/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "taxi",
+          "answer": "taxi",
+          "hints": {
+            "zh": "出租车",
+            "en": "taxi",
+            "ja": "タクシー"
+          },
+          "hint": "出租车 / taxi / タクシー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtæksi/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "fare",
+          "answer": "fare",
+          "hints": {
+            "zh": "车费",
+            "en": "fare",
+            "ja": "運賃"
+          },
+          "hint": "车费 / fare / 運賃",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fɛɹ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "transfer",
+          "answer": "transfer",
+          "hints": {
+            "zh": "换乘",
+            "en": "transfer",
+            "ja": "乗り換え"
+          },
+          "hint": "换乘 / transfer / 乗り換え",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɹænsfɚ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "landmark",
+          "answer": "landmark",
+          "hints": {
+            "zh": "地标",
+            "en": "landmark",
+            "ja": "ランドマーク"
+          },
+          "hint": "地标 / landmark / ランドマーク",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlændmɑɹk/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "intersection",
+          "answer": "intersection",
+          "hints": {
+            "zh": "十字路口",
+            "en": "intersection",
+            "ja": "交差点"
+          },
+          "hint": "十字路口 / intersection / 交差点",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɪntɚˈsɛkʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "one-way ticket",
+          "answer": "one-way ticket",
+          "hints": {
+            "zh": "单程票",
+            "en": "one-way ticket",
+            "ja": "片道切符"
+          },
+          "hint": "单程票 / one-way ticket / 片道切符",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌwənˈweɪ ˈtɪkət/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "round-trip ticket",
+          "answer": "round-trip ticket",
+          "hints": {
+            "zh": "往返票",
+            "en": "round-trip ticket",
+            "ja": "往復切符"
+          },
+          "hint": "往返票 / round-trip ticket / 往復切符",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹaʊnd tɹɪp ˈtɪkət/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "subway line",
+          "answer": "subway line",
+          "hints": {
+            "zh": "地铁线路",
+            "en": "subway line",
+            "ja": "地下鉄路線"
+          },
+          "hint": "地铁线路 / subway line / 地下鉄路線",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsəbweɪ laɪn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "bus stop",
+          "answer": "bus stop",
+          "hints": {
+            "zh": "公交站",
+            "en": "bus stop",
+            "ja": "バス停"
+          },
+          "hint": "公交站 / bus stop / バス停",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bəs stɑp/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "train station",
+          "answer": "train station",
+          "hints": {
+            "zh": "火车站",
+            "en": "train station",
+            "ja": "鉄道駅"
+          },
+          "hint": "火车站 / train station / 鉄道駅",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɹeɪn ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "public transport",
+          "answer": "public transport",
+          "hints": {
+            "zh": "公共交通",
+            "en": "public transport",
+            "ja": "公共交通機関"
+          },
+          "hint": "公共交通 / public transport / 公共交通機関",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpəblɪk ˈtɹænspɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "straight ahead",
+          "answer": "straight ahead",
+          "hints": {
+            "zh": "直走",
+            "en": "straight ahead",
+            "ja": "まっすぐ"
+          },
+          "hint": "直走 / straight ahead / まっすぐ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stɹeɪt əˈhɛd/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "left turn",
+          "answer": "left turn",
+          "hints": {
+            "zh": "左转",
+            "en": "left turn",
+            "ja": "左折"
+          },
+          "hint": "左转 / left turn / 左折",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lɛft tɝn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "right turn",
+          "answer": "right turn",
+          "hints": {
+            "zh": "右转",
+            "en": "right turn",
+            "ja": "右折"
+          },
+          "hint": "右转 / right turn / 右折",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹaɪt tɝn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "nearest station",
+          "answer": "nearest station",
+          "hints": {
+            "zh": "最近的车站",
+            "en": "nearest station",
+            "ja": "最寄り駅"
+          },
+          "hint": "最近的车站 / nearest station / 最寄り駅",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈnɪɹəst ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "traffic jam",
+          "answer": "traffic jam",
+          "hints": {
+            "zh": "交通堵塞",
+            "en": "traffic jam",
+            "ja": "渋滞"
+          },
+          "hint": "交通堵塞 / traffic jam / 渋滞",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɹæfɪk dʒæm/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "route",
+          "answer": "route",
+          "hints": {
+            "zh": "路线",
+            "en": "route",
+            "ja": "ルート"
+          },
+          "hint": "路线 / route / ルート",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹaʊt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "schedule",
+          "answer": "schedule",
+          "hints": {
+            "zh": "时刻表",
+            "en": "schedule",
+            "ja": "時刻表"
+          },
+          "hint": "时刻表 / schedule / 時刻表",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈskɛdʒul/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "compass",
+          "answer": "compass",
+          "hints": {
+            "zh": "指南针",
+            "en": "compass",
+            "ja": "コンパス"
+          },
+          "hint": "指南针 / compass / コンパス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkəmpəs/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "destination",
+          "answer": "destination",
+          "hints": {
+            "zh": "目的地",
+            "en": "destination",
+            "ja": "目的地"
+          },
+          "hint": "目的地 / destination / 目的地",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌdɛstəˈneɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "distance",
+          "answer": "distance",
+          "hints": {
+            "zh": "距离",
+            "en": "distance",
+            "ja": "距離"
+          },
+          "hint": "距离 / distance / 距離",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdɪstəns/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "pedestrian",
+          "answer": "pedestrian",
+          "hints": {
+            "zh": "行人",
+            "en": "pedestrian",
+            "ja": "歩行者"
+          },
+          "hint": "行人 / pedestrian / 歩行者",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pəˈdɛstɹiən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "traffic light",
+          "answer": "traffic light",
+          "hints": {
+            "zh": "红绿灯",
+            "en": "traffic light",
+            "ja": "信号機"
+          },
+          "hint": "红绿灯 / traffic light / 信号機",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɹæfɪk laɪt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

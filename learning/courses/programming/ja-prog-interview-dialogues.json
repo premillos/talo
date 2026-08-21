@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "programming",
+  "slug": "ja-prog-interview-dialogues",
+  "course": {
+    "title": "编程知识 · 日语面试 · 情景对话",
+    "description": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 日语面试 · 情景对话",
+      "en": "编程知识 · 日语面试 · 情景对话",
+      "ja": "编程知识 · 日语面试 · 情景对话"
+    },
+    "descriptions": {
+      "zh": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）",
+      "en": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）",
+      "ja": "技術面接：時間計算量、リファクタリング、スケーラビリティなど面接で使う日本語表現。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "技術面接 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "最初に利用者数と通信量を確認したいです。",
+          "answer": "最初に利用者数と通信量を確認したいです。",
+          "hints": {
+            "zh": "我想先确认用户数量和通信量。",
+            "en": "First, I would like to confirm the user count and traffic volume.",
+            "ja": "最初に利用者数と通信量を確認したいです。"
+          },
+          "hint": "我想先确认用户数量和通信量。 / First, I would like to confirm the user count and traffic volume. / 最初に利用者数と通信量を確認したいです。",
+          "furigana": "さいしょにりようしゃすうとつうしんりょうをかくにんしたいです。",
+          "romaji": "saishoniriyoushasuutotsuushinryouwokakuninshitaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-interview-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "system-design-interview",
+          "dialogueTitles": {
+            "zh": "系统设计面试",
+            "en": "System Design Interview",
+            "ja": "システム設計面接"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论高流量服务的扩展方案。",
+            "en": "A candidate and interviewer discuss scaling a high-traffic service.",
+            "ja": "候補者と面接官が高トラフィックサービスの拡張方法を話し合います。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "奈绪",
+            "en": "Nao",
+            "ja": "奈緒"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "一日に一億件のリクエストがあります。",
+          "answer": "一日に一億件のリクエストがあります。",
+          "hints": {
+            "zh": "每天有一亿次请求。",
+            "en": "There are one hundred million requests per day.",
+            "ja": "一日に一億件のリクエストがあります。"
+          },
+          "hint": "每天有一亿次请求。 / There are one hundred million requests per day. / 一日に一億件のリクエストがあります。",
+          "furigana": "いちにちにいちおくけんのリクエストがあります。",
+          "romaji": "ichinichiniichiokuken'norikuesutogaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-interview-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "system-design-interview",
+          "dialogueTitles": {
+            "zh": "系统设计面试",
+            "en": "System Design Interview",
+            "ja": "システム設計面接"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论高流量服务的扩展方案。",
+            "en": "A candidate and interviewer discuss scaling a high-traffic service.",
+            "ja": "候補者と面接官が高トラフィックサービスの拡張方法を話し合います。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "亮",
+            "en": "Ryo",
+            "ja": "亮"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "読み取り処理にはキャッシュを使います。",
+          "answer": "読み取り処理にはキャッシュを使います。",
+          "hints": {
+            "zh": "读取处理会使用缓存。",
+            "en": "I will use a cache for read operations.",
+            "ja": "読み取り処理にはキャッシュを使います。"
+          },
+          "hint": "读取处理会使用缓存。 / I will use a cache for read operations. / 読み取り処理にはキャッシュを使います。",
+          "furigana": "よみとりしょりにはキャッシュをつかいます。",
+          "romaji": "yomitorishorinihakyasshuwotsukaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-interview-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "system-design-interview",
+          "dialogueTitles": {
+            "zh": "系统设计面试",
+            "en": "System Design Interview",
+            "ja": "システム設計面接"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论高流量服务的扩展方案。",
+            "en": "A candidate and interviewer discuss scaling a high-traffic service.",
+            "ja": "候補者と面接官が高トラフィックサービスの拡張方法を話し合います。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "奈绪",
+            "en": "Nao",
+            "ja": "奈緒"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "データの整合性はどう保ちますか。",
+          "answer": "データの整合性はどう保ちますか。",
+          "hints": {
+            "zh": "如何保证数据一致性？",
+            "en": "How will you maintain data consistency?",
+            "ja": "データの整合性はどう保ちますか。"
+          },
+          "hint": "如何保证数据一致性？ / How will you maintain data consistency? / データの整合性はどう保ちますか。",
+          "furigana": "データのせいごうせいはどうたもちますか。",
+          "romaji": "deetanoseigouseihadoutamochimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-interview-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "system-design-interview",
+          "dialogueTitles": {
+            "zh": "系统设计面试",
+            "en": "System Design Interview",
+            "ja": "システム設計面接"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论高流量服务的扩展方案。",
+            "en": "A candidate and interviewer discuss scaling a high-traffic service.",
+            "ja": "候補者と面接官が高トラフィックサービスの拡張方法を話し合います。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "亮",
+            "en": "Ryo",
+            "ja": "亮"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "更新時にキャッシュを削除して再取得します。",
+          "answer": "更新時にキャッシュを削除して再取得します。",
+          "hints": {
+            "zh": "更新时删除缓存并重新获取。",
+            "en": "I will delete the cache on updates and fetch the data again.",
+            "ja": "更新時にキャッシュを削除して再取得します。"
+          },
+          "hint": "更新时删除缓存并重新获取。 / I will delete the cache on updates and fetch the data again. / 更新時にキャッシュを削除して再取得します。",
+          "furigana": "こうしんじにキャッシュをさくじょしてさいしゅとくします。",
+          "romaji": "koushinjinikyasshuwosakujoshitesaishutokushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-interview-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "system-design-interview",
+          "dialogueTitles": {
+            "zh": "系统设计面试",
+            "en": "System Design Interview",
+            "ja": "システム設計面接"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论高流量服务的扩展方案。",
+            "en": "A candidate and interviewer discuss scaling a high-traffic service.",
+            "ja": "候補者と面接官が高トラフィックサービスの拡張方法を話し合います。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "奈绪",
+            "en": "Nao",
+            "ja": "奈緒"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "その設計の弱点も説明してください。",
+          "answer": "その設計の弱点も説明してください。",
+          "hints": {
+            "zh": "也请说明该设计的弱点。",
+            "en": "Please also explain the weaknesses of that design.",
+            "ja": "その設計の弱点も説明してください。"
+          },
+          "hint": "也请说明该设计的弱点。 / Please also explain the weaknesses of that design. / その設計の弱点も説明してください。",
+          "furigana": "そのせっけいのじゃくてんもせつめいしてください。",
+          "romaji": "sonosekkeinojakutenmosetsumeishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-interview-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "system-design-interview",
+          "dialogueTitles": {
+            "zh": "系统设计面试",
+            "en": "System Design Interview",
+            "ja": "システム設計面接"
+          },
+          "dialogueScenes": {
+            "zh": "候选人与面试官讨论高流量服务的扩展方案。",
+            "en": "A candidate and interviewer discuss scaling a high-traffic service.",
+            "ja": "候補者と面接官が高トラフィックサービスの拡張方法を話し合います。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "亮",
+            "en": "Ryo",
+            "ja": "亮"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

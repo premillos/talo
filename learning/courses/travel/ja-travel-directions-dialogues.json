@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-directions-dialogues",
+  "course": {
+    "title": "旅游 · 日语交通 · 情景对话",
+    "description": "道案内、切符購入、公共交通の日本語（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 日语问路与交通 · 情景对话",
+      "en": "Travel · Japanese Directions & Transit · Situational Dialogues",
+      "ja": "旅行 · 日本語道案内・交通 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习问路与公共交通中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for directions and public transit.",
+      "ja": "道案内と公共交通で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "道案内・交通 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "すみません、博物館へはどう行けばいいですか。",
+          "answer": "すみません、博物館へはどう行けばいいですか。",
+          "hints": {
+            "zh": "请问，去博物馆怎么走？",
+            "en": "Excuse me, how do I get to the museum?",
+            "ja": "すみません、博物館へはどう行けばいいですか。"
+          },
+          "hint": "请问，去博物馆怎么走？ / Excuse me, how do I get to the museum? / すみません、博物館へはどう行けばいいですか。",
+          "furigana": "すみませんはくぶつかんへはどういけばいいですか",
+          "romaji": "sumimasenhakubutsukanhehadouikebaiidesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "museum-train-directions",
+          "dialogueTitles": {
+            "zh": "乘车去博物馆",
+            "en": "Train Directions to the Museum",
+            "ja": "博物館への電車案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向车站工作人员询问去博物馆的乘车路线。",
+            "en": "A tourist asks a station attendant for train directions to the museum.",
+            "ja": "旅行者が駅員に博物館までの電車の行き方を尋ねます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "奈奈",
+            "en": "Nana",
+            "ja": "なな"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "三番ホームから青い電車に乗ってください。",
+          "answer": "三番ホームから青い電車に乗ってください。",
+          "hints": {
+            "zh": "请从三号站台乘蓝色列车。",
+            "en": "Please take the blue train from platform three.",
+            "ja": "三番ホームから青い電車に乗ってください。"
+          },
+          "hint": "请从三号站台乘蓝色列车。 / Please take the blue train from platform three. / 三番ホームから青い電車に乗ってください。",
+          "furigana": "さんばんほーむからあおいでんしゃにのってください",
+          "romaji": "sanbanhoomukaraaoidenshaninottekudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "museum-train-directions",
+          "dialogueTitles": {
+            "zh": "乘车去博物馆",
+            "en": "Train Directions to the Museum",
+            "ja": "博物館への電車案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向车站工作人员询问去博物馆的乘车路线。",
+            "en": "A tourist asks a station attendant for train directions to the museum.",
+            "ja": "旅行者が駅員に博物館までの電車の行き方を尋ねます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "浩",
+            "en": "Hiroshi",
+            "ja": "ひろし"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "途中で乗り換えが必要ですか。",
+          "answer": "途中で乗り換えが必要ですか。",
+          "hints": {
+            "zh": "途中需要换乘吗？",
+            "en": "Do I need to transfer along the way?",
+            "ja": "途中で乗り換えが必要ですか。"
+          },
+          "hint": "途中需要换乘吗？ / Do I need to transfer along the way? / 途中で乗り換えが必要ですか。",
+          "furigana": "とちゅうでのりかえがひつようですか",
+          "romaji": "tochuudenorikaegahitsuyoudesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "museum-train-directions",
+          "dialogueTitles": {
+            "zh": "乘车去博物馆",
+            "en": "Train Directions to the Museum",
+            "ja": "博物館への電車案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向车站工作人员询问去博物馆的乘车路线。",
+            "en": "A tourist asks a station attendant for train directions to the museum.",
+            "ja": "旅行者が駅員に博物館までの電車の行き方を尋ねます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "奈奈",
+            "en": "Nana",
+            "ja": "なな"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "いいえ、四つ目の駅までそのままです。",
+          "answer": "いいえ、四つ目の駅までそのままです。",
+          "hints": {
+            "zh": "不用，直接坐到第四站。",
+            "en": "No, stay on until the fourth station.",
+            "ja": "いいえ、四つ目の駅までそのままです。"
+          },
+          "hint": "不用，直接坐到第四站。 / No, stay on until the fourth station. / いいえ、四つ目の駅までそのままです。",
+          "furigana": "いいえよっつめのえきまでそのままです",
+          "romaji": "iieyottsumenoekimadesonomamadesu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "museum-train-directions",
+          "dialogueTitles": {
+            "zh": "乘车去博物馆",
+            "en": "Train Directions to the Museum",
+            "ja": "博物館への電車案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向车站工作人员询问去博物馆的乘车路线。",
+            "en": "A tourist asks a station attendant for train directions to the museum.",
+            "ja": "旅行者が駅員に博物館までの電車の行き方を尋ねます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "浩",
+            "en": "Hiroshi",
+            "ja": "ひろし"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "駅を出てから遠いですか。",
+          "answer": "駅を出てから遠いですか。",
+          "hints": {
+            "zh": "出站后远吗？",
+            "en": "Is it far after I leave the station?",
+            "ja": "駅を出てから遠いですか。"
+          },
+          "hint": "出站后远吗？ / Is it far after I leave the station? / 駅を出てから遠いですか。",
+          "furigana": "えきをでてからとおいですか",
+          "romaji": "ekiwodetekaratooidesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "museum-train-directions",
+          "dialogueTitles": {
+            "zh": "乘车去博物馆",
+            "en": "Train Directions to the Museum",
+            "ja": "博物館への電車案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向车站工作人员询问去博物馆的乘车路线。",
+            "en": "A tourist asks a station attendant for train directions to the museum.",
+            "ja": "旅行者が駅員に博物館までの電車の行き方を尋ねます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "奈奈",
+            "en": "Nana",
+            "ja": "なな"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "二番出口から歩いて五分ほどです。",
+          "answer": "二番出口から歩いて五分ほどです。",
+          "hints": {
+            "zh": "从二号出口步行约五分钟。",
+            "en": "It is about a five-minute walk from exit two.",
+            "ja": "二番出口から歩いて五分ほどです。"
+          },
+          "hint": "从二号出口步行约五分钟。 / It is about a five-minute walk from exit two. / 二番出口から歩いて五分ほどです。",
+          "furigana": "にばんでぐちからあるいてごふんほどです",
+          "romaji": "nibandeguchikaraaruitegofunhododesu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "museum-train-directions",
+          "dialogueTitles": {
+            "zh": "乘车去博物馆",
+            "en": "Train Directions to the Museum",
+            "ja": "博物館への電車案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向车站工作人员询问去博物馆的乘车路线。",
+            "en": "A tourist asks a station attendant for train directions to the museum.",
+            "ja": "旅行者が駅員に博物館までの電車の行き方を尋ねます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "浩",
+            "en": "Hiroshi",
+            "ja": "ひろし"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

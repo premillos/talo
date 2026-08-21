@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-hotel-sentences",
+  "course": {
+    "title": "旅游 · 英语酒店 · 句子",
+    "description": "酒店预订、入住、退房与服务请求英语表达（常用句子）",
+    "titles": {
+      "zh": "旅游 · 英语酒店 · 句子",
+      "en": "Travel · English Hotel · Sentences",
+      "ja": "旅行 · 英語ホテル · 例文"
+    },
+    "descriptions": {
+      "zh": "学习酒店住宿中的常用英语句子。",
+      "en": "Practice common English sentences for hotel stays.",
+      "ja": "ホテル滞在で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "酒店预订与入住 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "I have a reservation under the name Smith.",
+          "answer": "I have a reservation under the name Smith.",
+          "hints": {
+            "zh": "我以 Smith 的名字预订了房间。",
+            "en": "I have a reservation under the name Smith.",
+            "ja": "スミスという名前で予約しています。"
+          },
+          "hint": "我以 Smith 的名字预订了房间。 / I have a reservation under the name Smith. / スミスという名前で予約しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ həv ə ˌɹɛzɚˈveɪʃən ˈəndɚ ðə neɪm smɪθ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What time is check-out?",
+          "answer": "What time is check-out?",
+          "hints": {
+            "zh": "退房时间是几点？",
+            "en": "What time is check-out?",
+            "ja": "チェックアウトは何時ですか？"
+          },
+          "hint": "退房时间是几点？ / What time is check-out? / チェックアウトは何時ですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət taɪm ɪz ˈtʃɛk aʊt/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Could I get an extra towel, please?",
+          "answer": "Could I get an extra towel, please?",
+          "hints": {
+            "zh": "可以再给我一条毛巾吗？",
+            "en": "Could I get an extra towel, please?",
+            "ja": "タオルをもう一枚いただけますか？"
+          },
+          "hint": "可以再给我一条毛巾吗？ / Could I get an extra towel, please? / タオルをもう一枚いただけますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəd aɪ ɡɛt ən ˈɛkstɹə ˈtaʊəl pliz/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is breakfast included?",
+          "answer": "Is breakfast included?",
+          "hints": {
+            "zh": "早餐包含在内吗？",
+            "en": "Is breakfast included?",
+            "ja": "朝食は含まれていますか？"
+          },
+          "hint": "早餐包含在内吗？ / Is breakfast included? / 朝食は含まれていますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ˈbɹɛkfəst ˌɪnˈkludəd/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The air conditioning is not working.",
+          "answer": "The air conditioning is not working.",
+          "hints": {
+            "zh": "空调坏了。",
+            "en": "The air conditioning is not working.",
+            "ja": "エアコンが動きません。"
+          },
+          "hint": "空调坏了。 / The air conditioning is not working. / エアコンが動きません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ɛɹ kənˈdɪʃənɪŋ ɪz nɑt ˈwɝkɪŋ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can you call a taxi for me?",
+          "answer": "Can you call a taxi for me?",
+          "hints": {
+            "zh": "可以帮我叫一辆出租车吗？",
+            "en": "Can you call a taxi for me?",
+            "ja": "タクシーを呼んでもらえますか？"
+          },
+          "hint": "可以帮我叫一辆出租车吗？ / Can you call a taxi for me? / タクシーを呼んでもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ju kɔl ə ˈtæksi fɚ mi/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Do you have free Wi-Fi?",
+          "answer": "Do you have free Wi-Fi?",
+          "hints": {
+            "zh": "有免费 Wi-Fi 吗？",
+            "en": "Do you have free Wi-Fi?",
+            "ja": "無料Wi-Fiはありますか？"
+          },
+          "hint": "有免费 Wi-Fi 吗？ / Do you have free Wi-Fi? / 無料Wi-Fiはありますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/du ju həv fɹi ˈwaɪˌfaɪ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I would like to extend my stay by one night.",
+          "answer": "I would like to extend my stay by one night.",
+          "hints": {
+            "zh": "我想多住一晚。",
+            "en": "I would like to extend my stay by one night.",
+            "ja": "もう一泊延長したいのですが。"
+          },
+          "hint": "我想多住一晚。 / I would like to extend my stay by one night. / もう一泊延長したいのですが。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəd laɪk tə ɪkˈstɛnd maɪ steɪ baɪ wən naɪt/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Could you send housekeeping to my room?",
+          "answer": "Could you send housekeeping to my room?",
+          "hints": {
+            "zh": "可以派客房清洁来我房间吗？",
+            "en": "Could you send housekeeping to my room?",
+            "ja": "ハウスキーピングを部屋に送ってもらえますか？"
+          },
+          "hint": "可以派客房清洁来我房间吗？ / Could you send housekeeping to my room? / ハウスキーピングを部屋に送ってもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəd ju sɛnd ˈhaʊˌskipɪŋ tə maɪ ɹum/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The Wi-Fi password is on the key card sleeve.",
+          "answer": "The Wi-Fi password is on the key card sleeve.",
+          "hints": {
+            "zh": "Wi-Fi 密码在房卡套上。",
+            "en": "The Wi-Fi password is on the key card sleeve.",
+            "ja": "Wi-Fiパスワードはルームキーの袋にあります。"
+          },
+          "hint": "Wi-Fi 密码在房卡套上。 / The Wi-Fi password is on the key card sleeve. / Wi-Fiパスワードはルームキーの袋にあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈwaɪˌfaɪ ˈpæswɝd ɪz ɑn ðə ki kɑɹd sliv/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is there a gym in the hotel?",
+          "answer": "Is there a gym in the hotel?",
+          "hints": {
+            "zh": "酒店有健身房吗？",
+            "en": "Is there a gym in the hotel?",
+            "ja": "ホテルにジムはありますか？"
+          },
+          "hint": "酒店有健身房吗？ / Is there a gym in the hotel? / ホテルにジムはありますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɛɹ ə dʒɪm ɪn ðə hoʊˈtɛl/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I need a quiet room away from the elevator.",
+          "answer": "I need a quiet room away from the elevator.",
+          "hints": {
+            "zh": "我需要远离电梯的安静房间。",
+            "en": "I need a quiet room away from the elevator.",
+            "ja": "エレベーターから離れた静かな部屋をお願いします。"
+          },
+          "hint": "我需要远离电梯的安静房间。 / I need a quiet room away from the elevator. / エレベーターから離れた静かな部屋をお願いします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid ə ˈkwaɪət ɹum əˈweɪ fɹəm ði ˈɛləˌveɪtɚ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The hot water is not working in my room.",
+          "answer": "The hot water is not working in my room.",
+          "hints": {
+            "zh": "我房间没有热水。",
+            "en": "The hot water is not working in my room.",
+            "ja": "お部屋にお湯が出ません。"
+          },
+          "hint": "我房间没有热水。 / The hot water is not working in my room. / お部屋にお湯が出ません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə hɑt ˈwɔtɚ ɪz nɑt ˈwɝkɪŋ ɪn maɪ ɹum/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can I store my luggage after checkout?",
+          "answer": "Can I store my luggage after checkout?",
+          "hints": {
+            "zh": "退房后可以寄存行李吗？",
+            "en": "Can I store my luggage after checkout?",
+            "ja": "チェックアウト後に荷物を預かってもらえますか？"
+          },
+          "hint": "退房后可以寄存行李吗？ / Can I store my luggage after checkout? / チェックアウト後に荷物を預かってもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən aɪ stɔɹ maɪ ˈləɡədʒ ˈæftɚ ˈtʃɛkaʊt/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We booked a suite with a balcony.",
+          "answer": "We booked a suite with a balcony.",
+          "hints": {
+            "zh": "我们订了带阳台的套房。",
+            "en": "We booked a suite with a balcony.",
+            "ja": "バルコニー付きスイートを予約しました。"
+          },
+          "hint": "我们订了带阳台的套房。 / We booked a suite with a balcony. / バルコニー付きスイートを予約しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi bʊkt ə swit wɪð ə ˈbælkəni/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please charge the minibar items to my room.",
+          "answer": "Please charge the minibar items to my room.",
+          "hints": {
+            "zh": "迷你吧消费请记到我房间。",
+            "en": "Please charge the minibar items to my room.",
+            "ja": "ミニバーの利用料を部屋代に追加してください。"
+          },
+          "hint": "迷你吧消费请记到我房间。 / Please charge the minibar items to my room. / ミニバーの利用料を部屋代に追加してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz tʃɑɹdʒ ðə ˈmɪniˌbɑɹ ˈaɪtəmz tə maɪ ɹum/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Do you offer laundry service?",
+          "answer": "Do you offer laundry service?",
+          "hints": {
+            "zh": "提供洗衣服务吗？",
+            "en": "Do you offer laundry service?",
+            "ja": "ランドリーサービスはありますか？"
+          },
+          "hint": "提供洗衣服务吗？ / Do you offer laundry service? / ランドリーサービスはありますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/du ju ˈɔfɚ ˈlɔndɹi ˈsɝvəs/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I lost my room key card.",
+          "answer": "I lost my room key card.",
+          "hints": {
+            "zh": "我把房卡弄丢了。",
+            "en": "I lost my room key card.",
+            "ja": "ルームキーをなくしてしまいました。"
+          },
+          "hint": "我把房卡弄丢了。 / I lost my room key card. / ルームキーをなくしてしまいました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ lɔst maɪ ɹum ki kɑɹd/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Could we get extra pillows and blankets?",
+          "answer": "Could we get extra pillows and blankets?",
+          "hints": {
+            "zh": "可以多给枕头和毯子吗？",
+            "en": "Could we get extra pillows and blankets?",
+            "ja": "枕と毛布を追加でもらえますか？"
+          },
+          "hint": "可以多给枕头和毯子吗？ / Could we get extra pillows and blankets? / 枕と毛布を追加でもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəd wi ɡɛt ˈɛkstɹə ˈpɪloʊz ən ˈblæŋkəts/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The view from our room is amazing.",
+          "answer": "The view from our room is amazing.",
+          "hints": {
+            "zh": "我们房间的视野很棒。",
+            "en": "The view from our room is amazing.",
+            "ja": "部屋からの眺めが素晴らしいです。"
+          },
+          "hint": "我们房间的视野很棒。 / The view from our room is amazing. / 部屋からの眺めが素晴らしいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə vju fɹəm ˈaʊɚ ɹum ɪz əˈmeɪzɪŋ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "What time does breakfast start?",
+          "answer": "What time does breakfast start?",
+          "hints": {
+            "zh": "早餐几点开始？",
+            "en": "What time does breakfast start?",
+            "ja": "朝食は何時からですか？"
+          },
+          "hint": "早餐几点开始？ / What time does breakfast start? / 朝食は何時からですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət taɪm dəz ˈbɹɛkfəst stɑɹt/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I need a receipt for my business expense.",
+          "answer": "I need a receipt for my business expense.",
+          "hints": {
+            "zh": "我需要报销用的收据。",
+            "en": "I need a receipt for my business expense.",
+            "ja": "経費精算用の領収書が必要です。"
+          },
+          "hint": "我需要报销用的收据。 / I need a receipt for my business expense. / 経費精算用の領収書が必要です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid ə ɹiˈsit fɚ maɪ ˈbɪznəs ɪkˈspɛns/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can you recommend a restaurant nearby?",
+          "answer": "Can you recommend a restaurant nearby?",
+          "hints": {
+            "zh": "能推荐附近的餐厅吗？",
+            "en": "Can you recommend a restaurant nearby?",
+            "ja": "近くのレストランを教えてもらえますか？"
+          },
+          "hint": "能推荐附近的餐厅吗？ / Can you recommend a restaurant nearby? / 近くのレストランを教えてもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ju ˌɹɛkəˈmɛnd ə ˈɹɛstɹɑnt ˌnɪɹˈbaɪ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The concierge helped us book tickets.",
+          "answer": "The concierge helped us book tickets.",
+          "hints": {
+            "zh": "礼宾员帮我们订了票。",
+            "en": "The concierge helped us book tickets.",
+            "ja": "コンシェルジュがチケット予約を手伝ってくれました。"
+          },
+          "hint": "礼宾员帮我们订了票。 / The concierge helped us book tickets. / コンシェルジュがチケット予約を手伝ってくれました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˌkɑnsiˈɛɹʒ hɛlpt əs bʊk ˈtɪkəts/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We would like a non-smoking double room.",
+          "answer": "We would like a non-smoking double room.",
+          "hints": {
+            "zh": "我们想要无烟双人间。",
+            "en": "We would like a non-smoking double room.",
+            "ja": "禁煙のダブルルームをお願いします。"
+          },
+          "hint": "我们想要无烟双人间。 / We would like a non-smoking double room. / 禁煙のダブルルームをお願いします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi wəd laɪk ə nɑnsˈmoʊkɪŋ ˈdəbəl ɹum/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please do not disturb until ten AM.",
+          "answer": "Please do not disturb until ten AM.",
+          "hints": {
+            "zh": "上午十点前请勿打扰。",
+            "en": "Please do not disturb until ten AM.",
+            "ja": "午前10時まで起こさないでください。"
+          },
+          "hint": "上午十点前请勿打扰。 / Please do not disturb until ten AM. / 午前10時まで起こさないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz du nɑt dɪˈstɝb ənˈtɪl tɛn ˌeɪ ˈɛm/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Room service is available twenty-four hours.",
+          "answer": "Room service is available twenty-four hours.",
+          "hints": {
+            "zh": "客房服务二十四小时可用。",
+            "en": "Room service is available twenty-four hours.",
+            "ja": "ルームサービスは24時間利用できます。"
+          },
+          "hint": "客房服务二十四小时可用。 / Room service is available twenty-four hours. / ルームサービスは24時間利用できます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹum ˈsɝvəs ɪz əˈveɪləbəl ˈtwɛntiˌfɔɹ ˈaʊɚz/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The lobby is on the ground floor.",
+          "answer": "The lobby is on the ground floor.",
+          "hints": {
+            "zh": "大堂在一楼。",
+            "en": "The lobby is on the ground floor.",
+            "ja": "ロビーは1階にあります。"
+          },
+          "hint": "大堂在一楼。 / The lobby is on the ground floor. / ロビーは1階にあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈlɑbi ɪz ɑn ðə ɡɹaʊnd flɔɹ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I would like to pay with a credit card.",
+          "answer": "I would like to pay with a credit card.",
+          "hints": {
+            "zh": "我想用信用卡付款。",
+            "en": "I would like to pay with a credit card.",
+            "ja": "クレジットカードで支払いたいです。"
+          },
+          "hint": "我想用信用卡付款。 / I would like to pay with a credit card. / クレジットカードで支払いたいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəd laɪk tə peɪ wɪð ə ˈkɹɛdət kɑɹd/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can we check in early at noon?",
+          "answer": "Can we check in early at noon?",
+          "hints": {
+            "zh": "中午可以提前入住吗？",
+            "en": "Can we check in early at noon?",
+            "ja": "正午にアーリーチェックインできますか？"
+          },
+          "hint": "中午可以提前入住吗？ / Can we check in early at noon? / 正午にアーリーチェックインできますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən wi tʃɛk ɪn ˈɝli æt nun/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "sports",
+  "slug": "en-sports-competition-words",
+  "course": {
+    "title": "运动 · 英语赛事 · 词汇",
+    "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用英语表达。（单词与短语）",
+    "titles": {
+      "zh": "运动 · 英语赛事 · 词汇",
+      "en": "Sports · English Competition · Vocabulary",
+      "ja": "スポーツ · 英語大会 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习赛事赛程、判罚与赛后交流中的常用英语词汇。",
+      "en": "Practice common English vocabulary for competition schedules, officiating, and post-match communication.",
+      "ja": "大会日程・判定・試合後の交流で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语赛事表达",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "fixture",
+          "answer": "fixture",
+          "hints": {
+            "zh": "赛程中的一场比赛",
+            "en": "a scheduled sports match",
+            "ja": "予定された試合"
+          },
+          "hint": "赛程中的一场比赛 / a scheduled sports match / 予定された試合",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfɪkstʃɚ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "kickoff",
+          "answer": "kickoff",
+          "hints": {
+            "zh": "开球；比赛开始",
+            "en": "the start of a match",
+            "ja": "キックオフ"
+          },
+          "hint": "开球；比赛开始 / the start of a match / キックオフ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɪkɔf/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "qualifier",
+          "answer": "qualifier",
+          "hints": {
+            "zh": "预选赛",
+            "en": "a match that decides who advances",
+            "ja": "予選"
+          },
+          "hint": "预选赛 / a match that decides who advances / 予選",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkwɑləˌfaɪɚ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "semifinal",
+          "answer": "semifinal",
+          "hints": {
+            "zh": "半决赛",
+            "en": "the round before the final",
+            "ja": "準決勝"
+          },
+          "hint": "半决赛 / the round before the final / 準決勝",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌsɛmaɪˈfaɪnəl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "final whistle",
+          "answer": "final whistle",
+          "hints": {
+            "zh": "终场哨声",
+            "en": "the whistle that ends a match",
+            "ja": "試合終了の笛"
+          },
+          "hint": "终场哨声 / the whistle that ends a match / 試合終了の笛",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfaɪnəl ˈwɪsəl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "extra time",
+          "answer": "extra time",
+          "hints": {
+            "zh": "加时赛",
+            "en": "additional play after a tie",
+            "ja": "延長戦"
+          },
+          "hint": "加时赛 / additional play after a tie / 延長戦",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛkstɹə taɪm/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "penalty shootout",
+          "answer": "penalty shootout",
+          "hints": {
+            "zh": "点球大战",
+            "en": "a tiebreak decided by penalty kicks",
+            "ja": "PK戦"
+          },
+          "hint": "点球大战 / a tiebreak decided by penalty kicks / PK戦",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɛnəlti ˈʃutaʊt/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "seed",
+          "answer": "seed",
+          "hints": {
+            "zh": "种子选手或队伍",
+            "en": "a ranked entrant in a competition",
+            "ja": "シード"
+          },
+          "hint": "种子选手或队伍 / a ranked entrant in a competition / シード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sid/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "bracket",
+          "answer": "bracket",
+          "hints": {
+            "zh": "淘汰赛对阵表",
+            "en": "a chart showing tournament pairings",
+            "ja": "トーナメント表"
+          },
+          "hint": "淘汰赛对阵表 / a chart showing tournament pairings / トーナメント表",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbɹækɪt/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "draw",
+          "answer": "draw",
+          "hints": {
+            "zh": "抽签",
+            "en": "a process for deciding match pairings",
+            "ja": "組み合わせ抽選"
+          },
+          "hint": "抽签 / a process for deciding match pairings / 組み合わせ抽選",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɹɔ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "home side",
+          "answer": "home side",
+          "hints": {
+            "zh": "主队",
+            "en": "the team playing at its home venue",
+            "ja": "ホームチーム"
+          },
+          "hint": "主队 / the team playing at its home venue / ホームチーム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hoʊm saɪd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "away side",
+          "answer": "away side",
+          "hints": {
+            "zh": "客队",
+            "en": "the visiting team",
+            "ja": "アウェーチーム"
+          },
+          "hint": "客队 / the visiting team / アウェーチーム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈweɪ saɪd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "starting lineup",
+          "answer": "starting lineup",
+          "hints": {
+            "zh": "首发阵容",
+            "en": "the players who begin a match",
+            "ja": "先発メンバー"
+          },
+          "hint": "首发阵容 / the players who begin a match / 先発メンバー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈstɑɹtɪŋ ˈlaɪnəp/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "substitute bench",
+          "answer": "substitute bench",
+          "hints": {
+            "zh": "替补席",
+            "en": "the area for reserve players",
+            "ja": "控え選手席"
+          },
+          "hint": "替补席 / the area for reserve players / 控え選手席",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsəbstəˌtut bɛntʃ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "video review",
+          "answer": "video review",
+          "hints": {
+            "zh": "视频回看",
+            "en": "an official review using recorded footage",
+            "ja": "映像判定"
+          },
+          "hint": "视频回看 / an official review using recorded footage / 映像判定",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɪdioʊ ɹivˈju/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "yellow card",
+          "answer": "yellow card",
+          "hints": {
+            "zh": "黄牌",
+            "en": "an official caution in a match",
+            "ja": "イエローカード"
+          },
+          "hint": "黄牌 / an official caution in a match / イエローカード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈjɛloʊ kɑɹd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "red card",
+          "answer": "red card",
+          "hints": {
+            "zh": "红牌",
+            "en": "an order for a player to leave",
+            "ja": "レッドカード"
+          },
+          "hint": "红牌 / an order for a player to leave / レッドカード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹɛd kɑɹd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "foul",
+          "answer": "foul",
+          "hints": {
+            "zh": "犯规",
+            "en": "an action against the rules",
+            "ja": "反則"
+          },
+          "hint": "犯规 / an action against the rules / 反則",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/faʊl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "offside",
+          "answer": "offside",
+          "hints": {
+            "zh": "越位",
+            "en": "an illegal attacking position",
+            "ja": "オフサイド"
+          },
+          "hint": "越位 / an illegal attacking position / オフサイド",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔfˌsaɪd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "time-out",
+          "answer": "time-out",
+          "hints": {
+            "zh": "暂停",
+            "en": "an official break in play",
+            "ja": "タイムアウト"
+          },
+          "hint": "暂停 / an official break in play / タイムアウト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtaɪmaʊt/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "scoreboard",
+          "answer": "scoreboard",
+          "hints": {
+            "zh": "记分牌",
+            "en": "a display showing the current result",
+            "ja": "スコアボード"
+          },
+          "hint": "记分牌 / a display showing the current result / スコアボード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈskɔɹbɔɹd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "spectator stand",
+          "answer": "spectator stand",
+          "hints": {
+            "zh": "观众看台",
+            "en": "seating for people watching an event",
+            "ja": "観客席"
+          },
+          "hint": "观众看台 / seating for people watching an event / 観客席",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈspɛkteɪtɚ stænd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "season ticket",
+          "answer": "season ticket",
+          "hints": {
+            "zh": "赛季套票",
+            "en": "a pass for a full season of events",
+            "ja": "年間入場券"
+          },
+          "hint": "赛季套票 / a pass for a full season of events / 年間入場券",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsizən ˈtɪkət/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "live broadcast",
+          "answer": "live broadcast",
+          "hints": {
+            "zh": "现场直播",
+            "en": "real-time coverage on television or online",
+            "ja": "生中継"
+          },
+          "hint": "现场直播 / real-time coverage on television or online / 生中継",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/laɪv ˈbɹɔdkæst/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "commentary",
+          "answer": "commentary",
+          "hints": {
+            "zh": "赛事解说",
+            "en": "spoken description of live action",
+            "ja": "実況解説"
+          },
+          "hint": "赛事解说 / spoken description of live action / 実況解説",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɑmənˌtɛɹi/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "press conference",
+          "answer": "press conference",
+          "hints": {
+            "zh": "新闻发布会",
+            "en": "a media meeting for questions",
+            "ja": "記者会見"
+          },
+          "hint": "新闻发布会 / a media meeting for questions / 記者会見",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɹɛs ˈkɑnfɚəns/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "trophy ceremony",
+          "answer": "trophy ceremony",
+          "hints": {
+            "zh": "奖杯颁发仪式",
+            "en": "an event where the trophy is presented",
+            "ja": "優勝杯授与式"
+          },
+          "hint": "奖杯颁发仪式 / an event where the trophy is presented / 優勝杯授与式",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɹoʊfi ˈsɛɹəˌmoʊni/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "runner-up",
+          "answer": "runner-up",
+          "hints": {
+            "zh": "亚军",
+            "en": "the entrant finishing in second place",
+            "ja": "準優勝者"
+          },
+          "hint": "亚军 / the entrant finishing in second place / 準優勝者",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹənɚˌəp/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "post-match interview",
+          "answer": "post-match interview",
+          "hints": {
+            "zh": "赛后采访",
+            "en": "an interview conducted after a match",
+            "ja": "試合後のインタビュー"
+          },
+          "hint": "赛后采访 / an interview conducted after a match / 試合後のインタビュー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpoʊst mætʃ ˈɪntɚvˌju/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "match official",
+          "answer": "match official",
+          "hints": {
+            "zh": "赛事官员",
+            "en": "an official responsible for applying rules",
+            "ja": "競技役員"
+          },
+          "hint": "赛事官员 / an official responsible for applying rules / 競技役員",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mætʃ əˈfɪʃəl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

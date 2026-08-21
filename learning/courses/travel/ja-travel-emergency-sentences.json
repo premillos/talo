@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-emergency-sentences",
+  "course": {
+    "title": "旅游 · 日语应急 · 句子",
+    "description": "トラブル、医療、紛失時の日本語表現（常用句子）",
+    "titles": {
+      "zh": "旅游 · 日语应急 · 句子",
+      "en": "Travel · Japanese Emergencies · Sentences",
+      "ja": "旅行 · 日本語緊急時 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习旅行应急中的常用日语句子。",
+      "en": "Practice common Japanese sentences for travel emergencies.",
+      "ja": "旅行中の緊急時で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "トラブル・緊急 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "助けが必要です！",
+          "answer": "助けが必要です！",
+          "hints": {
+            "zh": "我需要帮助！",
+            "en": "I need help!",
+            "ja": "助けが必要です！"
+          },
+          "hint": "我需要帮助！ / I need help! / 助けが必要です！",
+          "furigana": "たすけがひつようです！",
+          "romaji": "tasukegahitsuyoudesu!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "救急車を呼んでください。",
+          "answer": "救急車を呼んでください。",
+          "hints": {
+            "zh": "请叫救护车。",
+            "en": "Please call an ambulance.",
+            "ja": "救急車を呼んでください。"
+          },
+          "hint": "请叫救护车。 / Please call an ambulance. / 救急車を呼んでください。",
+          "furigana": "きゅうきゅうしゃをよんでください。",
+          "romaji": "kyuukyuushawoyondekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "パスポートをなくしました。",
+          "answer": "パスポートをなくしました。",
+          "hints": {
+            "zh": "我把护照弄丢了。",
+            "en": "I lost my passport.",
+            "ja": "パスポートをなくしました。"
+          },
+          "hint": "我把护照弄丢了。 / I lost my passport. / パスポートをなくしました。",
+          "furigana": "パスポートをなくしました。",
+          "romaji": "pasupootowonakushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "とても気分が悪いです。",
+          "answer": "とても気分が悪いです。",
+          "hints": {
+            "zh": "我感觉非常不舒服。",
+            "en": "I feel very sick.",
+            "ja": "とても気分が悪いです。"
+          },
+          "hint": "我感觉非常不舒服。 / I feel very sick. / とても気分が悪いです。",
+          "furigana": "とてもきぶんがわるいです。",
+          "romaji": "totemokibungawaruidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "財布を盗まれました。",
+          "answer": "財布を盗まれました。",
+          "hints": {
+            "zh": "我的钱包被偷了。",
+            "en": "My wallet was stolen.",
+            "ja": "財布を盗まれました。"
+          },
+          "hint": "我的钱包被偷了。 / My wallet was stolen. / 財布を盗まれました。",
+          "furigana": "さいふをぬすまれました。",
+          "romaji": "saifuwonusumaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最寄りの病院はどこですか。",
+          "answer": "最寄りの病院はどこですか。",
+          "hints": {
+            "zh": "最近的医院在哪里？",
+            "en": "Where is the nearest hospital?",
+            "ja": "最寄りの病院はどこですか。"
+          },
+          "hint": "最近的医院在哪里？ / Where is the nearest hospital? / 最寄りの病院はどこですか。",
+          "furigana": "もよりのびょういんはどこですか。",
+          "romaji": "moyorinobyouinhadokodesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "近くに薬局はありますか。",
+          "answer": "近くに薬局はありますか。",
+          "hints": {
+            "zh": "附近有药店吗？",
+            "en": "Is there a pharmacy nearby?",
+            "ja": "近くに薬局はありますか。"
+          },
+          "hint": "附近有药店吗？ / Is there a pharmacy nearby? / 近くに薬局はありますか。",
+          "furigana": "ちかくにやっきょくはありますか。",
+          "romaji": "chikakuniyakkyokuhaarimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "緊急事態です、助けてください。",
+          "answer": "緊急事態です、助けてください。",
+          "hints": {
+            "zh": "紧急情况，请帮忙。",
+            "en": "It is an emergency, please help.",
+            "ja": "緊急事態です、助けてください。"
+          },
+          "hint": "紧急情况，请帮忙。 / It is an emergency, please help. / 緊急事態です、助けてください。",
+          "furigana": "きんきゅうじたいです、たすけてください。",
+          "romaji": "kinkyuujitaidesu,tasuketekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "すぐに警察を呼んでください。",
+          "answer": "すぐに警察を呼んでください。",
+          "hints": {
+            "zh": "请立刻报警。",
+            "en": "Please call the police immediately.",
+            "ja": "すぐに警察を呼んでください。"
+          },
+          "hint": "请立刻报警。 / Please call the police immediately. / すぐに警察を呼んでください。",
+          "furigana": "すぐにけいさつをよんでください。",
+          "romaji": "sugunikeisatsuwoyondekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ピーナッツアレルギーがあります。",
+          "answer": "ピーナッツアレルギーがあります。",
+          "hints": {
+            "zh": "对花生过敏。",
+            "en": "I am allergic to peanuts.",
+            "ja": "ピーナッツアレルギーがあります。"
+          },
+          "hint": "对花生过敏。 / I am allergic to peanuts. / ピーナッツアレルギーがあります。",
+          "furigana": "ピーナッツアレルギーがあります。",
+          "romaji": "piinattsuarerugiigaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "旅行保険で医療費がカバーされます。",
+          "answer": "旅行保険で医療費がカバーされます。",
+          "hints": {
+            "zh": "旅行保险涵盖医疗费。",
+            "en": "Travel insurance covers medical costs.",
+            "ja": "旅行保険で医療費がカバーされます。"
+          },
+          "hint": "旅行保险涵盖医疗费。 / Travel insurance covers medical costs. / 旅行保険で医療費がカバーされます。",
+          "furigana": "りょこうほけんでいりょうひがカバーされます。",
+          "romaji": "ryokouhokendeiryouhigakabaasaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "交通事故でけがをしました。",
+          "answer": "交通事故でけがをしました。",
+          "hints": {
+            "zh": "交通事故受伤了。",
+            "en": "I was injured in a traffic accident.",
+            "ja": "交通事故でけがをしました。"
+          },
+          "hint": "交通事故受伤了。 / I was injured in a traffic accident. / 交通事故でけがをしました。",
+          "furigana": "こうつうじこでけがをしました。",
+          "romaji": "koutsuujikodekegawoshimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大使館に連絡してください。",
+          "answer": "大使館に連絡してください。",
+          "hints": {
+            "zh": "请联系大使馆。",
+            "en": "Please contact the embassy.",
+            "ja": "大使館に連絡してください。"
+          },
+          "hint": "请联系大使馆。 / Please contact the embassy. / 大使館に連絡してください。",
+          "furigana": "たいしかんにれんらくしてください。",
+          "romaji": "taishikan'nirenrakushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この薬には処方箋が必要です。",
+          "answer": "この薬には処方箋が必要です。",
+          "hints": {
+            "zh": "这药需要处方。",
+            "en": "This medicine requires a prescription.",
+            "ja": "この薬には処方箋が必要です。"
+          },
+          "hint": "这药需要处方。 / This medicine requires a prescription. / この薬には処方箋が必要です。",
+          "furigana": "このくすりにはしょほうせんがひつようです。",
+          "romaji": "konokusurinihashohousengahitsuyoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "症状は今朝からです。",
+          "answer": "症状は今朝からです。",
+          "hints": {
+            "zh": "症状从今天早上开始。",
+            "en": "Symptoms started this morning.",
+            "ja": "症状は今朝からです。"
+          },
+          "hint": "症状从今天早上开始。 / Symptoms started this morning. / 症状は今朝からです。",
+          "furigana": "しょうじょうはけさからです。",
+          "romaji": "shoujouhakesakaradesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "英語が話せる医者はいますか。",
+          "answer": "英語が話せる医者はいますか。",
+          "hints": {
+            "zh": "有会说英语的医生吗？",
+            "en": "Is there an English-speaking doctor?",
+            "ja": "英語が話せる医者はいますか。"
+          },
+          "hint": "有会说英语的医生吗？ / Is there an English-speaking doctor? / 英語が話せる医者はいますか。",
+          "furigana": "えいごがはなせるいしゃはいますか。",
+          "romaji": "eigogahanaseruishahaimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ホテルで盗難を届け出ます。",
+          "answer": "ホテルで盗難を届け出ます。",
+          "hints": {
+            "zh": "报案酒店失窃。",
+            "en": "I report a theft at the hotel.",
+            "ja": "ホテルで盗難を届け出ます。"
+          },
+          "hint": "报案酒店失窃。 / I report a theft at the hotel. / ホテルで盗難を届け出ます。",
+          "furigana": "ホテルでとうなんをとどけでます。",
+          "romaji": "hoterudetounanwotodokedemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "切り傷の応急処置をお願いします。",
+          "answer": "切り傷の応急処置をお願いします。",
+          "hints": {
+            "zh": "请急救这个伤口。",
+            "en": "Please give first aid for this cut.",
+            "ja": "切り傷の応急処置をお願いします。"
+          },
+          "hint": "请急救这个伤口。 / Please give first aid for this cut. / 切り傷の応急処置をお願いします。",
+          "furigana": "きりきずのおうきゅうしょちをおねがいします。",
+          "romaji": "kirikizunooukyuushochiwoonegaishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "緊急連絡先は携帯にあります。",
+          "answer": "緊急連絡先は携帯にあります。",
+          "hints": {
+            "zh": "紧急联系人在手机里。",
+            "en": "Emergency contacts are on my phone.",
+            "ja": "緊急連絡先は携帯にあります。"
+          },
+          "hint": "紧急联系人在手机里。 / Emergency contacts are on my phone. / 緊急連絡先は携帯にあります。",
+          "furigana": "きんきゅうれんらくさきはけいたいにあります。",
+          "romaji": "kinkyuurenrakusakihakeitainiarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "めまいと吐き気があります。",
+          "answer": "めまいと吐き気があります。",
+          "hints": {
+            "zh": "头晕恶心。",
+            "en": "I feel dizzy and nauseous.",
+            "ja": "めまいと吐き気があります。"
+          },
+          "hint": "头晕恶心。 / I feel dizzy and nauseous. / めまいと吐き気があります。",
+          "furigana": "めまいとはきけがあります。",
+          "romaji": "memaitohakikegaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "駅でパスポートを盗まれました。",
+          "answer": "駅でパスポートを盗まれました。",
+          "hints": {
+            "zh": "护照在车站被偷。",
+            "en": "My passport was stolen at the station.",
+            "ja": "駅でパスポートを盗まれました。"
+          },
+          "hint": "护照在车站被偷。 / My passport was stolen at the station. / 駅でパスポートを盗まれました。",
+          "furigana": "えきでパスポートをぬすまれました。",
+          "romaji": "ekidepasupootowonusumaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "救急外来はどこですか。",
+          "answer": "救急外来はどこですか。",
+          "hints": {
+            "zh": "急诊室在哪？",
+            "en": "Where is the emergency room?",
+            "ja": "救急外来はどこですか。"
+          },
+          "hint": "急诊室在哪？ / Where is the emergency room? / 救急外来はどこですか。",
+          "furigana": "きゅうきゅうがいらいはどこですか。",
+          "romaji": "kyuukyuugairaihadokodesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "警察の届出に通訳が必要です。",
+          "answer": "警察の届出に通訳が必要です。",
+          "hints": {
+            "zh": "报警需要翻译。",
+            "en": "I need an interpreter for the police report.",
+            "ja": "警察の届出に通訳が必要です。"
+          },
+          "hint": "报警需要翻译。 / I need an interpreter for the police report. / 警察の届出に通訳が必要です。",
+          "furigana": "けいさつのとどけでにつうやくがひつようです。",
+          "romaji": "keisatsunotodokedenitsuuyakugahitsuyoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "落ち着いて電話を切らないで。",
+          "answer": "落ち着いて電話を切らないで。",
+          "hints": {
+            "zh": "冷静，别挂电话。",
+            "en": "Stay calm and do not hang up.",
+            "ja": "落ち着いて電話を切らないで。"
+          },
+          "hint": "冷静，别挂电话。 / Stay calm and do not hang up. / 落ち着いて電話を切らないで。",
+          "furigana": "おちついてでんわをきらないで。",
+          "romaji": "ochitsuitedenwawokiranaide.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "薬局は午後9時に閉まります。",
+          "answer": "薬局は午後9時に閉まります。",
+          "hints": {
+            "zh": "药店晚九点关门。",
+            "en": "The pharmacy closes at nine PM.",
+            "ja": "薬局は午後9時に閉まります。"
+          },
+          "hint": "药店晚九点关门。 / The pharmacy closes at nine PM. / 薬局は午後9時に閉まります。",
+          "furigana": "やっきょくはごご9じにしまります。",
+          "romaji": "yakkyokuhagogo9jinishimarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "財布をなくしましたがパスポートはあります。",
+          "answer": "財布をなくしましたがパスポートはあります。",
+          "hints": {
+            "zh": "钱包丢了护照还在。",
+            "en": "I lost my wallet but have my passport.",
+            "ja": "財布をなくしましたがパスポートはあります。"
+          },
+          "hint": "钱包丢了护照还在。 / I lost my wallet but have my passport. / 財布をなくしましたがパスポートはあります。",
+          "furigana": "さいふをなくしましたがパスポートはあります。",
+          "romaji": "saifuwonakushimashitagapasupootohaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "これは医療上の緊急事態です。",
+          "answer": "これは医療上の緊急事態です。",
+          "hints": {
+            "zh": "这是医疗紧急情况。",
+            "en": "This is a medical emergency.",
+            "ja": "これは医療上の緊急事態です。"
+          },
+          "hint": "这是医疗紧急情况。 / This is a medical emergency. / これは医療上の緊急事態です。",
+          "furigana": "これはいりょうじょうのきんきゅうじたいです。",
+          "romaji": "korehairyoujounokinkyuujitaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "病院まで付き添ってもらえますか。",
+          "answer": "病院まで付き添ってもらえますか。",
+          "hints": {
+            "zh": "能陪我去医院吗？",
+            "en": "Can you accompany me to the hospital?",
+            "ja": "病院まで付き添ってもらえますか。"
+          },
+          "hint": "能陪我去医院吗？ / Can you accompany me to the hospital? / 病院まで付き添ってもらえますか。",
+          "furigana": "びょういんまでつきそってもらえますか。",
+          "romaji": "byouinmadetsukisottemoraemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "旅行保険に加入しています。",
+          "answer": "旅行保険に加入しています。",
+          "hints": {
+            "zh": "我买了旅行保险。",
+            "en": "I have travel insurance.",
+            "ja": "旅行保険に加入しています。"
+          },
+          "hint": "我买了旅行保险。 / I have travel insurance. / 旅行保険に加入しています。",
+          "furigana": "りょこうほけんにかにゅうしています。",
+          "romaji": "ryokouhoken'nikanyuushiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最寄りの警察署で届け出てください。",
+          "answer": "最寄りの警察署で届け出てください。",
+          "hints": {
+            "zh": "去最近派出所报案。",
+            "en": "Report at the nearest police station.",
+            "ja": "最寄りの警察署で届け出てください。"
+          },
+          "hint": "去最近派出所报案。 / Report at the nearest police station. / 最寄りの警察署で届け出てください。",
+          "furigana": "もよりのけいさつしょでとどけでてください。",
+          "romaji": "moyorinokeisatsushodetodokedetekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-emergency-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

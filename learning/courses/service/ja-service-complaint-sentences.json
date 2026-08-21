@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-complaint-sentences",
+  "course": {
+    "title": "服务行业 · 日语投诉 · 句子",
+    "description": "クレーム対応と謝罪・補償の表現（常用句子）",
+    "titles": {
+      "zh": "服务行业 · 日语投诉 · 句子",
+      "en": "Service & Hospitality · Japanese Complaints · Sentences",
+      "ja": "サービス業 · 日本語クレーム対応 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习投诉处理中的常用日语句子。",
+      "en": "Practice common Japanese sentences for complaint handling.",
+      "ja": "クレーム対応で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "クレーム対応 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "この度はご迷惑をおかけし、誠に申し訳ございません。",
+          "answer": "この度はご迷惑をおかけし、誠に申し訳ございません。",
+          "hints": {
+            "zh": "这次给您添麻烦了，深表歉意。",
+            "en": "We sincerely apologize for the trouble caused.",
+            "ja": "この度はご迷惑をおかけし、誠に申し訳ございません。"
+          },
+          "hint": "这次给您添麻烦了，深表歉意。 / We sincerely apologize for the trouble caused. / この度はご迷惑をおかけし、誠に申し訳ございません。",
+          "furigana": "このたびはごめいわくをおかけし、まことにもうしわけございません。",
+          "romaji": "konotabihagomeiwakuwookakeshi,makotonimoushiwakegozaimasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "返金は五営業日以内に処理いたします。",
+          "answer": "返金は五営業日以内に処理いたします。",
+          "hints": {
+            "zh": "退款将在五个工作日内处理。",
+            "en": "We will process your refund within five business days.",
+            "ja": "返金は五営業日以内に処理いたします。"
+          },
+          "hint": "退款将在五个工作日内处理。 / We will process your refund within five business days. / 返金は五営業日以内に処理いたします。",
+          "furigana": "へんきんはごえいぎょうびいないにしょりいたします。",
+          "romaji": "henkinhagoeigyoubiinainishoriitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご注文のどの点に問題がございましたでしょうか。",
+          "answer": "ご注文のどの点に問題がございましたでしょうか。",
+          "hints": {
+            "zh": "请问您的订单哪里出了问题？",
+            "en": "What was wrong with your order?",
+            "ja": "ご注文のどの点に問題がございましたでしょうか。"
+          },
+          "hint": "请问您的订单哪里出了问题？ / What was wrong with your order? / ご注文のどの点に問題がございましたでしょうか。",
+          "furigana": "ごちゅうもんのどのてんにもんだいがございましたでしょうか。",
+          "romaji": "gochuumon'nodonoten'nimondaigagozaimashitadeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "カスタマーサービスチームにエスカレーションいたします。",
+          "answer": "カスタマーサービスチームにエスカレーションいたします。",
+          "hints": {
+            "zh": "我会转交客服团队处理。",
+            "en": "I will escalate this to the customer service team.",
+            "ja": "カスタマーサービスチームにエスカレーションいたします。"
+          },
+          "hint": "我会转交客服团队处理。 / I will escalate this to the customer service team. / カスタマーサービスチームにエスカレーションいたします。",
+          "furigana": "カスタマーサービスチームにエスカレーションいたします。",
+          "romaji": "kasutamaasaabisuchiimuniesukareeshon'itashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お客様のご信頼を大切にし、解決に努めます。",
+          "answer": "お客様のご信頼を大切にし、解決に努めます。",
+          "hints": {
+            "zh": "我们重视您的信任，努力解决。",
+            "en": "We value your trust and will work to resolve this.",
+            "ja": "お客様のご信頼を大切にし、解決に努めます。"
+          },
+          "hint": "我们重视您的信任，努力解决。 / We value your trust and will work to resolve this. / お客様のご信頼を大切にし、解決に努めます。",
+          "furigana": "おきゃくさまのごしんらいをたいせつにし、かいけつにつとめます。",
+          "romaji": "okyakusamanogoshinraiwotaisetsunishi,kaiketsunitsutomemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "他にお手伝いできることはございますか。",
+          "answer": "他にお手伝いできることはございますか。",
+          "hints": {
+            "zh": "还有什么我能帮您的吗？",
+            "en": "Is there anything else I can help with?",
+            "ja": "他にお手伝いできることはございますか。"
+          },
+          "hint": "还有什么我能帮您的吗？ / Is there anything else I can help with? / 他にお手伝いできることはございますか。",
+          "furigana": "ほかにおてつだいできることはございますか。",
+          "romaji": "hokaniotetsudaidekirukotohagozaimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご苦情は記録し、対応いたします。",
+          "answer": "ご苦情は記録し、対応いたします。",
+          "hints": {
+            "zh": "您的投诉已记录，我们会处理。",
+            "en": "Your complaint has been recorded and will be addressed.",
+            "ja": "ご苦情は記録し、対応いたします。"
+          },
+          "hint": "您的投诉已记录，我们会处理。 / Your complaint has been recorded and will be addressed. / ご苦情は記録し、対応いたします。",
+          "furigana": "ごくじょうはきろくし、たいおういたします。",
+          "romaji": "gokujouhakirokushi,taiouitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "追加料金なしで交換いたします。",
+          "answer": "追加料金なしで交換いたします。",
+          "hints": {
+            "zh": "我们可以免费更换。",
+            "en": "We will replace it at no extra charge.",
+            "ja": "追加料金なしで交換いたします。"
+          },
+          "hint": "我们可以免费更换。 / We will replace it at no extra charge. / 追加料金なしで交換いたします。",
+          "furigana": "ついかりょうきんなしでこうかんいたします。",
+          "romaji": "tsuikaryoukin'nashidekoukan'itashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この度のご経験、心よりお詫び申し上げます。",
+          "answer": "この度のご経験、心よりお詫び申し上げます。",
+          "hints": {
+            "zh": "对此次经历深表歉意。",
+            "en": "We sincerely regret this experience.",
+            "ja": "この度のご経験、心よりお詫び申し上げます。"
+          },
+          "hint": "对此次经历深表歉意。 / We sincerely regret this experience. / この度のご経験、心よりお詫び申し上げます。",
+          "furigana": "このたびのごけいけん、こころよりおわびもうしあげます。",
+          "romaji": "konotabinogokeiken,kokoroyoriowabimoushiagemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "クレームは参照番号付きで記録しました。",
+          "answer": "クレームは参照番号付きで記録しました。",
+          "hints": {
+            "zh": "投诉已登记并附参考号。",
+            "en": "Your claim was logged with a reference number.",
+            "ja": "クレームは参照番号付きで記録しました。"
+          },
+          "hint": "投诉已登记并附参考号。 / Your claim was logged with a reference number. / クレームは参照番号付きで記録しました。",
+          "furigana": "クレームはさんしょうばんごうつきできろくしました。",
+          "romaji": "kureemuhasanshoubangoutsukidekirokushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "返金ポリシーをご案件に照らして確認します。",
+          "answer": "返金ポリシーをご案件に照らして確認します。",
+          "hints": {
+            "zh": "将按案件审查退款政策。",
+            "en": "We will review the refund policy for your case.",
+            "ja": "返金ポリシーをご案件に照らして確認します。"
+          },
+          "hint": "将按案件审查退款政策。 / We will review the refund policy for your case. / 返金ポリシーをご案件に照らして確認します。",
+          "furigana": "へんきんポリシーをごあんけんにてらしてかくにんします。",
+          "romaji": "henkinporishiiwogoanken'niterashitekakuninshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "誠意として割引をご提供いたします。",
+          "answer": "誠意として割引をご提供いたします。",
+          "hints": {
+            "zh": "作为诚意提供折扣。",
+            "en": "We offer a discount as a goodwill gesture.",
+            "ja": "誠意として割引をご提供いたします。"
+          },
+          "hint": "作为诚意提供折扣。 / We offer a discount as a goodwill gesture. / 誠意として割引をご提供いたします。",
+          "furigana": "せいいとしてわりびきをごていきょういたします。",
+          "romaji": "seiitoshitewaribikiwogoteikyouitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "当社チームとの調停にご同意いただけますか。",
+          "answer": "当社チームとの調停にご同意いただけますか。",
+          "hints": {
+            "zh": "同意与我们团队调解吗？",
+            "en": "Would you agree to mediation with our team?",
+            "ja": "当社チームとの調停にご同意いただけますか。"
+          },
+          "hint": "同意与我们团队调解吗？ / Would you agree to mediation with our team? / 当社チームとの調停にご同意いただけますか。",
+          "furigana": "とうしゃチームとのちょうていにごどういいただけますか。",
+          "romaji": "toushachiimutonochouteinigodouiitadakemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お客様と和解に至りました。",
+          "answer": "お客様と和解に至りました。",
+          "hints": {
+            "zh": "已与客户达成和解。",
+            "en": "We reached a settlement with the customer.",
+            "ja": "お客様と和解に至りました。"
+          },
+          "hint": "已与客户达成和解。 / We reached a settlement with the customer. / お客様と和解に至りました。",
+          "furigana": "おきゃくさまとわかいにいたりました。",
+          "romaji": "okyakusamatowakainiitarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "当社はこのミスの責任を認めます。",
+          "answer": "当社はこのミスの責任を認めます。",
+          "hints": {
+            "zh": "公司承认此错误责任。",
+            "en": "The company accepts liability for this error.",
+            "ja": "当社はこのミスの責任を認めます。"
+          },
+          "hint": "公司承认此错误责任。 / The company accepts liability for this error. / 当社はこのミスの責任を認めます。",
+          "furigana": "とうしゃはこのミスのせきにんをみとめます。",
+          "romaji": "toushahakonomisunosekininwomitomemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "48時間以内に是正いたします。",
+          "answer": "48時間以内に是正いたします。",
+          "hints": {
+            "zh": "四十八小时内整改。",
+            "en": "We will rectify within forty-eight hours.",
+            "ja": "48時間以内に是正いたします。"
+          },
+          "hint": "四十八小时内整改。 / We will rectify within forty-eight hours. / 48時間以内に是正いたします。",
+          "furigana": "48じかんいないにぜせいいたします。",
+          "romaji": "48jikan'inainizeseiitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "フォロー電話で解決を確認いたします。",
+          "answer": "フォロー電話で解決を確認いたします。",
+          "hints": {
+            "zh": "跟进电话确认解决。",
+            "en": "A follow-up call will confirm resolution.",
+            "ja": "フォロー電話で解決を確認いたします。"
+          },
+          "hint": "跟进电话确认解决。 / A follow-up call will confirm resolution. / フォロー電話で解決を確認いたします。",
+          "furigana": "フォローでんわでかいけつをかくにんいたします。",
+          "romaji": "foroodenwadekaiketsuwokakunin'itashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご不便ご迷惑をお察しします。",
+          "answer": "ご不便ご迷惑をお察しします。",
+          "hints": {
+            "zh": "理解您的不便。",
+            "en": "We understand your frustration.",
+            "ja": "ご不便ご迷惑をお察しします。"
+          },
+          "hint": "理解您的不便。 / We understand your frustration. / ご不便ご迷惑をお察しします。",
+          "furigana": "ごふべんごめいわくをおさっしします。",
+          "romaji": "gofubengomeiwakuwoosasshishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "十分な調査の時間をいただけますでしょうか。",
+          "answer": "十分な調査の時間をいただけますでしょうか。",
+          "hints": {
+            "zh": "请给我们充分调查时间。",
+            "en": "Please allow time for a thorough investigation.",
+            "ja": "十分な調査の時間をいただけますでしょうか。"
+          },
+          "hint": "请给我们充分调查时间。 / Please allow time for a thorough investigation. / 十分な調査の時間をいただけますでしょうか。",
+          "furigana": "じゅうぶんなちょうさのじかんをいただけますでしょうか。",
+          "romaji": "juubun'nachousanojikanwoitadakemasudeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "保証期間内の不具合は対象です。",
+          "answer": "保証期間内の不具合は対象です。",
+          "hints": {
+            "zh": "保修期内缺陷在范围内。",
+            "en": "Defects within warranty are covered.",
+            "ja": "保証期間内の不具合は対象です。"
+          },
+          "hint": "保修期内缺陷在范围内。 / Defects within warranty are covered. / 保証期間内の不具合は対象です。",
+          "furigana": "ほしょうきかんないのふぐあいはたいしょうです。",
+          "romaji": "hoshoukikan'nainofuguaihataishoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "上司がこのやり取りに加わります。",
+          "answer": "上司がこのやり取りに加わります。",
+          "hints": {
+            "zh": "主管将加入沟通。",
+            "en": "The supervisor will join this conversation.",
+            "ja": "上司がこのやり取りに加わります。"
+          },
+          "hint": "主管将加入沟通。 / The supervisor will join this conversation. / 上司がこのやり取りに加わります。",
+          "furigana": "じょうしがこのやりとりにくわわります。",
+          "romaji": "joushigakonoyaritorinikuwawarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご意見を真摯に受け止め改善します。",
+          "answer": "ご意見を真摯に受け止め改善します。",
+          "hints": {
+            "zh": "真诚接受意见并改进。",
+            "en": "We value your feedback and will improve.",
+            "ja": "ご意見を真摯に受け止め改善します。"
+          },
+          "hint": "真诚接受意见并改进。 / We value your feedback and will improve. / ご意見を真摯に受け止め改善します。",
+          "furigana": "ごいけんをしんしにうけとめかいぜんします。",
+          "romaji": "goikenwoshinshiniuketomekaizenshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "現金の代わりに店舗クレジットはいかがでしょうか。",
+          "answer": "現金の代わりに店舗クレジットはいかがでしょうか。",
+          "hints": {
+            "zh": "用店内积分代替现金如何？",
+            "en": "Would store credit work instead of cash?",
+            "ja": "現金の代わりに店舗クレジットはいかがでしょうか。"
+          },
+          "hint": "用店内积分代替现金如何？ / Would store credit work instead of cash? / 現金の代わりに店舗クレジットはいかがでしょうか。",
+          "furigana": "げんきんのかわりにてんぽクレジットはいかがでしょうか。",
+          "romaji": "genkin'nokawarinitenpokurejittohaikagadeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "交換品は本日発送いたします。",
+          "answer": "交換品は本日発送いたします。",
+          "hints": {
+            "zh": "替换品今天发货。",
+            "en": "The replacement ships today.",
+            "ja": "交換品は本日発送いたします。"
+          },
+          "hint": "替换品今天发货。 / The replacement ships today. / 交換品は本日発送いたします。",
+          "furigana": "こうかんひんはほんじつはっそういたします。",
+          "romaji": "koukanhinhahonjitsuhassouitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "返信が遅れたことをお詫び申し上げます。",
+          "answer": "返信が遅れたことをお詫び申し上げます。",
+          "hints": {
+            "zh": "抱歉回复迟了。",
+            "en": "We apologize for the delayed response.",
+            "ja": "返信が遅れたことをお詫び申し上げます。"
+          },
+          "hint": "抱歉回复迟了。 / We apologize for the delayed response. / 返信が遅れたことをお詫び申し上げます。",
+          "furigana": "へんしんがおくれたことをおわびもうしあげます。",
+          "romaji": "henshingaokuretakotowoowabimoushiagemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お客様の満足が最優先です。",
+          "answer": "お客様の満足が最優先です。",
+          "hints": {
+            "zh": "客户满意是首位。",
+            "en": "Your satisfaction is our top priority.",
+            "ja": "お客様の満足が最優先です。"
+          },
+          "hint": "客户满意是首位。 / Your satisfaction is our top priority. / お客様の満足が最優先です。",
+          "furigana": "おきゃくさまのまんぞくがさいゆうせんです。",
+          "romaji": "okyakusamanomanzokugasaiyuusendesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "進捗は随時ご報告いたします。",
+          "answer": "進捗は随時ご報告いたします。",
+          "hints": {
+            "zh": "进展随时汇报。",
+            "en": "We will keep you updated on progress.",
+            "ja": "進捗は随時ご報告いたします。"
+          },
+          "hint": "进展随时汇报。 / We will keep you updated on progress. / 進捗は随時ご報告いたします。",
+          "furigana": "しんちょくはずいじごほうこくいたします。",
+          "romaji": "shinchokuhazuijigohoukokuitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ご指摘いただきありがとうございます。",
+          "answer": "ご指摘いただきありがとうございます。",
+          "hints": {
+            "zh": "感谢您的指出。",
+            "en": "Thank you for bringing this to our attention.",
+            "ja": "ご指摘いただきありがとうございます。"
+          },
+          "hint": "感谢您的指出。 / Thank you for bringing this to our attention. / ご指摘いただきありがとうございます。",
+          "furigana": "ごしてきいただきありがとうございます。",
+          "romaji": "goshitekiitadakiarigatougozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ブランドへの信頼を取り戻せるよう努めます。",
+          "answer": "ブランドへの信頼を取り戻せるよう努めます。",
+          "hints": {
+            "zh": "努力恢复对品牌的信任。",
+            "en": "We hope to restore your trust in our brand.",
+            "ja": "ブランドへの信頼を取り戻せるよう努めます。"
+          },
+          "hint": "努力恢复对品牌的信任。 / We hope to restore your trust in our brand. / ブランドへの信頼を取り戻せるよう努めます。",
+          "furigana": "ブランドへのしんらいをとりもどせるようつとめます。",
+          "romaji": "burandohenoshinraiwotorimodoseruyoutsutomemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "クレームはお客様ご満足の形で解決しました。",
+          "answer": "クレームはお客様ご満足の形で解決しました。",
+          "hints": {
+            "zh": "投诉已令客户满意地解决。",
+            "en": "The complaint was resolved to the customer's satisfaction.",
+            "ja": "クレームはおきゃくさまごまんぞくの形で解決しました。"
+          },
+          "hint": "投诉已令客户满意地解决。 / The complaint was resolved to the customer's satisfaction. / クレームはおきゃくさまごまんぞくの形で解決しました。",
+          "furigana": "クレームはおきゃくさまごまんぞくのかたちでかいけつしました。",
+          "romaji": "kureemuhaokyakusamagomanzokunokatachidekaiketsushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "internet",
+  "slug": "ja-internet-social-dialogues",
+  "course": {
+    "title": "网络文化 · 日语 · 情景对话",
+    "description": "学习社交媒体、内容创作、网络礼仪和安全相关日语。（男女情景对话）",
+    "titles": {
+      "zh": "网络文化 · 日语社交网络 · 情景对话",
+      "en": "Internet Culture · Japanese Social Media · Situational Dialogues",
+      "ja": "ネット文化 · 日本語SNS · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习社交媒体与网络文化中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for social media and internet culture.",
+      "ja": "ソーシャルメディアとネット文化で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语网络文化 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "この投稿を共有しても大丈夫ですか。",
+          "answer": "この投稿を共有しても大丈夫ですか。",
+          "hints": {
+            "zh": "这条帖子可以分享吗？",
+            "en": "Is it safe to share this post?",
+            "ja": "この投稿を共有しても大丈夫ですか。"
+          },
+          "hint": "这条帖子可以分享吗？ / Is it safe to share this post? / この投稿を共有しても大丈夫ですか。",
+          "furigana": "このとうこうをきょうゆうしてもだいじょうぶですか。",
+          "romaji": "konotoukouwokyouyuushitemodaijoubudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "sharing-a-post-safely",
+          "dialogueTitles": {
+            "zh": "安全分享帖子",
+            "en": "Sharing a Post Safely",
+            "ja": "投稿を安全に共有する"
+          },
+          "dialogueScenes": {
+            "zh": "美咲准备转发一条消息，并请悠斗帮忙核实。",
+            "en": "Misaki asks Yuto to help verify a post before sharing it.",
+            "ja": "美咲が投稿を共有する前に悠斗へ確認を頼みます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "まず情報源を確認した方がいいです。",
+          "answer": "まず情報源を確認した方がいいです。",
+          "hints": {
+            "zh": "最好先核实信息来源。",
+            "en": "We should check the source first.",
+            "ja": "まず情報源を確認した方がいいです。"
+          },
+          "hint": "最好先核实信息来源。 / We should check the source first. / まず情報源を確認した方がいいです。",
+          "furigana": "まずじょうほうげんをかくにんしたほうがいいです。",
+          "romaji": "mazujouhougenwokakuninshitahougaiidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "sharing-a-post-safely",
+          "dialogueTitles": {
+            "zh": "安全分享帖子",
+            "en": "Sharing a Post Safely",
+            "ja": "投稿を安全に共有する"
+          },
+          "dialogueScenes": {
+            "zh": "美咲准备转发一条消息，并请悠斗帮忙核实。",
+            "en": "Misaki asks Yuto to help verify a post before sharing it.",
+            "ja": "美咲が投稿を共有する前に悠斗へ確認を頼みます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "悠斗",
+            "en": "Yuto",
+            "ja": "悠斗"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "公式のアカウントからの投稿でした。",
+          "answer": "公式のアカウントからの投稿でした。",
+          "hints": {
+            "zh": "这是官方账号发布的。",
+            "en": "It came from an official account.",
+            "ja": "公式のアカウントからの投稿でした。"
+          },
+          "hint": "这是官方账号发布的。 / It came from an official account. / 公式のアカウントからの投稿でした。",
+          "furigana": "こうしきのアカウントからのとうこうでした。",
+          "romaji": "koushikinoakauntokaranotoukoudeshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "sharing-a-post-safely",
+          "dialogueTitles": {
+            "zh": "安全分享帖子",
+            "en": "Sharing a Post Safely",
+            "ja": "投稿を安全に共有する"
+          },
+          "dialogueScenes": {
+            "zh": "美咲准备转发一条消息，并请悠斗帮忙核实。",
+            "en": "Misaki asks Yuto to help verify a post before sharing it.",
+            "ja": "美咲が投稿を共有する前に悠斗へ確認を頼みます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "個人情報が写っていないかも見ましょう。",
+          "answer": "個人情報が写っていないかも見ましょう。",
+          "hints": {
+            "zh": "也检查一下是否包含个人信息。",
+            "en": "Let us also check for personal information.",
+            "ja": "個人情報が写っていないかも見ましょう。"
+          },
+          "hint": "也检查一下是否包含个人信息。 / Let us also check for personal information. / 個人情報が写っていないかも見ましょう。",
+          "furigana": "こじんじょうほうがうつっていないかもみましょう。",
+          "romaji": "kojinjouhougautsutteinaikamomimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "sharing-a-post-safely",
+          "dialogueTitles": {
+            "zh": "安全分享帖子",
+            "en": "Sharing a Post Safely",
+            "ja": "投稿を安全に共有する"
+          },
+          "dialogueScenes": {
+            "zh": "美咲准备转发一条消息，并请悠斗帮忙核实。",
+            "en": "Misaki asks Yuto to help verify a post before sharing it.",
+            "ja": "美咲が投稿を共有する前に悠斗へ確認を頼みます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "悠斗",
+            "en": "Yuto",
+            "ja": "悠斗"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "問題ありません。では共有します。",
+          "answer": "問題ありません。では共有します。",
+          "hints": {
+            "zh": "没有问题，那我分享了。",
+            "en": "There is no problem, so I will share it.",
+            "ja": "問題ありません。では共有します。"
+          },
+          "hint": "没有问题，那我分享了。 / There is no problem, so I will share it. / 問題ありません。では共有します。",
+          "furigana": "もんだいありません。ではきょうゆうします。",
+          "romaji": "mondaiarimasen.dehakyouyuushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "sharing-a-post-safely",
+          "dialogueTitles": {
+            "zh": "安全分享帖子",
+            "en": "Sharing a Post Safely",
+            "ja": "投稿を安全に共有する"
+          },
+          "dialogueScenes": {
+            "zh": "美咲准备转发一条消息，并请悠斗帮忙核实。",
+            "en": "Misaki asks Yuto to help verify a post before sharing it.",
+            "ja": "美咲が投稿を共有する前に悠斗へ確認を頼みます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "確認してからなら安心ですね。",
+          "answer": "確認してからなら安心ですね。",
+          "hints": {
+            "zh": "核实后再分享就放心了。",
+            "en": "It is safer after checking.",
+            "ja": "確認してからなら安心ですね。"
+          },
+          "hint": "核实后再分享就放心了。 / It is safer after checking. / 確認してからなら安心ですね。",
+          "furigana": "かくにんしてからならあんしんですね。",
+          "romaji": "kakuninshitekaranaraanshindesune.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-social-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "sharing-a-post-safely",
+          "dialogueTitles": {
+            "zh": "安全分享帖子",
+            "en": "Sharing a Post Safely",
+            "ja": "投稿を安全に共有する"
+          },
+          "dialogueScenes": {
+            "zh": "美咲准备转发一条消息，并请悠斗帮忙核实。",
+            "en": "Misaki asks Yuto to help verify a post before sharing it.",
+            "ja": "美咲が投稿を共有する前に悠斗へ確認を頼みます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "悠斗",
+            "en": "Yuto",
+            "ja": "悠斗"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

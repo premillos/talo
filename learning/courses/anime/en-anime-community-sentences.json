@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "anime",
+  "slug": "en-anime-community-sentences",
+  "course": {
+    "title": "二次元/动漫 · 英语社区 · 句子",
+    "description": "学习动漫粉丝社区讨论、追番与同人文化中的常用英语表达。（常用句子）",
+    "titles": {
+      "zh": "二次元/动漫 · 英语社区 · 句子",
+      "en": "Anime & ACG · English Community · Sentences",
+      "ja": "アニメ・ACG · 英語コミュニティ · 例文"
+    },
+    "descriptions": {
+      "zh": "学习动漫粉丝社区中的常用英语句子。",
+      "en": "Practice common English sentences for anime fan communities.",
+      "ja": "アニメファンコミュニティで使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "社区与讨论用语 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "Please don't post spoilers here.",
+          "answer": "Please don't post spoilers here.",
+          "hints": {
+            "zh": "请不要在这里发剧透。",
+            "en": "Avoid revealing plot details here.",
+            "ja": "ここではネタバレしないでください。"
+          },
+          "hint": "请不要在这里发剧透。 / Avoid revealing plot details here. / ここではネタバレしないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz doʊn poʊst ˈspɔɪlɚz hiɹ/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I ship these two characters.",
+          "answer": "I ship these two characters.",
+          "hints": {
+            "zh": "我站这两个角色的 CP。",
+            "en": "I support this romantic pairing.",
+            "ja": "この二人のカップリングを推しています。"
+          },
+          "hint": "我站这两个角色的 CP。 / I support this romantic pairing. / この二人のカップリングを推しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ ʃɪp ðiz tu ˈkæɹəktɚz/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Let's binge the new season tonight.",
+          "answer": "Let's binge the new season tonight.",
+          "hints": {
+            "zh": "今晚一起刷新赛季吧。",
+            "en": "Let's watch the whole new season tonight.",
+            "ja": "今夜新シーズンを一気見しよう。"
+          },
+          "hint": "今晚一起刷新赛季吧。 / Let's watch the whole new season tonight. / 今夜新シーズンを一気見しよう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lɛts bɪndʒ ðə nju ˈsizən təˈnaɪt/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The fan art community is so talented.",
+          "answer": "The fan art community is so talented.",
+          "hints": {
+            "zh": "同人画圈的大佬太多了。",
+            "en": "Fan artists are incredibly skilled.",
+            "ja": "ファンアート界隈は本当に才能が豊富です。"
+          },
+          "hint": "同人画圈的大佬太多了。 / Fan artists are incredibly skilled. / ファンアート界隈は本当に才能が豊富です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə fæn ɑɹt kəmˈjunəti ɪz soʊ ˈtæləntɪd/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Did you see the latest episode yet?",
+          "answer": "Did you see the latest episode yet?",
+          "hints": {
+            "zh": "最新一集你看了吗？",
+            "en": "Have you watched the newest episode?",
+            "ja": "最新話はもう見ましたか？"
+          },
+          "hint": "最新一集你看了吗？ / Have you watched the newest episode? / 最新話はもう見ましたか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪd ju si ðə ˈleɪtəst ˈɛpəˌsoʊd jɛt/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I'm avoiding spoilers until I catch up.",
+          "answer": "I'm avoiding spoilers until I catch up.",
+          "hints": {
+            "zh": "追平之前我会躲剧透。",
+            "en": "I'm staying away from spoilers until I'm caught up.",
+            "ja": "追いつくまでネタバレを避けています。"
+          },
+          "hint": "追平之前我会躲剧透。 / I'm staying away from spoilers until I'm caught up. / 追いつくまでネタバレを避けています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪm əˈvɔɪdɪŋ ˈspɔɪlɚz ənˈtɪl aɪ kætʃ əp/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The shipping wars got pretty intense.",
+          "answer": "The shipping wars got pretty intense.",
+          "hints": {
+            "zh": "CP 党争变得相当激烈。",
+            "en": "Debates over pairings became heated.",
+            "ja": "カップリング論争がかなり白熱しました。"
+          },
+          "hint": "CP 党争变得相当激烈。 / Debates over pairings became heated. / カップリング論争がかなり白熱しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈʃɪpɪŋ wɔɹz ɡɑt ˈpɹɪti ɪnˈtɛns/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use a spoiler tag before discussing the finale.",
+          "answer": "Use a spoiler tag before discussing the finale.",
+          "hints": {
+            "zh": "讨论结局前请加剧透标记。",
+            "en": "Add a spoiler tag before discussing the finale.",
+            "ja": "最終回の話の前にネタバレ注意を付けてください。"
+          },
+          "hint": "讨论结局前请加剧透标记。 / Add a spoiler tag before discussing the finale. / 最終回の話の前にネタバレ注意を付けてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ə ˈspɔɪlɚ tæɡ bɪˈfɔɹ dɪˈskəsɪŋ ðə fəˈnæli/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The fanbase grew rapidly after the anime aired.",
+          "answer": "The fanbase grew rapidly after the anime aired.",
+          "hints": {
+            "zh": "动画播出后粉丝群迅速壮大。",
+            "en": "The fanbase expanded quickly after the anime aired.",
+            "ja": "アニメ放送後、ファンベースが急拡大しました。"
+          },
+          "hint": "动画播出后粉丝群迅速壮大。 / The fanbase expanded quickly after the anime aired. / アニメ放送後、ファンベースが急拡大しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈfænˌbeɪs ɡɹu ˈɹæpədli ˈæftɚ ði ˌænɪˈmeɪ ɛɹd/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "She posted a detailed review on the forum.",
+          "answer": "She posted a detailed review on the forum.",
+          "hints": {
+            "zh": "她在论坛发了详细评测。",
+            "en": "She shared a detailed review on the forum.",
+            "ja": "彼女はフォーラムに詳しいレビューを投稿しました。"
+          },
+          "hint": "她在论坛发了详细评测。 / She shared a detailed review on the forum. / 彼女はフォーラムに詳しいレビューを投稿しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃi ˈpoʊstɪd ə dɪˈteɪld ɹivˈju ɑn ðə ˈfɔɹəm/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Headcanon differs from official canon.",
+          "answer": "Headcanon differs from official canon.",
+          "hints": {
+            "zh": "个人设定与官方正史不同。",
+            "en": "Headcanon is separate from official canon.",
+            "ja": "ヘッドカノンは公式設定とは異なります。"
+          },
+          "hint": "个人设定与官方正史不同。 / Headcanon is separate from official canon. / ヘッドカノンは公式設定とは異なります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhɛdˌkænən ˈdɪfɚz fɹəm əˈfɪʃəl ˈkænən/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Filler episodes are skipped by many manga readers.",
+          "answer": "Filler episodes are skipped by many manga readers.",
+          "hints": {
+            "zh": "很多漫画党会跳过填充集。",
+            "en": "Many manga readers skip filler episodes.",
+            "ja": "漫画原作勢はフィラー回を飛ばすことが多いです。"
+          },
+          "hint": "很多漫画党会跳过填充集。 / Many manga readers skip filler episodes. / 漫画原作勢はフィラー回を飛ばすことが多いです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfɪlɚ ˈɛpəˌsoʊdz ɚ skɪpt baɪ ˈmɛni ˈmæŋɡə ˈɹidɚz/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The recap episode summarizes the whole arc.",
+          "answer": "The recap episode summarizes the whole arc.",
+          "hints": {
+            "zh": "回顾集总结了整个篇章。",
+            "en": "The recap episode covers the entire arc.",
+            "ja": "総集編がアーク全体をまとめています。"
+          },
+          "hint": "回顾集总结了整个篇章。 / The recap episode covers the entire arc. / 総集編がアーク全体をまとめています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈɹikæp ˈɛpəˌsoʊd ˈsəmɚˌaɪzɪz ðə hoʊl ɑɹk/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The manga went on hiatus for three months.",
+          "answer": "The manga went on hiatus for three months.",
+          "hints": {
+            "zh": "漫画休刊了三个月。",
+            "en": "The manga paused for three months.",
+            "ja": "漫画は三か月休載しました。"
+          },
+          "hint": "漫画休刊了三个月。 / The manga paused for three months. / 漫画は三か月休載しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmæŋɡə wɛnt ɑn haɪˈeɪtəs fɚ θɹi mənθs/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Fans hope the reboot stays faithful to the source.",
+          "answer": "Fans hope the reboot stays faithful to the source.",
+          "hints": {
+            "zh": "粉丝希望重启版忠于原作。",
+            "en": "Fans want the reboot to honor the original.",
+            "ja": "ファンはリブートが原作に忠実であることを望んでいます。"
+          },
+          "hint": "粉丝希望重启版忠于原作。 / Fans want the reboot to honor the original. / ファンはリブートが原作に忠実であることを望んでいます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fænz hoʊp ðə ɹiˈbut steɪz ˈfeɪθfəl tə ðə sɔɹs/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The crossover event united two popular franchises.",
+          "answer": "The crossover event united two popular franchises.",
+          "hints": {
+            "zh": "联动活动汇聚了两部热门作品。",
+            "en": "The crossover brought two franchises together.",
+            "ja": "クロスオーバーで二つの人気作品が共演しました。"
+          },
+          "hint": "联动活动汇聚了两部热门作品。 / The crossover brought two franchises together. / クロスオーバーで二つの人気作品が共演しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈkɹɔˌsoʊvɚ iˈvɛnt juˈnaɪtɪd tu ˈpɑpjəlɚ ˈfɹænˌtʃaɪzɪz/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "That meme spread across anime Twitter overnight.",
+          "answer": "That meme spread across anime Twitter overnight.",
+          "hints": {
+            "zh": "那个梗一夜之间传遍了动漫推特。",
+            "en": "That meme went viral on anime Twitter overnight.",
+            "ja": "そのミームは一晩でアニメTwitterに広がりました。"
+          },
+          "hint": "那个梗一夜之间传遍了动漫推特。 / That meme went viral on anime Twitter overnight. / そのミームは一晩でアニメTwitterに広がりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðæt mim spɹɛd əˈkɹɔs ˌænɪˈmeɪ ˈtwɪtɚ ˌoʊvɚˈnaɪt/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Do not feed the troll in the comment section.",
+          "answer": "Do not feed the troll in the comment section.",
+          "hints": {
+            "zh": "别在评论区理会引战的人。",
+            "en": "Ignore trolls in the comments.",
+            "ja": "コメント欄の荒らしに反応しないでください。"
+          },
+          "hint": "别在评论区理会引战的人。 / Ignore trolls in the comments. / コメント欄の荒らしに反応しないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/du nɑt fid ðə tɹoʊl ɪn ðə ˈkɑmɛnt ˈsɛkʃən/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Fan fiction explores alternate storylines.",
+          "answer": "Fan fiction explores alternate storylines.",
+          "hints": {
+            "zh": "同人小说探索平行剧情。",
+            "en": "Fan fiction imagines alternate plots.",
+            "ja": "二次創作は別のストーリーを描きます。"
+          },
+          "hint": "同人小说探索平行剧情。 / Fan fiction imagines alternate plots. / 二次創作は別のストーリーを描きます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæn ˈfɪkʃən ɪksˈplɔɹz ˈɔltɚˌneɪt ˈstɔɹiˌlaɪnz/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Fan art of the new season characters is everywhere.",
+          "answer": "Fan art of the new season characters is everywhere.",
+          "hints": {
+            "zh": "新一季角色的同人图随处可见。",
+            "en": "Fan art of new characters is everywhere.",
+            "ja": "新シーズンのキャラのファンアートが溢れています。"
+          },
+          "hint": "新一季角色的同人图随处可见。 / Fan art of new characters is everywhere. / 新シーズンのキャラのファンアートが溢れています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæn ɑɹt əv ðə nju ˈsizən ˈkæɹəktɚz ɪz ˈɛvɹiˌwɛɹ/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We started a watch party in the Discord server.",
+          "answer": "We started a watch party in the Discord server.",
+          "hints": {
+            "zh": "我们在 Discord 开了观影派对。",
+            "en": "We hosted a watch party on Discord.",
+            "ja": "Discordでウォッチパーティーを始めました。"
+          },
+          "hint": "我们在 Discord 开了观影派对。 / We hosted a watch party on Discord. / Discordでウォッチパーティーを始めました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ˈstɑɹtɪd ə wɑtʃ ˈpɑɹti ɪn ðə ˈdɪskɔɹd ˈsɝvɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Theory crafting threads analyze every clue.",
+          "answer": "Theory crafting threads analyze every clue.",
+          "hints": {
+            "zh": "考据帖分析每一条线索。",
+            "en": "Theory threads dissect every clue.",
+            "ja": "考察スレはすべての伏線を分析します。"
+          },
+          "hint": "考据帖分析每一条线索。 / Theory threads dissect every clue. / 考察スレはすべての伏線を分析します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈθiɚi ˈkɹæftɪŋ θɹɛdz ˈænəˌlaɪz ˈɛvɚi klu/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The character poll ranked her as most popular.",
+          "answer": "The character poll ranked her as most popular.",
+          "hints": {
+            "zh": "角色投票把她排第一。",
+            "en": "She topped the character popularity poll.",
+            "ja": "キャラ人気投票で彼女が一位でした。"
+          },
+          "hint": "角色投票把她排第一。 / She topped the character popularity poll. / キャラ人気投票で彼女が一位でした。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈkɛɹɪktɚ poʊl ɹæŋkt hɝ æz moʊs ˈpɑpjəlɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Voice chat made discussing episodes more fun.",
+          "answer": "Voice chat made discussing episodes more fun.",
+          "hints": {
+            "zh": "语音聊天让聊番更有趣。",
+            "en": "Voice chat made episode discussions livelier.",
+            "ja": "ボイスチャットで各話の感想が盛り上がりました。"
+          },
+          "hint": "语音聊天让聊番更有趣。 / Voice chat made episode discussions livelier. / ボイスチャットで各話の感想が盛り上がりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/vɔɪs tʃæt meɪd dɪˈskəsɪŋ ˈɛpəˌsoʊdz mɔɹ fən/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The season finale left a huge cliffhanger.",
+          "answer": "The season finale left a huge cliffhanger.",
+          "hints": {
+            "zh": "季终集留下巨大悬念。",
+            "en": "The season finale ended on a cliffhanger.",
+            "ja": "シーズンファイナルは大きなクリフハンガーで終わりました。"
+          },
+          "hint": "季终集留下巨大悬念。 / The season finale ended on a cliffhanger. / シーズンファイナルは大きなクリフハンガーで終わりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsizən fəˈnæli lɛft ə hjudʒ ˈklɪfˌhæŋɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Episode discussions happen every Sunday night.",
+          "answer": "Episode discussions happen every Sunday night.",
+          "hints": {
+            "zh": "分集讨论每周日晚进行。",
+            "en": "We discuss each episode every Sunday.",
+            "ja": "各話感想は毎週日曜の夜に行われます。"
+          },
+          "hint": "分集讨论每周日晚进行。 / We discuss each episode every Sunday. / 各話感想は毎週日曜の夜に行われます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛpəˌsoʊd dɪˈskəʃənz ˈhæpən ˈɛvɚi ˈsəndeɪ naɪt/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Online forums archive years of fan discourse.",
+          "answer": "Online forums archive years of fan discourse.",
+          "hints": {
+            "zh": "论坛存档了多年的粉丝讨论。",
+            "en": "Forums preserve years of fan discussion.",
+            "ja": "掲示板には長年のファン談義が残っています。"
+          },
+          "hint": "论坛存档了多年的粉丝讨论。 / Forums preserve years of fan discussion. / 掲示板には長年のファン談義が残っています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔnlaɪn ˈfɔɹəmz ˈɑɹkaɪv jɪɹz əv fæn ˈdɪskɔɹs/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Canon ships are supported by official material.",
+          "answer": "Canon ships are supported by official material.",
+          "hints": {
+            "zh": "官方 CP 有正史依据。",
+            "en": "Canon pairings are backed by official content.",
+            "ja": "公式カップリングは正史で裏付けられています。"
+          },
+          "hint": "官方 CP 有正史依据。 / Canon pairings are backed by official content. / 公式カップリングは正史で裏付けられています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkænən ʃɪps ɚ səˈpɔɹtɪd baɪ əˈfɪʃəl məˈtɪɹiəl/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Binge watching the whole season took one weekend.",
+          "answer": "Binge watching the whole season took one weekend.",
+          "hints": {
+            "zh": "一口气刷完一季花了一个周末。",
+            "en": "Binging the season took one weekend.",
+            "ja": "シーズン一気見は週末一つで終わりました。"
+          },
+          "hint": "一口气刷完一季花了一个周末。 / Binging the season took one weekend. / シーズン一気見は週末一つで終わりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bɪndʒ ˈwɑtʃɪŋ ðə hoʊl ˈsizən tʊk wən ˈwikɛnd/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Fandom culture welcomes newcomers with open arms.",
+          "answer": "Fandom culture welcomes newcomers with open arms.",
+          "hints": {
+            "zh": "粉丝文化热情欢迎新人。",
+            "en": "Fandom culture warmly welcomes newcomers.",
+            "ja": "ファンダムは新参者を温かく迎え入れます。"
+          },
+          "hint": "粉丝文化热情欢迎新人。 / Fandom culture warmly welcomes newcomers. / ファンダムは新参者を温かく迎え入れます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfænˌdəm ˈkəltʃɚ ˈwɛlkəmz ˈnuˌkəmɚz wɪð ˈoʊpən ɑɹmz/",
+          "audioUrl": "learning/audio/en/en-anime-community-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-directions-words",
+  "course": {
+    "title": "旅游 · 日语交通 · 词汇",
+    "description": "道案内、切符購入、公共交通の日本語（单词与短语）",
+    "titles": {
+      "zh": "旅游 · 日语问路与交通 · 词汇",
+      "en": "Travel · Japanese Directions & Transit · Vocabulary",
+      "ja": "旅行 · 日本語道案内・交通 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习问路与公共交通中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for directions and public transit.",
+      "ja": "道案内と公共交通で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "道案内・交通",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "地図",
+          "answer": "地図",
+          "hints": {
+            "zh": "地图",
+            "en": "map",
+            "ja": "地図"
+          },
+          "hint": "地图 / map / 地図",
+          "furigana": "ちず",
+          "romaji": "chizu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "地下鉄",
+          "answer": "地下鉄",
+          "hints": {
+            "zh": "地铁",
+            "en": "subway",
+            "ja": "地下鉄"
+          },
+          "hint": "地铁 / subway / 地下鉄",
+          "furigana": "ちかてつ",
+          "romaji": "chikatetsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "バス",
+          "answer": "バス",
+          "hints": {
+            "zh": "公交车",
+            "en": "bus",
+            "ja": "バス"
+          },
+          "hint": "公交车 / bus / バス",
+          "furigana": "バス",
+          "romaji": "basu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "電車",
+          "answer": "電車",
+          "hints": {
+            "zh": "电车",
+            "en": "train",
+            "ja": "電車"
+          },
+          "hint": "电车 / train / 電車",
+          "furigana": "でんしゃ",
+          "romaji": "densha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "切符",
+          "answer": "切符",
+          "hints": {
+            "zh": "票",
+            "en": "ticket",
+            "ja": "切符"
+          },
+          "hint": "票 / ticket / 切符",
+          "furigana": "きっぷ",
+          "romaji": "kippu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "駅",
+          "answer": "駅",
+          "hints": {
+            "zh": "车站",
+            "en": "station",
+            "ja": "駅"
+          },
+          "hint": "车站 / station / 駅",
+          "furigana": "えき",
+          "romaji": "eki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "ホーム",
+          "answer": "ホーム",
+          "hints": {
+            "zh": "站台",
+            "en": "platform",
+            "ja": "ホーム"
+          },
+          "hint": "站台 / platform / ホーム",
+          "furigana": "ホーム",
+          "romaji": "hoomu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "タクシー",
+          "answer": "タクシー",
+          "hints": {
+            "zh": "出租车",
+            "en": "taxi",
+            "ja": "タクシー"
+          },
+          "hint": "出租车 / taxi / タクシー",
+          "furigana": "タクシー",
+          "romaji": "takushii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "運賃",
+          "answer": "運賃",
+          "hints": {
+            "zh": "车费",
+            "en": "fare",
+            "ja": "運賃"
+          },
+          "hint": "车费 / fare / 運賃",
+          "furigana": "うんちん",
+          "romaji": "unchin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "乗り換え",
+          "answer": "乗り換え",
+          "hints": {
+            "zh": "换乘",
+            "en": "transfer",
+            "ja": "乗り換え"
+          },
+          "hint": "换乘 / transfer / 乗り換え",
+          "furigana": "のりかえ",
+          "romaji": "norikae",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "交差点",
+          "answer": "交差点",
+          "hints": {
+            "zh": "十字路口",
+            "en": "intersection",
+            "ja": "交差点"
+          },
+          "hint": "十字路口 / intersection / 交差点",
+          "furigana": "こうさてん",
+          "romaji": "kousaten",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "信号",
+          "answer": "信号",
+          "hints": {
+            "zh": "红绿灯",
+            "en": "traffic light",
+            "ja": "信号"
+          },
+          "hint": "红绿灯 / traffic light / 信号",
+          "furigana": "しんごう",
+          "romaji": "shingou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "片道切符",
+          "answer": "片道切符",
+          "hints": {
+            "zh": "单程票",
+            "en": "one-way ticket",
+            "ja": "片道切符"
+          },
+          "hint": "单程票 / one-way ticket / 片道切符",
+          "furigana": "かたみちきっぷ",
+          "romaji": "katamichikippu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "往復切符",
+          "answer": "往復切符",
+          "hints": {
+            "zh": "往返票",
+            "en": "round-trip ticket",
+            "ja": "往復切符"
+          },
+          "hint": "往返票 / round-trip ticket / 往復切符",
+          "furigana": "おうふくきっぷ",
+          "romaji": "oufukukippu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "バス停",
+          "answer": "バス停",
+          "hints": {
+            "zh": "公交站",
+            "en": "bus stop",
+            "ja": "バス停"
+          },
+          "hint": "公交站 / bus stop / バス停",
+          "furigana": "ばすてい",
+          "romaji": "basutei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "最寄り駅",
+          "answer": "最寄り駅",
+          "hints": {
+            "zh": "最近的车站",
+            "en": "nearest station",
+            "ja": "最寄り駅"
+          },
+          "hint": "最近的车站 / nearest station / 最寄り駅",
+          "furigana": "もよりえき",
+          "romaji": "moyorieki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "まっすぐ",
+          "answer": "まっすぐ",
+          "hints": {
+            "zh": "直走",
+            "en": "straight ahead",
+            "ja": "まっすぐ"
+          },
+          "hint": "直走 / straight ahead / まっすぐ",
+          "furigana": "まっすぐ",
+          "romaji": "massugu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "左折",
+          "answer": "左折",
+          "hints": {
+            "zh": "左转",
+            "en": "left turn",
+            "ja": "左折"
+          },
+          "hint": "左转 / left turn / 左折",
+          "furigana": "させつ",
+          "romaji": "sasetsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "右折",
+          "answer": "右折",
+          "hints": {
+            "zh": "右转",
+            "en": "right turn",
+            "ja": "右折"
+          },
+          "hint": "右转 / right turn / 右折",
+          "furigana": "うせつ",
+          "romaji": "usetsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "公共交通",
+          "answer": "公共交通",
+          "hints": {
+            "zh": "公共交通",
+            "en": "public transport",
+            "ja": "公共交通"
+          },
+          "hint": "公共交通 / public transport / 公共交通",
+          "furigana": "こうきょうこうつう",
+          "romaji": "koukyoukoutsuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ICカード",
+          "answer": "ICカード",
+          "hints": {
+            "zh": "交通 IC 卡",
+            "en": "IC card",
+            "ja": "ICカード"
+          },
+          "hint": "交通 IC 卡 / IC card / ICカード",
+          "furigana": "ICカード",
+          "romaji": "ICkaado",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "定期券",
+          "answer": "定期券",
+          "hints": {
+            "zh": "月票/通票",
+            "en": "commuter pass",
+            "ja": "定期券"
+          },
+          "hint": "月票/通票 / commuter pass / 定期券",
+          "furigana": "ていきけん",
+          "romaji": "teikiken",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "渋滞",
+          "answer": "渋滞",
+          "hints": {
+            "zh": "交通堵塞",
+            "en": "traffic jam",
+            "ja": "渋滞"
+          },
+          "hint": "交通堵塞 / traffic jam / 渋滞",
+          "furigana": "じゅうたい",
+          "romaji": "juutai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "ルート",
+          "answer": "ルート",
+          "hints": {
+            "zh": "路线",
+            "en": "route",
+            "ja": "ルート"
+          },
+          "hint": "路线 / route / ルート",
+          "furigana": "ルート",
+          "romaji": "ruuto",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "時刻表",
+          "answer": "時刻表",
+          "hints": {
+            "zh": "时刻表",
+            "en": "schedule",
+            "ja": "時刻表"
+          },
+          "hint": "时刻表 / schedule / 時刻表",
+          "furigana": "じこくひょう",
+          "romaji": "jikokuhyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "目的地",
+          "answer": "目的地",
+          "hints": {
+            "zh": "目的地",
+            "en": "destination",
+            "ja": "目的地"
+          },
+          "hint": "目的地 / destination / 目的地",
+          "furigana": "もくてきち",
+          "romaji": "mokutekichi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "距離",
+          "answer": "距離",
+          "hints": {
+            "zh": "距离",
+            "en": "distance",
+            "ja": "距離"
+          },
+          "hint": "距离 / distance / 距離",
+          "furigana": "きょり",
+          "romaji": "kyori",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "歩行者",
+          "answer": "歩行者",
+          "hints": {
+            "zh": "行人",
+            "en": "pedestrian",
+            "ja": "歩行者"
+          },
+          "hint": "行人 / pedestrian / 歩行者",
+          "furigana": "ほこうしゃ",
+          "romaji": "hokousha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "終電",
+          "answer": "終電",
+          "hints": {
+            "zh": "末班车",
+            "en": "last train",
+            "ja": "終電"
+          },
+          "hint": "末班车 / last train / 終電",
+          "furigana": "しゅうでん",
+          "romaji": "shuuden",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "信号機",
+          "answer": "信号機",
+          "hints": {
+            "zh": "红绿灯",
+            "en": "traffic light",
+            "ja": "信号機"
+          },
+          "hint": "红绿灯 / traffic light / 信号機",
+          "furigana": "しんごうき",
+          "romaji": "shingouki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

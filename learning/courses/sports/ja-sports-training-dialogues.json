@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "sports",
+  "slug": "ja-sports-training-dialogues",
+  "course": {
+    "title": "运动 · 日语日常 · 情景对话",
+    "description": "学习训练、比赛和观赛场景中的常用日语表达。（男女情景对话）",
+    "titles": {
+      "zh": "运动 · 日语训练 · 情景对话",
+      "en": "Sports · Japanese Training · Situational Dialogues",
+      "ja": "スポーツ · 日本語トレーニング · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习日常训练、比赛与观赛中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for everyday training, matches, and sports viewing.",
+      "ja": "日常の練習・試合・観戦で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语运动表达 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "テニス部の練習はいつですか。",
+          "answer": "テニス部の練習はいつですか。",
+          "hints": {
+            "zh": "网球社什么时候训练？",
+            "en": "When does the tennis club practice?",
+            "ja": "テニス部の練習はいつですか。"
+          },
+          "hint": "网球社什么时候训练？ / When does the tennis club practice? / テニス部の練習はいつですか。",
+          "furigana": "テニスぶのれんしゅうはいつですか。",
+          "romaji": "tenisubunorenshuuhaitsudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "joining-a-sports-club",
+          "dialogueTitles": {
+            "zh": "加入运动社团",
+            "en": "Joining a Sports Club",
+            "ja": "スポーツクラブへの入会"
+          },
+          "dialogueScenes": {
+            "zh": "葵向健太咨询学校网球社的训练。",
+            "en": "Aoi asks Kenta about the school tennis club.",
+            "ja": "葵が健太に学校のテニス部について尋ねます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "毎週火曜日と木曜日です。",
+          "answer": "毎週火曜日と木曜日です。",
+          "hints": {
+            "zh": "每周二和周四。",
+            "en": "Every Tuesday and Thursday.",
+            "ja": "毎週火曜日と木曜日です。"
+          },
+          "hint": "每周二和周四。 / Every Tuesday and Thursday. / 毎週火曜日と木曜日です。",
+          "furigana": "まいしゅうかようびともくようびです。",
+          "romaji": "maishuukayoubitomokuyoubidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "joining-a-sports-club",
+          "dialogueTitles": {
+            "zh": "加入运动社团",
+            "en": "Joining a Sports Club",
+            "ja": "スポーツクラブへの入会"
+          },
+          "dialogueScenes": {
+            "zh": "葵向健太咨询学校网球社的训练。",
+            "en": "Aoi asks Kenta about the school tennis club.",
+            "ja": "葵が健太に学校のテニス部について尋ねます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "初心者でも参加できますか。",
+          "answer": "初心者でも参加できますか。",
+          "hints": {
+            "zh": "初学者也可以参加吗？",
+            "en": "Can beginners join too?",
+            "ja": "初心者でも参加できますか。"
+          },
+          "hint": "初学者也可以参加吗？ / Can beginners join too? / 初心者でも参加できますか。",
+          "furigana": "しょしんしゃでもさんかできますか。",
+          "romaji": "shoshinshademosankadekimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "joining-a-sports-club",
+          "dialogueTitles": {
+            "zh": "加入运动社团",
+            "en": "Joining a Sports Club",
+            "ja": "スポーツクラブへの入会"
+          },
+          "dialogueScenes": {
+            "zh": "葵向健太咨询学校网球社的训练。",
+            "en": "Aoi asks Kenta about the school tennis club.",
+            "ja": "葵が健太に学校のテニス部について尋ねます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "もちろんです。監督が基本から教えます。",
+          "answer": "もちろんです。監督が基本から教えます。",
+          "hints": {
+            "zh": "当然，教练会从基础教起。",
+            "en": "Of course. The coach teaches from the basics.",
+            "ja": "もちろんです。監督が基本から教えます。"
+          },
+          "hint": "当然，教练会从基础教起。 / Of course. The coach teaches from the basics. / もちろんです。監督が基本から教えます。",
+          "furigana": "もちろんです。かんとくがきほんからおしえます。",
+          "romaji": "mochirondesu.kantokugakihonkaraoshiemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "joining-a-sports-club",
+          "dialogueTitles": {
+            "zh": "加入运动社团",
+            "en": "Joining a Sports Club",
+            "ja": "スポーツクラブへの入会"
+          },
+          "dialogueScenes": {
+            "zh": "葵向健太咨询学校网球社的训练。",
+            "en": "Aoi asks Kenta about the school tennis club.",
+            "ja": "葵が健太に学校のテニス部について尋ねます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "では、次の練習を見学したいです。",
+          "answer": "では、次の練習を見学したいです。",
+          "hints": {
+            "zh": "那我想参观下次训练。",
+            "en": "Then I would like to observe the next practice.",
+            "ja": "では、次の練習を見学したいです。"
+          },
+          "hint": "那我想参观下次训练。 / Then I would like to observe the next practice. / では、次の練習を見学したいです。",
+          "furigana": "では、つぎのれんしゅうをけんがくしたいです。",
+          "romaji": "deha,tsuginorenshuuwokengakushitaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "joining-a-sports-club",
+          "dialogueTitles": {
+            "zh": "加入运动社团",
+            "en": "Joining a Sports Club",
+            "ja": "スポーツクラブへの入会"
+          },
+          "dialogueScenes": {
+            "zh": "葵向健太咨询学校网球社的训练。",
+            "en": "Aoi asks Kenta about the school tennis club.",
+            "ja": "葵が健太に学校のテニス部について尋ねます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "歓迎します。一緒に楽しみましょう。",
+          "answer": "歓迎します。一緒に楽しみましょう。",
+          "hints": {
+            "zh": "欢迎你，一起享受运动吧。",
+            "en": "You are welcome. Let us enjoy it together.",
+            "ja": "歓迎します。一緒に楽しみましょう。"
+          },
+          "hint": "欢迎你，一起享受运动吧。 / You are welcome. Let us enjoy it together. / 歓迎します。一緒に楽しみましょう。",
+          "furigana": "かんげいします。いっしょにたのしみましょう。",
+          "romaji": "kangeishimasu.isshonitanoshimimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "joining-a-sports-club",
+          "dialogueTitles": {
+            "zh": "加入运动社团",
+            "en": "Joining a Sports Club",
+            "ja": "スポーツクラブへの入会"
+          },
+          "dialogueScenes": {
+            "zh": "葵向健太咨询学校网球社的训练。",
+            "en": "Aoi asks Kenta about the school tennis club.",
+            "ja": "葵が健太に学校のテニス部について尋ねます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

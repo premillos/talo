@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "programming",
+  "slug": "ja-prog-git-cli-dialogues",
+  "course": {
+    "title": "编程知识 · 日语 Git · 情景对话",
+    "description": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 日语 Git · 情景对话",
+      "en": "编程知识 · 日语 Git · 情景对话",
+      "ja": "编程知识 · 日语 Git · 情景对话"
+    },
+    "descriptions": {
+      "zh": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）",
+      "en": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）",
+      "ja": "Git と CLI：コミット、ブランチ、マージ、プルリクエストなどバージョン管理用語。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Git と CLI · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "変更を三つのコミットに分けました。",
+          "answer": "変更を三つのコミットに分けました。",
+          "hints": {
+            "zh": "我把更改拆成了三个提交。",
+            "en": "I split the changes into three commits.",
+            "ja": "変更を三つのコミットに分けました。"
+          },
+          "hint": "我把更改拆成了三个提交。 / I split the changes into three commits. / 変更を三つのコミットに分けました。",
+          "furigana": "へんこうをみっつのコミットにわけました。",
+          "romaji": "henkouwomittsunokomittoniwakemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "prepare-pull-request",
+          "dialogueTitles": {
+            "zh": "准备拉取请求",
+            "en": "Preparing a Pull Request",
+            "ja": "プルリクエストの準備"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在推送功能分支前检查提交。",
+            "en": "Two developers check commits before pushing a feature branch.",
+            "ja": "二人の開発者が機能ブランチをプッシュする前にコミットを確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由奈",
+            "en": "Yuna",
+            "ja": "優奈"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "それぞれのメッセージは内容を説明していますか。",
+          "answer": "それぞれのメッセージは内容を説明していますか。",
+          "hints": {
+            "zh": "每条提交信息都说明内容了吗？",
+            "en": "Does each message explain its change?",
+            "ja": "それぞれのメッセージは内容を説明していますか。"
+          },
+          "hint": "每条提交信息都说明内容了吗？ / Does each message explain its change? / それぞれのメッセージは内容を説明していますか。",
+          "furigana": "それぞれのメッセージはないようをせつめいしていますか。",
+          "romaji": "sorezorenomesseejihanaiyouwosetsumeishiteimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "prepare-pull-request",
+          "dialogueTitles": {
+            "zh": "准备拉取请求",
+            "en": "Preparing a Pull Request",
+            "ja": "プルリクエストの準備"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在推送功能分支前检查提交。",
+            "en": "Two developers check commits before pushing a feature branch.",
+            "ja": "二人の開発者が機能ブランチをプッシュする前にコミットを確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "直树",
+            "en": "Naoki",
+            "ja": "直樹"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、機能とテストと文書で分けています。",
+          "answer": "はい、機能とテストと文書で分けています。",
+          "hints": {
+            "zh": "是的，按功能、测试和文档拆分。",
+            "en": "Yes, they are split into feature, test, and documentation changes.",
+            "ja": "はい、機能とテストと文書で分けています。"
+          },
+          "hint": "是的，按功能、测试和文档拆分。 / Yes, they are split into feature, test, and documentation changes. / はい、機能とテストと文書で分けています。",
+          "furigana": "はい、きのうとテストとぶんしょでわけています。",
+          "romaji": "hai,kinoutotesutotobunshodewaketeimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "prepare-pull-request",
+          "dialogueTitles": {
+            "zh": "准备拉取请求",
+            "en": "Preparing a Pull Request",
+            "ja": "プルリクエストの準備"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在推送功能分支前检查提交。",
+            "en": "Two developers check commits before pushing a feature branch.",
+            "ja": "二人の開発者が機能ブランチをプッシュする前にコミットを確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由奈",
+            "en": "Yuna",
+            "ja": "優奈"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "では、最新のmainにリベースしてください。",
+          "answer": "では、最新のmainにリベースしてください。",
+          "hints": {
+            "zh": "那么，请变基到最新的 main。",
+            "en": "Then rebase onto the latest main.",
+            "ja": "では、最新のmainにリベースしてください。"
+          },
+          "hint": "那么，请变基到最新的 main。 / Then rebase onto the latest main. / では、最新のmainにリベースしてください。",
+          "furigana": "では、さいしんのmainにリベースしてください。",
+          "romaji": "deha,saishin'nomainniribeesushitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "prepare-pull-request",
+          "dialogueTitles": {
+            "zh": "准备拉取请求",
+            "en": "Preparing a Pull Request",
+            "ja": "プルリクエストの準備"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在推送功能分支前检查提交。",
+            "en": "Two developers check commits before pushing a feature branch.",
+            "ja": "二人の開発者が機能ブランチをプッシュする前にコミットを確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "直树",
+            "en": "Naoki",
+            "ja": "直樹"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "競合がないことを確認してプッシュします。",
+          "answer": "競合がないことを確認してプッシュします。",
+          "hints": {
+            "zh": "我会确认没有冲突后推送。",
+            "en": "I will confirm there are no conflicts and push.",
+            "ja": "競合がないことを確認してプッシュします。"
+          },
+          "hint": "我会确认没有冲突后推送。 / I will confirm there are no conflicts and push. / 競合がないことを確認してプッシュします。",
+          "furigana": "きょうごうがないことをかくにんしてプッシュします。",
+          "romaji": "kyougouganaikotowokakuninshitepusshushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "prepare-pull-request",
+          "dialogueTitles": {
+            "zh": "准备拉取请求",
+            "en": "Preparing a Pull Request",
+            "ja": "プルリクエストの準備"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在推送功能分支前检查提交。",
+            "en": "Two developers check commits before pushing a feature branch.",
+            "ja": "二人の開発者が機能ブランチをプッシュする前にコミットを確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由奈",
+            "en": "Yuna",
+            "ja": "優奈"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "その後、私をレビュー担当に追加してください。",
+          "answer": "その後、私をレビュー担当に追加してください。",
+          "hints": {
+            "zh": "之后请把我添加为审查人。",
+            "en": "After that, add me as a reviewer.",
+            "ja": "その後、私をレビュー担当に追加してください。"
+          },
+          "hint": "之后请把我添加为审查人。 / After that, add me as a reviewer. / その後、私をレビュー担当に追加してください。",
+          "furigana": "そのあと、わたしをレビューたんとうについかしてください。",
+          "romaji": "sonoato,watashiworebyuutantounitsuikashitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-git-cli-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "prepare-pull-request",
+          "dialogueTitles": {
+            "zh": "准备拉取请求",
+            "en": "Preparing a Pull Request",
+            "ja": "プルリクエストの準備"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在推送功能分支前检查提交。",
+            "en": "Two developers check commits before pushing a feature branch.",
+            "ja": "二人の開発者が機能ブランチをプッシュする前にコミットを確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "直树",
+            "en": "Naoki",
+            "ja": "直樹"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

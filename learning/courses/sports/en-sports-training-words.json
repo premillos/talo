@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "sports",
+  "slug": "en-sports-training-words",
+  "course": {
+    "title": "运动 · 英语日常 · 词汇",
+    "description": "学习训练、比赛和观赛场景中的常用英语表达。（单词与短语）",
+    "titles": {
+      "zh": "运动 · 英语训练 · 词汇",
+      "en": "Sports · English Training · Vocabulary",
+      "ja": "スポーツ · 英語トレーニング · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习日常训练、比赛与观赛中的常用英语词汇。",
+      "en": "Practice common English vocabulary for everyday training, matches, and sports viewing.",
+      "ja": "日常の練習・試合・観戦で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语运动表达",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "athlete",
+          "answer": "athlete",
+          "hints": {
+            "zh": "运动员",
+            "en": "a person who competes in sports",
+            "ja": "選手"
+          },
+          "hint": "运动员 / a person who competes in sports / 選手",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈæθlit/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "coach",
+          "answer": "coach",
+          "hints": {
+            "zh": "教练",
+            "en": "a person who trains a team",
+            "ja": "コーチ"
+          },
+          "hint": "教练 / a person who trains a team / コーチ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/koʊtʃ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "team",
+          "answer": "team",
+          "hints": {
+            "zh": "队伍",
+            "en": "a group that competes together",
+            "ja": "チーム"
+          },
+          "hint": "队伍 / a group that competes together / チーム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tim/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "match",
+          "answer": "match",
+          "hints": {
+            "zh": "比赛",
+            "en": "a sports competition",
+            "ja": "試合"
+          },
+          "hint": "比赛 / a sports competition / 試合",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mætʃ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "score",
+          "answer": "score",
+          "hints": {
+            "zh": "比分",
+            "en": "points gained in a game",
+            "ja": "得点"
+          },
+          "hint": "比分 / points gained in a game / 得点",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/skɔɹ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "goal",
+          "answer": "goal",
+          "hints": {
+            "zh": "进球；目标",
+            "en": "a point scored in football",
+            "ja": "ゴール"
+          },
+          "hint": "进球；目标 / a point scored in football / ゴール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡoʊl/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "stadium",
+          "answer": "stadium",
+          "hints": {
+            "zh": "体育场",
+            "en": "a large sports venue",
+            "ja": "スタジアム"
+          },
+          "hint": "体育场 / a large sports venue / スタジアム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsteɪdiəm/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "training",
+          "answer": "training",
+          "hints": {
+            "zh": "训练",
+            "en": "practice to improve performance",
+            "ja": "トレーニング"
+          },
+          "hint": "训练 / practice to improve performance / トレーニング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɹeɪnɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "warm-up",
+          "answer": "warm-up",
+          "hints": {
+            "zh": "热身",
+            "en": "exercise before activity",
+            "ja": "ウォームアップ"
+          },
+          "hint": "热身 / exercise before activity / ウォームアップ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɔɹm əp/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "fitness",
+          "answer": "fitness",
+          "hints": {
+            "zh": "体能",
+            "en": "physical health and strength",
+            "ja": "体力"
+          },
+          "hint": "体能 / physical health and strength / 体力",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfɪtnəs/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "strength",
+          "answer": "strength",
+          "hints": {
+            "zh": "力量",
+            "en": "physical power",
+            "ja": "筋力"
+          },
+          "hint": "力量 / physical power / 筋力",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stɹɛŋkθ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "speed",
+          "answer": "speed",
+          "hints": {
+            "zh": "速度",
+            "en": "the ability to move quickly",
+            "ja": "スピード"
+          },
+          "hint": "速度 / the ability to move quickly / スピード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/spid/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "balance",
+          "answer": "balance",
+          "hints": {
+            "zh": "平衡",
+            "en": "the ability to stay steady",
+            "ja": "バランス"
+          },
+          "hint": "平衡 / the ability to stay steady / バランス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbæləns/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "stamina",
+          "answer": "stamina",
+          "hints": {
+            "zh": "耐力",
+            "en": "the ability to keep exercising",
+            "ja": "持久力"
+          },
+          "hint": "耐力 / the ability to keep exercising / 持久力",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈstæmənə/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "referee",
+          "answer": "referee",
+          "hints": {
+            "zh": "裁判",
+            "en": "the official who controls a match",
+            "ja": "審判"
+          },
+          "hint": "裁判 / the official who controls a match / 審判",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɹɛfɚˈi/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "captain",
+          "answer": "captain",
+          "hints": {
+            "zh": "队长",
+            "en": "the leader of a team",
+            "ja": "キャプテン"
+          },
+          "hint": "队长 / the leader of a team / キャプテン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkæptən/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "victory",
+          "answer": "victory",
+          "hints": {
+            "zh": "胜利",
+            "en": "success in a competition",
+            "ja": "勝利"
+          },
+          "hint": "胜利 / success in a competition / 勝利",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɪktɚi/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "defeat",
+          "answer": "defeat",
+          "hints": {
+            "zh": "失败",
+            "en": "a loss in competition",
+            "ja": "敗北"
+          },
+          "hint": "失败 / a loss in competition / 敗北",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈfit/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "tournament",
+          "answer": "tournament",
+          "hints": {
+            "zh": "锦标赛",
+            "en": "a series of competitions",
+            "ja": "大会"
+          },
+          "hint": "锦标赛 / a series of competitions / 大会",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʊɹnəmənt/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "champion",
+          "answer": "champion",
+          "hints": {
+            "zh": "冠军",
+            "en": "the winner of a competition",
+            "ja": "優勝者"
+          },
+          "hint": "冠军 / the winner of a competition / 優勝者",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃæmpiən/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "medal",
+          "answer": "medal",
+          "hints": {
+            "zh": "奖牌",
+            "en": "an award for a top result",
+            "ja": "メダル"
+          },
+          "hint": "奖牌 / an award for a top result / メダル",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɛdəl/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "record",
+          "answer": "record",
+          "hints": {
+            "zh": "纪录",
+            "en": "the best measured result",
+            "ja": "記録"
+          },
+          "hint": "纪录 / the best measured result / 記録",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹɛkɚd/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "running",
+          "answer": "running",
+          "hints": {
+            "zh": "跑步",
+            "en": "moving quickly on foot",
+            "ja": "ランニング"
+          },
+          "hint": "跑步 / moving quickly on foot / ランニング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹənɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "swimming",
+          "answer": "swimming",
+          "hints": {
+            "zh": "游泳",
+            "en": "moving through water",
+            "ja": "水泳"
+          },
+          "hint": "游泳 / moving through water / 水泳",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "cycling",
+          "answer": "cycling",
+          "hints": {
+            "zh": "骑行",
+            "en": "riding a bicycle as a sport",
+            "ja": "サイクリング"
+          },
+          "hint": "骑行 / riding a bicycle as a sport / サイクリング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsaɪkəlɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "football",
+          "answer": "football",
+          "hints": {
+            "zh": "足球",
+            "en": "a team sport played with a ball",
+            "ja": "サッカー"
+          },
+          "hint": "足球 / a team sport played with a ball / サッカー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfʊtbɔl/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "basketball",
+          "answer": "basketball",
+          "hints": {
+            "zh": "篮球",
+            "en": "a sport played with hoops",
+            "ja": "バスケットボール"
+          },
+          "hint": "篮球 / a sport played with hoops / バスケットボール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈbæskətˌbɔl/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "tennis",
+          "answer": "tennis",
+          "hints": {
+            "zh": "网球",
+            "en": "a racket sport across a net",
+            "ja": "テニス"
+          },
+          "hint": "网球 / a racket sport across a net / テニス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɛnəs/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "volleyball",
+          "answer": "volleyball",
+          "hints": {
+            "zh": "排球",
+            "en": "a team sport played over a net",
+            "ja": "バレーボール"
+          },
+          "hint": "排球 / a team sport played over a net / バレーボール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɑliˌbɔl/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "workout",
+          "answer": "workout",
+          "hints": {
+            "zh": "健身训练",
+            "en": "a session of physical exercise",
+            "ja": "運動メニュー"
+          },
+          "hint": "健身训练 / a session of physical exercise / 運動メニュー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɝkaʊt/",
+          "audioUrl": "learning/audio/en/en-sports-training-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

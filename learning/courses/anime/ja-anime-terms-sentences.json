@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "anime",
+  "slug": "ja-anime-terms-sentences",
+  "course": {
+    "title": "二次元/动漫 · 日语术语 · 句子",
+    "description": "学习动漫、漫画与 ACG 文化中常见的日语专业术语。（常用句子）",
+    "titles": {
+      "zh": "二次元/动漫 · 日语术语 · 句子",
+      "en": "Anime & ACG · Japanese Terms · Sentences",
+      "ja": "アニメ・ACG · 日本語用語 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习动漫术语中的常用日语句子。",
+      "en": "Practice common Japanese sentences for anime terminology.",
+      "ja": "アニメ用語で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "动漫日语词汇 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "このアニメは人気があります。",
+          "answer": "このアニメは人気があります。",
+          "hints": {
+            "zh": "这部动画很受欢迎。",
+            "en": "This anime is popular.",
+            "ja": "このアニメは人気があります。"
+          },
+          "hint": "这部动画很受欢迎。 / This anime is popular. / このアニメは人気があります。",
+          "furigana": "このアニメはにんきがあります。",
+          "romaji": "konoanimehaninkigaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "漫画の単行本を買いました。",
+          "answer": "漫画の単行本を買いました。",
+          "hints": {
+            "zh": "我买了漫画的单行本。",
+            "en": "I bought the manga volume.",
+            "ja": "漫画の単行本を買いました。"
+          },
+          "hint": "我买了漫画的单行本。 / I bought the manga volume. / 漫画の単行本を買いました。",
+          "furigana": "まんがのたんこうぼんをかいました。",
+          "romaji": "manganotankoubonwokaimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "声優の演技が素晴らしいです。",
+          "answer": "声優の演技が素晴らしいです。",
+          "hints": {
+            "zh": "声优的演技太棒了。",
+            "en": "The voice acting is wonderful.",
+            "ja": "声優の演技が素晴らしいです。"
+          },
+          "hint": "声优的演技太棒了。 / The voice acting is wonderful. / 声優の演技が素晴らしいです。",
+          "furigana": "せいゆうのえんぎがすばらしいです。",
+          "romaji": "seiyuunoengigasubarashiidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "OPの曲が頭から離れません。",
+          "answer": "OPの曲が頭から離れません。",
+          "hints": {
+            "zh": "OP 的旋律忘不掉。",
+            "en": "The OP song is stuck in my head.",
+            "ja": "OPの曲が頭から離れません。"
+          },
+          "hint": "OP 的旋律忘不掉。 / The OP song is stuck in my head. / OPの曲が頭から離れません。",
+          "furigana": "OPのきょくがあたまからはなれません。",
+          "romaji": "OPnokyokugaatamakarahanaremasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "作画のクオリティが高いです。",
+          "answer": "作画のクオリティが高いです。",
+          "hints": {
+            "zh": "作画质量很高。",
+            "en": "The animation quality is high.",
+            "ja": "作画のクオリティが高いです。"
+          },
+          "hint": "作画质量很高。 / The animation quality is high. / 作画のクオリティが高いです。",
+          "furigana": "さくがのクオリティがたかいです。",
+          "romaji": "sakuganokuoritigatakaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "原作ファンが多い作品です。",
+          "answer": "原作ファンが多い作品です。",
+          "hints": {
+            "zh": "这是原作粉很多的作品。",
+            "en": "Many fans of the original work love it.",
+            "ja": "原作ファンが多い作品です。"
+          },
+          "hint": "这是原作粉很多的作品。 / Many fans of the original work love it. / 原作ファンが多い作品です。",
+          "furigana": "げんさくファンがおおいさくひんです。",
+          "romaji": "gensakufangaooisakuhindesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "来週から新シーズンが始まります。",
+          "answer": "来週から新シーズンが始まります。",
+          "hints": {
+            "zh": "下周开始新季度。",
+            "en": "A new season starts next week.",
+            "ja": "来週から新シーズンが始まります。"
+          },
+          "hint": "下周开始新季度。 / A new season starts next week. / 来週から新シーズンが始まります。",
+          "furigana": "らいしゅうからしんシーズンがはじまります。",
+          "romaji": "raishuukarashinshiizungahajimarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この作品は漫画からアニメ化されました。",
+          "answer": "この作品は漫画からアニメ化されました。",
+          "hints": {
+            "zh": "这部作品由漫画改编动画。",
+            "en": "This work was adapted from manga.",
+            "ja": "この作品は漫画からアニメ化されました。"
+          },
+          "hint": "这部作品由漫画改编动画。 / This work was adapted from manga. / この作品は漫画からアニメ化されました。",
+          "furigana": "このさくひんはまんがからアニメかされました。",
+          "romaji": "konosakuhinhamangakaraanimekasaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "監督の演出がとても印象的です。",
+          "answer": "監督の演出がとても印象的です。",
+          "hints": {
+            "zh": "导演的演出非常印象深刻。",
+            "en": "The director's staging is very memorable.",
+            "ja": "監督の演出がとても印象的です。"
+          },
+          "hint": "导演的演出非常印象深刻。 / The director's staging is very memorable. / 監督の演出がとても印象的です。",
+          "furigana": "かんとくのえんしゅつがとてもいんしょうてきです。",
+          "romaji": "kantokunoenshutsugatotemoinshoutekidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "脚本家はラノベの原作者です。",
+          "answer": "脚本家はラノベの原作者です。",
+          "hints": {
+            "zh": "编剧是轻小说的原作者。",
+            "en": "The screenwriter is the light novel author.",
+            "ja": "脚本家はラノベの原作者です。"
+          },
+          "hint": "编剧是轻小说的原作者。 / The screenwriter is the light novel author. / 脚本家はラノベの原作者です。",
+          "furigana": "きゃくほんかはラノベのげんさくしゃです。",
+          "romaji": "kyakuhonkaharanobenogensakushadesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "背景美術が細かく描かれています。",
+          "answer": "背景美術が細かく描かれています。",
+          "hints": {
+            "zh": "背景美术画得很细致。",
+            "en": "The background art is highly detailed.",
+            "ja": "背景美術が細かく描かれています。"
+          },
+          "hint": "背景美术画得很细致。 / The background art is highly detailed. / 背景美術が細かく描かれています。",
+          "furigana": "はいけいびじゅつがこまかくえがかれています。",
+          "romaji": "haikeibijutsugakomakakuegakareteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "総集編でこれまでの話を振り返ります。",
+          "answer": "総集編でこれまでの話を振り返ります。",
+          "hints": {
+            "zh": "总集篇回顾至今各话。",
+            "en": "The compilation episode recaps the story so far.",
+            "ja": "総集編でこれまでの話を振り返ります。"
+          },
+          "hint": "总集篇回顾至今各话。 / The compilation episode recaps the story so far. / 総集編でこれまでの話を振り返ります。",
+          "furigana": "そうしゅうへんでこれまでのはなしをふりかえります。",
+          "romaji": "soushuuhendekoremadenohanashiwofurikaerimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "制作委員会方式で資金調達しました。",
+          "answer": "制作委員会方式で資金調達しました。",
+          "hints": {
+            "zh": "通过制作委员会方式筹资。",
+            "en": "Funding was raised via a production committee.",
+            "ja": "制作委員会方式で資金調達しました。"
+          },
+          "hint": "通过制作委员会方式筹资。 / Funding was raised via a production committee. / 制作委員会方式で資金調達しました。",
+          "furigana": "せいさくいいんかいほうしきでしきんちょうたつしました。",
+          "romaji": "seisakuiinkaihoushikideshikinchoutatsushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "作画監督がクオリティを管理しています。",
+          "answer": "作画監督がクオリティを管理しています。",
+          "hints": {
+            "zh": "作画监督管理画质。",
+            "en": "The animation director manages quality.",
+            "ja": "作画監督がクオリティを管理しています。"
+          },
+          "hint": "作画监督管理画质。 / The animation director manages quality. / 作画監督がクオリティを管理しています。",
+          "furigana": "さくがかんとくがクオリティをかんりしています。",
+          "romaji": "sakugakantokugakuoritiwokanrishiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "伏線が後の展開につながります。",
+          "answer": "伏線が後の展開につながります。",
+          "hints": {
+            "zh": "伏笔与后续展开相连。",
+            "en": "Foreshadowing connects to later plot points.",
+            "ja": "伏線が後の展開につながります。"
+          },
+          "hint": "伏笔与后续展开相连。 / Foreshadowing connects to later plot points. / 伏線が後の展開につながります。",
+          "furigana": "ふくせんがあとのてんかいにつながります。",
+          "romaji": "fukusengaatonotenkainitsunagarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "神回と呼ばれるほどのクオリティでした。",
+          "answer": "神回と呼ばれるほどのクオリティでした。",
+          "hints": {
+            "zh": "质量堪称神回级别。",
+            "en": "The quality deserved to be called a legendary episode.",
+            "ja": "神回と呼ばれるほどのクオリティでした。"
+          },
+          "hint": "质量堪称神回级别。 / The quality deserved to be called a legendary episode. / 神回と呼ばれるほどのクオリティでした。",
+          "furigana": "かみかいとよばれるほどのクオリティでした。",
+          "romaji": "kamikaitoyobareruhodonokuoritideshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "同人誌即売会で新作を発売します。",
+          "answer": "同人誌即売会で新作を発売します。",
+          "hints": {
+            "zh": "在同人即卖会发售新作。",
+            "en": "New works launch at the doujin fair.",
+            "ja": "同人誌即売会で新作を発売します。"
+          },
+          "hint": "在同人即卖会发售新作。 / New works launch at the doujin fair. / 同人誌即売会で新作を発売します。",
+          "furigana": "どうじんしそくばいかいでしんさくをはつばいします。",
+          "romaji": "doujinshisokubaikaideshinsakuwohatsubaishimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "コスプレコンテストがイベントの目玉です。",
+          "answer": "コスプレコンテストがイベントの目玉です。",
+          "hints": {
+            "zh": "Cosplay 大赛是活动亮点。",
+            "en": "The cosplay contest is the event highlight.",
+            "ja": "コスプレコンテストがイベントの目玉です。"
+          },
+          "hint": "Cosplay 大赛是活动亮点。 / The cosplay contest is the event highlight. / コスプレコンテストがイベントの目玉です。",
+          "furigana": "コスプレコンテストがイベントのめだまです。",
+          "romaji": "kosupurekontesutogaibentonomedamadesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "異世界転生が人気ジャンルです。",
+          "answer": "異世界転生が人気ジャンルです。",
+          "hints": {
+            "zh": "异世界转生是热门题材。",
+            "en": "Isekai reincarnation is a popular genre.",
+            "ja": "異世界転生が人気ジャンルです。"
+          },
+          "hint": "异世界转生是热门题材。 / Isekai reincarnation is a popular genre. / 異世界転生が人気ジャンルです。",
+          "furigana": "いせかいてんせいがにんきジャンルです。",
+          "romaji": "isekaitenseiganinkijanrudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "萌え属性のキャラが登場します。",
+          "answer": "萌え属性のキャラが登場します。",
+          "hints": {
+            "zh": "有萌属性的角色登场。",
+            "en": "Characters with moe traits appear.",
+            "ja": "萌え属性のキャラが登場します。"
+          },
+          "hint": "有萌属性的角色登场。 / Characters with moe traits appear. / 萌え属性のキャラが登場します。",
+          "furigana": "もえぞくせいのキャラがとうじょうします。",
+          "romaji": "moezokuseinokyaragatoujoushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "単行本は毎月新刊が出ます。",
+          "answer": "単行本は毎月新刊が出ます。",
+          "hints": {
+            "zh": "单行本每月出新刊。",
+            "en": "New tankobon volumes release monthly.",
+            "ja": "単行本は毎月新刊が出ます。"
+          },
+          "hint": "单行本每月出新刊。 / New tankobon volumes release monthly. / 単行本は毎月新刊が出ます。",
+          "furigana": "たんこうぼんはまいつしんかんがでます。",
+          "romaji": "tankoubonhamaitsushinkangademasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "連載は雑誌で週刊されています。",
+          "answer": "連載は雑誌で週刊されています。",
+          "hints": {
+            "zh": "连载在杂志上周刊更新。",
+            "en": "The serialization runs weekly in a magazine.",
+            "ja": "連載は雑誌で週刊されています。"
+          },
+          "hint": "连载在杂志上周刊更新。 / The serialization runs weekly in a magazine. / 連載は雑誌で週刊されています。",
+          "furigana": "れんさいはざっしでしゅうかんされています。",
+          "romaji": "rensaihazasshideshuukansareteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "設定資料集が公式から発売されました。",
+          "answer": "設定資料集が公式から発売されました。",
+          "hints": {
+            "zh": "官方发售了设定资料集。",
+            "en": "An official setting art book was released.",
+            "ja": "設定資料集が公式から発売されました。"
+          },
+          "hint": "官方发售了设定资料集。 / An official setting art book was released. / 設定資料集が公式から発売されました。",
+          "furigana": "せっていしりょうしゅうがこうしきからはつばいされました。",
+          "romaji": "setteishiryoushuugakoushikikarahatsubaisaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "作画崩壊が話題になりました。",
+          "answer": "作画崩壊が話題になりました。",
+          "hints": {
+            "zh": "作画崩坏成了话题。",
+            "en": "Off-model frames became a talking point.",
+            "ja": "作画崩壊が話題になりました。"
+          },
+          "hint": "作画崩坏成了话题。 / Off-model frames became a talking point. / 作画崩壊が話題になりました。",
+          "furigana": "さくがほうかいがわだいになりました。",
+          "romaji": "sakugahoukaigawadaininarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ストーリーの展開が急に加速しました。",
+          "answer": "ストーリーの展開が急に加速しました。",
+          "hints": {
+            "zh": "剧情展开突然加速。",
+            "en": "The story pace suddenly accelerated.",
+            "ja": "ストーリーの展開が急に加速しました。"
+          },
+          "hint": "剧情展开突然加速。 / The story pace suddenly accelerated. / ストーリーの展開が急に加速しました。",
+          "furigana": "ストーリーのてんかいがきゅうにかそくしました。",
+          "romaji": "sutooriinotenkaigakyuunikasokushimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "キャラクターの人気投票が始まりました。",
+          "answer": "キャラクターの人気投票が始まりました。",
+          "hints": {
+            "zh": "角色人气投票开始了。",
+            "en": "The character popularity poll has started.",
+            "ja": "キャラクターの人気投票が始まりました。"
+          },
+          "hint": "角色人气投票开始了。 / The character popularity poll has started. / キャラクターの人気投票が始まりました。",
+          "furigana": "キャラクターのにんきとうひょうがはじまりました。",
+          "romaji": "kyarakutaanoninkitouhyougahajimarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "EDの映像が毎回変わります。",
+          "answer": "EDの映像が毎回変わります。",
+          "hints": {
+            "zh": "ED 画面每集不同。",
+            "en": "The ED visuals change every episode.",
+            "ja": "EDの映像が毎回変わります。"
+          },
+          "hint": "ED 画面每集不同。 / The ED visuals change every episode. / EDの映像が毎回変わります。",
+          "furigana": "EDのえいぞうがまいかいかわります。",
+          "romaji": "EDnoeizougamaikaikawarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "OPテロップにスタッフ名が流れます。",
+          "answer": "OPテロップにスタッフ名が流れます。",
+          "hints": {
+            "zh": "OP 字幕滚动显示工作人员名单。",
+            "en": "Staff names scroll in the OP credits.",
+            "ja": "OPテロップにスタッフ名が流れます。"
+          },
+          "hint": "OP 字幕滚动显示工作人员名单。 / Staff names scroll in the OP credits. / OPテロップにスタッフ名が流れます。",
+          "furigana": "OPテロップにスタッフめいがながれます。",
+          "romaji": "OPteroppunisutaffumeiganagaremasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "原作者がインタビューでコメントしました。",
+          "answer": "原作者がインタビューでコメントしました。",
+          "hints": {
+            "zh": "原作者在采访发表了评论。",
+            "en": "The original author commented in an interview.",
+            "ja": "原作者がインタビューでコメントしました。"
+          },
+          "hint": "原作者在采访发表了评论。 / The original author commented in an interview. / 原作者がインタビューでコメントしました。",
+          "furigana": "げんさくしゃがインタビューでコメントしました。",
+          "romaji": "gensakushagaintabyuudekomentoshimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "漫画の方が先に結末がわかります。",
+          "answer": "漫画の方が先に結末がわかります。",
+          "hints": {
+            "zh": "漫画会先知道结局。",
+            "en": "Manga readers learn the ending first.",
+            "ja": "漫画の方が先にけつまつがわかります。"
+          },
+          "hint": "漫画会先知道结局。 / Manga readers learn the ending first. / 漫画の方が先にけつまつがわかります。",
+          "furigana": "まんがのほうがさきにけつまつがわかります。",
+          "romaji": "manganohougasakiniketsumatsugawakarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

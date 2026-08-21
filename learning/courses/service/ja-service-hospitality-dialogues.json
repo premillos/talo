@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-hospitality-dialogues",
+  "course": {
+    "title": "服务行业 · 日语餐饮 · 情景对话",
+    "description": "飲食店とホテルの接客・ホスピタリティ（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 日语餐饮酒店 · 情景对话",
+      "en": "Service & Hospitality · Japanese Hospitality · Situational Dialogues",
+      "ja": "サービス業 · 日本語接客 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习餐饮与酒店接待中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for hospitality service.",
+      "ja": "飲食店・ホテルの接客で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "接客・ホスピタリティ · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "すみません、タオルを二枚追加でお願いできますか。",
+          "answer": "すみません、タオルを二枚追加でお願いできますか。",
+          "hints": {
+            "zh": "不好意思，可以再送两条毛巾吗？",
+            "en": "The guest asks for two extra towels.",
+            "ja": "宿泊客がタオルを二枚追加で頼みます。"
+          },
+          "hint": "不好意思，可以再送两条毛巾吗？ / The guest asks for two extra towels. / 宿泊客がタオルを二枚追加で頼みます。",
+          "furigana": "すみません、タオルをにまいついかでおねがいできますか。",
+          "romaji": "sumimasen,taoruwonimaitsuikadeonegaidekimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "hotel-extra-towels",
+          "dialogueTitles": {
+            "zh": "客房追加毛巾",
+            "en": "Extra Towels for a Hotel Room",
+            "ja": "ホテル客室へのタオル追加"
+          },
+          "dialogueScenes": {
+            "zh": "女客人致电客房服务，男员工确认房号并安排送毛巾。",
+            "en": "A female guest calls room service, and a male attendant arranges extra towels.",
+            "ja": "女性宿泊客が客室係に電話し、男性係員が追加のタオルを手配します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "住客花子",
+            "en": "Hanako, Guest",
+            "ja": "宿泊客の花子"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "かしこまりました。お部屋番号を教えていただけますか。",
+          "answer": "かしこまりました。お部屋番号を教えていただけますか。",
+          "hints": {
+            "zh": "好的。可以告诉我房间号吗？",
+            "en": "The attendant accepts and asks for the room number.",
+            "ja": "係員が依頼を受け、部屋番号を尋ねます。"
+          },
+          "hint": "好的。可以告诉我房间号吗？ / The attendant accepts and asks for the room number. / 係員が依頼を受け、部屋番号を尋ねます。",
+          "furigana": "かしこまりました。おへやばんごうをおしえていただけますか。",
+          "romaji": "kashikomarimashita.oheyabangouwooshieteitadakemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "hotel-extra-towels",
+          "dialogueTitles": {
+            "zh": "客房追加毛巾",
+            "en": "Extra Towels for a Hotel Room",
+            "ja": "ホテル客室へのタオル追加"
+          },
+          "dialogueScenes": {
+            "zh": "女客人致电客房服务，男员工确认房号并安排送毛巾。",
+            "en": "A female guest calls room service, and a male attendant arranges extra towels.",
+            "ja": "女性宿泊客が客室係に電話し、男性係員が追加のタオルを手配します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客房员工直树",
+            "en": "Naoki, Room Attendant",
+            "ja": "客室係の直樹"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "八階の八〇五号室です。",
+          "answer": "八階の八〇五号室です。",
+          "hints": {
+            "zh": "是八楼的805号房。",
+            "en": "The guest provides her room number.",
+            "ja": "宿泊客が部屋番号を伝えます。"
+          },
+          "hint": "是八楼的805号房。 / The guest provides her room number. / 宿泊客が部屋番号を伝えます。",
+          "furigana": "はちかいのはちまるごごうしつです。",
+          "romaji": "hachikainohachimarugogoushitsudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "hotel-extra-towels",
+          "dialogueTitles": {
+            "zh": "客房追加毛巾",
+            "en": "Extra Towels for a Hotel Room",
+            "ja": "ホテル客室へのタオル追加"
+          },
+          "dialogueScenes": {
+            "zh": "女客人致电客房服务，男员工确认房号并安排送毛巾。",
+            "en": "A female guest calls room service, and a male attendant arranges extra towels.",
+            "ja": "女性宿泊客が客室係に電話し、男性係員が追加のタオルを手配します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "住客花子",
+            "en": "Hanako, Guest",
+            "ja": "宿泊客の花子"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "ありがとうございます。十分ほどでお持ちいたします。",
+          "answer": "ありがとうございます。十分ほどでお持ちいたします。",
+          "hints": {
+            "zh": "谢谢。大约十分钟后送到。",
+            "en": "The attendant confirms an estimated delivery time.",
+            "ja": "係員が届けるまでの時間を案内します。"
+          },
+          "hint": "谢谢。大约十分钟后送到。 / The attendant confirms an estimated delivery time. / 係員が届けるまでの時間を案内します。",
+          "furigana": "ありがとうございます。じゅっぷんほどでおもちいたします。",
+          "romaji": "arigatougozaimasu.juppunhododeomochiitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "hotel-extra-towels",
+          "dialogueTitles": {
+            "zh": "客房追加毛巾",
+            "en": "Extra Towels for a Hotel Room",
+            "ja": "ホテル客室へのタオル追加"
+          },
+          "dialogueScenes": {
+            "zh": "女客人致电客房服务，男员工确认房号并安排送毛巾。",
+            "en": "A female guest calls room service, and a male attendant arranges extra towels.",
+            "ja": "女性宿泊客が客室係に電話し、男性係員が追加のタオルを手配します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客房员工直树",
+            "en": "Naoki, Room Attendant",
+            "ja": "客室係の直樹"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "助かります。飲料水も一本お願いできますか。",
+          "answer": "助かります。飲料水も一本お願いできますか。",
+          "hints": {
+            "zh": "太好了。还可以送一瓶饮用水吗？",
+            "en": "The guest adds a request for bottled water.",
+            "ja": "宿泊客が飲料水も一本頼みます。"
+          },
+          "hint": "太好了。还可以送一瓶饮用水吗？ / The guest adds a request for bottled water. / 宿泊客が飲料水も一本頼みます。",
+          "furigana": "たすかります。いんりょうすいもいっぽんおねがいできますか。",
+          "romaji": "tasukarimasu.inryousuimoippon'onegaidekimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "hotel-extra-towels",
+          "dialogueTitles": {
+            "zh": "客房追加毛巾",
+            "en": "Extra Towels for a Hotel Room",
+            "ja": "ホテル客室へのタオル追加"
+          },
+          "dialogueScenes": {
+            "zh": "女客人致电客房服务，男员工确认房号并安排送毛巾。",
+            "en": "A female guest calls room service, and a male attendant arranges extra towels.",
+            "ja": "女性宿泊客が客室係に電話し、男性係員が追加のタオルを手配します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "住客花子",
+            "en": "Hanako, Guest",
+            "ja": "宿泊客の花子"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "もちろんです。タオルと一緒にお届けします。",
+          "answer": "もちろんです。タオルと一緒にお届けします。",
+          "hints": {
+            "zh": "当然。会和毛巾一起送过去。",
+            "en": "The attendant confirms both items will be delivered together.",
+            "ja": "係員がタオルと一緒に届けると確認します。"
+          },
+          "hint": "当然。会和毛巾一起送过去。 / The attendant confirms both items will be delivered together. / 係員がタオルと一緒に届けると確認します。",
+          "furigana": "もちろんです。タオルといっしょにおとどけします。",
+          "romaji": "mochirondesu.taorutoisshoniotodokeshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-hospitality-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "hotel-extra-towels",
+          "dialogueTitles": {
+            "zh": "客房追加毛巾",
+            "en": "Extra Towels for a Hotel Room",
+            "ja": "ホテル客室へのタオル追加"
+          },
+          "dialogueScenes": {
+            "zh": "女客人致电客房服务，男员工确认房号并安排送毛巾。",
+            "en": "A female guest calls room service, and a male attendant arranges extra towels.",
+            "ja": "女性宿泊客が客室係に電話し、男性係員が追加のタオルを手配します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "客房员工直树",
+            "en": "Naoki, Room Attendant",
+            "ja": "客室係の直樹"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

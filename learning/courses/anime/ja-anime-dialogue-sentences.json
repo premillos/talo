@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "anime",
+  "slug": "ja-anime-dialogue-sentences",
+  "course": {
+    "title": "二次元/动漫 · 日语台词 · 句子",
+    "description": "练习动漫场景中常见的日语台词与日常表达。（常用句子）",
+    "titles": {
+      "zh": "二次元/动漫 · 日语台词 · 句子",
+      "en": "Anime & ACG · Japanese Dialogue · Sentences",
+      "ja": "アニメ・ACG · 日本語セリフ · 例文"
+    },
+    "descriptions": {
+      "zh": "学习动漫台词中的常用日语句子。",
+      "en": "Practice common Japanese sentences for anime dialogue.",
+      "ja": "アニメのセリフで使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "场景常用句 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "今日も一日頑張ろう。",
+          "answer": "今日も一日頑張ろう。",
+          "hints": {
+            "zh": "今天也努力一整天吧。",
+            "en": "Let's do our best today too.",
+            "ja": "今日も一日頑張ろう。"
+          },
+          "hint": "今天也努力一整天吧。 / Let's do our best today too. / 今日も一日頑張ろう。",
+          "furigana": "きょうもいちにちがんばろう。",
+          "romaji": "kyoumoichinichiganbarou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このシーンは最高だった。",
+          "answer": "このシーンは最高だった。",
+          "hints": {
+            "zh": "这个场景太棒了。",
+            "en": "That scene was the best.",
+            "ja": "このシーンは最高だった。"
+          },
+          "hint": "这个场景太棒了。 / That scene was the best. / このシーンは最高だった。",
+          "furigana": "このシーンはさいこうだった。",
+          "romaji": "konoshiinhasaikoudatta.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "もう一回見たいな。",
+          "answer": "もう一回見たいな。",
+          "hints": {
+            "zh": "好想再看一遍。",
+            "en": "I want to watch it again.",
+            "ja": "もう一回見たいな。"
+          },
+          "hint": "好想再看一遍。 / I want to watch it again. / もう一回見たいな。",
+          "furigana": "もういっかいみたいな。",
+          "romaji": "mouikkaimitaina.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "次の話が楽しみです。",
+          "answer": "次の話が楽しみです。",
+          "hints": {
+            "zh": "好期待下一话。",
+            "en": "I'm looking forward to the next episode.",
+            "ja": "次の話が楽しみです。"
+          },
+          "hint": "好期待下一话。 / I'm looking forward to the next episode. / 次の話が楽しみです。",
+          "furigana": "つぎのはなしがたのしみです。",
+          "romaji": "tsuginohanashigatanoshimidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "一緒に見ませんか。",
+          "answer": "一緒に見ませんか。",
+          "hints": {
+            "zh": "要不要一起看？",
+            "en": "Want to watch together?",
+            "ja": "一緒に見ませんか。"
+          },
+          "hint": "要不要一起看？ / Want to watch together? / 一緒に見ませんか。",
+          "furigana": "いっしょにみませんか。",
+          "romaji": "isshonimimasenka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "泣いちゃったよ。",
+          "answer": "泣いちゃったよ。",
+          "hints": {
+            "zh": "我都看哭了。",
+            "en": "I ended up crying.",
+            "ja": "泣いちゃったよ。"
+          },
+          "hint": "我都看哭了。 / I ended up crying. / 泣いちゃったよ。",
+          "furigana": "ないちゃったよ。",
+          "romaji": "naichattayo.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "主人公がかっこよすぎる。",
+          "answer": "主人公がかっこよすぎる。",
+          "hints": {
+            "zh": "主角帅过头了。",
+            "en": "The protagonist is too cool.",
+            "ja": "主人公がかっこよすぎる。"
+          },
+          "hint": "主角帅过头了。 / The protagonist is too cool. / 主人公がかっこよすぎる。",
+          "furigana": "しゅじんこうがかっこよすぎる。",
+          "romaji": "shujinkougakakkoyosugiru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "絶対に諦めない！",
+          "answer": "絶対に諦めない！",
+          "hints": {
+            "zh": "绝对不放弃！",
+            "en": "I will never give up!",
+            "ja": "絶対に諦めない！"
+          },
+          "hint": "绝对不放弃！ / I will never give up! / 絶対に諦めない！",
+          "furigana": "ぜったいにあきらめない！",
+          "romaji": "zettainiakiramenai!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "仲間を信じろ！",
+          "answer": "仲間を信じろ！",
+          "hints": {
+            "zh": "相信伙伴！",
+            "en": "Believe in your friends!",
+            "ja": "仲間を信じろ！"
+          },
+          "hint": "相信伙伴！ / Believe in your friends! / 仲間を信じろ！",
+          "furigana": "なかまをしんじろ！",
+          "romaji": "nakamawoshinjiro!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "必殺技を放て！",
+          "answer": "必殺技を放て！",
+          "hints": {
+            "zh": "使出必杀技！",
+            "en": "Unleash your special move!",
+            "ja": "必殺技を放て！"
+          },
+          "hint": "使出必杀技！ / Unleash your special move! / 必殺技を放て！",
+          "furigana": "ひっさつわざをはなて！",
+          "romaji": "hissatsuwazawohanate!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "覚醒の力が目覚めた。",
+          "answer": "覚醒の力が目覚めた。",
+          "hints": {
+            "zh": "觉醒之力苏醒了。",
+            "en": "The power of awakening has awakened.",
+            "ja": "覚醒の力が目覚めた。"
+          },
+          "hint": "觉醒之力苏醒了。 / The power of awakening has awakened. / 覚醒の力が目覚めた。",
+          "furigana": "かくせいのちからがめざめた。",
+          "romaji": "kakuseinochikaragamezameta.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "運命を変える時が来た。",
+          "answer": "運命を変える時が来た。",
+          "hints": {
+            "zh": "改变命运的时刻到了。",
+            "en": "The time to change fate has come.",
+            "ja": "運命を変える時が来た。"
+          },
+          "hint": "改变命运的时刻到了。 / The time to change fate has come. / 運命を変える時が来た。",
+          "furigana": "うんめいをかえるときがきた。",
+          "romaji": "unmeiwokaerutokigakita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勝利は俺たちのものだ。",
+          "answer": "勝利は俺たちのものだ。",
+          "hints": {
+            "zh": "胜利属于我们。",
+            "en": "Victory belongs to us.",
+            "ja": "勝利は俺たちのものだ。"
+          },
+          "hint": "胜利属于我们。 / Victory belongs to us. / 勝利は俺たちのものだ。",
+          "furigana": "しょうりはおれたちのものだ。",
+          "romaji": "shourihaoretachinomonoda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "敵は強いが、負けない。",
+          "answer": "敵は強いが、負けない。",
+          "hints": {
+            "zh": "敌人很强，但我不会输。",
+            "en": "The enemy is strong, but I won't lose.",
+            "ja": "敵は強いが、負けない。"
+          },
+          "hint": "敌人很强，但我不会输。 / The enemy is strong, but I won't lose. / 敵は強いが、負けない。",
+          "furigana": "てきはつよいが、まけない。",
+          "romaji": "tekihatsuyoiga,makenai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "マジか、信じられない！",
+          "answer": "マジか、信じられない！",
+          "hints": {
+            "zh": "真的吗，难以置信！",
+            "en": "Seriously? I can't believe it!",
+            "ja": "マジか、信じられない！"
+          },
+          "hint": "真的吗，难以置信！ / Seriously? I can't believe it! / マジか、信じられない！",
+          "furigana": "マジか、しんじられない！",
+          "romaji": "majika,shinjirarenai!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "やばい、急いで！",
+          "answer": "やばい、急いで！",
+          "hints": {
+            "zh": "糟了，快点！",
+            "en": "Oh no, hurry up!",
+            "ja": "やばい、急いで！"
+          },
+          "hint": "糟了，快点！ / Oh no, hurry up! / やばい、急いで！",
+          "furigana": "やばい、いそいで！",
+          "romaji": "yabai,isoide!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "すごい力だな。",
+          "answer": "すごい力だな。",
+          "hints": {
+            "zh": "好强的力量啊。",
+            "en": "That's incredible power.",
+            "ja": "すごい力だな。"
+          },
+          "hint": "好强的力量啊。 / That's incredible power. / すごい力だな。",
+          "furigana": "すごいちからだな。",
+          "romaji": "sugoichikaradana.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "かわいいと思わない？",
+          "answer": "かわいいと思わない？",
+          "hints": {
+            "zh": "你不觉得可爱吗？",
+            "en": "Don't you think it's cute?",
+            "ja": "かわいいと思わない？"
+          },
+          "hint": "你不觉得可爱吗？ / Don't you think it's cute? / かわいいと思わない？",
+          "furigana": "かわいいとおもわない？",
+          "romaji": "kawaiitoomowanai?",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大丈夫、任せて。",
+          "answer": "大丈夫、任せて。",
+          "hints": {
+            "zh": "没问题，交给我。",
+            "en": "It's fine, leave it to me.",
+            "ja": "大丈夫、任せて。"
+          },
+          "hint": "没问题，交给我。 / It's fine, leave it to me. / 大丈夫、任せて。",
+          "furigana": "だいじょうぶ、まかせて。",
+          "romaji": "daijoubu,makasete.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "お疲れ様、今日もありがとう。",
+          "answer": "お疲れ様、今日もありがとう。",
+          "hints": {
+            "zh": "辛苦了，今天也谢谢你。",
+            "en": "Good work today, thank you.",
+            "ja": "お疲れ様、今日もありがとう。"
+          },
+          "hint": "辛苦了，今天也谢谢你。 / Good work today, thank you. / お疲れ様、今日もありがとう。",
+          "furigana": "おつかれさま、きょうもありがとう。",
+          "romaji": "otsukaresama,kyoumoarigatou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "また明日、頑張ろう。",
+          "answer": "また明日、頑張ろう。",
+          "hints": {
+            "zh": "明天再见，一起加油。",
+            "en": "See you tomorrow, let's do our best.",
+            "ja": "また明日、頑張ろう。"
+          },
+          "hint": "明天再见，一起加油。 / See you tomorrow, let's do our best. / また明日、頑張ろう。",
+          "furigana": "またあした、がんばろう。",
+          "romaji": "mataashita,ganbarou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "行ってらっしゃい、気をつけて。",
+          "answer": "行ってらっしゃい、気をつけて。",
+          "hints": {
+            "zh": "一路走好，小心。",
+            "en": "Take care on your way.",
+            "ja": "行ってらっしゃい、気をつけて。"
+          },
+          "hint": "一路走好，小心。 / Take care on your way. / 行ってらっしゃい、気をつけて。",
+          "furigana": "いってらっしゃい、きをつけて。",
+          "romaji": "itterasshai,kiwotsukete.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ただいま、ただいま！",
+          "answer": "ただいま、ただいま！",
+          "hints": {
+            "zh": "我回来了！",
+            "en": "I'm home!",
+            "ja": "ただいま、ただいま！"
+          },
+          "hint": "我回来了！ / I'm home! / ただいま、ただいま！",
+          "furigana": "ただいま、ただいま！",
+          "romaji": "tadaima,tadaima!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "おかえり、待ってたよ。",
+          "answer": "おかえり、待ってたよ。",
+          "hints": {
+            "zh": "欢迎回来，一直在等你。",
+            "en": "Welcome back, I was waiting.",
+            "ja": "おかえり、待ってたよ。"
+          },
+          "hint": "欢迎回来，一直在等你。 / Welcome back, I was waiting. / おかえり、待ってたよ。",
+          "furigana": "おかえり、まってたよ。",
+          "romaji": "okaeri,mattetayo.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "うそでしょ、まさか！",
+          "answer": "うそでしょ、まさか！",
+          "hints": {
+            "zh": "不会吧，难道！",
+            "en": "No way, seriously?!",
+            "ja": "うそでしょ、まさか！"
+          },
+          "hint": "不会吧，难道！ / No way, seriously?! / うそでしょ、まさか！",
+          "furigana": "うそでしょ、まさか！",
+          "romaji": "usodesho,masaka!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "本当に？マジで？",
+          "answer": "本当に？マジで？",
+          "hints": {
+            "zh": "真的吗？认真的？",
+            "en": "Really? For real?",
+            "ja": "本当に？マジで？"
+          },
+          "hint": "真的吗？认真的？ / Really? For real? / 本当に？マジで？",
+          "furigana": "ほんとうに？マジで？",
+          "romaji": "hontouni?majide?",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "頑張れ、まだ終わってない！",
+          "answer": "頑張れ、まだ終わってない！",
+          "hints": {
+            "zh": "加油，还没结束！",
+            "en": "Hang in there, it's not over!",
+            "ja": "頑張れ、まだ終わってない！"
+          },
+          "hint": "加油，还没结束！ / Hang in there, it's not over! / 頑張れ、まだ終わってない！",
+          "furigana": "がんばれ、まだおわってない！",
+          "romaji": "ganbare,madaowattenai!",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "信じてください、必ず助けます。",
+          "answer": "信じてください、必ず助けます。",
+          "hints": {
+            "zh": "请相信我，一定来救你。",
+            "en": "Please believe me, I will save you.",
+            "ja": "信じてください、必ず助けます。"
+          },
+          "hint": "请相信我，一定来救你。 / Please believe me, I will save you. / 信じてください、必ず助けます。",
+          "furigana": "しんじてください、かならずたすけます。",
+          "romaji": "shinjitekudasai,kanarazutasukemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このシーン、毎回泣ける。",
+          "answer": "このシーン、毎回泣ける。",
+          "hints": {
+            "zh": "这个场景每次都能看哭。",
+            "en": "This scene makes me cry every time.",
+            "ja": "このシーン、毎回泣ける。"
+          },
+          "hint": "这个场景每次都能看哭。 / This scene makes me cry every time. / このシーン、毎回泣ける。",
+          "furigana": "このシーン、まいかいなくえる。",
+          "romaji": "konoshiin,maikainakueru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ごめん、遅れちゃった。",
+          "answer": "ごめん、遅れちゃった。",
+          "hints": {
+            "zh": "抱歉，来晚了。",
+            "en": "Sorry, I'm late.",
+            "ja": "ごめん、遅れちゃった。"
+          },
+          "hint": "抱歉，来晚了。 / Sorry, I'm late. / ごめん、遅れちゃった。",
+          "furigana": "ごめん、おくれちゃった。",
+          "romaji": "gomen,okurechatta.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

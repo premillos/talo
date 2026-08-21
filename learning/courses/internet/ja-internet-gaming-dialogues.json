@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "internet",
+  "slug": "ja-internet-gaming-dialogues",
+  "course": {
+    "title": "网络游戏 · 日语 · 情景对话",
+    "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关日语。（男女情景对话）",
+    "titles": {
+      "zh": "网络文化 · 日语网络游戏 · 情景对话",
+      "en": "Internet Culture · Japanese Online Gaming · Situational Dialogues",
+      "ja": "ネット文化 · 日本語オンラインゲーム · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习网络游戏、电竞协作与健康习惯中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for online gaming, esports teamwork, and healthy play habits.",
+      "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语网络游戏 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "今夜のチーム戦の準備はできましたか。",
+          "answer": "今夜のチーム戦の準備はできましたか。",
+          "hints": {
+            "zh": "今晚的团队赛准备好了吗？",
+            "en": "Are we ready for tonight’s team match?",
+            "ja": "今夜のチーム戦の準備はできましたか。"
+          },
+          "hint": "今晚的团队赛准备好了吗？ / Are we ready for tonight’s team match? / 今夜のチーム戦の準備はできましたか。",
+          "furigana": "こんやのチームせんのじゅんびはできましたか。",
+          "romaji": "kon'yanochiimusen'nojunbihadekimashitaka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "healthy-team-practice",
+          "dialogueTitles": {
+            "zh": "健康的团队训练",
+            "en": "Healthy Team Practice",
+            "ja": "健康的なチーム練習"
+          },
+          "dialogueScenes": {
+            "zh": "葵和莲在电竞训练前安排角色、交流方式和休息。",
+            "en": "Aoi and Ren arrange roles, communication, and breaks before esports practice.",
+            "ja": "葵と蓮が電子競技の練習前に役割、交流方法、休憩を決めます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "もう少しです。全員の役割を確認しています。",
+          "answer": "もう少しです。全員の役割を確認しています。",
+          "hints": {
+            "zh": "快好了，我正在确认所有人的角色。",
+            "en": "Almost. I am checking everyone’s roles.",
+            "ja": "もう少しです。全員の役割を確認しています。"
+          },
+          "hint": "快好了，我正在确认所有人的角色。 / Almost. I am checking everyone’s roles. / もう少しです。全員の役割を確認しています。",
+          "furigana": "もうすこしです。ぜんいんのやくわりをかくにんしています。",
+          "romaji": "mousukoshidesu.zen'in'noyakuwariwokakuninshiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "healthy-team-practice",
+          "dialogueTitles": {
+            "zh": "健康的团队训练",
+            "en": "Healthy Team Practice",
+            "ja": "健康的なチーム練習"
+          },
+          "dialogueScenes": {
+            "zh": "葵和莲在电竞训练前安排角色、交流方式和休息。",
+            "en": "Aoi and Ren arrange roles, communication, and breaks before esports practice.",
+            "ja": "葵と蓮が電子競技の練習前に役割、交流方法、休憩を決めます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "莲",
+            "en": "Ren",
+            "ja": "蓮"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "私は支援役として目標を見ます。",
+          "answer": "私は支援役として目標を見ます。",
+          "hints": {
+            "zh": "我会担任辅助并关注目标。",
+            "en": "I will support the team and watch the objective.",
+            "ja": "私は支援役として目標を見ます。"
+          },
+          "hint": "我会担任辅助并关注目标。 / I will support the team and watch the objective. / 私は支援役として目標を見ます。",
+          "furigana": "わたしはしえんやくとしてもくひょうをみます。",
+          "romaji": "watashihashien'yakutoshitemokuhyouwomimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "healthy-team-practice",
+          "dialogueTitles": {
+            "zh": "健康的团队训练",
+            "en": "Healthy Team Practice",
+            "ja": "健康的なチーム練習"
+          },
+          "dialogueScenes": {
+            "zh": "葵和莲在电竞训练前安排角色、交流方式和休息。",
+            "en": "Aoi and Ren arrange roles, communication, and breaks before esports practice.",
+            "ja": "葵と蓮が電子競技の練習前に役割、交流方法、休憩を決めます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "待機室で簡単な作戦を共有します。",
+          "answer": "待機室で簡単な作戦を共有します。",
+          "hints": {
+            "zh": "我会在游戏大厅分享简单策略。",
+            "en": "I will share a simple strategy in the lobby.",
+            "ja": "待機室で簡単な作戦を共有します。"
+          },
+          "hint": "我会在游戏大厅分享简单策略。 / I will share a simple strategy in the lobby. / 待機室で簡単な作戦を共有します。",
+          "furigana": "たいきしつでかんたんなさくせんをきょうゆうします。",
+          "romaji": "taikishitsudekantan'nasakusenwokyouyuushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "healthy-team-practice",
+          "dialogueTitles": {
+            "zh": "健康的团队训练",
+            "en": "Healthy Team Practice",
+            "ja": "健康的なチーム練習"
+          },
+          "dialogueScenes": {
+            "zh": "葵和莲在电竞训练前安排角色、交流方式和休息。",
+            "en": "Aoi and Ren arrange roles, communication, and breaks before esports practice.",
+            "ja": "葵と蓮が電子競技の練習前に役割、交流方法、休憩を決めます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "莲",
+            "en": "Ren",
+            "ja": "蓮"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "二ラウンド後に水分休憩を取りましょう。",
+          "answer": "二ラウンド後に水分休憩を取りましょう。",
+          "hints": {
+            "zh": "两轮后休息一下补充水分吧。",
+            "en": "Let us take a water break after two rounds.",
+            "ja": "二ラウンド後に水分休憩を取りましょう。"
+          },
+          "hint": "两轮后休息一下补充水分吧。 / Let us take a water break after two rounds. / 二ラウンド後に水分休憩を取りましょう。",
+          "furigana": "にラウンドごにすいぶんきゅうけいをとりましょう。",
+          "romaji": "niraundogonisuibunkyuukeiwotorimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "healthy-team-practice",
+          "dialogueTitles": {
+            "zh": "健康的团队训练",
+            "en": "Healthy Team Practice",
+            "ja": "健康的なチーム練習"
+          },
+          "dialogueScenes": {
+            "zh": "葵和莲在电竞训练前安排角色、交流方式和休息。",
+            "en": "Aoi and Ren arrange roles, communication, and breaks before esports practice.",
+            "ja": "葵と蓮が電子競技の練習前に役割、交流方法、休憩を決めます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "公平に遊んで会話も明るくします。",
+          "answer": "公平に遊んで会話も明るくします。",
+          "hints": {
+            "zh": "我们会公平游戏并保持友善交流。",
+            "en": "We will play fairly and keep chat positive.",
+            "ja": "公平に遊んで会話も明るくします。"
+          },
+          "hint": "我们会公平游戏并保持友善交流。 / We will play fairly and keep chat positive. / 公平に遊んで会話も明るくします。",
+          "furigana": "こうへいにあそんでかいわもあかるくします。",
+          "romaji": "kouheiniasondekaiwamoakarukushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "healthy-team-practice",
+          "dialogueTitles": {
+            "zh": "健康的团队训练",
+            "en": "Healthy Team Practice",
+            "ja": "健康的なチーム練習"
+          },
+          "dialogueScenes": {
+            "zh": "葵和莲在电竞训练前安排角色、交流方式和休息。",
+            "en": "Aoi and Ren arrange roles, communication, and breaks before esports practice.",
+            "ja": "葵と蓮が電子競技の練習前に役割、交流方法、休憩を決めます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "莲",
+            "en": "Ren",
+            "ja": "蓮"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

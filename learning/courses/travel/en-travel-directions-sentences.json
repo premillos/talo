@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-directions-sentences",
+  "course": {
+    "title": "旅游 · 英语问路与交通 · 句子",
+    "description": "问路、购票与公共交通相关英语（常用句子）",
+    "titles": {
+      "zh": "旅游 · 英语问路与交通 · 句子",
+      "en": "Travel · English Directions & Transit · Sentences",
+      "ja": "旅行 · 英語道案内・交通 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习问路与公共交通中的常用英语句子。",
+      "en": "Practice common English sentences for directions and public transit.",
+      "ja": "道案内と公共交通で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "问路与公共交通 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "How do I get to the museum?",
+          "answer": "How do I get to the museum?",
+          "hints": {
+            "zh": "去博物馆怎么走？",
+            "en": "How do I get to the museum?",
+            "ja": "博物館へはどう行けばいいですか？"
+          },
+          "hint": "去博物馆怎么走？ / How do I get to the museum? / 博物館へはどう行けばいいですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ du aɪ ɡɛt tə ðə ˈmjuziəm/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is this the right bus for downtown?",
+          "answer": "Is this the right bus for downtown?",
+          "hints": {
+            "zh": "这趟公交车去市中心吗？",
+            "en": "Is this the right bus for downtown?",
+            "ja": "このバスはダウンタウン行きですか？"
+          },
+          "hint": "这趟公交车去市中心吗？ / Is this the right bus for downtown? / このバスはダウンタウン行きですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɪs ðə ɹaɪt bəs fɚ ˌdaʊnˈtaʊn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How much is a ticket to the airport?",
+          "answer": "How much is a ticket to the airport?",
+          "hints": {
+            "zh": "去机场的票多少钱？",
+            "en": "How much is a ticket to the airport?",
+            "ja": "空港までの切符はいくらですか？"
+          },
+          "hint": "去机场的票多少钱？ / How much is a ticket to the airport? / 空港までの切符はいくらですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ mətʃ ɪz ə ˈtɪkət tə ði ˈɛɹpɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Where can I buy a subway pass?",
+          "answer": "Where can I buy a subway pass?",
+          "hints": {
+            "zh": "在哪里可以买地铁通票？",
+            "en": "Where can I buy a subway pass?",
+            "ja": "地下鉄の定期券はどこで買えますか？"
+          },
+          "hint": "在哪里可以买地铁通票？ / Where can I buy a subway pass? / 地下鉄の定期券はどこで買えますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɛɹ kən aɪ baɪ ə ˈsəbweɪ pæs/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Could you show me on the map?",
+          "answer": "Could you show me on the map?",
+          "hints": {
+            "zh": "可以在地图上指给我看吗？",
+            "en": "Could you show me on the map?",
+            "ja": "地図で示してもらえますか？"
+          },
+          "hint": "可以在地图上指给我看吗？ / Could you show me on the map? / 地図で示してもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəd ju ʃoʊ mi ɑn ðə mæp/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How long does it take by train?",
+          "answer": "How long does it take by train?",
+          "hints": {
+            "zh": "坐火车要多久？",
+            "en": "How long does it take by train?",
+            "ja": "電車でどのくらいかかりますか？"
+          },
+          "hint": "坐火车要多久？ / How long does it take by train? / 電車でどのくらいかかりますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ lɔŋ dəz ɪt teɪk baɪ tɹeɪn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Excuse me, am I going the right way?",
+          "answer": "Excuse me, am I going the right way?",
+          "hints": {
+            "zh": "请问，我走的方向对吗？",
+            "en": "Excuse me, am I going the right way?",
+            "ja": "すみません、この方向で合っていますか？"
+          },
+          "hint": "请问，我走的方向对吗？ / Excuse me, am I going the right way? / すみません、この方向で合っていますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪkˈskjus mi əm aɪ ˈɡoʊɪn ðə ɹaɪt weɪ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Which line should I take to the airport?",
+          "answer": "Which line should I take to the airport?",
+          "hints": {
+            "zh": "去机场该坐哪条线？",
+            "en": "Which line should I take to the airport?",
+            "ja": "空港にはどの路線に乗ればいいですか？"
+          },
+          "hint": "去机场该坐哪条线？ / Which line should I take to the airport? / 空港にはどの路線に乗ればいいですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɪtʃ laɪn ʃəd aɪ teɪk tə ði ˈɛɹpɔɹt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is this train going in the right direction?",
+          "answer": "Is this train going in the right direction?",
+          "hints": {
+            "zh": "这趟火车方向对吗？",
+            "en": "Is this train going in the right direction?",
+            "ja": "この電車は方向合っていますか？"
+          },
+          "hint": "这趟火车方向对吗？ / Is this train going in the right direction? / この電車は方向合っていますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɪs tɹeɪn ˈɡoʊɪn ɪn ðə ɹaɪt daɪˈɹɛkʃɪn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How many stops until the city center?",
+          "answer": "How many stops until the city center?",
+          "hints": {
+            "zh": "到市中心还有几站？",
+            "en": "How many stops until the city center?",
+            "ja": "中心部まであと何駅ですか？"
+          },
+          "hint": "到市中心还有几站？ / How many stops until the city center? / 中心部まであと何駅ですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ ˈmɛni stɑps ənˈtɪl ðə ˈsɪti ˈsɛnɚ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The subway map is confusing.",
+          "answer": "The subway map is confusing.",
+          "hints": {
+            "zh": "地铁图有点难懂。",
+            "en": "The subway map is confusing.",
+            "ja": "地下鉄の路線図がわかりにくいです。"
+          },
+          "hint": "地铁图有点难懂。 / The subway map is confusing. / 地下鉄の路線図がわかりにくいです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsəbweɪ mæp ɪz kənˈfjuzɪŋ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Turn left at the next intersection.",
+          "answer": "Turn left at the next intersection.",
+          "hints": {
+            "zh": "下一个十字路口左转。",
+            "en": "Turn left at the next intersection.",
+            "ja": "次の交差点を左に曲がってください。"
+          },
+          "hint": "下一个十字路口左转。 / Turn left at the next intersection. / 次の交差点を左に曲がってください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɝn lɛft æt ðə nɛks ˌɪntɚˈsɛkʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "It is about a ten-minute walk from here.",
+          "answer": "It is about a ten-minute walk from here.",
+          "hints": {
+            "zh": "从这里步行约十分钟。",
+            "en": "It is about a ten-minute walk from here.",
+            "ja": "ここから歩いて約10分です。"
+          },
+          "hint": "从这里步行约十分钟。 / It is about a ten-minute walk from here. / ここから歩いて約10分です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪt ɪz əˈbaʊt ə tɛn ˈmɪnət wɑk fɹəm hiɹ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The bus comes every fifteen minutes.",
+          "answer": "The bus comes every fifteen minutes.",
+          "hints": {
+            "zh": "公交车每十五分钟一班。",
+            "en": "The bus comes every fifteen minutes.",
+            "ja": "バスは15分おきに来ます。"
+          },
+          "hint": "公交车每十五分钟一班。 / The bus comes every fifteen minutes. / バスは15分おきに来ます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə bəs kəmz ˈɛvɚi ˌfɪfˈtin ˈmɪnəts/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I need a ticket to the last stop.",
+          "answer": "I need a ticket to the last stop.",
+          "hints": {
+            "zh": "我需要买到最后一站的票。",
+            "en": "I need a ticket to the last stop.",
+            "ja": "終点までの切符が必要です。"
+          },
+          "hint": "我需要买到最后一站的票。 / I need a ticket to the last stop. / 終点までの切符が必要です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ nid ə ˈtɪkət tə ðə læs stɑp/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Where is the nearest taxi stand?",
+          "answer": "Where is the nearest taxi stand?",
+          "hints": {
+            "zh": "最近的出租车站在哪？",
+            "en": "Where is the nearest taxi stand?",
+            "ja": "最寄りのタクシー乗り場はどこですか？"
+          },
+          "hint": "最近的出租车站在哪？ / Where is the nearest taxi stand? / 最寄りのタクシー乗り場はどこですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɛɹ ɪz ðə ˈnɪɹəst ˈtæksi stænd/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The fare increased last month.",
+          "answer": "The fare increased last month.",
+          "hints": {
+            "zh": "车费上个月涨了。",
+            "en": "The fare increased last month.",
+            "ja": "運賃が先月値上がりしました。"
+          },
+          "hint": "车费上个月涨了。 / The fare increased last month. / 運賃が先月値上がりしました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə fɛɹ ɪnˈkɹist læs mənθ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We got stuck in a traffic jam.",
+          "answer": "We got stuck in a traffic jam.",
+          "hints": {
+            "zh": "我们堵在路上了。",
+            "en": "We got stuck in a traffic jam.",
+            "ja": "渋滞にはまってしまいました。"
+          },
+          "hint": "我们堵在路上了。 / We got stuck in a traffic jam. / 渋滞にはまってしまいました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ɡɑt stək ɪn ə ˈtɹæfɪk dʒæm/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Can you write down the address for me?",
+          "answer": "Can you write down the address for me?",
+          "hints": {
+            "zh": "能帮我写下地址吗？",
+            "en": "Can you write down the address for me?",
+            "ja": "住所を書いてもらえますか？"
+          },
+          "hint": "能帮我写下地址吗？ / Can you write down the address for me? / 住所を書いてもらえますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kən ju ɹaɪt daʊn ði ˈædɹɛs fɚ mi/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The landmark is on your right.",
+          "answer": "The landmark is on your right.",
+          "hints": {
+            "zh": "地标在你右手边。",
+            "en": "The landmark is on your right.",
+            "ja": "ランドマークは右手にあります。"
+          },
+          "hint": "地标在你右手边。 / The landmark is on your right. / ランドマークは右手にあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈlændmɑɹk ɪz ɑn jɚ ɹaɪt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Transfer at the next station.",
+          "answer": "Transfer at the next station.",
+          "hints": {
+            "zh": "在下一站换乘。",
+            "en": "Transfer at the next station.",
+            "ja": "次の駅で乗り換えてください。"
+          },
+          "hint": "在下一站换乘。 / Transfer at the next station. / 次の駅で乗り換えてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɹænsˈfɝ æt ðə nɛks ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Which platform is the express train?",
+          "answer": "Which platform is the express train?",
+          "hints": {
+            "zh": "快车在哪条站台？",
+            "en": "Which platform is the express train?",
+            "ja": "快速電車はどのホームですか？"
+          },
+          "hint": "快车在哪条站台？ / Which platform is the express train? / 快速電車はどのホームですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɪtʃ ˈplætfɔɹm ɪz ði ɪksˈpɹɛs tɹeɪn/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I missed the last train tonight.",
+          "answer": "I missed the last train tonight.",
+          "hints": {
+            "zh": "我错过了今晚末班车。",
+            "en": "I missed the last train tonight.",
+            "ja": "今夜の終電に間に合いませんでした。"
+          },
+          "hint": "我错过了今晚末班车。 / I missed the last train tonight. / 今夜の終電に間に合いませんでした。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ mɪst ðə læs tɹeɪn təˈnaɪt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Is there a direct bus to the hotel?",
+          "answer": "Is there a direct bus to the hotel?",
+          "hints": {
+            "zh": "有直达酒店的公交吗？",
+            "en": "Is there a direct bus to the hotel?",
+            "ja": "ホテルまで直通バスはありますか？"
+          },
+          "hint": "有直达酒店的公交吗？ / Is there a direct bus to the hotel? / ホテルまで直通バスはありますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðɛɹ ə daɪˈɹɛkt bəs tə ðə hoʊˈtɛl/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Walk straight for two blocks.",
+          "answer": "Walk straight for two blocks.",
+          "hints": {
+            "zh": "直走两个街区。",
+            "en": "Walk straight for two blocks.",
+            "ja": "まっすぐ2ブロック歩いてください。"
+          },
+          "hint": "直走两个街区。 / Walk straight for two blocks. / まっすぐ2ブロック歩いてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɑk stɹeɪt fɚ tu blɑks/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The station is closed for maintenance.",
+          "answer": "The station is closed for maintenance.",
+          "hints": {
+            "zh": "车站因维护关闭了。",
+            "en": "The station is closed for maintenance.",
+            "ja": "駅はメンテナンスのため閉鎖されています。"
+          },
+          "hint": "车站因维护关闭了。 / The station is closed for maintenance. / 駅はメンテナンスのため閉鎖されています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsteɪʃən ɪz kloʊzd fɚ ˈmeɪntənəns/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "How far is it from here on foot?",
+          "answer": "How far is it from here on foot?",
+          "hints": {
+            "zh": "从这里步行有多远？",
+            "en": "How far is it from here on foot?",
+            "ja": "ここから歩いてどのくらいですか？"
+          },
+          "hint": "从这里步行有多远？ / How far is it from here on foot? / ここから歩いてどのくらいですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ fɑɹ ɪz ɪt fɹəm hiɹ ɑn fʊt/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please point me to the subway entrance.",
+          "answer": "Please point me to the subway entrance.",
+          "hints": {
+            "zh": "请指给我地铁入口。",
+            "en": "Please point me to the subway entrance.",
+            "ja": "地下鉄の入口を教えてください。"
+          },
+          "hint": "请指给我地铁入口。 / Please point me to the subway entrance. / 地下鉄の入口を教えてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz pɔɪnt mi tə ðə ˈsəbweɪ ˈɛntɹəns/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The round-trip ticket saves money.",
+          "answer": "The round-trip ticket saves money.",
+          "hints": {
+            "zh": "往返票更划算。",
+            "en": "The round-trip ticket saves money.",
+            "ja": "往復切符の方がお得です。"
+          },
+          "hint": "往返票更划算。 / The round-trip ticket saves money. / 往復切符の方がお得です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈɹaʊnd tɹɪp ˈtɪkət seɪvz ˈməni/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "I got off at the wrong stop.",
+          "answer": "I got off at the wrong stop.",
+          "hints": {
+            "zh": "我在错误的站下了车。",
+            "en": "I got off at the wrong stop.",
+            "ja": "間違った駅で降りてしまいました。"
+          },
+          "hint": "我在错误的站下了车。 / I got off at the wrong stop. / 間違った駅で降りてしまいました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ ɡɑt ɔf æt ðə ɹɔŋ stɑp/",
+          "audioUrl": "learning/audio/en/en-travel-directions-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

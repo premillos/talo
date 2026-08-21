@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-git-cli-dialogues",
+  "course": {
+    "title": "编程知识 · 英语 Git 与命令行 · 情景对话",
+    "description": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 英语 Git 与命令行 · 情景对话",
+      "en": "编程知识 · 英语 Git 与命令行 · 情景对话",
+      "ja": "编程知识 · 英语 Git 与命令行 · 情景对话"
+    },
+    "descriptions": {
+      "zh": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）",
+      "en": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）",
+      "ja": "Git 与终端：提交、分支、合并、拉取请求、命令行等版本控制核心用语。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Git 与终端 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "My feature branch has a merge conflict with main.",
+          "answer": "My feature branch has a merge conflict with main.",
+          "hints": {
+            "zh": "我的功能分支与 main 有合并冲突。",
+            "en": "My feature branch has a merge conflict with main.",
+            "ja": "私の機能ブランチはmainとマージコンフリクトがあります。"
+          },
+          "hint": "我的功能分支与 main 有合并冲突。 / My feature branch has a merge conflict with main. / 私の機能ブランチはmainとマージコンフリクトがあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/maɪ ˈfitʃɚ bɹæntʃ həz ə mɝdʒ ˈkɑnflɪkt wɪð meɪn/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "resolve-merge-conflict",
+          "dialogueTitles": {
+            "zh": "解决合并冲突",
+            "en": "Resolving a Merge Conflict",
+            "ja": "マージコンフリクトの解決"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在合并功能分支前处理冲突。",
+            "en": "Two developers resolve conflicts before merging a feature branch.",
+            "ja": "二人の開発者が機能ブランチをマージする前に競合を解決します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Pull the latest main and inspect the diff.",
+          "answer": "Pull the latest main and inspect the diff.",
+          "hints": {
+            "zh": "拉取最新 main 并检查差异。",
+            "en": "Pull the latest main and inspect the diff.",
+            "ja": "最新のmainをプルして差分を確認してください。"
+          },
+          "hint": "拉取最新 main 并检查差异。 / Pull the latest main and inspect the diff. / 最新のmainをプルして差分を確認してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pʊl ðə ˈleɪtəst meɪn ən ɪnˈspɛkt ðə dɪf/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "resolve-merge-conflict",
+          "dialogueTitles": {
+            "zh": "解决合并冲突",
+            "en": "Resolving a Merge Conflict",
+            "ja": "マージコンフリクトの解決"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在合并功能分支前处理冲突。",
+            "en": "Two developers resolve conflicts before merging a feature branch.",
+            "ja": "二人の開発者が機能ブランチをマージする前に競合を解決します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "马克",
+            "en": "Mark",
+            "ja": "マーク"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Both branches changed the same configuration file.",
+          "answer": "Both branches changed the same configuration file.",
+          "hints": {
+            "zh": "两个分支都修改了同一个配置文件。",
+            "en": "Both branches changed the same configuration file.",
+            "ja": "両方のブランチが同じ設定ファイルを変更しています。"
+          },
+          "hint": "两个分支都修改了同一个配置文件。 / Both branches changed the same configuration file. / 両方のブランチが同じ設定ファイルを変更しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/boʊθ ˈbɹæntʃəz tʃeɪndʒd ðə seɪm kənˌfɪɡjɚˈeɪʃən faɪl/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "resolve-merge-conflict",
+          "dialogueTitles": {
+            "zh": "解决合并冲突",
+            "en": "Resolving a Merge Conflict",
+            "ja": "マージコンフリクトの解決"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在合并功能分支前处理冲突。",
+            "en": "Two developers resolve conflicts before merging a feature branch.",
+            "ja": "二人の開発者が機能ブランチをマージする前に競合を解決します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Keep both settings and resolve the conflict manually.",
+          "answer": "Keep both settings and resolve the conflict manually.",
+          "hints": {
+            "zh": "保留两项设置并手动解决冲突。",
+            "en": "Keep both settings and resolve the conflict manually.",
+            "ja": "両方の設定を残して手動で競合を解決してください。"
+          },
+          "hint": "保留两项设置并手动解决冲突。 / Keep both settings and resolve the conflict manually. / 両方の設定を残して手動で競合を解決してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kip boʊθ ˈsɛtɪŋz ən ɹiˈzɑlv ðə ˈkɑnflɪkt ˈmænjuəli/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "resolve-merge-conflict",
+          "dialogueTitles": {
+            "zh": "解决合并冲突",
+            "en": "Resolving a Merge Conflict",
+            "ja": "マージコンフリクトの解決"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在合并功能分支前处理冲突。",
+            "en": "Two developers resolve conflicts before merging a feature branch.",
+            "ja": "二人の開発者が機能ブランチをマージする前に競合を解決します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "马克",
+            "en": "Mark",
+            "ja": "マーク"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "The tests pass, so I will create a new commit.",
+          "answer": "The tests pass, so I will create a new commit.",
+          "hints": {
+            "zh": "测试通过了，所以我要创建一个新提交。",
+            "en": "The tests pass, so I will create a new commit.",
+            "ja": "テストが通ったので、新しいコミットを作成します。"
+          },
+          "hint": "测试通过了，所以我要创建一个新提交。 / The tests pass, so I will create a new commit. / テストが通ったので、新しいコミットを作成します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə tɛsts pæs soʊ aɪ wəl kɹiˈeɪt ə nju kəˈmɪt/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "resolve-merge-conflict",
+          "dialogueTitles": {
+            "zh": "解决合并冲突",
+            "en": "Resolving a Merge Conflict",
+            "ja": "マージコンフリクトの解決"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在合并功能分支前处理冲突。",
+            "en": "Two developers resolve conflicts before merging a feature branch.",
+            "ja": "二人の開発者が機能ブランチをマージする前に競合を解決します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Push the branch and update the pull request.",
+          "answer": "Push the branch and update the pull request.",
+          "hints": {
+            "zh": "推送分支并更新拉取请求。",
+            "en": "Push the branch and update the pull request.",
+            "ja": "ブランチをプッシュしてプルリクエストを更新してください。"
+          },
+          "hint": "推送分支并更新拉取请求。 / Push the branch and update the pull request. / ブランチをプッシュしてプルリクエストを更新してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pʊʃ ðə bɹæntʃ ən əpˈdeɪt ðə pʊl ɹiˈkwɛst/",
+          "audioUrl": "learning/audio/en/en-prog-git-cli-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "resolve-merge-conflict",
+          "dialogueTitles": {
+            "zh": "解决合并冲突",
+            "en": "Resolving a Merge Conflict",
+            "ja": "マージコンフリクトの解決"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者在合并功能分支前处理冲突。",
+            "en": "Two developers resolve conflicts before merging a feature branch.",
+            "ja": "二人の開発者が機能ブランチをマージする前に競合を解決します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "马克",
+            "en": "Mark",
+            "ja": "マーク"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

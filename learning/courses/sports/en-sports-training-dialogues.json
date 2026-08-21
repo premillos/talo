@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "sports",
+  "slug": "en-sports-training-dialogues",
+  "course": {
+    "title": "运动 · 英语日常 · 情景对话",
+    "description": "学习训练、比赛和观赛场景中的常用英语表达。（男女情景对话）",
+    "titles": {
+      "zh": "运动 · 英语训练 · 情景对话",
+      "en": "Sports · English Training · Situational Dialogues",
+      "ja": "スポーツ · 英語トレーニング · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习日常训练、比赛与观赛中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for everyday training, matches, and sports viewing.",
+      "ja": "日常の練習・試合・観戦で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语运动表达 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Would you like to go running on Saturday morning?",
+          "answer": "Would you like to go running on Saturday morning?",
+          "hints": {
+            "zh": "周六早上想一起跑步吗？",
+            "en": "Would you like to go running on Saturday morning?",
+            "ja": "土曜日の朝、一緒に走りませんか。"
+          },
+          "hint": "周六早上想一起跑步吗？ / Would you like to go running on Saturday morning? / 土曜日の朝、一緒に走りませんか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wəd ju laɪk tə ɡoʊ ˈɹənɪŋ ɑn ˈsæˌtɪˌdeɪ ˈmɔɹnɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-training-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "planning-a-weekend-workout",
+          "dialogueTitles": {
+            "zh": "周末训练计划",
+            "en": "Planning a Weekend Workout",
+            "ja": "週末の運動計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚商量周末一起训练。",
+            "en": "Emma and Noah plan a workout for the weekend.",
+            "ja": "エマとノアが週末の運動について相談します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, let us meet at the park entrance.",
+          "answer": "Yes, let us meet at the park entrance.",
+          "hints": {
+            "zh": "好啊，我们在公园入口见吧。",
+            "en": "Yes, let us meet at the park entrance.",
+            "ja": "いいですね。公園の入り口で会いましょう。"
+          },
+          "hint": "好啊，我们在公园入口见吧。 / Yes, let us meet at the park entrance. / いいですね。公園の入り口で会いましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs lɛt əs mit æt ðə pɑɹk ˈɛntɹəns/",
+          "audioUrl": "learning/audio/en/en-sports-training-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "planning-a-weekend-workout",
+          "dialogueTitles": {
+            "zh": "周末训练计划",
+            "en": "Planning a Weekend Workout",
+            "ja": "週末の運動計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚商量周末一起训练。",
+            "en": "Emma and Noah plan a workout for the weekend.",
+            "ja": "エマとノアが週末の運動について相談します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "We should warm up for ten minutes first.",
+          "answer": "We should warm up for ten minutes first.",
+          "hints": {
+            "zh": "跑步前我们先热身十分钟。",
+            "en": "We should warm up for ten minutes first.",
+            "ja": "走る前に十分間準備運動をしましょう。"
+          },
+          "hint": "跑步前我们先热身十分钟。 / We should warm up for ten minutes first. / 走る前に十分間準備運動をしましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ʃəd wɔɹm əp fɚ tɛn ˈmɪnəts fɝst/",
+          "audioUrl": "learning/audio/en/en-sports-training-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "planning-a-weekend-workout",
+          "dialogueTitles": {
+            "zh": "周末训练计划",
+            "en": "Planning a Weekend Workout",
+            "ja": "週末の運動計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚商量周末一起训练。",
+            "en": "Emma and Noah plan a workout for the weekend.",
+            "ja": "エマとノアが週末の運動について相談します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I will bring water and a sports towel.",
+          "answer": "I will bring water and a sports towel.",
+          "hints": {
+            "zh": "我会带水和运动毛巾。",
+            "en": "I will bring water and a sports towel.",
+            "ja": "水とスポーツタオルを持っていきます。"
+          },
+          "hint": "我会带水和运动毛巾。 / I will bring water and a sports towel. / 水とスポーツタオルを持っていきます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəl bɹɪŋ ˈwɔtɚ ən ə spɔɹts ˈtaʊəl/",
+          "audioUrl": "learning/audio/en/en-sports-training-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "planning-a-weekend-workout",
+          "dialogueTitles": {
+            "zh": "周末训练计划",
+            "en": "Planning a Weekend Workout",
+            "ja": "週末の運動計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚商量周末一起训练。",
+            "en": "Emma and Noah plan a workout for the weekend.",
+            "ja": "エマとノアが週末の運動について相談します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "After the run, we can stretch together.",
+          "answer": "After the run, we can stretch together.",
+          "hints": {
+            "zh": "跑完以后我们可以拉伸一下。",
+            "en": "After the run, we can stretch together.",
+            "ja": "走った後、一緒にストレッチできます。"
+          },
+          "hint": "跑完以后我们可以拉伸一下。 / After the run, we can stretch together. / 走った後、一緒にストレッチできます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈæftɚ ðə ɹən wi kən stɹɛtʃ təˈɡɛðɚ/",
+          "audioUrl": "learning/audio/en/en-sports-training-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "planning-a-weekend-workout",
+          "dialogueTitles": {
+            "zh": "周末训练计划",
+            "en": "Planning a Weekend Workout",
+            "ja": "週末の運動計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚商量周末一起训练。",
+            "en": "Emma and Noah plan a workout for the weekend.",
+            "ja": "エマとノアが週末の運動について相談します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great, it will be a good workout.",
+          "answer": "Great, it will be a good workout.",
+          "hints": {
+            "zh": "太好了，这会是一场很棒的训练。",
+            "en": "Great, it will be a good workout.",
+            "ja": "いいですね。良い運動になりそうです。"
+          },
+          "hint": "太好了，这会是一场很棒的训练。 / Great, it will be a good workout. / いいですね。良い運動になりそうです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt ɪt wəl bi ə ɡʊd ˈwɝkaʊt/",
+          "audioUrl": "learning/audio/en/en-sports-training-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "planning-a-weekend-workout",
+          "dialogueTitles": {
+            "zh": "周末训练计划",
+            "en": "Planning a Weekend Workout",
+            "ja": "週末の運動計画"
+          },
+          "dialogueScenes": {
+            "zh": "艾玛和诺亚商量周末一起训练。",
+            "en": "Emma and Noah plan a workout for the weekend.",
+            "ja": "エマとノアが週末の運動について相談します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

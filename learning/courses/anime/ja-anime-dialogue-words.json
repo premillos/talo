@@ -1,0 +1,579 @@
+{
+  "languageCode": "ja",
+  "category": "anime",
+  "slug": "ja-anime-dialogue-words",
+  "course": {
+    "title": "二次元/动漫 · 日语台词 · 词汇",
+    "description": "练习动漫场景中常见的日语台词与日常表达。（单词与短语）",
+    "titles": {
+      "zh": "二次元/动漫 · 日语台词 · 词汇",
+      "en": "Anime & ACG · Japanese Dialogue · Vocabulary",
+      "ja": "アニメ・ACG · 日本語セリフ · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习动漫台词中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for anime dialogue.",
+      "ja": "アニメのセリフで使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "场景常用句",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "おはよう",
+          "answer": "おはよう",
+          "hints": {
+            "zh": "早上好",
+            "en": "good morning",
+            "ja": "おはよう"
+          },
+          "hint": "早上好 / good morning / おはよう",
+          "furigana": "おはよう",
+          "romaji": "ohayou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "こんにちは",
+          "answer": "こんにちは",
+          "hints": {
+            "zh": "你好；下午好",
+            "en": "hello; good afternoon",
+            "ja": "こんにちは"
+          },
+          "hint": "你好；下午好 / hello; good afternoon / こんにちは",
+          "furigana": "こんにちは",
+          "romaji": "kon'nichiha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "ありがとう",
+          "answer": "ありがとう",
+          "hints": {
+            "zh": "谢谢",
+            "en": "thank you",
+            "ja": "ありがとう"
+          },
+          "hint": "谢谢 / thank you / ありがとう",
+          "furigana": "ありがとう",
+          "romaji": "arigatou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "ごめん",
+          "answer": "ごめん",
+          "hints": {
+            "zh": "对不起；抱歉",
+            "en": "sorry",
+            "ja": "ごめん"
+          },
+          "hint": "对不起；抱歉 / sorry / ごめん",
+          "furigana": "ごめん",
+          "romaji": "gomen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/04.wav",
+          "acceptVariants": [
+            "ごめんなさい"
+          ],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "うそ",
+          "answer": "うそ",
+          "hints": {
+            "zh": "骗人；不会吧",
+            "en": "no way; lie",
+            "ja": "うそ"
+          },
+          "hint": "骗人；不会吧 / no way; lie / うそ",
+          "furigana": "うそ",
+          "romaji": "uso",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "マジ",
+          "answer": "マジ",
+          "hints": {
+            "zh": "真的；认真的",
+            "en": "seriously; for real",
+            "ja": "マジ"
+          },
+          "hint": "真的；认真的 / seriously; for real / マジ",
+          "furigana": "マジ",
+          "romaji": "maji",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/06.wav",
+          "acceptVariants": [
+            "本当"
+          ],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "やばい",
+          "answer": "やばい",
+          "hints": {
+            "zh": "糟了；太厉害了",
+            "en": "awesome; oh no",
+            "ja": "やばい"
+          },
+          "hint": "糟了；太厉害了 / awesome; oh no / やばい",
+          "furigana": "やばい",
+          "romaji": "yabai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "すごい",
+          "answer": "すごい",
+          "hints": {
+            "zh": "好厉害；太棒了",
+            "en": "amazing; great",
+            "ja": "すごい"
+          },
+          "hint": "好厉害；太棒了 / amazing; great / すごい",
+          "furigana": "すごい",
+          "romaji": "sugoi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "かわいい",
+          "answer": "かわいい",
+          "hints": {
+            "zh": "好可爱",
+            "en": "cute",
+            "ja": "かわいい"
+          },
+          "hint": "好可爱 / cute / かわいい",
+          "furigana": "かわいい",
+          "romaji": "kawaii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "最高",
+          "answer": "最高",
+          "hints": {
+            "zh": "最棒；太好了",
+            "en": "the best; awesome",
+            "ja": "最高"
+          },
+          "hint": "最棒；太好了 / the best; awesome / 最高",
+          "furigana": "さいこう",
+          "romaji": "saikou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "大丈夫",
+          "answer": "大丈夫",
+          "hints": {
+            "zh": "没问题；没事",
+            "en": "it's okay; fine",
+            "ja": "大丈夫"
+          },
+          "hint": "没问题；没事 / it's okay; fine / 大丈夫",
+          "furigana": "だいじょうぶ",
+          "romaji": "daijoubu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "頑張れ",
+          "answer": "頑張れ",
+          "hints": {
+            "zh": "加油",
+            "en": "do your best; hang in there",
+            "ja": "頑張れ"
+          },
+          "hint": "加油 / do your best; hang in there / 頑張れ",
+          "furigana": "がんばれ",
+          "romaji": "ganbare",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お疲れ様",
+          "answer": "お疲れ様",
+          "hints": {
+            "zh": "辛苦了",
+            "en": "thanks for your hard work",
+            "ja": "お疲れ様"
+          },
+          "hint": "辛苦了 / thanks for your hard work / お疲れ様",
+          "furigana": "おつかれさま",
+          "romaji": "otsukaresama",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/13.wav",
+          "acceptVariants": [
+            "お疲れ様です"
+          ],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "よろしくお願いします",
+          "answer": "よろしくお願いします",
+          "hints": {
+            "zh": "请多关照",
+            "en": "please treat me well",
+            "ja": "よろしくお願いします"
+          },
+          "hint": "请多关照 / please treat me well / よろしくお願いします",
+          "furigana": "よろしくおねがいします",
+          "romaji": "yoroshikuonegaishimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "気をつけて",
+          "answer": "気をつけて",
+          "hints": {
+            "zh": "小心；路上小心",
+            "en": "take care; be careful",
+            "ja": "気をつけて"
+          },
+          "hint": "小心；路上小心 / take care; be careful / 気をつけて",
+          "furigana": "きをつけて",
+          "romaji": "kiwotsukete",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "またね",
+          "answer": "またね",
+          "hints": {
+            "zh": "回头见；拜拜",
+            "en": "see you later",
+            "ja": "またね"
+          },
+          "hint": "回头见；拜拜 / see you later / またね",
+          "furigana": "またね",
+          "romaji": "matane",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "行ってきます",
+          "answer": "行ってきます",
+          "hints": {
+            "zh": "我出门了",
+            "en": "I'm leaving (and coming back)",
+            "ja": "行ってきます"
+          },
+          "hint": "我出门了 / I'm leaving (and coming back) / 行ってきます",
+          "furigana": "いってきます",
+          "romaji": "ittekimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ただいま",
+          "answer": "ただいま",
+          "hints": {
+            "zh": "我回来了",
+            "en": "I'm home",
+            "ja": "ただいま"
+          },
+          "hint": "我回来了 / I'm home / ただいま",
+          "furigana": "ただいま",
+          "romaji": "tadaima",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "おかえり",
+          "answer": "おかえり",
+          "hints": {
+            "zh": "欢迎回来",
+            "en": "welcome back",
+            "ja": "おかえり"
+          },
+          "hint": "欢迎回来 / welcome back / おかえり",
+          "furigana": "おかえり",
+          "romaji": "okaeri",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/19.wav",
+          "acceptVariants": [
+            "おかえりなさい"
+          ],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "信じられない",
+          "answer": "信じられない",
+          "hints": {
+            "zh": "难以置信",
+            "en": "I can't believe it",
+            "ja": "信じられない"
+          },
+          "hint": "难以置信 / I can't believe it / 信じられない",
+          "furigana": "しんじられない",
+          "romaji": "shinjirarenai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "頑張って",
+          "answer": "頑張って",
+          "hints": {
+            "zh": "加油；努力吧",
+            "en": "good luck; do your best",
+            "ja": "頑張って"
+          },
+          "hint": "加油；努力吧 / good luck; do your best / 頑張って",
+          "furigana": "がんばって",
+          "romaji": "ganbatte",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "任せて",
+          "answer": "任せて",
+          "hints": {
+            "zh": "交给我吧",
+            "en": "leave it to me",
+            "ja": "任せて"
+          },
+          "hint": "交给我吧 / leave it to me / 任せて",
+          "furigana": "まかせて",
+          "romaji": "makasete",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "絶対に負けない",
+          "answer": "絶対に負けない",
+          "hints": {
+            "zh": "绝对不输",
+            "en": "I will never lose",
+            "ja": "絶対に負けない"
+          },
+          "hint": "绝对不输 / I will never lose / 絶対に負けない",
+          "furigana": "ぜったいにまけない",
+          "romaji": "zettainimakenai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "必殺技",
+          "answer": "必殺技",
+          "hints": {
+            "zh": "必杀技",
+            "en": "special finishing move",
+            "ja": "必殺技"
+          },
+          "hint": "必杀技 / special finishing move / 必殺技",
+          "furigana": "ひっさつわざ",
+          "romaji": "hissatsuwaza",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "覚醒",
+          "answer": "覚醒",
+          "hints": {
+            "zh": "觉醒",
+            "en": "awakening power-up",
+            "ja": "覚醒"
+          },
+          "hint": "觉醒 / awakening power-up / 覚醒",
+          "furigana": "かくせい",
+          "romaji": "kakusei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "仲間",
+          "answer": "仲間",
+          "hints": {
+            "zh": "伙伴",
+            "en": "comrade; friend",
+            "ja": "仲間"
+          },
+          "hint": "伙伴 / comrade; friend / 仲間",
+          "furigana": "なかま",
+          "romaji": "nakama",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "敵",
+          "answer": "敵",
+          "hints": {
+            "zh": "敌人",
+            "en": "enemy",
+            "ja": "敵"
+          },
+          "hint": "敌人 / enemy / 敵",
+          "furigana": "てき",
+          "romaji": "teki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "勝利",
+          "answer": "勝利",
+          "hints": {
+            "zh": "胜利",
+            "en": "victory",
+            "ja": "勝利"
+          },
+          "hint": "胜利 / victory / 勝利",
+          "furigana": "しょうり",
+          "romaji": "shouri",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "運命",
+          "answer": "運命",
+          "hints": {
+            "zh": "命运",
+            "en": "fate; destiny",
+            "ja": "運命"
+          },
+          "hint": "命运 / fate; destiny / 運命",
+          "furigana": "うんめい",
+          "romaji": "unmei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "信じてください",
+          "answer": "信じてください",
+          "hints": {
+            "zh": "请相信我",
+            "en": "please believe me",
+            "ja": "信じてください"
+          },
+          "hint": "请相信我 / please believe me / 信じてください",
+          "furigana": "しんじてください",
+          "romaji": "shinjitekudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Talo",
+  "short_name": "Talo",
+  "description": "把语言学习，变成一场游戏。免费练日语、英语打字，进度本地加密保存。",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "lang": "zh-CN",
+  "categories": ["education", "games"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "brand/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "brand/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "brand/pwa-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "日语练习",
+      "short_name": "日语",
+      "url": "./learn/ja",
+      "icons": [{ "src": "brand/pwa-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "英语练习",
+      "short_name": "英语",
+      "url": "./learn/en",
+      "icons": [{ "src": "brand/pwa-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "quotes",
+  "slug": "ja-quotes-life-sentences",
+  "course": {
+    "title": "名言名句 · 日语人生 · 句子",
+    "description": "通过关于时间、选择与成长的人生格言练习整句输入。（常用句子）",
+    "titles": {
+      "zh": "名言名句 · 日语人生 · 句子",
+      "en": "Quotes & Wisdom · Japanese Life · Sentences",
+      "ja": "名言・格言 · 日本語人生 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习生活态度与人生智慧中的常用日语句子。",
+      "en": "Practice common Japanese sentences for attitudes toward life and everyday wisdom.",
+      "ja": "生き方と日々の知恵で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语人生格言 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "人生は注いだ思いやりによって意味を持つ。",
+          "answer": "人生は注いだ思いやりによって意味を持つ。",
+          "hints": {
+            "zh": "人生因我们付出的关怀而有意义。",
+            "en": "Life becomes meaningful through the care we give.",
+            "ja": "人生は注いだ思いやりによって意味を持つ。"
+          },
+          "hint": "人生因我们付出的关怀而有意义。 / Life becomes meaningful through the care we give. / 人生は注いだ思いやりによって意味を持つ。",
+          "furigana": "じんせいはそそいだおもいやりによっていみをもつ。",
+          "romaji": "jinseihasosoidaomoiyariniyotteimiwomotsu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "今日は自分だけが書ける一枚の頁だ。",
+          "answer": "今日は自分だけが書ける一枚の頁だ。",
+          "hints": {
+            "zh": "今天是只有你能书写的一页。",
+            "en": "Today is a page that only you can write.",
+            "ja": "今日は自分だけが書ける一枚の頁だ。"
+          },
+          "hint": "今天是只有你能书写的一页。 / Today is a page that only you can write. / 今日は自分だけが書ける一枚の頁だ。",
+          "furigana": "きょうはじぶんだけがかけるいちまいのぺーじだ。",
+          "romaji": "kyouhajibundakegakakeruichimainopeejida.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "簡素な暮らしには深い喜びの余地がある。",
+          "answer": "簡素な暮らしには深い喜びの余地がある。",
+          "hints": {
+            "zh": "简单的生活为深沉的喜悦留下空间。",
+            "en": "A simple life leaves room for deep joy.",
+            "ja": "簡素な暮らしには深い喜びの余地がある。"
+          },
+          "hint": "简单的生活为深沉的喜悦留下空间。 / A simple life leaves room for deep joy. / 簡素な暮らしには深い喜びの余地がある。",
+          "furigana": "かんそなくらしにはふかいよろこびのよちがある。",
+          "romaji": "kansonakurashinihafukaiyorokobinoyochigaaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "育てたものがやがて日々の姿になる。",
+          "answer": "育てたものがやがて日々の姿になる。",
+          "hints": {
+            "zh": "我们悉心培养的事物终会成为生活的模样。",
+            "en": "What we nurture is what our days become.",
+            "ja": "育てたものがやがて日々の姿になる。"
+          },
+          "hint": "我们悉心培养的事物终会成为生活的模样。 / What we nurture is what our days become. / 育てたものがやがて日々の姿になる。",
+          "furigana": "そだてたものがやがてひびのすがたになる。",
+          "romaji": "sodatetamonogayagatehibinosugataninaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "目的を持って使う時間は空しくならない。",
+          "answer": "目的を持って使う時間は空しくならない。",
+          "hints": {
+            "zh": "有目标地使用时间，就不会感到空虚。",
+            "en": "Time used with purpose never feels empty.",
+            "ja": "目的を持って使う時間は空しくならない。"
+          },
+          "hint": "有目标地使用时间，就不会感到空虚。 / Time used with purpose never feels empty. / 目的を持って使う時間は空しくならない。",
+          "furigana": "もくてきをもってつかうじかんはむなしくならない。",
+          "romaji": "mokutekiwomottetsukaujikanhamunashikunaranai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "穏やかな夜は誠実な一日から生まれる。",
+          "answer": "穏やかな夜は誠実な一日から生まれる。",
+          "hints": {
+            "zh": "安宁的夜晚始于诚实度过的一天。",
+            "en": "A peaceful evening begins with an honest day.",
+            "ja": "穏やかな夜は誠実な一日から生まれる。"
+          },
+          "hint": "安宁的夜晚始于诚实度过的一天。 / A peaceful evening begins with an honest day. / 穏やかな夜は誠実な一日から生まれる。",
+          "furigana": "おだやかなよるはせいじつないちにちからうまれる。",
+          "romaji": "odayakanayoruhaseijitsunaichinichikaraumareru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "人生の向きは日常の選択で変わる。",
+          "answer": "人生の向きは日常の選択で変わる。",
+          "hints": {
+            "zh": "人生会因日常选择而改变方向。",
+            "en": "Life changes direction through ordinary choices.",
+            "ja": "人生の向きは日常の選択で変わる。"
+          },
+          "hint": "人生会因日常选择而改变方向。 / Life changes direction through ordinary choices. / 人生の向きは日常の選択で変わる。",
+          "furigana": "じんせいのむきはにちじょうのせんたくでかわる。",
+          "romaji": "jinseinomukihanichijounosentakudekawaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "足ることは満ち足りた心が知る宝だ。",
+          "answer": "足ることは満ち足りた心が知る宝だ。",
+          "hints": {
+            "zh": "知足是满足之心懂得的宝物。",
+            "en": "Enough is a treasure known by a contented heart.",
+            "ja": "足ることは満ち足りた心が知る宝だ。"
+          },
+          "hint": "知足是满足之心懂得的宝物。 / Enough is a treasure known by a contented heart. / 足ることは満ち足りた心が知る宝だ。",
+          "furigana": "たることはみちたりたこころがしるたからだ。",
+          "romaji": "tarukotohamichitaritakokorogashirutakarada.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "心を配って歩くうちに自分の道が見つかる。",
+          "answer": "心を配って歩くうちに自分の道が見つかる。",
+          "hints": {
+            "zh": "专注地前行，便能找到自己的道路。",
+            "en": "We find our path by walking with attention.",
+            "ja": "心を配って歩くうちに自分の道が見つかる。"
+          },
+          "hint": "专注地前行，便能找到自己的道路。 / We find our path by walking with attention. / 心を配って歩くうちに自分の道が見つかる。",
+          "furigana": "こころをくばってあるくうちにじぶんのみちがみつかる。",
+          "romaji": "kokorowokubattearukuuchinijibun'nomichigamitsukaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "惜しまず差し出す一時間が長い年月を照らす。",
+          "answer": "惜しまず差し出す一時間が長い年月を照らす。",
+          "hints": {
+            "zh": "慷慨付出的一小时能照亮许多年。",
+            "en": "A generous hour can brighten many years.",
+            "ja": "惜しまず差し出す一時間が長い年月を照らす。"
+          },
+          "hint": "慷慨付出的一小时能照亮许多年。 / A generous hour can brighten many years. / 惜しまず差し出す一時間が長い年月を照らす。",
+          "furigana": "おしまずさしだすいちじかんがながいとしつきをてらす。",
+          "romaji": "oshimazusashidasuichijikanganagaitoshitsukiwoterasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "休息は道の終わりではなく道の一部だ。",
+          "answer": "休息は道の終わりではなく道の一部だ。",
+          "hints": {
+            "zh": "休息是道路的一部分，而不是终点。",
+            "en": "Rest is part of the road, not its end.",
+            "ja": "休息は道の終わりではなく道の一部だ。"
+          },
+          "hint": "休息是道路的一部分，而不是终点。 / Rest is part of the road, not its end. / 休息は道の終わりではなく道の一部だ。",
+          "furigana": "きゅうそくはみちのおわりではなくみちのいちぶだ。",
+          "romaji": "kyuusokuhamichinoowaridehanakumichinoichibuda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "季節は変化を迎えることを教えてくれる。",
+          "answer": "季節は変化を迎えることを教えてくれる。",
+          "hints": {
+            "zh": "四季教会我们迎接变化。",
+            "en": "The seasons teach us to welcome change.",
+            "ja": "季節は変化を迎えることを教えてくれる。"
+          },
+          "hint": "四季教会我们迎接变化。 / The seasons teach us to welcome change. / 季節は変化を迎えることを教えてくれる。",
+          "furigana": "きせつはへんかをむかえることをおしえてくれる。",
+          "romaji": "kisetsuhahenkawomukaerukotowooshietekureru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "実りある一日は心を込めた一分一分からできる。",
+          "answer": "実りある一日は心を込めた一分一分からできる。",
+          "hints": {
+            "zh": "充实的一天由用心度过的每一分钟组成。",
+            "en": "A useful day is built from mindful minutes.",
+            "ja": "実りある一日は心を込めた一分一分からできる。"
+          },
+          "hint": "充实的一天由用心度过的每一分钟组成。 / A useful day is built from mindful minutes. / 実りある一日は心を込めた一分一分からできる。",
+          "furigana": "みのりあるいちにちはこころをこめたいっぷんいっぷんからできる。",
+          "romaji": "minoriaruichinichihakokorowokometaippun'ippunkaradekiru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大切なものを残し心を重くするものは手放そう。",
+          "answer": "大切なものを残し心を重くするものは手放そう。",
+          "hints": {
+            "zh": "留下重要之物，放下沉重负担。",
+            "en": "Keep what matters and release what weighs you down.",
+            "ja": "大切なものを残し心を重くするものは手放そう。"
+          },
+          "hint": "留下重要之物，放下沉重负担。 / Keep what matters and release what weighs you down. / 大切なものを残し心を重くするものは手放そう。",
+          "furigana": "たいせつなものをのこしこころをおもくするものはてばなそう。",
+          "romaji": "taisetsunamonowonokoshikokorowoomokusurumonohatebanasou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "立ち止まって気づく人に人生は深みを見せる。",
+          "answer": "立ち止まって気づく人に人生は深みを見せる。",
+          "hints": {
+            "zh": "人生会向停下来观察的人展现深度。",
+            "en": "Life offers depth to those who pause and notice.",
+            "ja": "立ち止まって気づく人に人生は深みを見せる。"
+          },
+          "hint": "人生会向停下来观察的人展现深度。 / Life offers depth to those who pause and notice. / 立ち止まって気づく人に人生は深みを見せる。",
+          "furigana": "たちどまってきづくひとにじんせいはふかみをみせる。",
+          "romaji": "tachidomattekizukuhitonijinseihafukamiwomiseru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "温かな家は辛抱強い心で作られる。",
+          "answer": "温かな家は辛抱強い心で作られる。",
+          "hints": {
+            "zh": "温暖的家由耐心的心共同建成。",
+            "en": "A warm home is made by patient hearts.",
+            "ja": "温かな家は辛抱強い心で作られる。"
+          },
+          "hint": "温暖的家由耐心的心共同建成。 / A warm home is made by patient hearts. / 温かな家は辛抱強い心で作られる。",
+          "furigana": "あたたかないえはしんぼうづよいこころでつくられる。",
+          "romaji": "atatakanaiehashinbouzuyoikokorodetsukurareru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "感謝を迎えると一日は明るくなる。",
+          "answer": "感謝を迎えると一日は明るくなる。",
+          "hints": {
+            "zh": "心怀感恩，一天就会变得明亮。",
+            "en": "The day grows lighter when gratitude enters.",
+            "ja": "感謝を迎えると一日は明るくなる。"
+          },
+          "hint": "心怀感恩，一天就会变得明亮。 / The day grows lighter when gratitude enters. / 感謝を迎えると一日は明るくなる。",
+          "furigana": "かんしゃをむかえるといちにちはあかるくなる。",
+          "romaji": "kanshawomukaerutoichinichihaakarukunaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "速さよりも進む方向が大切だ。",
+          "answer": "速さよりも進む方向が大切だ。",
+          "hints": {
+            "zh": "前进的方向比速度更重要。",
+            "en": "Our direction matters more than our speed.",
+            "ja": "速さよりも進む方向が大切だ。"
+          },
+          "hint": "前进的方向比速度更重要。 / Our direction matters more than our speed. / 速さよりも進む方向が大切だ。",
+          "furigana": "はやさよりもすすむほうこうがたいせつだ。",
+          "romaji": "hayasayorimosusumuhoukougataisetsuda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "豊かな人生には笑いも涙もある。",
+          "answer": "豊かな人生には笑いも涙もある。",
+          "hints": {
+            "zh": "充实的人生既有欢笑也有泪水。",
+            "en": "A full life includes both laughter and tears.",
+            "ja": "豊かな人生には笑いも涙もある。"
+          },
+          "hint": "充实的人生既有欢笑也有泪水。 / A full life includes both laughter and tears. / 豊かな人生には笑いも涙もある。",
+          "furigana": "ゆたかなじんせいにはわらいもなみだもある。",
+          "romaji": "yutakanajinseinihawaraimonamidamoaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "訪れた場所に少し多くの優しさを残そう。",
+          "answer": "訪れた場所に少し多くの優しさを残そう。",
+          "hints": {
+            "zh": "离开每个地方时，都留下一点更多的善意。",
+            "en": "Leave every place a little kinder than you found it.",
+            "ja": "訪れた場所に少し多くの優しさを残そう。"
+          },
+          "hint": "离开每个地方时，都留下一点更多的善意。 / Leave every place a little kinder than you found it. / 訪れた場所に少し多くの優しさを残そう。",
+          "furigana": "おとずれたばしょにすこしおおくのやさしさをのこそう。",
+          "romaji": "otozuretabashonisukoshiookunoyasashisawonokosou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "今この時には心のすべてを向ける価値がある。",
+          "answer": "今この時には心のすべてを向ける価値がある。",
+          "hints": {
+            "zh": "当下值得我们全心投入。",
+            "en": "The present deserves our complete attention.",
+            "ja": "今この時には心のすべてを向ける価値がある。"
+          },
+          "hint": "当下值得我们全心投入。 / The present deserves our complete attention. / 今この時には心のすべてを向ける価値がある。",
+          "furigana": "いまこのときにはこころのすべてをむけるかちがある。",
+          "romaji": "imakonotokinihakokoronosubetewomukerukachigaaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "昔の後悔に新しい朝を任せなくてよい。",
+          "answer": "昔の後悔に新しい朝を任せなくてよい。",
+          "hints": {
+            "zh": "不必让过去的遗憾支配新的早晨。",
+            "en": "Old regrets need not govern new mornings.",
+            "ja": "昔の後悔に新しい朝を任せなくてよい。"
+          },
+          "hint": "不必让过去的遗憾支配新的早晨。 / Old regrets need not govern new mornings. / 昔の後悔に新しい朝を任せなくてよい。",
+          "furigana": "むかしのこうかいにあたらしいあさをまかせなくてよい。",
+          "romaji": "mukashinokoukainiatarashiiasawomakasenakuteyoi.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "整った人生は務めと喜びの両方に耳を傾ける。",
+          "answer": "整った人生は務めと喜びの両方に耳を傾ける。",
+          "hints": {
+            "zh": "平衡的人生兼顾责任与喜悦。",
+            "en": "A balanced life listens to both duty and delight.",
+            "ja": "整った人生は務めと喜びの両方に耳を傾ける。"
+          },
+          "hint": "平衡的人生兼顾责任与喜悦。 / A balanced life listens to both duty and delight. / 整った人生は務めと喜びの両方に耳を傾ける。",
+          "furigana": "ととのったじんせいはつとめとよろこびのりょうほうにみみをかたむける。",
+          "romaji": "totonottajinseihatsutometoyorokobinoryouhounimimiwokatamukeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "小さな親切もその時を越えて残る。",
+          "answer": "小さな親切もその時を越えて残る。",
+          "hints": {
+            "zh": "最微小的善意也能超越当下而长存。",
+            "en": "The smallest kindness can outlive the moment.",
+            "ja": "小さな親切もその時を越えて残る。"
+          },
+          "hint": "最微小的善意也能超越当下而长存。 / The smallest kindness can outlive the moment. / 小さな親切もその時を越えて残る。",
+          "furigana": "ちいさなしんせつもそのときをこえてのこる。",
+          "romaji": "chiisanashinsetsumosonotokiwokoetenokoru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "好奇心が目覚めていると人生は豊かになる。",
+          "answer": "好奇心が目覚めていると人生は豊かになる。",
+          "hints": {
+            "zh": "保持好奇，人生会更加丰富。",
+            "en": "Life is richer when curiosity stays awake.",
+            "ja": "好奇心が目覚めていると人生は豊かになる。"
+          },
+          "hint": "保持好奇，人生会更加丰富。 / Life is richer when curiosity stays awake. / 好奇心が目覚めていると人生は豊かになる。",
+          "furigana": "こうきしんがめざめているとじんせいはゆたかになる。",
+          "romaji": "koukishingamezameteirutojinseihayutakaninaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "明日へ持って行く価値のある思い出を選ぼう。",
+          "answer": "明日へ持って行く価値のある思い出を選ぼう。",
+          "hints": {
+            "zh": "选择值得带到明天的回忆。",
+            "en": "Choose memories worth carrying into tomorrow.",
+            "ja": "明日へ持って行く価値のある思い出を選ぼう。"
+          },
+          "hint": "选择值得带到明天的回忆。 / Choose memories worth carrying into tomorrow. / 明日へ持って行く価値のある思い出を選ぼう。",
+          "furigana": "あしたへもっていくかちのあるおもいでをえらぼう。",
+          "romaji": "ashitahemotteikukachinoaruomoidewoerabou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "謙虚な心はどんな成功も軽やかにする。",
+          "answer": "謙虚な心はどんな成功も軽やかにする。",
+          "hints": {
+            "zh": "谦逊之心让每一次成功都更从容。",
+            "en": "A humble heart makes every success lighter.",
+            "ja": "謙虚な心はどんな成功も軽やかにする。"
+          },
+          "hint": "谦逊之心让每一次成功都更从容。 / A humble heart makes every success lighter. / 謙虚な心はどんな成功も軽やかにする。",
+          "furigana": "けんきょなこころはどんなせいこうもかろやかにする。",
+          "romaji": "kenkyonakokorohadon'naseikoumokaroyakanisuru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "意味は日々の仕事の中に隠れていることが多い。",
+          "answer": "意味は日々の仕事の中に隠れていることが多い。",
+          "hints": {
+            "zh": "意义常常藏在平凡的工作里。",
+            "en": "Meaning often hides inside ordinary work.",
+            "ja": "意味は日々の仕事の中に隠れていることが多い。"
+          },
+          "hint": "意义常常藏在平凡的工作里。 / Meaning often hides inside ordinary work. / 意味は日々の仕事の中に隠れていることが多い。",
+          "furigana": "いみはひびのしごとのなかにかくれていることがおおい。",
+          "romaji": "imihahibinoshigotononakanikakureteirukotogaooi.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "周りの世界に挨拶できる速さで歩こう。",
+          "answer": "周りの世界に挨拶できる速さで歩こう。",
+          "hints": {
+            "zh": "走得慢一些，好向周围的世界问候。",
+            "en": "Walk slowly enough to greet the world around you.",
+            "ja": "周りの世界に挨拶できる速さで歩こう。"
+          },
+          "hint": "走得慢一些，好向周围的世界问候。 / Walk slowly enough to greet the world around you. / 周りの世界に挨拶できる速さで歩こう。",
+          "furigana": "まわりのせかいにあいさつできるはやさであるこう。",
+          "romaji": "mawarinosekainiaisatsudekiruhayasadearukou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "よく生きた一日は静かな成功の形だ。",
+          "answer": "よく生きた一日は静かな成功の形だ。",
+          "hints": {
+            "zh": "认真生活的一天，是一种安静的成功。",
+            "en": "A well-lived day is a quiet form of success.",
+            "ja": "よく生きた一日は静かな成功の形だ。"
+          },
+          "hint": "认真生活的一天，是一种安静的成功。 / A well-lived day is a quiet form of success. / よく生きた一日は静かな成功の形だ。",
+          "furigana": "よくいきたいちにちはしずかなせいこうのかたちだ。",
+          "romaji": "yokuikitaichinichihashizukanaseikounokatachida.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-life-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

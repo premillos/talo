@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "sports",
+  "slug": "ja-sports-competition-dialogues",
+  "course": {
+    "title": "运动 · 日语赛事 · 情景对话",
+    "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用日语表达。（男女情景对话）",
+    "titles": {
+      "zh": "运动 · 日语赛事 · 情景对话",
+      "en": "Sports · Japanese Competition · Situational Dialogues",
+      "ja": "スポーツ · 日本語大会 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习赛事赛程、判罚与赛后交流中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for competition schedules, officiating, and post-match communication.",
+      "ja": "大会日程・判定・試合後の交流で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语赛事表达 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "決勝の開始時刻は変更されましたか。",
+          "answer": "決勝の開始時刻は変更されましたか。",
+          "hints": {
+            "zh": "决赛的开始时间有变更吗？",
+            "en": "Has the starting time of the final changed?",
+            "ja": "決勝の開始時刻は変更されましたか。"
+          },
+          "hint": "决赛的开始时间有变更吗？ / Has the starting time of the final changed? / 決勝の開始時刻は変更されましたか。",
+          "furigana": "けっしょうのかいしじこくはへんこうされましたか。",
+          "romaji": "kesshounokaishijikokuhahenkousaremashitaka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "watching-the-championship-final",
+          "dialogueTitles": {
+            "zh": "观看冠军赛决赛",
+            "en": "Watching the Championship Final",
+            "ja": "選手権決勝の観戦"
+          },
+          "dialogueScenes": {
+            "zh": "由美和大辅在场馆内确认赛程并观看决赛。",
+            "en": "Yumi and Daisuke check the schedule and watch the final at the venue.",
+            "ja": "由美と大輔が会場で日程を確認し、決勝を観戦します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由美",
+            "en": "Yumi",
+            "ja": "由美"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、雨のため三十分遅くなりました。",
+          "answer": "はい、雨のため三十分遅くなりました。",
+          "hints": {
+            "zh": "是的，因为下雨推迟了三十分钟。",
+            "en": "Yes, it was delayed by thirty minutes because of rain.",
+            "ja": "はい、雨のため三十分遅くなりました。"
+          },
+          "hint": "是的，因为下雨推迟了三十分钟。 / Yes, it was delayed by thirty minutes because of rain. / はい、雨のため三十分遅くなりました。",
+          "furigana": "はい、あめのためさんじゅっぷんおそくなりました。",
+          "romaji": "hai,amenotamesanjuppun'osokunarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "watching-the-championship-final",
+          "dialogueTitles": {
+            "zh": "观看冠军赛决赛",
+            "en": "Watching the Championship Final",
+            "ja": "選手権決勝の観戦"
+          },
+          "dialogueScenes": {
+            "zh": "由美和大辅在场馆内确认赛程并观看决赛。",
+            "en": "Yumi and Daisuke check the schedule and watch the final at the venue.",
+            "ja": "由美と大輔が会場で日程を確認し、決勝を観戦します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "大辅",
+            "en": "Daisuke",
+            "ja": "大輔"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "今の判定を審判が確認しているようです。",
+          "answer": "今の判定を審判が確認しているようです。",
+          "hints": {
+            "zh": "裁判似乎正在确认刚才的判罚。",
+            "en": "It looks like the referee is reviewing that decision.",
+            "ja": "今の判定を審判が確認しているようです。"
+          },
+          "hint": "裁判似乎正在确认刚才的判罚。 / It looks like the referee is reviewing that decision. / 今の判定を審判が確認しているようです。",
+          "furigana": "いまのはんていをしんぱんがかくにんしているようです。",
+          "romaji": "imanohanteiwoshinpangakakuninshiteiruyoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "watching-the-championship-final",
+          "dialogueTitles": {
+            "zh": "观看冠军赛决赛",
+            "en": "Watching the Championship Final",
+            "ja": "選手権決勝の観戦"
+          },
+          "dialogueScenes": {
+            "zh": "由美和大辅在场馆内确认赛程并观看决赛。",
+            "en": "Yumi and Daisuke check the schedule and watch the final at the venue.",
+            "ja": "由美と大輔が会場で日程を確認し、決勝を観戦します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由美",
+            "en": "Yumi",
+            "ja": "由美"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "大型画面に映像がもう一度流れています。",
+          "answer": "大型画面に映像がもう一度流れています。",
+          "hints": {
+            "zh": "大屏幕正在再次播放画面。",
+            "en": "The footage is playing again on the big screen.",
+            "ja": "大型画面に映像がもう一度流れています。"
+          },
+          "hint": "大屏幕正在再次播放画面。 / The footage is playing again on the big screen. / 大型画面に映像がもう一度流れています。",
+          "furigana": "おおがたがめんにえいぞうがもういちどながれています。",
+          "romaji": "oogatagamen'nieizougamouichidonagareteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "watching-the-championship-final",
+          "dialogueTitles": {
+            "zh": "观看冠军赛决赛",
+            "en": "Watching the Championship Final",
+            "ja": "選手権決勝の観戦"
+          },
+          "dialogueScenes": {
+            "zh": "由美和大辅在场馆内确认赛程并观看决赛。",
+            "en": "Yumi and Daisuke check the schedule and watch the final at the venue.",
+            "ja": "由美と大輔が会場で日程を確認し、決勝を観戦します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "大辅",
+            "en": "Daisuke",
+            "ja": "大輔"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "試合後の選手取材もここで見られますか。",
+          "answer": "試合後の選手取材もここで見られますか。",
+          "hints": {
+            "zh": "赛后的选手采访也能在这里看到吗？",
+            "en": "Can we watch the player interviews here after the match?",
+            "ja": "試合後の選手取材もここで見られますか。"
+          },
+          "hint": "赛后的选手采访也能在这里看到吗？ / Can we watch the player interviews here after the match? / 試合後の選手取材もここで見られますか。",
+          "furigana": "しあいごのせんしゅしゅざいもここでみられますか。",
+          "romaji": "shiaigonosenshushuzaimokokodemiraremasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "watching-the-championship-final",
+          "dialogueTitles": {
+            "zh": "观看冠军赛决赛",
+            "en": "Watching the Championship Final",
+            "ja": "選手権決勝の観戦"
+          },
+          "dialogueScenes": {
+            "zh": "由美和大辅在场馆内确认赛程并观看决赛。",
+            "en": "Yumi and Daisuke check the schedule and watch the final at the venue.",
+            "ja": "由美と大輔が会場で日程を確認し、決勝を観戦します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由美",
+            "en": "Yumi",
+            "ja": "由美"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "表彰式の後、この画面で中継されるそうです。",
+          "answer": "表彰式の後、この画面で中継されるそうです。",
+          "hints": {
+            "zh": "听说颁奖仪式后会在这块屏幕直播。",
+            "en": "I heard they will be broadcast on this screen after the awards ceremony.",
+            "ja": "表彰式の後、この画面で中継されるそうです。"
+          },
+          "hint": "听说颁奖仪式后会在这块屏幕直播。 / I heard they will be broadcast on this screen after the awards ceremony. / 表彰式の後、この画面で中継されるそうです。",
+          "furigana": "ひょうしょうしきのあと、このがめんでちゅうけいされるそうです。",
+          "romaji": "hyoushoushikinoato,konogamendechuukeisarerusoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "watching-the-championship-final",
+          "dialogueTitles": {
+            "zh": "观看冠军赛决赛",
+            "en": "Watching the Championship Final",
+            "ja": "選手権決勝の観戦"
+          },
+          "dialogueScenes": {
+            "zh": "由美和大辅在场馆内确认赛程并观看决赛。",
+            "en": "Yumi and Daisuke check the schedule and watch the final at the venue.",
+            "ja": "由美と大輔が会場で日程を確認し、決勝を観戦します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "大辅",
+            "en": "Daisuke",
+            "ja": "大輔"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

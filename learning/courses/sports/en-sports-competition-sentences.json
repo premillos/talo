@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "sports",
+  "slug": "en-sports-competition-sentences",
+  "course": {
+    "title": "运动 · 英语赛事 · 句子",
+    "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用英语表达。（常用句子）",
+    "titles": {
+      "zh": "运动 · 英语赛事 · 句子",
+      "en": "Sports · English Competition · Sentences",
+      "ja": "スポーツ · 英語大会 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习赛事赛程、判罚与赛后交流中的常用英语句子。",
+      "en": "Practice common English sentences for competition schedules, officiating, and post-match communication.",
+      "ja": "大会日程・判定・試合後の交流で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语赛事表达 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "The quarterfinal has been moved to Friday.",
+          "answer": "The quarterfinal has been moved to Friday.",
+          "hints": {
+            "zh": "四分之一决赛已改到周五举行。",
+            "en": "The quarterfinal is now scheduled for Friday.",
+            "ja": "準々決勝は金曜日に変更されました。"
+          },
+          "hint": "四分之一决赛已改到周五举行。 / The quarterfinal is now scheduled for Friday. / 準々決勝は金曜日に変更されました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˌkwɔɹtɚˈfaɪnəl həz bɪn muvd tə ˈfɹaɪdeɪ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Tickets for the opening game sold out quickly.",
+          "answer": "Tickets for the opening game sold out quickly.",
+          "hints": {
+            "zh": "揭幕战门票很快就售罄了。",
+            "en": "All seats for the opening game were purchased quickly.",
+            "ja": "開幕戦のチケットはすぐに売り切れました。"
+          },
+          "hint": "揭幕战门票很快就售罄了。 / All seats for the opening game were purchased quickly. / 開幕戦のチケットはすぐに売り切れました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtɪkəts fɚ ði ˈoʊpənɪŋ ɡeɪm soʊld aʊt ˈkwɪkli/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Which gate leads to the east stand?",
+          "answer": "Which gate leads to the east stand?",
+          "hints": {
+            "zh": "哪个入口通往东看台？",
+            "en": "I am asking how to reach the east stand.",
+            "ja": "東側スタンドへはどのゲートから入れますか。"
+          },
+          "hint": "哪个入口通往东看台？ / I am asking how to reach the east stand. / 東側スタンドへはどのゲートから入れますか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɪtʃ ɡeɪt lidz tə ði ist stænd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The referee is checking the replay now.",
+          "answer": "The referee is checking the replay now.",
+          "hints": {
+            "zh": "裁判正在查看回放。",
+            "en": "The official is reviewing the recorded play.",
+            "ja": "審判は今、映像を確認しています。"
+          },
+          "hint": "裁判正在查看回放。 / The official is reviewing the recorded play. / 審判は今、映像を確認しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˌɹɛfɚˈi ɪz ˈtʃɛkɪŋ ðə ɹiˈpleɪ naʊ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The goal was ruled out for offside.",
+          "answer": "The goal was ruled out for offside.",
+          "hints": {
+            "zh": "这个进球因越位被判无效。",
+            "en": "The score did not count because of offside.",
+            "ja": "そのゴールはオフサイドで取り消されました。"
+          },
+          "hint": "这个进球因越位被判无效。 / The score did not count because of offside. / そのゴールはオフサイドで取り消されました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ɡoʊl wəz ɹuld aʊt fɚ ˈɔfˌsaɪd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Both teams advanced from the group stage.",
+          "answer": "Both teams advanced from the group stage.",
+          "hints": {
+            "zh": "两支队伍都从小组赛晋级了。",
+            "en": "Each team qualified through its group.",
+            "ja": "両チームがグループステージを突破しました。"
+          },
+          "hint": "两支队伍都从小组赛晋级了。 / Each team qualified through its group. / 両チームがグループステージを突破しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/boʊθ timz ədˈvænst fɹəm ðə ɡɹup steɪdʒ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The draw will take place at noon tomorrow.",
+          "answer": "The draw will take place at noon tomorrow.",
+          "hints": {
+            "zh": "抽签仪式将于明天中午举行。",
+            "en": "Tournament pairings will be selected tomorrow at noon.",
+            "ja": "組み合わせ抽選は明日の正午に行われます。"
+          },
+          "hint": "抽签仪式将于明天中午举行。 / Tournament pairings will be selected tomorrow at noon. / 組み合わせ抽選は明日の正午に行われます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə dɹɔ wəl teɪk pleɪs æt nun təˈmɑˌɹoʊ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Our seats are directly behind the home bench.",
+          "answer": "Our seats are directly behind the home bench.",
+          "hints": {
+            "zh": "我们的座位就在主队替补席后面。",
+            "en": "We are seated just behind the home bench.",
+            "ja": "私たちの席はホーム側ベンチのすぐ後ろです。"
+          },
+          "hint": "我们的座位就在主队替补席后面。 / We are seated just behind the home bench. / 私たちの席はホーム側ベンチのすぐ後ろです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈaʊɚ sits ɚ daɪˈɹɛkli bɪˈhaɪnd ðə hoʊm bɛntʃ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Extra time ended without another goal.",
+          "answer": "Extra time ended without another goal.",
+          "hints": {
+            "zh": "加时赛结束时仍没有新的进球。",
+            "en": "Neither side scored during extra time.",
+            "ja": "延長戦でも追加点は入りませんでした。"
+          },
+          "hint": "加时赛结束时仍没有新的进球。 / Neither side scored during extra time. / 延長戦でも追加点は入りませんでした。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛkstɹə taɪm ˈɛndəd wɪˈðaʊt əˈnəðɚ ɡoʊl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The winner was decided by a penalty shootout.",
+          "answer": "The winner was decided by a penalty shootout.",
+          "hints": {
+            "zh": "胜负最终通过点球大战决出。",
+            "en": "Penalty kicks determined the winner.",
+            "ja": "勝者はPK戦で決まりました。"
+          },
+          "hint": "胜负最终通过点球大战决出。 / Penalty kicks determined the winner. / 勝者はPK戦で決まりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈwɪnɚ wəz ˌdɪˈsaɪdɪd baɪ ə ˈpɛnəlti ˈʃutaʊt/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please keep the aisle clear during the event.",
+          "answer": "Please keep the aisle clear during the event.",
+          "hints": {
+            "zh": "比赛期间请保持过道畅通。",
+            "en": "Spectators must not block the aisle.",
+            "ja": "競技中は通路を空けておいてください。"
+          },
+          "hint": "比赛期间请保持过道畅通。 / Spectators must not block the aisle. / 競技中は通路を空けておいてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz kip ði ˈaɪəl klɪɹ ˈdɝɪŋ ði iˈvɛnt/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The scoreboard has not updated the latest point.",
+          "answer": "The scoreboard has not updated the latest point.",
+          "hints": {
+            "zh": "记分牌还没有更新最新得分。",
+            "en": "The newest point is missing from the display.",
+            "ja": "スコアボードに最新の得点がまだ表示されていません。"
+          },
+          "hint": "记分牌还没有更新最新得分。 / The newest point is missing from the display. / スコアボードに最新の得点がまだ表示されていません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈskɔɹbɔɹd həz nɑt əpˈdeɪtəd ðə ˈleɪtəst pɔɪnt/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A substitute is waiting at the halfway line.",
+          "answer": "A substitute is waiting at the halfway line.",
+          "hints": {
+            "zh": "一名替补球员正在中线旁等待。",
+            "en": "A reserve player is ready to enter near midfield.",
+            "ja": "控え選手がハーフウェーラインで待っています。"
+          },
+          "hint": "一名替补球员正在中线旁等待。 / A reserve player is ready to enter near midfield. / 控え選手がハーフウェーラインで待っています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ˈsəbstəˌtut ɪz ˈweɪtɪŋ æt ðə ˌhæfˈweɪ laɪn/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The captain questioned the yellow-card decision.",
+          "answer": "The captain questioned the yellow-card decision.",
+          "hints": {
+            "zh": "队长对黄牌判罚提出了疑问。",
+            "en": "The captain asked the official about the caution.",
+            "ja": "主将はイエローカードの判定について確認しました。"
+          },
+          "hint": "队长对黄牌判罚提出了疑问。 / The captain asked the official about the caution. / 主将はイエローカードの判定について確認しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈkæptən ˈkwɛstʃənd ðə ˈjɛloʊ kɑɹd dɪˈsɪʒən/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This pass includes every home fixture.",
+          "answer": "This pass includes every home fixture.",
+          "hints": {
+            "zh": "这张通票包含所有主场赛事。",
+            "en": "The pass grants entry to all home matches.",
+            "ja": "このパスでホーム開催の全試合を観戦できます。"
+          },
+          "hint": "这张通票包含所有主场赛事。 / The pass grants entry to all home matches. / このパスでホーム開催の全試合を観戦できます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs pæs ɪnˈkludz ˈɛvɚi hoʊm ˈfɪkstʃɚ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The live broadcast begins thirty minutes early.",
+          "answer": "The live broadcast begins thirty minutes early.",
+          "hints": {
+            "zh": "直播将在比赛前半小时开始。",
+            "en": "Coverage starts half an hour before the event.",
+            "ja": "生中継は試合の三十分前に始まります。"
+          },
+          "hint": "直播将在比赛前半小时开始。 / Coverage starts half an hour before the event. / 生中継は試合の三十分前に始まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə laɪv ˈbɹɔdkæst bɪˈɡɪnz ˈθɝdi ˈmɪnəts ˈɝli/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Fans applauded both sides after the final whistle.",
+          "answer": "Fans applauded both sides after the final whistle.",
+          "hints": {
+            "zh": "终场哨响后，球迷向双方鼓掌。",
+            "en": "Supporters praised both teams when play ended.",
+            "ja": "試合終了の笛の後、観客は両チームに拍手を送りました。"
+          },
+          "hint": "终场哨响后，球迷向双方鼓掌。 / Supporters praised both teams when play ended. / 試合終了の笛の後、観客は両チームに拍手を送りました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fænz əˈplɔdɪd boʊθ saɪdz ˈæftɚ ðə ˈfaɪnəl ˈwɪsəl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The second seed faces a difficult semifinal.",
+          "answer": "The second seed faces a difficult semifinal.",
+          "hints": {
+            "zh": "二号种子将在半决赛遭遇强敌。",
+            "en": "A tough semifinal awaits the second-ranked entrant.",
+            "ja": "第ニシードは準決勝で強敵と対戦します。"
+          },
+          "hint": "二号种子将在半决赛遭遇强敌。 / A tough semifinal awaits the second-ranked entrant. / 第ニシードは準決勝で強敵と対戦します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈsɛkənd sid ˈfeɪsəz ə ˈdɪfəkəlt ˌsɛmaɪˈfaɪnəl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Rain delayed the afternoon session by an hour.",
+          "answer": "Rain delayed the afternoon session by an hour.",
+          "hints": {
+            "zh": "降雨使下午场次推迟了一小时。",
+            "en": "The afternoon program started one hour late because of rain.",
+            "ja": "雨で午後の競技が一時間遅れました。"
+          },
+          "hint": "降雨使下午场次推迟了一小时。 / The afternoon program started one hour late because of rain. / 雨で午後の競技が一時間遅れました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹeɪn dɪˈleɪd ði ˌæftɚˈnun ˈsɛʃən baɪ ən ˈaʊɚ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Security will inspect bags at every entrance.",
+          "answer": "Security will inspect bags at every entrance.",
+          "hints": {
+            "zh": "安保人员会在每个入口检查包袋。",
+            "en": "All bags are checked before spectators enter.",
+            "ja": "警備員が各入口で手荷物を確認します。"
+          },
+          "hint": "安保人员会在每个入口检查包袋。 / All bags are checked before spectators enter. / 警備員が各入口で手荷物を確認します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sɪkˈjʊɹəti wəl ɪnˈspɛkt bæɡz æt ˈɛvɚi ˈɛntɹəns/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The announcer introduced the starting lineup.",
+          "answer": "The announcer introduced the starting lineup.",
+          "hints": {
+            "zh": "播音员介绍了首发阵容。",
+            "en": "The starting players were named over the speakers.",
+            "ja": "場内放送で先発メンバーが紹介されました。"
+          },
+          "hint": "播音员介绍了首发阵容。 / The starting players were named over the speakers. / 場内放送で先発メンバーが紹介されました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði əˈnaʊnsɚ ˌɪntɹəˈdust ðə ˈstɑɹtɪŋ ˈlaɪnəp/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We followed the final on the radio commentary.",
+          "answer": "We followed the final on the radio commentary.",
+          "hints": {
+            "zh": "我们通过广播解说收听了决赛。",
+            "en": "Radio coverage helped us follow the final.",
+            "ja": "私たちはラジオの実況で決勝を追いました。"
+          },
+          "hint": "我们通过广播解说收听了决赛。 / Radio coverage helped us follow the final. / 私たちはラジオの実況で決勝を追いました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ˈfɑloʊd ðə ˈfaɪnəl ɑn ðə ˈɹeɪdiˌoʊ ˈkɑmənˌtɛɹi/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The away supporters filled the upper section.",
+          "answer": "The away supporters filled the upper section.",
+          "hints": {
+            "zh": "客队球迷坐满了上层看台。",
+            "en": "Visiting fans occupied the upper seating area.",
+            "ja": "アウェーの応援団が上段席を埋めました。"
+          },
+          "hint": "客队球迷坐满了上层看台。 / Visiting fans occupied the upper seating area. / アウェーの応援団が上段席を埋めました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði əˈweɪ səˈpɔɹtɚz fɪld ði ˈəpɚ ˈsɛkʃən/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Officials paused play because of lightning.",
+          "answer": "Officials paused play because of lightning.",
+          "hints": {
+            "zh": "赛事官员因雷电暂停了比赛。",
+            "en": "Lightning caused an official stoppage.",
+            "ja": "競技役員は雷のため試合を中断しました。"
+          },
+          "hint": "赛事官员因雷电暂停了比赛。 / Lightning caused an official stoppage. / 競技役員は雷のため試合を中断しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈfɪʃəlz pɔzd pleɪ bɪˈkɑz əv ˈlaɪtnɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The trophy ceremony starts after the interviews.",
+          "answer": "The trophy ceremony starts after the interviews.",
+          "hints": {
+            "zh": "奖杯颁发仪式将在采访后开始。",
+            "en": "The trophy will be presented once the interviews finish.",
+            "ja": "表彰式はインタビューの後に始まります。"
+          },
+          "hint": "奖杯颁发仪式将在采访后开始。 / The trophy will be presented once the interviews finish. / 表彰式はインタビューの後に始まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈtɹoʊfi ˈsɛɹəˌmoʊni stɑɹts ˈæftɚ ði ˈɪntɚvˌjuz/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Reporters gathered beside the mixed zone.",
+          "answer": "Reporters gathered beside the mixed zone.",
+          "hints": {
+            "zh": "记者们聚集在混合采访区旁。",
+            "en": "Media staff waited near the interview area.",
+            "ja": "記者たちは取材エリアのそばに集まりました。"
+          },
+          "hint": "记者们聚集在混合采访区旁。 / Media staff waited near the interview area. / 記者たちは取材エリアのそばに集まりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹɪˈpɔɹtɚz ˈɡæðɚd biˈsaɪd ðə mɪkst zoʊn/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The manager praised the defense at the press conference.",
+          "answer": "The manager praised the defense at the press conference.",
+          "hints": {
+            "zh": "主教练在新闻发布会上表扬了防守。",
+            "en": "The manager spoke highly of the defense to reporters.",
+            "ja": "監督は記者会見で守備を評価しました。"
+          },
+          "hint": "主教练在新闻发布会上表扬了防守。 / The manager spoke highly of the defense to reporters. / 監督は記者会見で守備を評価しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmænədʒɚ pɹeɪzd ðə dɪˈfɛns æt ðə pɹɛs ˈkɑnfɚəns/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "She thanked the crowd in her post-match interview.",
+          "answer": "She thanked the crowd in her post-match interview.",
+          "hints": {
+            "zh": "她在赛后采访中感谢了观众。",
+            "en": "She expressed gratitude to the fans after competing.",
+            "ja": "彼女は試合後のインタビューで観客に感謝しました。"
+          },
+          "hint": "她在赛后采访中感谢了观众。 / She expressed gratitude to the fans after competing. / 彼女は試合後のインタビューで観客に感謝しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃi θæŋkt ðə kɹaʊd ɪn hɝ ˈpoʊst mætʃ ˈɪntɚvˌju/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The revised schedule is posted near the ticket office.",
+          "answer": "The revised schedule is posted near the ticket office.",
+          "hints": {
+            "zh": "调整后的赛程贴在售票处附近。",
+            "en": "The updated event timetable is displayed by the ticket office.",
+            "ja": "変更後の日程は券売所の近くに掲示されています。"
+          },
+          "hint": "调整后的赛程贴在售票处附近。 / The updated event timetable is displayed by the ticket office. / 変更後の日程は券売所の近くに掲示されています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ɹiˈvaɪzd ˈskɛdʒul ɪz ˈpoʊstɪd nɪɹ ðə ˈtɪkət ˈɔfɪs/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The runner-up received a warm round of applause.",
+          "answer": "The runner-up received a warm round of applause.",
+          "hints": {
+            "zh": "亚军获得了热烈掌声。",
+            "en": "The audience applauded the second-place finisher warmly.",
+            "ja": "準優勝者にも大きな拍手が送られました。"
+          },
+          "hint": "亚军获得了热烈掌声。 / The audience applauded the second-place finisher warmly. / 準優勝者にも大きな拍手が送られました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈɹənɚˌəp ɹəˈsivd ə wɔɹm ɹaʊnd əv əˈplɔz/",
+          "audioUrl": "learning/audio/en/en-sports-competition-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

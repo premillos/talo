@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-emergency-dialogues",
+  "course": {
+    "title": "旅游 · 英语应急 · 情景对话",
+    "description": "旅行中求助、医疗与失物等应急英语（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 英语应急 · 情景对话",
+      "en": "Travel · English Emergencies · Situational Dialogues",
+      "ja": "旅行 · 英語緊急時 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习旅行应急中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for travel emergencies.",
+      "ja": "旅行中の緊急時で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "求助与紧急情况 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Officer, my wallet was stolen at the train station.",
+          "answer": "Officer, my wallet was stolen at the train station.",
+          "hints": {
+            "zh": "警官，我的钱包在火车站被偷了。",
+            "en": "Officer, my wallet was stolen at the train station.",
+            "ja": "警察官、駅で財布を盗まれました。"
+          },
+          "hint": "警官，我的钱包在火车站被偷了。 / Officer, my wallet was stolen at the train station. / 警察官、駅で財布を盗まれました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔfəsɚ maɪ ˈwɔlət wəz ˈstoʊlən æt ðə tɹeɪn ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "stolen-wallet-report",
+          "dialogueTitles": {
+            "zh": "报告钱包失窃",
+            "en": "Reporting a Stolen Wallet",
+            "ja": "財布の盗難届"
+          },
+          "dialogueScenes": {
+            "zh": "游客在警察局说明钱包被偷的经过并获得帮助。",
+            "en": "A tourist reports her stolen wallet at a police station and receives help.",
+            "ja": "旅行者が警察署で財布の盗難を届け出て、助けを受けます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I am sorry to hear that. When did it happen?",
+          "answer": "I am sorry to hear that. When did it happen?",
+          "hints": {
+            "zh": "很遗憾听到这个消息。什么时候发生的？",
+            "en": "I am sorry to hear that. When did it happen?",
+            "ja": "それは大変でしたね。いつ起きましたか？"
+          },
+          "hint": "很遗憾听到这个消息。什么时候发生的？ / I am sorry to hear that. When did it happen? / それは大変でしたね。いつ起きましたか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ əm ˈsɑɹi tə hiɹ ðæt wɛn dɪd ɪt ˈhæpən/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "stolen-wallet-report",
+          "dialogueTitles": {
+            "zh": "报告钱包失窃",
+            "en": "Reporting a Stolen Wallet",
+            "ja": "財布の盗難届"
+          },
+          "dialogueScenes": {
+            "zh": "游客在警察局说明钱包被偷的经过并获得帮助。",
+            "en": "A tourist reports her stolen wallet at a police station and receives help.",
+            "ja": "旅行者が警察署で財布の盗難を届け出て、助けを受けます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "罗伯特",
+            "en": "Robert",
+            "ja": "ロバート"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "About twenty minutes ago near platform three.",
+          "answer": "About twenty minutes ago near platform three.",
+          "hints": {
+            "zh": "大约二十分钟前，在三号站台附近。",
+            "en": "About twenty minutes ago near platform three.",
+            "ja": "約二十分前、三番ホームの近くです。"
+          },
+          "hint": "大约二十分钟前，在三号站台附近。 / About twenty minutes ago near platform three. / 約二十分前、三番ホームの近くです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈbaʊt ˈtwɛni ˈmɪnəts əˈɡoʊ nɪɹ ˈplætfɔɹm θɹi/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "stolen-wallet-report",
+          "dialogueTitles": {
+            "zh": "报告钱包失窃",
+            "en": "Reporting a Stolen Wallet",
+            "ja": "財布の盗難届"
+          },
+          "dialogueScenes": {
+            "zh": "游客在警察局说明钱包被偷的经过并获得帮助。",
+            "en": "A tourist reports her stolen wallet at a police station and receives help.",
+            "ja": "旅行者が警察署で財布の盗難を届け出て、助けを受けます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "What was inside the wallet?",
+          "answer": "What was inside the wallet?",
+          "hints": {
+            "zh": "钱包里有什么？",
+            "en": "What was inside the wallet?",
+            "ja": "財布には何が入っていましたか？"
+          },
+          "hint": "钱包里有什么？ / What was inside the wallet? / 財布には何が入っていましたか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət wəz ˈɪnsaɪd ðə ˈwɔlət/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "stolen-wallet-report",
+          "dialogueTitles": {
+            "zh": "报告钱包失窃",
+            "en": "Reporting a Stolen Wallet",
+            "ja": "財布の盗難届"
+          },
+          "dialogueScenes": {
+            "zh": "游客在警察局说明钱包被偷的经过并获得帮助。",
+            "en": "A tourist reports her stolen wallet at a police station and receives help.",
+            "ja": "旅行者が警察署で財布の盗難を届け出て、助けを受けます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "罗伯特",
+            "en": "Robert",
+            "ja": "ロバート"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "It had some cash, two cards, and my hotel key.",
+          "answer": "It had some cash, two cards, and my hotel key.",
+          "hints": {
+            "zh": "里面有一些现金、两张卡和酒店房卡。",
+            "en": "It had some cash, two cards, and my hotel key.",
+            "ja": "現金とカード二枚、それにホテルの鍵が入っていました。"
+          },
+          "hint": "里面有一些现金、两张卡和酒店房卡。 / It had some cash, two cards, and my hotel key. / 現金とカード二枚、それにホテルの鍵が入っていました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪt hæd səm kæʃ tu kɑɹdz ən maɪ hoʊˈtɛl ki/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "stolen-wallet-report",
+          "dialogueTitles": {
+            "zh": "报告钱包失窃",
+            "en": "Reporting a Stolen Wallet",
+            "ja": "財布の盗難届"
+          },
+          "dialogueScenes": {
+            "zh": "游客在警察局说明钱包被偷的经过并获得帮助。",
+            "en": "A tourist reports her stolen wallet at a police station and receives help.",
+            "ja": "旅行者が警察署で財布の盗難を届け出て、助けを受けます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Please fill out this report, and we will contact the station.",
+          "answer": "Please fill out this report, and we will contact the station.",
+          "hints": {
+            "zh": "请填写这份报案表，我们会联系车站。",
+            "en": "Please fill out this report, and we will contact the station.",
+            "ja": "この届出書に記入してください。こちらから駅に連絡します。"
+          },
+          "hint": "请填写这份报案表，我们会联系车站。 / Please fill out this report, and we will contact the station. / この届出書に記入してください。こちらから駅に連絡します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz fɪl aʊt ðɪs ɹiˈpɔɹt ən wi wəl ˈkɑntækt ðə ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-emergency-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "stolen-wallet-report",
+          "dialogueTitles": {
+            "zh": "报告钱包失窃",
+            "en": "Reporting a Stolen Wallet",
+            "ja": "財布の盗難届"
+          },
+          "dialogueScenes": {
+            "zh": "游客在警察局说明钱包被偷的经过并获得帮助。",
+            "en": "A tourist reports her stolen wallet at a police station and receives help.",
+            "ja": "旅行者が警察署で財布の盗難を届け出て、助けを受けます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "罗伯特",
+            "en": "Robert",
+            "ja": "ロバート"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

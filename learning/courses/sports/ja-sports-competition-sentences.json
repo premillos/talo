@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "sports",
+  "slug": "ja-sports-competition-sentences",
+  "course": {
+    "title": "运动 · 日语赛事 · 句子",
+    "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用日语表达。（常用句子）",
+    "titles": {
+      "zh": "运动 · 日语赛事 · 句子",
+      "en": "Sports · Japanese Competition · Sentences",
+      "ja": "スポーツ · 日本語大会 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习赛事赛程、判罚与赛后交流中的常用日语句子。",
+      "en": "Practice common Japanese sentences for competition schedules, officiating, and post-match communication.",
+      "ja": "大会日程・判定・試合後の交流で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语赛事表达 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "準々決勝は金曜日に変更されました。",
+          "answer": "準々決勝は金曜日に変更されました。",
+          "hints": {
+            "zh": "四分之一决赛已改到周五举行。",
+            "en": "The quarterfinal has been moved to Friday.",
+            "ja": "準々決勝は金曜日に変更されました。"
+          },
+          "hint": "四分之一决赛已改到周五举行。 / The quarterfinal has been moved to Friday. / 準々決勝は金曜日に変更されました。",
+          "furigana": "じゅんじゅんけっしょうはきんようびにへんこうされました。",
+          "romaji": "junjunkesshouhakin'youbinihenkousaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "開幕戦の入場券は完売しました。",
+          "answer": "開幕戦の入場券は完売しました。",
+          "hints": {
+            "zh": "揭幕战门票已经售罄。",
+            "en": "Tickets for the opening game have sold out.",
+            "ja": "開幕戦の入場券は完売しました。"
+          },
+          "hint": "揭幕战门票已经售罄。 / Tickets for the opening game have sold out. / 開幕戦の入場券は完売しました。",
+          "furigana": "かいまくせんのにゅうじょうけんはかんばいしました。",
+          "romaji": "kaimakusen'nonyuujoukenhakanbaishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "東側の観客席はどの入口ですか。",
+          "answer": "東側の観客席はどの入口ですか。",
+          "hints": {
+            "zh": "东侧观众席从哪个入口进？",
+            "en": "Which entrance leads to the east stand?",
+            "ja": "東側の観客席はどの入口ですか。"
+          },
+          "hint": "东侧观众席从哪个入口进？ / Which entrance leads to the east stand? / 東側の観客席はどの入口ですか。",
+          "furigana": "ひがしがわのかんきゃくせきはどのいりぐちですか。",
+          "romaji": "higashigawanokankyakusekihadonoiriguchidesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "審判団が映像を確認しています。",
+          "answer": "審判団が映像を確認しています。",
+          "hints": {
+            "zh": "裁判组正在查看视频。",
+            "en": "The officials are reviewing the footage.",
+            "ja": "審判団が映像を確認しています。"
+          },
+          "hint": "裁判组正在查看视频。 / The officials are reviewing the footage. / 審判団が映像を確認しています。",
+          "furigana": "しんぱんだんがえいぞうをかくにんしています。",
+          "romaji": "shinpandangaeizouwokakuninshiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "その得点は反則で無効になりました。",
+          "answer": "その得点は反則で無効になりました。",
+          "hints": {
+            "zh": "该得分因犯规被判无效。",
+            "en": "The point was disallowed for a foul.",
+            "ja": "その得点は反則で無効になりました。"
+          },
+          "hint": "该得分因犯规被判无效。 / The point was disallowed for a foul. / その得点は反則で無効になりました。",
+          "furigana": "そのとくてんははんそくでむこうになりました。",
+          "romaji": "sonotokutenhahansokudemukouninarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "両校が予選を通過しました。",
+          "answer": "両校が予選を通過しました。",
+          "hints": {
+            "zh": "两所学校都通过了预选赛。",
+            "en": "Both schools advanced through qualifying.",
+            "ja": "両校が予選を通過しました。"
+          },
+          "hint": "两所学校都通过了预选赛。 / Both schools advanced through qualifying. / 両校が予選を通過しました。",
+          "furigana": "りょうこうがよせんをつうかしました。",
+          "romaji": "ryoukougayosenwotsuukashimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "組み合わせは明日の正午に決まります。",
+          "answer": "組み合わせは明日の正午に決まります。",
+          "hints": {
+            "zh": "对阵安排将在明天中午确定。",
+            "en": "The pairings will be decided tomorrow at noon.",
+            "ja": "組み合わせは明日の正午に決まります。"
+          },
+          "hint": "对阵安排将在明天中午确定。 / The pairings will be decided tomorrow at noon. / 組み合わせは明日の正午に決まります。",
+          "furigana": "くみあわせはあしたのしょうごにきまります。",
+          "romaji": "kumiawasehaashitanoshougonikimarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "私たちの席はホーム側のベンチ後方です。",
+          "answer": "私たちの席はホーム側のベンチ後方です。",
+          "hints": {
+            "zh": "我们的座位在主队替补席后方。",
+            "en": "Our seats are behind the home bench.",
+            "ja": "私たちの席はホーム側のベンチ後方です。"
+          },
+          "hint": "我们的座位在主队替补席后方。 / Our seats are behind the home bench. / 私たちの席はホーム側のベンチ後方です。",
+          "furigana": "わたしたちのせきはホームがわのベンチこうほうです。",
+          "romaji": "watashitachinosekihahoomugawanobenchikouhoudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "延長戦でも決着がつきませんでした。",
+          "answer": "延長戦でも決着がつきませんでした。",
+          "hints": {
+            "zh": "加时赛也未能决出胜负。",
+            "en": "Extra time did not produce a winner.",
+            "ja": "延長戦でも決着がつきませんでした。"
+          },
+          "hint": "加时赛也未能决出胜负。 / Extra time did not produce a winner. / 延長戦でも決着がつきませんでした。",
+          "furigana": "えんちょうせんでもけっちゃくがつきませんでした。",
+          "romaji": "enchousendemoketchakugatsukimasendeshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勝敗はPK戦に持ち込まれました。",
+          "answer": "勝敗はPK戦に持ち込まれました。",
+          "hints": {
+            "zh": "比赛进入了点球大战。",
+            "en": "The match went to a penalty shootout.",
+            "ja": "勝敗はPK戦に持ち込まれました。"
+          },
+          "hint": "比赛进入了点球大战。 / The match went to a penalty shootout. / 勝敗はPK戦に持ち込まれました。",
+          "furigana": "しょうはいはピーケーせんにもちこまれました。",
+          "romaji": "shouhaihapiikeesen'nimochikomaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "競技中は通路を空けてください。",
+          "answer": "競技中は通路を空けてください。",
+          "hints": {
+            "zh": "比赛期间请保持过道畅通。",
+            "en": "Please keep the aisle clear during the event.",
+            "ja": "競技中は通路を空けてください。"
+          },
+          "hint": "比赛期间请保持过道畅通。 / Please keep the aisle clear during the event. / 競技中は通路を空けてください。",
+          "furigana": "きょうぎちゅうはつうろをあけてください。",
+          "romaji": "kyougichuuhatsuurowoaketekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "電光掲示板の表示が遅れています。",
+          "answer": "電光掲示板の表示が遅れています。",
+          "hints": {
+            "zh": "电子记分牌的显示有延迟。",
+            "en": "The electronic scoreboard is updating slowly.",
+            "ja": "電光掲示板の表示が遅れています。"
+          },
+          "hint": "电子记分牌的显示有延迟。 / The electronic scoreboard is updating slowly. / 電光掲示板の表示が遅れています。",
+          "furigana": "でんこうけいじばんのひょうじがおくれています。",
+          "romaji": "denkoukeijiban'nohyoujigaokureteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "控え選手が交代の準備をしています。",
+          "answer": "控え選手が交代の準備をしています。",
+          "hints": {
+            "zh": "替补选手正在准备上场。",
+            "en": "A substitute is preparing to enter.",
+            "ja": "控え選手が交代の準備をしています。"
+          },
+          "hint": "替补选手正在准备上场。 / A substitute is preparing to enter. / 控え選手が交代の準備をしています。",
+          "furigana": "ひかえせんしゅがこうたいのじゅんびをしています。",
+          "romaji": "hikaesenshugakoutainojunbiwoshiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "主将は警告の理由を尋ねました。",
+          "answer": "主将は警告の理由を尋ねました。",
+          "hints": {
+            "zh": "队长询问了被警告的原因。",
+            "en": "The captain asked why the caution was given.",
+            "ja": "主将は警告の理由を尋ねました。"
+          },
+          "hint": "队长询问了被警告的原因。 / The captain asked why the caution was given. / 主将は警告の理由を尋ねました。",
+          "furigana": "しゅしょうはけいこくのりゆうをたずねました。",
+          "romaji": "shushouhakeikokunoriyuuwotazunemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この券で全ての主催試合に入れます。",
+          "answer": "この券で全ての主催試合に入れます。",
+          "hints": {
+            "zh": "凭这张票可以观看所有主办方赛事。",
+            "en": "This pass grants entry to every hosted match.",
+            "ja": "この券で全ての主催試合に入れます。"
+          },
+          "hint": "凭这张票可以观看所有主办方赛事。 / This pass grants entry to every hosted match. / この券で全ての主催試合に入れます。",
+          "furigana": "このけんですべてのしゅさいじあいにはいれます。",
+          "romaji": "konokendesubetenoshusaijiainihairemasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "生中継は開始三十分前からです。",
+          "answer": "生中継は開始三十分前からです。",
+          "hints": {
+            "zh": "直播从开赛前三十分钟开始。",
+            "en": "The live broadcast starts thirty minutes early.",
+            "ja": "生中継は開始三十分前からです。"
+          },
+          "hint": "直播从开赛前三十分钟开始。 / The live broadcast starts thirty minutes early. / 生中継は開始三十分前からです。",
+          "furigana": "なまちゅうけいはかいしさんじゅっぷんまえからです。",
+          "romaji": "namachuukeihakaishisanjuppunmaekaradesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "終了の合図で会場から拍手が起きました。",
+          "answer": "終了の合図で会場から拍手が起きました。",
+          "hints": {
+            "zh": "终场信号响起时，全场响起掌声。",
+            "en": "Applause rose from the venue at the final signal.",
+            "ja": "終了の合図で会場から拍手が起きました。"
+          },
+          "hint": "终场信号响起时，全场响起掌声。 / Applause rose from the venue at the final signal. / 終了の合図で会場から拍手が起きました。",
+          "furigana": "しゅうりょうのあいずでかいじょうからはくしゅがおきました。",
+          "romaji": "shuuryounoaizudekaijoukarahakushugaokimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "第二シードは強豪と対戦します。",
+          "answer": "第二シードは強豪と対戦します。",
+          "hints": {
+            "zh": "二号种子将迎战强队。",
+            "en": "The second seed will face a strong opponent.",
+            "ja": "第二シードは強豪と対戦します。"
+          },
+          "hint": "二号种子将迎战强队。 / The second seed will face a strong opponent. / 第二シードは強豪と対戦します。",
+          "furigana": "だいにシードはきょうごうとたいせんします。",
+          "romaji": "dainishiidohakyougoutotaisenshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "雨で午後の部が一時間遅れました。",
+          "answer": "雨で午後の部が一時間遅れました。",
+          "hints": {
+            "zh": "下午场因雨推迟了一小时。",
+            "en": "Rain delayed the afternoon session by an hour.",
+            "ja": "雨で午後の部が一時間遅れました。"
+          },
+          "hint": "下午场因雨推迟了一小时。 / Rain delayed the afternoon session by an hour. / 雨で午後の部が一時間遅れました。",
+          "furigana": "あめでごごのぶがいちじかんおくれました。",
+          "romaji": "amedegogonobugaichijikan'okuremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "各入口で手荷物検査を行います。",
+          "answer": "各入口で手荷物検査を行います。",
+          "hints": {
+            "zh": "每个入口都会进行行李检查。",
+            "en": "Bag checks will take place at every entrance.",
+            "ja": "各入口で手荷物検査を行います。"
+          },
+          "hint": "每个入口都会进行行李检查。 / Bag checks will take place at every entrance. / 各入口で手荷物検査を行います。",
+          "furigana": "かくいりぐちでてにもつけんさをおこないます。",
+          "romaji": "kakuiriguchidetenimotsukensawookonaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "場内放送が先発選手を紹介しました。",
+          "answer": "場内放送が先発選手を紹介しました。",
+          "hints": {
+            "zh": "场内广播介绍了首发选手。",
+            "en": "The venue announcer introduced the starters.",
+            "ja": "場内放送が先発選手を紹介しました。"
+          },
+          "hint": "场内广播介绍了首发选手。 / The venue announcer introduced the starters. / 場内放送が先発選手を紹介しました。",
+          "furigana": "じょうないほうそうがせんぱつせんしゅをしょうかいしました。",
+          "romaji": "jounaihousougasenpatsusenshuwoshoukaishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ラジオの実況を聞きながら応援しました。",
+          "answer": "ラジオの実況を聞きながら応援しました。",
+          "hints": {
+            "zh": "我们一边听广播解说一边助威。",
+            "en": "We cheered while listening to the radio commentary.",
+            "ja": "ラジオの実況を聞きながら応援しました。"
+          },
+          "hint": "我们一边听广播解说一边助威。 / We cheered while listening to the radio commentary. / ラジオの実況を聞きながら応援しました。",
+          "furigana": "ラジオのじっきょうをききながらおうえんしました。",
+          "romaji": "rajionojikkyouwokikinagaraouenshimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "遠征してきた応援団は上段に座りました。",
+          "answer": "遠征してきた応援団は上段に座りました。",
+          "hints": {
+            "zh": "远道而来的助威团坐在上层。",
+            "en": "The traveling supporters sat in the upper section.",
+            "ja": "遠征してきた応援団は上段に座りました。"
+          },
+          "hint": "远道而来的助威团坐在上层。 / The traveling supporters sat in the upper section. / 遠征してきた応援団は上段に座りました。",
+          "furigana": "えんせいしてきたおうえんだんはじょうだんにすわりました。",
+          "romaji": "enseishitekitaouendanhajoudan'nisuwarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "雷のため競技が一時中断されました。",
+          "answer": "雷のため競技が一時中断されました。",
+          "hints": {
+            "zh": "比赛因雷电暂时中断。",
+            "en": "The event was temporarily suspended because of lightning.",
+            "ja": "雷のため競技が一時中断されました。"
+          },
+          "hint": "比赛因雷电暂时中断。 / The event was temporarily suspended because of lightning. / 雷のため競技が一時中断されました。",
+          "furigana": "かみなりのためきょうぎがいちじちゅうだんされました。",
+          "romaji": "kaminarinotamekyougigaichijichuudansaremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "表彰式は取材の後に始まります。",
+          "answer": "表彰式は取材の後に始まります。",
+          "hints": {
+            "zh": "颁奖仪式将在采访后开始。",
+            "en": "The awards ceremony begins after the interviews.",
+            "ja": "表彰式は取材の後に始まります。"
+          },
+          "hint": "颁奖仪式将在采访后开始。 / The awards ceremony begins after the interviews. / 表彰式は取材の後に始まります。",
+          "furigana": "ひょうしょうしきはしゅざいのあとにはじまります。",
+          "romaji": "hyoushoushikihashuzainoatonihajimarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "報道陣が取材区域に集まりました。",
+          "answer": "報道陣が取材区域に集まりました。",
+          "hints": {
+            "zh": "媒体记者聚集在采访区。",
+            "en": "Reporters gathered in the interview area.",
+            "ja": "報道陣が取材区域に集まりました。"
+          },
+          "hint": "媒体记者聚集在采访区。 / Reporters gathered in the interview area. / 報道陣が取材区域に集まりました。",
+          "furigana": "ほうどうじんがしゅざいくいきにあつまりました。",
+          "romaji": "houdoujingashuzaikuikiniatsumarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "記者会見で守備の狙いを説明しました。",
+          "answer": "記者会見で守備の狙いを説明しました。",
+          "hints": {
+            "zh": "发布会上说明了防守意图。",
+            "en": "The defensive plan was explained at the press conference.",
+            "ja": "記者会見で守備の狙いを説明しました。"
+          },
+          "hint": "发布会上说明了防守意图。 / The defensive plan was explained at the press conference. / 記者会見で守備の狙いを説明しました。",
+          "furigana": "きしゃかいけんでしゅびのねらいをせつめいしました。",
+          "romaji": "kishakaikendeshubinoneraiwosetsumeishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "試合後の取材で観客に感謝を伝えました。",
+          "answer": "試合後の取材で観客に感謝を伝えました。",
+          "hints": {
+            "zh": "赛后采访中向观众表达了感谢。",
+            "en": "The player thanked the crowd in a post-match interview.",
+            "ja": "試合後の取材で観客に感謝を伝えました。"
+          },
+          "hint": "赛后采访中向观众表达了感谢。 / The player thanked the crowd in a post-match interview. / 試合後の取材で観客に感謝を伝えました。",
+          "furigana": "しあいごのしゅざいでかんきゃくにかんしゃをつたえました。",
+          "romaji": "shiaigonoshuzaidekankyakunikanshawotsutaemashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "変更後の日程は券売所に掲示されています。",
+          "answer": "変更後の日程は券売所に掲示されています。",
+          "hints": {
+            "zh": "调整后的赛程张贴在售票处。",
+            "en": "The revised schedule is posted at the ticket office.",
+            "ja": "変更後の日程は券売所に掲示されています。"
+          },
+          "hint": "调整后的赛程张贴在售票处。 / The revised schedule is posted at the ticket office. / 変更後の日程は券売所に掲示されています。",
+          "furigana": "へんこうごのにっていはけんばいじょにけいじされています。",
+          "romaji": "henkougononitteihakenbaijonikeijisareteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "準優勝の選手にも温かい拍手が送られました。",
+          "answer": "準優勝の選手にも温かい拍手が送られました。",
+          "hints": {
+            "zh": "亚军选手也获得了热烈掌声。",
+            "en": "The runner-up also received warm applause.",
+            "ja": "準優勝の選手にも温かい拍手が送られました。"
+          },
+          "hint": "亚军选手也获得了热烈掌声。 / The runner-up also received warm applause. / 準優勝の選手にも温かい拍手が送られました。",
+          "furigana": "じゅんゆうしょうのせんしゅにもあたたかいはくしゅがおくられました。",
+          "romaji": "jun'yuushounosenshunimoatatakaihakushugaokuraremashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

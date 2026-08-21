@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-hotel-dialogues",
+  "course": {
+    "title": "旅游 · 英语酒店 · 情景对话",
+    "description": "酒店预订、入住、退房与服务请求英语表达（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 英语酒店 · 情景对话",
+      "en": "Travel · English Hotel · Situational Dialogues",
+      "ja": "旅行 · 英語ホテル · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习酒店住宿中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for hotel stays.",
+      "ja": "ホテル滞在で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "酒店预订与入住 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Good evening. I have a reservation under Emma Lee.",
+          "answer": "Good evening. I have a reservation under Emma Lee.",
+          "hints": {
+            "zh": "晚上好。我以 Emma Lee 的名字预订了房间。",
+            "en": "Good evening. I have a reservation under Emma Lee.",
+            "ja": "こんばんは。エマ・リーの名前で予約しています。"
+          },
+          "hint": "晚上好。我以 Emma Lee 的名字预订了房间。 / Good evening. I have a reservation under Emma Lee. / こんばんは。エマ・リーの名前で予約しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈivnɪŋ aɪ həv ə ˌɹɛzɚˈveɪʃən ˈəndɚ ˈɛmə li/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "hotel-check-in",
+          "dialogueTitles": {
+            "zh": "酒店入住",
+            "en": "Hotel Check-in",
+            "ja": "ホテルチェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "客人在前台确认预订、领取房卡并询问早餐。",
+            "en": "A guest confirms her reservation, receives a key card, and asks about breakfast.",
+            "ja": "宿泊客が予約を確認し、ルームキーを受け取って朝食について尋ねます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Welcome. I found your reservation for three nights.",
+          "answer": "Welcome. I found your reservation for three nights.",
+          "hints": {
+            "zh": "欢迎光临。我找到了您预订的三晚房间。",
+            "en": "Welcome. I found your reservation for three nights.",
+            "ja": "ようこそ。三泊のご予約を確認しました。"
+          },
+          "hint": "欢迎光临。我找到了您预订的三晚房间。 / Welcome. I found your reservation for three nights. / ようこそ。三泊のご予約を確認しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɛlkəm aɪ faʊnd jɚ ˌɹɛzɚˈveɪʃən fɚ θɹi naɪts/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "hotel-check-in",
+          "dialogueTitles": {
+            "zh": "酒店入住",
+            "en": "Hotel Check-in",
+            "ja": "ホテルチェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "客人在前台确认预订、领取房卡并询问早餐。",
+            "en": "A guest confirms her reservation, receives a key card, and asks about breakfast.",
+            "ja": "宿泊客が予約を確認し、ルームキーを受け取って朝食について尋ねます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "詹姆斯",
+            "en": "James",
+            "ja": "ジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great. Is breakfast included with the room?",
+          "answer": "Great. Is breakfast included with the room?",
+          "hints": {
+            "zh": "太好了。房费包含早餐吗？",
+            "en": "Great. Is breakfast included with the room?",
+            "ja": "よかったです。朝食は部屋代に含まれていますか？"
+          },
+          "hint": "太好了。房费包含早餐吗？ / Great. Is breakfast included with the room? / よかったです。朝食は部屋代に含まれていますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt ɪz ˈbɹɛkfəst ˌɪnˈkludəd wɪð ðə ɹum/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "hotel-check-in",
+          "dialogueTitles": {
+            "zh": "酒店入住",
+            "en": "Hotel Check-in",
+            "ja": "ホテルチェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "客人在前台确认预订、领取房卡并询问早餐。",
+            "en": "A guest confirms her reservation, receives a key card, and asks about breakfast.",
+            "ja": "宿泊客が予約を確認し、ルームキーを受け取って朝食について尋ねます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, breakfast is served from seven to ten.",
+          "answer": "Yes, breakfast is served from seven to ten.",
+          "hints": {
+            "zh": "是的，早餐供应时间是七点到十点。",
+            "en": "Yes, breakfast is served from seven to ten.",
+            "ja": "はい、朝食は七時から十時までです。"
+          },
+          "hint": "是的，早餐供应时间是七点到十点。 / Yes, breakfast is served from seven to ten. / はい、朝食は七時から十時までです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs ˈbɹɛkfəst ɪz sɝvd fɹəm ˈsɛvən tə tɛn/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "hotel-check-in",
+          "dialogueTitles": {
+            "zh": "酒店入住",
+            "en": "Hotel Check-in",
+            "ja": "ホテルチェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "客人在前台确认预订、领取房卡并询问早餐。",
+            "en": "A guest confirms her reservation, receives a key card, and asks about breakfast.",
+            "ja": "宿泊客が予約を確認し、ルームキーを受け取って朝食について尋ねます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "詹姆斯",
+            "en": "James",
+            "ja": "ジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Perfect. Could I have my key card, please?",
+          "answer": "Perfect. Could I have my key card, please?",
+          "hints": {
+            "zh": "很好。可以把房卡给我吗？",
+            "en": "Perfect. Could I have my key card, please?",
+            "ja": "ありがとうございます。ルームキーをいただけますか？"
+          },
+          "hint": "很好。可以把房卡给我吗？ / Perfect. Could I have my key card, please? / ありがとうございます。ルームキーをいただけますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɝfɪkt kəd aɪ həv maɪ ki kɑɹd pliz/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "hotel-check-in",
+          "dialogueTitles": {
+            "zh": "酒店入住",
+            "en": "Hotel Check-in",
+            "ja": "ホテルチェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "客人在前台确认预订、领取房卡并询问早餐。",
+            "en": "A guest confirms her reservation, receives a key card, and asks about breakfast.",
+            "ja": "宿泊客が予約を確認し、ルームキーを受け取って朝食について尋ねます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "艾玛",
+            "en": "Emma",
+            "ja": "エマ"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Of course. Your room is on the fifth floor.",
+          "answer": "Of course. Your room is on the fifth floor.",
+          "hints": {
+            "zh": "当然。您的房间在五楼。",
+            "en": "Of course. Your room is on the fifth floor.",
+            "ja": "もちろんです。お部屋は五階です。"
+          },
+          "hint": "当然。您的房间在五楼。 / Of course. Your room is on the fifth floor. / もちろんです。お部屋は五階です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əv kɔɹs jɚ ɹum ɪz ɑn ðə fɪfθ flɔɹ/",
+          "audioUrl": "learning/audio/en/en-travel-hotel-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "hotel-check-in",
+          "dialogueTitles": {
+            "zh": "酒店入住",
+            "en": "Hotel Check-in",
+            "ja": "ホテルチェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "客人在前台确认预订、领取房卡并询问早餐。",
+            "en": "A guest confirms her reservation, receives a key card, and asks about breakfast.",
+            "ja": "宿泊客が予約を確認し、ルームキーを受け取って朝食について尋ねます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "詹姆斯",
+            "en": "James",
+            "ja": "ジェームズ"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

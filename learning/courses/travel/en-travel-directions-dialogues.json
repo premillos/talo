@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "travel",
+  "slug": "en-travel-directions-dialogues",
+  "course": {
+    "title": "旅游 · 英语问路与交通 · 情景对话",
+    "description": "问路、购票与公共交通相关英语（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 英语问路与交通 · 情景对话",
+      "en": "Travel · English Directions & Transit · Situational Dialogues",
+      "ja": "旅行 · 英語道案内・交通 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习问路与公共交通中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for directions and public transit.",
+      "ja": "道案内と公共交通で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "问路与公共交通 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Excuse me, how do I get to the city museum?",
+          "answer": "Excuse me, how do I get to the city museum?",
+          "hints": {
+            "zh": "打扰一下，去市立博物馆怎么走？",
+            "en": "Excuse me, how do I get to the city museum?",
+            "ja": "すみません、市立博物館へはどう行けばいいですか？"
+          },
+          "hint": "打扰一下，去市立博物馆怎么走？ / Excuse me, how do I get to the city museum? / すみません、市立博物館へはどう行けばいいですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪkˈskjus mi haʊ du aɪ ɡɛt tə ðə ˈsɪti ˈmjuziəm/",
+          "audioUrl": "learning/audio/en/en-travel-directions-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "subway-directions",
+          "dialogueTitles": {
+            "zh": "地铁问路",
+            "en": "Subway Directions",
+            "ja": "地下鉄の道案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向当地人询问乘地铁去博物馆的路线。",
+            "en": "A tourist asks a local how to reach the museum by subway.",
+            "ja": "旅行者が地元の人に地下鉄で博物館へ行く方法を尋ねます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "索菲娅",
+            "en": "Sophia",
+            "ja": "ソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Take the blue subway line from this station.",
+          "answer": "Take the blue subway line from this station.",
+          "hints": {
+            "zh": "从这个车站乘蓝色地铁线。",
+            "en": "Take the blue subway line from this station.",
+            "ja": "この駅から地下鉄のブルーラインに乗ってください。"
+          },
+          "hint": "从这个车站乘蓝色地铁线。 / Take the blue subway line from this station. / この駅から地下鉄のブルーラインに乗ってください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/teɪk ðə blu ˈsəbweɪ laɪn fɹəm ðɪs ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "subway-directions",
+          "dialogueTitles": {
+            "zh": "地铁问路",
+            "en": "Subway Directions",
+            "ja": "地下鉄の道案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向当地人询问乘地铁去博物馆的路线。",
+            "en": "A tourist asks a local how to reach the museum by subway.",
+            "ja": "旅行者が地元の人に地下鉄で博物館へ行く方法を尋ねます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "卢卡斯",
+            "en": "Lucas",
+            "ja": "ルーカス"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Do I need to transfer anywhere?",
+          "answer": "Do I need to transfer anywhere?",
+          "hints": {
+            "zh": "我需要在哪里换乘吗？",
+            "en": "Do I need to transfer anywhere?",
+            "ja": "どこかで乗り換える必要がありますか？"
+          },
+          "hint": "我需要在哪里换乘吗？ / Do I need to transfer anywhere? / どこかで乗り換える必要がありますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/du aɪ nid tə tɹænsˈfɝ ˈɛniˌwɛɹ/",
+          "audioUrl": "learning/audio/en/en-travel-directions-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "subway-directions",
+          "dialogueTitles": {
+            "zh": "地铁问路",
+            "en": "Subway Directions",
+            "ja": "地下鉄の道案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向当地人询问乘地铁去博物馆的路线。",
+            "en": "A tourist asks a local how to reach the museum by subway.",
+            "ja": "旅行者が地元の人に地下鉄で博物館へ行く方法を尋ねます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "索菲娅",
+            "en": "Sophia",
+            "ja": "ソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "No, it is a direct ride for four stops.",
+          "answer": "No, it is a direct ride for four stops.",
+          "hints": {
+            "zh": "不用，直达，坐四站。",
+            "en": "No, it is a direct ride for four stops.",
+            "ja": "いいえ、乗り換えなしで四駅です。"
+          },
+          "hint": "不用，直达，坐四站。 / No, it is a direct ride for four stops. / いいえ、乗り換えなしで四駅です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/noʊ ɪt ɪz ə daɪˈɹɛkt ɹaɪd fɚ fɔɹ stɑps/",
+          "audioUrl": "learning/audio/en/en-travel-directions-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "subway-directions",
+          "dialogueTitles": {
+            "zh": "地铁问路",
+            "en": "Subway Directions",
+            "ja": "地下鉄の道案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向当地人询问乘地铁去博物馆的路线。",
+            "en": "A tourist asks a local how to reach the museum by subway.",
+            "ja": "旅行者が地元の人に地下鉄で博物館へ行く方法を尋ねます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "卢卡斯",
+            "en": "Lucas",
+            "ja": "ルーカス"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Which exit should I use at the museum station?",
+          "answer": "Which exit should I use at the museum station?",
+          "hints": {
+            "zh": "到博物馆站后应该走哪个出口？",
+            "en": "Which exit should I use at the museum station?",
+            "ja": "博物館駅ではどの出口を使えばいいですか？"
+          },
+          "hint": "到博物馆站后应该走哪个出口？ / Which exit should I use at the museum station? / 博物館駅ではどの出口を使えばいいですか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɪtʃ ˈɛɡzɪt ʃəd aɪ juz æt ðə ˈmjuziəm ˈsteɪʃən/",
+          "audioUrl": "learning/audio/en/en-travel-directions-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "subway-directions",
+          "dialogueTitles": {
+            "zh": "地铁问路",
+            "en": "Subway Directions",
+            "ja": "地下鉄の道案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向当地人询问乘地铁去博物馆的路线。",
+            "en": "A tourist asks a local how to reach the museum by subway.",
+            "ja": "旅行者が地元の人に地下鉄で博物館へ行く方法を尋ねます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "索菲娅",
+            "en": "Sophia",
+            "ja": "ソフィア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Use exit two, and the museum will be on your left.",
+          "answer": "Use exit two, and the museum will be on your left.",
+          "hints": {
+            "zh": "走二号出口，博物馆就在左边。",
+            "en": "Use exit two, and the museum will be on your left.",
+            "ja": "二番出口を出ると、博物館は左側にあります。"
+          },
+          "hint": "走二号出口，博物馆就在左边。 / Use exit two, and the museum will be on your left. / 二番出口を出ると、博物館は左側にあります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ˈɛɡzɪt tu ən ðə ˈmjuziəm wəl bi ɑn jɚ lɛft/",
+          "audioUrl": "learning/audio/en/en-travel-directions-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "subway-directions",
+          "dialogueTitles": {
+            "zh": "地铁问路",
+            "en": "Subway Directions",
+            "ja": "地下鉄の道案内"
+          },
+          "dialogueScenes": {
+            "zh": "游客向当地人询问乘地铁去博物馆的路线。",
+            "en": "A tourist asks a local how to reach the museum by subway.",
+            "ja": "旅行者が地元の人に地下鉄で博物館へ行く方法を尋ねます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "卢卡斯",
+            "en": "Lucas",
+            "ja": "ルーカス"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

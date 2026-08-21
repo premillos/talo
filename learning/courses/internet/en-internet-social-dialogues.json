@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "internet",
+  "slug": "en-internet-social-dialogues",
+  "course": {
+    "title": "网络文化 · 英语 · 情景对话",
+    "description": "学习社交媒体、内容创作、网络礼仪和安全相关英语。（男女情景对话）",
+    "titles": {
+      "zh": "网络文化 · 英语社交网络 · 情景对话",
+      "en": "Internet Culture · English Social Media · Situational Dialogues",
+      "ja": "ネット文化 · 英語SNS · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习社交媒体与网络文化中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for social media and internet culture.",
+      "ja": "ソーシャルメディアとネット文化で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语网络文化 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Is the stream title and thumbnail ready?",
+          "answer": "Is the stream title and thumbnail ready?",
+          "hints": {
+            "zh": "直播标题和缩略图准备好了吗？",
+            "en": "Is the stream title and thumbnail ready?",
+            "ja": "配信のタイトルと画像は準備できましたか。"
+          },
+          "hint": "直播标题和缩略图准备好了吗？ / Is the stream title and thumbnail ready? / 配信のタイトルと画像は準備できましたか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪz ðə stɹim ˈtaɪtəl ən ˈθəmneɪl ˈɹɛdi/",
+          "audioUrl": "learning/audio/en/en-internet-social-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "preparing-a-live-stream",
+          "dialogueTitles": {
+            "zh": "准备一场直播",
+            "en": "Preparing a Live Stream",
+            "ja": "ライブ配信の準備"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和杰克在直播开始前检查频道设置。",
+            "en": "Lily and Jack check the channel settings before a live stream.",
+            "ja": "リリーとジャックが配信前にチャンネル設定を確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, and I added the relevant hashtags.",
+          "answer": "Yes, and I added the relevant hashtags.",
+          "hints": {
+            "zh": "准备好了，我还添加了相关话题标签。",
+            "en": "Yes, and I added the relevant hashtags.",
+            "ja": "はい、関連するハッシュタグも付けました。"
+          },
+          "hint": "准备好了，我还添加了相关话题标签。 / Yes, and I added the relevant hashtags. / はい、関連するハッシュタグも付けました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs ən aɪ ˈædəd ðə ˈɹɛləvənt ˈhæʃˌtæɡz/",
+          "audioUrl": "learning/audio/en/en-internet-social-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "preparing-a-live-stream",
+          "dialogueTitles": {
+            "zh": "准备一场直播",
+            "en": "Preparing a Live Stream",
+            "ja": "ライブ配信の準備"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和杰克在直播开始前检查频道设置。",
+            "en": "Lily and Jack check the channel settings before a live stream.",
+            "ja": "リリーとジャックが配信前にチャンネル設定を確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "杰克",
+            "en": "Jack",
+            "ja": "ジャック"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Please check the comment moderation settings.",
+          "answer": "Please check the comment moderation settings.",
+          "hints": {
+            "zh": "请确认评论区的管理设置。",
+            "en": "Please check the comment moderation settings.",
+            "ja": "コメントの管理設定を確認してください。"
+          },
+          "hint": "请确认评论区的管理设置。 / Please check the comment moderation settings. / コメントの管理設定を確認してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz tʃɛk ðə ˈkɑmɛnt ˌmɑdɚˈeɪʃən ˈsɛtɪŋz/",
+          "audioUrl": "learning/audio/en/en-internet-social-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "preparing-a-live-stream",
+          "dialogueTitles": {
+            "zh": "准备一场直播",
+            "en": "Preparing a Live Stream",
+            "ja": "ライブ配信の準備"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和杰克在直播开始前检查频道设置。",
+            "en": "Lily and Jack check the channel settings before a live stream.",
+            "ja": "リリーとジャックが配信前にチャンネル設定を確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "The moderators are online and ready to help.",
+          "answer": "The moderators are online and ready to help.",
+          "hints": {
+            "zh": "管理员已经在线，可以处理问题。",
+            "en": "The moderators are online and ready to help.",
+            "ja": "管理者はすでにオンラインで対応できます。"
+          },
+          "hint": "管理员已经在线，可以处理问题。 / The moderators are online and ready to help. / 管理者はすでにオンラインで対応できます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmɑdɚˌeɪtɚz ɚ ˈɔnlaɪn ən ˈɹɛdi tə hɛlp/",
+          "audioUrl": "learning/audio/en/en-internet-social-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "preparing-a-live-stream",
+          "dialogueTitles": {
+            "zh": "准备一场直播",
+            "en": "Preparing a Live Stream",
+            "ja": "ライブ配信の準備"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和杰克在直播开始前检查频道设置。",
+            "en": "Lily and Jack check the channel settings before a live stream.",
+            "ja": "リリーとジャックが配信前にチャンネル設定を確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "杰克",
+            "en": "Jack",
+            "ja": "ジャック"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great, we will start in five minutes.",
+          "answer": "Great, we will start in five minutes.",
+          "hints": {
+            "zh": "很好，我们五分钟后开始。",
+            "en": "Great, we will start in five minutes.",
+            "ja": "いいですね。五分後に始めましょう。"
+          },
+          "hint": "很好，我们五分钟后开始。 / Great, we will start in five minutes. / いいですね。五分後に始めましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt wi wəl stɑɹt ɪn faɪv ˈmɪnəts/",
+          "audioUrl": "learning/audio/en/en-internet-social-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "preparing-a-live-stream",
+          "dialogueTitles": {
+            "zh": "准备一场直播",
+            "en": "Preparing a Live Stream",
+            "ja": "ライブ配信の準備"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和杰克在直播开始前检查频道设置。",
+            "en": "Lily and Jack check the channel settings before a live stream.",
+            "ja": "リリーとジャックが配信前にチャンネル設定を確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I will notify the subscribers now.",
+          "answer": "I will notify the subscribers now.",
+          "hints": {
+            "zh": "我现在就给订阅者发送通知。",
+            "en": "I will notify the subscribers now.",
+            "ja": "今から登録者に通知を送ります。"
+          },
+          "hint": "我现在就给订阅者发送通知。 / I will notify the subscribers now. / 今から登録者に通知を送ります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəl ˈnoʊtəˌfaɪ ðə səbsˈkɹaɪbɚz naʊ/",
+          "audioUrl": "learning/audio/en/en-internet-social-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "preparing-a-live-stream",
+          "dialogueTitles": {
+            "zh": "准备一场直播",
+            "en": "Preparing a Live Stream",
+            "ja": "ライブ配信の準備"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和杰克在直播开始前检查频道设置。",
+            "en": "Lily and Jack check the channel settings before a live stream.",
+            "ja": "リリーとジャックが配信前にチャンネル設定を確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "杰克",
+            "en": "Jack",
+            "ja": "ジャック"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

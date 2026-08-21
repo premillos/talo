@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-web-dialogues",
+  "course": {
+    "title": "编程知识 · 英语 Web · 情景对话",
+    "description": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 英语 Web · 情景对话",
+      "en": "编程知识 · 英语 Web · 情景对话",
+      "ja": "编程知识 · 英语 Web · 情景对话"
+    },
+    "descriptions": {
+      "zh": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）",
+      "en": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）",
+      "ja": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Web 开发与 API · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "The profile endpoint returns a 401 response.",
+          "answer": "The profile endpoint returns a 401 response.",
+          "hints": {
+            "zh": "个人资料端点返回 401 响应。",
+            "en": "The profile endpoint returns a 401 response.",
+            "ja": "プロフィールのエンドポイントが401レスポンスを返します。"
+          },
+          "hint": "个人资料端点返回 401 响应。 / The profile endpoint returns a 401 response. / プロフィールのエンドポイントが401レスポンスを返します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈpɹoʊfaɪl ˈɛndpɔɪnt ɹiˈtɝnz ə fɔɹ oʊ wʌn ɹiˈspɑns/",
+          "audioUrl": "learning/audio/en/en-prog-web-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "api-error-investigation",
+          "dialogueTitles": {
+            "zh": "排查 API 错误",
+            "en": "Investigating an API Error",
+            "ja": "APIエラーの調査"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者一起排查生产环境中的 401 响应。",
+            "en": "Frontend and backend developers investigate a 401 response in production.",
+            "ja": "フロントエンドとバックエンドの開発者が本番環境の401レスポンスを調べます。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "克莱尔",
+            "en": "Claire",
+            "ja": "クレア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Does the request include the authorization header?",
+          "answer": "Does the request include the authorization header?",
+          "hints": {
+            "zh": "请求中包含授权请求头吗？",
+            "en": "Does the request include the authorization header?",
+            "ja": "リクエストに認証ヘッダーは含まれていますか？"
+          },
+          "hint": "请求中包含授权请求头吗？ / Does the request include the authorization header? / リクエストに認証ヘッダーは含まれていますか？",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dəz ðə ɹiˈkwɛst ɪnˈklud ði ˌɔθɚəˈzeɪʃən ˈhɛdɚ/",
+          "audioUrl": "learning/audio/en/en-prog-web-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "api-error-investigation",
+          "dialogueTitles": {
+            "zh": "排查 API 错误",
+            "en": "Investigating an API Error",
+            "ja": "APIエラーの調査"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者一起排查生产环境中的 401 响应。",
+            "en": "Frontend and backend developers investigate a 401 response in production.",
+            "ja": "フロントエンドとバックエンドの開発者が本番環境の401レスポンスを調べます。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "丹尼尔",
+            "en": "Daniel",
+            "ja": "ダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, but the token expired ten minutes ago.",
+          "answer": "Yes, but the token expired ten minutes ago.",
+          "hints": {
+            "zh": "有，但令牌十分钟前过期了。",
+            "en": "Yes, but the token expired ten minutes ago.",
+            "ja": "はい、ただしトークンは10分前に期限切れになりました。"
+          },
+          "hint": "有，但令牌十分钟前过期了。 / Yes, but the token expired ten minutes ago. / はい、ただしトークンは10分前に期限切れになりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs bət ðə ˈtoʊkən ɪkˈspaɪɹd tɛn ˈmɪnəts əˈɡoʊ/",
+          "audioUrl": "learning/audio/en/en-prog-web-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "api-error-investigation",
+          "dialogueTitles": {
+            "zh": "排查 API 错误",
+            "en": "Investigating an API Error",
+            "ja": "APIエラーの調査"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者一起排查生产环境中的 401 响应。",
+            "en": "Frontend and backend developers investigate a 401 response in production.",
+            "ja": "フロントエンドとバックエンドの開発者が本番環境の401レスポンスを調べます。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "克莱尔",
+            "en": "Claire",
+            "ja": "クレア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Then the client should refresh the token first.",
+          "answer": "Then the client should refresh the token first.",
+          "hints": {
+            "zh": "那客户端应该先刷新令牌。",
+            "en": "Then the client should refresh the token first.",
+            "ja": "それならクライアントが先にトークンを更新すべきです。"
+          },
+          "hint": "那客户端应该先刷新令牌。 / Then the client should refresh the token first. / それならクライアントが先にトークンを更新すべきです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɛn ðə ˈklaɪənt ʃəd ɹɪˈfɹɛʃ ðə ˈtoʊkən fɝst/",
+          "audioUrl": "learning/audio/en/en-prog-web-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "api-error-investigation",
+          "dialogueTitles": {
+            "zh": "排查 API 错误",
+            "en": "Investigating an API Error",
+            "ja": "APIエラーの調査"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者一起排查生产环境中的 401 响应。",
+            "en": "Frontend and backend developers investigate a 401 response in production.",
+            "ja": "フロントエンドとバックエンドの開発者が本番環境の401レスポンスを調べます。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "丹尼尔",
+            "en": "Daniel",
+            "ja": "ダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I will update the middleware and retry the request.",
+          "answer": "I will update the middleware and retry the request.",
+          "hints": {
+            "zh": "我会更新中间件并重试请求。",
+            "en": "I will update the middleware and retry the request.",
+            "ja": "ミドルウェアを更新してリクエストを再試行します。"
+          },
+          "hint": "我会更新中间件并重试请求。 / I will update the middleware and retry the request. / ミドルウェアを更新してリクエストを再試行します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ wəl əpˈdeɪt ðə ˈmɪdəlˌwɛɹ ən ɹiˈtɹaɪ ðə ɹiˈkwɛst/",
+          "audioUrl": "learning/audio/en/en-prog-web-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "api-error-investigation",
+          "dialogueTitles": {
+            "zh": "排查 API 错误",
+            "en": "Investigating an API Error",
+            "ja": "APIエラーの調査"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者一起排查生产环境中的 401 响应。",
+            "en": "Frontend and backend developers investigate a 401 response in production.",
+            "ja": "フロントエンドとバックエンドの開発者が本番環境の401レスポンスを調べます。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "克莱尔",
+            "en": "Claire",
+            "ja": "クレア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "The endpoint now returns a 200 response.",
+          "answer": "The endpoint now returns a 200 response.",
+          "hints": {
+            "zh": "端点现在返回 200 响应了。",
+            "en": "The endpoint now returns a 200 response.",
+            "ja": "エンドポイントが200レスポンスを返すようになりました。"
+          },
+          "hint": "端点现在返回 200 响应了。 / The endpoint now returns a 200 response. / エンドポイントが200レスポンスを返すようになりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˈɛndpɔɪnt naʊ ɹiˈtɝnz ə tu ˈhʌndrəd ɹiˈspɑns/",
+          "audioUrl": "learning/audio/en/en-prog-web-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "api-error-investigation",
+          "dialogueTitles": {
+            "zh": "排查 API 错误",
+            "en": "Investigating an API Error",
+            "ja": "APIエラーの調査"
+          },
+          "dialogueScenes": {
+            "zh": "前后端开发者一起排查生产环境中的 401 响应。",
+            "en": "Frontend and backend developers investigate a 401 response in production.",
+            "ja": "フロントエンドとバックエンドの開発者が本番環境の401レスポンスを調べます。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "丹尼尔",
+            "en": "Daniel",
+            "ja": "ダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

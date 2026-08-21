@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-basics-sentences",
+  "course": {
+    "title": "编程知识 · 英语基础 · 句子",
+    "description": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）",
+    "titles": {
+      "zh": "编程知识 · 英语基础 · 句子",
+      "en": "编程知识 · 英语基础 · 句子",
+      "ja": "编程知识 · 英语基础 · 句子"
+    },
+    "descriptions": {
+      "zh": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）",
+      "en": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）",
+      "ja": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（常用句子）"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "编程核心概念 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "The function returns a boolean value.",
+          "answer": "The function returns a boolean value.",
+          "hints": {
+            "zh": "该函数返回一个布尔值。",
+            "en": "The function returns a boolean value.",
+            "ja": "この関数は真偽値を返します。"
+          },
+          "hint": "该函数返回一个布尔值。 / The function returns a boolean value. / この関数は真偽値を返します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈfəŋkʃən ɹiˈtɝnz ə buˈliən ˈvælju/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "We need to initialize the array first.",
+          "answer": "We need to initialize the array first.",
+          "hints": {
+            "zh": "我们需要先初始化数组。",
+            "en": "We need to initialize the array first.",
+            "ja": "まず配列を初期化する必要があります。"
+          },
+          "hint": "我们需要先初始化数组。 / We need to initialize the array first. / まず配列を初期化する必要があります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi nid tə ˌɪˈnɪʃəˌlaɪz ði ɚˈeɪ fɝst/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "This loop runs until the condition is false.",
+          "answer": "This loop runs until the condition is false.",
+          "hints": {
+            "zh": "这个循环会一直运行直到条件为假。",
+            "en": "This loop runs until the condition is false.",
+            "ja": "このループは条件が偽になるまで実行されます。"
+          },
+          "hint": "这个循环会一直运行直到条件为假。 / This loop runs until the condition is false. / このループは条件が偽になるまで実行されます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɪs lup ɹənz ənˈtɪl ðə kənˈdɪʃən ɪz fɔls/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The variable is out of scope.",
+          "answer": "The variable is out of scope.",
+          "hints": {
+            "zh": "该变量已超出作用域。",
+            "en": "The variable is out of scope.",
+            "ja": "変数がスコープ外です。"
+          },
+          "hint": "该变量已超出作用域。 / The variable is out of scope. / 変数がスコープ外です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈvɛɹiəbəl ɪz aʊt əv skoʊp/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Please refactor this method for readability.",
+          "answer": "Please refactor this method for readability.",
+          "hints": {
+            "zh": "请重构这个方法以提高可读性。",
+            "en": "Please refactor this method for readability.",
+            "ja": "可読性のためにこのメソッドをリファクタリングしてください。"
+          },
+          "hint": "请重构这个方法以提高可读性。 / Please refactor this method for readability. / 可読性のためにこのメソッドをリファクタリングしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pliz ɹiˈfæktɚ ðɪs ˈmɛθəd fɚ ˌɹidəˈbɪlɪti/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The object inherits from the base class.",
+          "answer": "The object inherits from the base class.",
+          "hints": {
+            "zh": "该对象继承自基类。",
+            "en": "The object inherits from the base class.",
+            "ja": "オブジェクトは基底クラスを継承しています。"
+          },
+          "hint": "该对象继承自基类。 / The object inherits from the base class. / オブジェクトは基底クラスを継承しています。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ði ˈɑbdʒɛkt ˌɪnˈhɛɹəts fɹəm ðə beɪs klæs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Pass the parameter by reference.",
+          "answer": "Pass the parameter by reference.",
+          "hints": {
+            "zh": "请通过引用传递该参数。",
+            "en": "Pass the parameter by reference.",
+            "ja": "参照渡しで引数を渡してください。"
+          },
+          "hint": "请通过引用传递该参数。 / Pass the parameter by reference. / 参照渡しで引数を渡してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pæs ðə pɚˈæmətɚ baɪ ˈɹɛfɚəns/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Handle the exception before it crashes.",
+          "answer": "Handle the exception before it crashes.",
+          "hints": {
+            "zh": "在程序崩溃前先处理这个异常。",
+            "en": "Handle the exception before it crashes.",
+            "ja": "クラッシュする前に例外を処理してください。"
+          },
+          "hint": "在程序崩溃前先处理这个异常。 / Handle the exception before it crashes. / クラッシュする前に例外を処理してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhændəl ði ɪkˈsɛpʃən bɪˈfɔɹ ɪt ˈkɹæʃɪz/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Assign a default value to the variable.",
+          "answer": "Assign a default value to the variable.",
+          "hints": {
+            "zh": "给变量赋一个默认值。",
+            "en": "Assign a default value to the variable.",
+            "ja": "変数にデフォルト値を代入してください。"
+          },
+          "hint": "给变量赋一个默认值。 / Assign a default value to the variable. / 変数にデフォルト値を代入してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈsaɪn ə dɪˈfɔlt ˈvælju tə ðə ˈvɛɹiəbəl/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The function accepts two optional parameters.",
+          "answer": "The function accepts two optional parameters.",
+          "hints": {
+            "zh": "该函数接受两个可选参数。",
+            "en": "The function accepts two optional parameters.",
+            "ja": "この関数は2つのオプション引数を受け付けます。"
+          },
+          "hint": "该函数接受两个可选参数。 / The function accepts two optional parameters. / この関数は2つのオプション引数を受け付けます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈfəŋkʃən ækˈsɛpts tu ˈɑpʃənəl pɚˈæmətɚz/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Break out of the loop when the counter reaches ten.",
+          "answer": "Break out of the loop when the counter reaches ten.",
+          "hints": {
+            "zh": "计数到十时跳出循环。",
+            "en": "Break out of the loop when the counter reaches ten.",
+            "ja": "カウンターが10に達したらループを抜けてください。"
+          },
+          "hint": "计数到十时跳出循环。 / Break out of the loop when the counter reaches ten. / カウンターが10に達したらループを抜けてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bɹeɪk aʊt əv ðə lup wɛn ðə ˈkaʊntɚ ˈɹitʃəz tɛn/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Sort the array in ascending order.",
+          "answer": "Sort the array in ascending order.",
+          "hints": {
+            "zh": "将数组按升序排序。",
+            "en": "Sort the array in ascending order.",
+            "ja": "配列を昇順にソートしてください。"
+          },
+          "hint": "将数组按升序排序。 / Sort the array in ascending order. / 配列を昇順にソートしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sɔɹt ði ɚˈeɪ ɪn əˈsɛndɪŋ ˈɔɹdɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Check whether the boolean flag is true.",
+          "answer": "Check whether the boolean flag is true.",
+          "hints": {
+            "zh": "检查布尔标志是否为真。",
+            "en": "Check whether the boolean flag is true.",
+            "ja": "真偽値フラグが真かどうか確認してください。"
+          },
+          "hint": "检查布尔标志是否为真。 / Check whether the boolean flag is true. / 真偽値フラグが真かどうか確認してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tʃɛk ˈwɛðɚ ðə buˈliən flæɡ ɪz tɹu/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Concatenate two strings with a space.",
+          "answer": "Concatenate two strings with a space.",
+          "hints": {
+            "zh": "用空格连接两个字符串。",
+            "en": "Concatenate two strings with a space.",
+            "ja": "スペースで2つの文字列を連結してください。"
+          },
+          "hint": "用空格连接两个字符串。 / Concatenate two strings with a space. / スペースで2つの文字列を連結してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kənˈkætəˌneɪt tu stɹɪŋz wɪð ə speɪs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Parse the integer from the user input.",
+          "answer": "Parse the integer from the user input.",
+          "hints": {
+            "zh": "从用户输入中解析整数。",
+            "en": "Parse the integer from the user input.",
+            "ja": "ユーザー入力から整数を解析してください。"
+          },
+          "hint": "从用户输入中解析整数。 / Parse the integer from the user input. / ユーザー入力から整数を解析してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɑɹs ði ˈɪntədʒɚ fɹəm ðə ˈjuzɚ ˈɪnpʊt/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Create a new instance of the class.",
+          "answer": "Create a new instance of the class.",
+          "hints": {
+            "zh": "创建类的一个新实例。",
+            "en": "Create a new instance of the class.",
+            "ja": "クラスの新しいインスタンスを作成してください。"
+          },
+          "hint": "创建类的一个新实例。 / Create a new instance of the class. / クラスの新しいインスタンスを作成してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kɹiˈeɪt ə nju ˈɪnstəns əv ðə klæs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Call the static method on the class.",
+          "answer": "Call the static method on the class.",
+          "hints": {
+            "zh": "调用类上的静态方法。",
+            "en": "Call the static method on the class.",
+            "ja": "クラスの静的メソッドを呼び出してください。"
+          },
+          "hint": "调用类上的静态方法。 / Call the static method on the class. / クラスの静的メソッドを呼び出してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kɔl ðə ˈstætɪk ˈmɛθəd ɑn ðə klæs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The method modifies the object in place.",
+          "answer": "The method modifies the object in place.",
+          "hints": {
+            "zh": "该方法会就地修改对象。",
+            "en": "The method modifies the object in place.",
+            "ja": "メソッドはオブジェクトをその場で変更します。"
+          },
+          "hint": "该方法会就地修改对象。 / The method modifies the object in place. / メソッドはオブジェクトをその場で変更します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈmɛθəd ˈmɑdəˌfaɪz ði ˈɑbdʒɛkt ɪn pleɪs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Return null when the item is not found.",
+          "answer": "Return null when the item is not found.",
+          "hints": {
+            "zh": "找不到项时返回 null。",
+            "en": "Return null when the item is not found.",
+            "ja": "項目が見つからない場合はnullを返してください。"
+          },
+          "hint": "找不到项时返回 null。 / Return null when the item is not found. / 項目が見つからない場合はnullを返してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈtɝn nəl wɛn ði ˈaɪtəm ɪz nɑt faʊnd/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Define the constant at the top of the file.",
+          "answer": "Define the constant at the top of the file.",
+          "hints": {
+            "zh": "在文件顶部定义常量。",
+            "en": "Define the constant at the top of the file.",
+            "ja": "ファイルの先頭で定数を定義してください。"
+          },
+          "hint": "在文件顶部定义常量。 / Define the constant at the top of the file. / ファイルの先頭で定数を定義してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈfaɪn ðə ˈkɑnstənt æt ðə tɑp əv ðə faɪl/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The variable is declared but never used.",
+          "answer": "The variable is declared but never used.",
+          "hints": {
+            "zh": "变量已声明但从未使用。",
+            "en": "The variable is declared but never used.",
+            "ja": "変数は宣言されていますが使用されていません。"
+          },
+          "hint": "变量已声明但从未使用。 / The variable is declared but never used. / 変数は宣言されていますが使用されていません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈvɛɹiəbəl ɪz dɪˈklɛɹd bət ˈnɛvɚ juzd/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Import the module before calling its functions.",
+          "answer": "Import the module before calling its functions.",
+          "hints": {
+            "zh": "调用函数前先导入模块。",
+            "en": "Import the module before calling its functions.",
+            "ja": "関数を呼び出す前にモジュールをインポートしてください。"
+          },
+          "hint": "调用函数前先导入模块。 / Import the module before calling its functions. / 関数を呼び出す前にモジュールをインポートしてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪmˈpɔɹt ðə ˈmɑdʒul bɪˈfɔɹ ˈkɔlɪŋ ɪts ˈfəŋkʃənz/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The compiler reported a syntax error on line five.",
+          "answer": "The compiler reported a syntax error on line five.",
+          "hints": {
+            "zh": "编译器在第五行报告了语法错误。",
+            "en": "The compiler reported a syntax error on line five.",
+            "ja": "コンパイラが5行目で構文エラーを報告しました。"
+          },
+          "hint": "编译器在第五行报告了语法错误。 / The compiler reported a syntax error on line five. / コンパイラが5行目で構文エラーを報告しました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə kəmˈpaɪlɚ ˌɹiˈpɔɹtɪd ə ˈsɪntæks ˈɛɹɚ ɑn laɪn faɪv/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Catch the exception and log the message.",
+          "answer": "Catch the exception and log the message.",
+          "hints": {
+            "zh": "捕获异常并记录消息。",
+            "en": "Catch the exception and log the message.",
+            "ja": "例外をキャッチしてメッセージをログに記録してください。"
+          },
+          "hint": "捕获异常并记录消息。 / Catch the exception and log the message. / 例外をキャッチしてメッセージをログに記録してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kætʃ ði ɪkˈsɛpʃən ən lɔɡ ðə ˈmɛsədʒ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The child class overrides the parent method.",
+          "answer": "The child class overrides the parent method.",
+          "hints": {
+            "zh": "子类重写了父类方法。",
+            "en": "The child class overrides the parent method.",
+            "ja": "子クラスが親メソッドをオーバーライドします。"
+          },
+          "hint": "子类重写了父类方法。 / The child class overrides the parent method. / 子クラスが親メソッドをオーバーライドします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə tʃaɪld klæs ˈoʊvɚˌɹaɪdz ðə ˈpɛɹənt ˈmɛθəd/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Implement the interface in your concrete class.",
+          "answer": "Implement the interface in your concrete class.",
+          "hints": {
+            "zh": "在具体类中实现该接口。",
+            "en": "Implement the interface in your concrete class.",
+            "ja": "具象クラスでインターフェースを実装してください。"
+          },
+          "hint": "在具体类中实现该接口。 / Implement the interface in your concrete class. / 具象クラスでインターフェースを実装してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɪmpləmənt ði ˈɪnɚˌfeɪs ɪn jɚ ˈkɑnkɹit klæs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Use a debugger to step through the code.",
+          "answer": "Use a debugger to step through the code.",
+          "hints": {
+            "zh": "用调试器逐步执行代码。",
+            "en": "Use a debugger to step through the code.",
+            "ja": "デバッガーでコードをステップ実行してください。"
+          },
+          "hint": "用调试器逐步执行代码。 / Use a debugger to step through the code. / デバッガーでコードをステップ実行してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/juz ə diˈbʌɡɚ tə stɛp θɹu ðə koʊd/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The scope of the variable is limited to this block.",
+          "answer": "The scope of the variable is limited to this block.",
+          "hints": {
+            "zh": "变量的作用域仅限于这个代码块。",
+            "en": "The scope of the variable is limited to this block.",
+            "ja": "変数のスコープはこのブロックに限定されます。"
+          },
+          "hint": "变量的作用域仅限于这个代码块。 / The scope of the variable is limited to this block. / 変数のスコープはこのブロックに限定されます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə skoʊp əv ðə ˈvɛɹiəbəl ɪz ˈlɪmətəd tə ðɪs blɑk/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Validate the input before processing the data.",
+          "answer": "Validate the input before processing the data.",
+          "hints": {
+            "zh": "处理数据前先校验输入。",
+            "en": "Validate the input before processing the data.",
+            "ja": "データを処理する前に入力を検証してください。"
+          },
+          "hint": "处理数据前先校验输入。 / Validate the input before processing the data. / データを処理する前に入力を検証してください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvælədeɪt ði ˈɪnpʊt bɪˈfɔɹ ˈpɹɑsɛsɪŋ ðə ˈdeɪtə/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The nested loop increases time complexity.",
+          "answer": "The nested loop increases time complexity.",
+          "hints": {
+            "zh": "嵌套循环会增加时间复杂度。",
+            "en": "The nested loop increases time complexity.",
+            "ja": "ネストループは時間計算量を増やします。"
+          },
+          "hint": "嵌套循环会增加时间复杂度。 / The nested loop increases time complexity. / ネストループは時間計算量を増やします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈnɛstəd lup ɪnˈkɹisɪz taɪm kəmˈplɛksəti/",
+          "audioUrl": "learning/audio/en/en-prog-basics-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

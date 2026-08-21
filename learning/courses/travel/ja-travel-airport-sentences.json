@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-airport-sentences",
+  "course": {
+    "title": "旅游 · 日语机场 · 句子",
+    "description": "空港でのチェックイン、保安検査、搭乗に使う日本語（常用句子）",
+    "titles": {
+      "zh": "旅游 · 日语机场 · 句子",
+      "en": "Travel · Japanese Airport · Sentences",
+      "ja": "旅行 · 日本語空港 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习机场出行中的常用日语句子。",
+      "en": "Practice common Japanese sentences for airport travel.",
+      "ja": "空港での移動で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "空港・フライト · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "チェックインカウンターはどこですか。",
+          "answer": "チェックインカウンターはどこですか。",
+          "hints": {
+            "zh": "值机柜台在哪里？",
+            "en": "Where is the check-in counter?",
+            "ja": "チェックインカウンターはどこですか。"
+          },
+          "hint": "值机柜台在哪里？ / Where is the check-in counter? / チェックインカウンターはどこですか。",
+          "furigana": "チェックインカウンターはどこですか。",
+          "romaji": "chekkuinkauntaahadokodesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "フライトが遅れています。",
+          "answer": "フライトが遅れています。",
+          "hints": {
+            "zh": "航班延误了。",
+            "en": "The flight is delayed.",
+            "ja": "フライトが遅れています。"
+          },
+          "hint": "航班延误了。 / The flight is delayed. / フライトが遅れています。",
+          "furigana": "フライトがおくれています。",
+          "romaji": "furaitogaokureteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "乗り継ぎ便があります。",
+          "answer": "乗り継ぎ便があります。",
+          "hints": {
+            "zh": "我有转机航班。",
+            "en": "I have a connecting flight.",
+            "ja": "乗り継ぎ便があります。"
+          },
+          "hint": "我有转机航班。 / I have a connecting flight. / 乗り継ぎ便があります。",
+          "furigana": "のりつぎびんがあります。",
+          "romaji": "noritsugibingaarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゲートはどこですか。",
+          "answer": "ゲートはどこですか。",
+          "hints": {
+            "zh": "登机口在哪里？",
+            "en": "Where is the gate?",
+            "ja": "ゲートはどこですか。"
+          },
+          "hint": "登机口在哪里？ / Where is the gate? / ゲートはどこですか。",
+          "furigana": "ゲートはどこですか。",
+          "romaji": "geetohadokodesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "税関を通りたいです。",
+          "answer": "税関を通りたいです。",
+          "hints": {
+            "zh": "我想过海关。",
+            "en": "I want to go through customs.",
+            "ja": "税関を通りたいです。"
+          },
+          "hint": "我想过海关。 / I want to go through customs. / 税関を通りたいです。",
+          "furigana": "ぜいかんをとおりたいです。",
+          "romaji": "zeikanwotooritaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このターミナルで合っていますか。",
+          "answer": "このターミナルで合っていますか。",
+          "hints": {
+            "zh": "是这个航站楼吗？",
+            "en": "Is this the right terminal?",
+            "ja": "このターミナルで合っていますか。"
+          },
+          "hint": "是这个航站楼吗？ / Is this the right terminal? / このターミナルで合っていますか。",
+          "furigana": "このターミナルであっていますか。",
+          "romaji": "konotaaminarudeatteimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "窓側の席をお願いできますか。",
+          "answer": "窓側の席をお願いできますか。",
+          "hints": {
+            "zh": "可以给我靠窗座位吗？",
+            "en": "Can I have a window seat, please?",
+            "ja": "窓側の席をお願いできますか。"
+          },
+          "hint": "可以给我靠窗座位吗？ / Can I have a window seat, please? / 窓側の席をお願いできますか。",
+          "furigana": "まどがわ",
+          "romaji": "madogawa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この便の搭乗は何時からですか。",
+          "answer": "この便の搭乗は何時からですか。",
+          "hints": {
+            "zh": "这趟航班几点开始登机？",
+            "en": "When does boarding begin for this flight?",
+            "ja": "この便の搭乗は何時からですか。"
+          },
+          "hint": "这趟航班几点开始登机？ / When does boarding begin for this flight? / この便の搭乗は何時からですか。",
+          "furigana": "このびんのとうじょうはなんじからですか。",
+          "romaji": "konobin'notoujouhananjikaradesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "パスポートをご用意ください。",
+          "answer": "パスポートをご用意ください。",
+          "hints": {
+            "zh": "请准备好护照。",
+            "en": "Please keep your passport ready.",
+            "ja": "パスポートをご用意ください。"
+          },
+          "hint": "请准备好护照。 / Please keep your passport ready. / パスポートをご用意ください。",
+          "furigana": "パスポートをごよういください。",
+          "romaji": "pasupootowogoyouikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "預け入れ荷物はどこで受け取れますか。",
+          "answer": "預け入れ荷物はどこで受け取れますか。",
+          "hints": {
+            "zh": "托运行李在哪取？",
+            "en": "Where can I pick up checked baggage?",
+            "ja": "預け入れ荷物はどこで受け取れますか。"
+          },
+          "hint": "托运行李在哪取？ / Where can I pick up checked baggage? / 預け入れ荷物はどこで受け取れますか。",
+          "furigana": "あずけいれにもつはどこでうけとれますか。",
+          "romaji": "azukeirenimotsuhadokodeuketoremasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "天候のため欠航になりました。",
+          "answer": "天候のため欠航になりました。",
+          "hints": {
+            "zh": "因天气航班取消了。",
+            "en": "The flight was cancelled due to weather.",
+            "ja": "天候のため欠航になりました。"
+          },
+          "hint": "因天气航班取消了。 / The flight was cancelled due to weather. / 天候のため欠航になりました。",
+          "furigana": "てんこうのためけっこうになりました。",
+          "romaji": "tenkounotamekekkouninarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この国にはビザが必要ですか。",
+          "answer": "この国にはビザが必要ですか。",
+          "hints": {
+            "zh": "这个国家需要签证吗？",
+            "en": "Do I need a visa for this country?",
+            "ja": "この国にはビザが必要ですか。"
+          },
+          "hint": "这个国家需要签证吗？ / Do I need a visa for this country? / この国にはビザが必要ですか。",
+          "furigana": "このくににはビザがひつようですか。",
+          "romaji": "konokuninihabizagahitsuyoudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "国際線の到着はどのターミナルですか。",
+          "answer": "国際線の到着はどのターミナルですか。",
+          "hints": {
+            "zh": "国际到达在哪个航站楼？",
+            "en": "Which terminal for international arrivals?",
+            "ja": "国際線の到着はどのターミナルですか。"
+          },
+          "hint": "国际到达在哪个航站楼？ / Which terminal for international arrivals? / 国際線の到着はどのターミナルですか。",
+          "furigana": "こくさいせんのとうちゃくはどのターミナルですか。",
+          "romaji": "kokusaisen'notouchakuhadonotaaminarudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "乗り継ぎ便に間に合いませんでした。",
+          "answer": "乗り継ぎ便に間に合いませんでした。",
+          "hints": {
+            "zh": "没赶上转机航班。",
+            "en": "I missed my connecting flight.",
+            "ja": "乗り継ぎ便に間に合いませんでした。"
+          },
+          "hint": "没赶上转机航班。 / I missed my connecting flight. / 乗り継ぎ便に間に合いませんでした。",
+          "furigana": "のりつぎびんにまにあいませんでした。",
+          "romaji": "noritsugibin'nimaniaimasendeshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "乗り継ぎ時間は2時間です。",
+          "answer": "乗り継ぎ時間は2時間です。",
+          "hints": {
+            "zh": "中转时间两小时。",
+            "en": "The layover is two hours.",
+            "ja": "乗り継ぎ時間は2時間です。"
+          },
+          "hint": "中转时间两小时。 / The layover is two hours. / 乗り継ぎ時間は2時間です。",
+          "furigana": "のりつぎじかんは2じかんです。",
+          "romaji": "noritsugijikanha2jikandesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゲートA5へお進みください。",
+          "answer": "ゲートA5へお進みください。",
+          "hints": {
+            "zh": "请前往 A5 登机口。",
+            "en": "Please proceed to gate A5.",
+            "ja": "ゲートA5へお進みください。"
+          },
+          "hint": "请前往 A5 登机口。 / Please proceed to gate A5. / ゲートA5へお進みください。",
+          "furigana": "ゲートA5へおすすみください。",
+          "romaji": "geetoA5heosusumikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "保安検査の列が長いです。",
+          "answer": "保安検査の列が長いです。",
+          "hints": {
+            "zh": "安检队伍很长。",
+            "en": "The security line is long.",
+            "ja": "保安検査の列が長いです。"
+          },
+          "hint": "安检队伍很长。 / The security line is long. / 保安検査の列が長いです。",
+          "furigana": "ほあんけんさのれつがながいです。",
+          "romaji": "hoankensanoretsuganagaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "通路側の席に変更できますか。",
+          "answer": "通路側の席に変更できますか。",
+          "hints": {
+            "zh": "可以换过道座位吗？",
+            "en": "Can I change to an aisle seat?",
+            "ja": "通路側の席に変更できますか。"
+          },
+          "hint": "可以换过道座位吗？ / Can I change to an aisle seat? / 通路側の席に変更できますか。",
+          "furigana": "つうろがわのせきにへんこうできますか。",
+          "romaji": "tsuurogawanosekinihenkoudekimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "飛行中に乱気流がありました。",
+          "answer": "飛行中に乱気流がありました。",
+          "hints": {
+            "zh": "飞行中有颠簸。",
+            "en": "We had turbulence during the flight.",
+            "ja": "飛行中に乱気流がありました。"
+          },
+          "hint": "飞行中有颠簸。 / We had turbulence during the flight. / 飛行中に乱気流がありました。",
+          "furigana": "ひこうちゅうにらんきりゅうがありました。",
+          "romaji": "hikouchuunirankiryuugaarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "荷物が届いていません。",
+          "answer": "荷物が届いていません。",
+          "hints": {
+            "zh": "行李还没到。",
+            "en": "My luggage has not arrived.",
+            "ja": "荷物が届いていません。"
+          },
+          "hint": "行李还没到。 / My luggage has not arrived. / 荷物が届いていません。",
+          "furigana": "にもつがとどいていません。",
+          "romaji": "nimotsugatodoiteimasen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "入国審査カウンターはどこですか。",
+          "answer": "入国審査カウンターはどこですか。",
+          "hints": {
+            "zh": "入境柜台在哪？",
+            "en": "Where is the immigration counter?",
+            "ja": "入国審査カウンターはどこですか。"
+          },
+          "hint": "入境柜台在哪？ / Where is the immigration counter? / 入国審査カウンターはどこですか。",
+          "furigana": "にゅうこくしんさカウンターはどこですか。",
+          "romaji": "nyuukokushinsakauntaahadokodesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "20分後に搭乗開始です。",
+          "answer": "20分後に搭乗開始です。",
+          "hints": {
+            "zh": "二十分钟后开始登机。",
+            "en": "Boarding begins in twenty minutes.",
+            "ja": "20分後に搭乗開始です。"
+          },
+          "hint": "二十分钟后开始登机。 / Boarding begins in twenty minutes. / 20分後に搭乗開始です。",
+          "furigana": "20ふんごにとうじょうかいしです。",
+          "romaji": "20fungonitoujoukaishidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "荷物を頭上棚に入れてください。",
+          "answer": "荷物を頭上棚に入れてください。",
+          "hints": {
+            "zh": "请把行李放入头顶架。",
+            "en": "Please stow your bag in the overhead bin.",
+            "ja": "荷物を頭上棚に入れてください。"
+          },
+          "hint": "请把行李放入头顶架。 / Please stow your bag in the overhead bin. / 荷物を頭上棚に入れてください。",
+          "furigana": "にもつをずじょうたなにいれてください。",
+          "romaji": "nimotsuwozujoutananiiretekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "座席を変更したいです。",
+          "answer": "座席を変更したいです。",
+          "hints": {
+            "zh": "我想改座位。",
+            "en": "I would like to change my seat.",
+            "ja": "座席を変更したいです。"
+          },
+          "hint": "我想改座位。 / I would like to change my seat. / 座席を変更したいです。",
+          "furigana": "ざせきをへんこうしたいです。",
+          "romaji": "zasekiwohenkoushitaidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "滑走路で遅延が発生しています。",
+          "answer": "滑走路で遅延が発生しています。",
+          "hints": {
+            "zh": "跑道发生延误。",
+            "en": "There is a delay on the runway.",
+            "ja": "滑走路で遅延が発生しています。"
+          },
+          "hint": "跑道发生延误。 / There is a delay on the runway. / 滑走路で遅延が発生しています。",
+          "furigana": "かっそうろうでちえんがはっせいしています。",
+          "romaji": "kassouroudechiengahasseishiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゲートで搭乗券を見せてください。",
+          "answer": "ゲートで搭乗券を見せてください。",
+          "hints": {
+            "zh": "登机口请出示登机牌。",
+            "en": "Show your boarding pass at the gate.",
+            "ja": "ゲートで搭乗券を見せてください。"
+          },
+          "hint": "登机口请出示登机牌。 / Show your boarding pass at the gate. / ゲートで搭乗券を見せてください。",
+          "furigana": "ゲートでとうじょうけんをみせてください。",
+          "romaji": "geetodetoujoukenwomisetekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "税関検査に時間がかかります。",
+          "answer": "税関検査に時間がかかります。",
+          "hints": {
+            "zh": "海关检查需要时间。",
+            "en": "Customs inspection takes time.",
+            "ja": "税関検査に時間がかかります。"
+          },
+          "hint": "海关检查需要时间。 / Customs inspection takes time. / 税関検査に時間がかかります。",
+          "furigana": "ぜいかんけんさにじかんがかかります。",
+          "romaji": "zeikankensanijikangakakarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "到着予定は午後6時です。",
+          "answer": "到着予定は午後6時です。",
+          "hints": {
+            "zh": "预计下午六点到达。",
+            "en": "Arrival is scheduled for six PM.",
+            "ja": "到着予定は午後6時です。"
+          },
+          "hint": "预计下午六点到达。 / Arrival is scheduled for six PM. / 到着予定は午後6時です。",
+          "furigana": "とうちゃくよていはごご6じです。",
+          "romaji": "touchakuyoteihagogo6jidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "搭乗券と身分証明書を用意してください。",
+          "answer": "搭乗券と身分証明書を用意してください。",
+          "hints": {
+            "zh": "请准备登机牌和证件。",
+            "en": "Please have your boarding pass and ID ready.",
+            "ja": "搭乗券と身分証明書を用意してください。"
+          },
+          "hint": "请准备登机牌和证件。 / Please have your boarding pass and ID ready. / 搭乗券と身分証明書を用意してください。",
+          "furigana": "とうじょうけんとみぶんしょうめいしょをよういしてください。",
+          "romaji": "toujoukentomibunshoumeishowoyouishitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ゲート変更のアナウンスがありました。",
+          "answer": "ゲート変更のアナウンスがありました。",
+          "hints": {
+            "zh": "广播通知登机口变更。",
+            "en": "There was an announcement about a gate change.",
+            "ja": "ゲート変更のアナウンスがありました。"
+          },
+          "hint": "广播通知登机口变更。 / There was an announcement about a gate change. / ゲート変更のアナウンスがありました。",
+          "furigana": "ゲートへんこうのアナウンスがありました。",
+          "romaji": "geetohenkounoanaunsugaarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

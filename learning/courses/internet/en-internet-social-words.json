@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "internet",
+  "slug": "en-internet-social-words",
+  "course": {
+    "title": "网络文化 · 英语 · 词汇",
+    "description": "学习社交媒体、内容创作、网络礼仪和安全相关英语。（单词与短语）",
+    "titles": {
+      "zh": "网络文化 · 英语社交网络 · 词汇",
+      "en": "Internet Culture · English Social Media · Vocabulary",
+      "ja": "ネット文化 · 英語SNS · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习社交媒体与网络文化中的常用英语词汇。",
+      "en": "Practice common English vocabulary for social media and internet culture.",
+      "ja": "ソーシャルメディアとネット文化で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语网络文化",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "account",
+          "answer": "account",
+          "hints": {
+            "zh": "账号",
+            "en": "a personal online identity",
+            "ja": "アカウント"
+          },
+          "hint": "账号 / a personal online identity / アカウント",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əˈkaʊnt/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "profile",
+          "answer": "profile",
+          "hints": {
+            "zh": "个人资料页",
+            "en": "a page with user information",
+            "ja": "プロフィール"
+          },
+          "hint": "个人资料页 / a page with user information / プロフィール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɹoʊfaɪl/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "username",
+          "answer": "username",
+          "hints": {
+            "zh": "用户名",
+            "en": "a name used to sign in",
+            "ja": "ユーザー名"
+          },
+          "hint": "用户名 / a name used to sign in / ユーザー名",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈjuzɚˌneɪm/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "password",
+          "answer": "password",
+          "hints": {
+            "zh": "密码",
+            "en": "a secret sign-in phrase",
+            "ja": "パスワード"
+          },
+          "hint": "密码 / a secret sign-in phrase / パスワード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpæswɝd/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "post",
+          "answer": "post",
+          "hints": {
+            "zh": "帖子；发布",
+            "en": "content shared online",
+            "ja": "投稿"
+          },
+          "hint": "帖子；发布 / content shared online / 投稿",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/poʊst/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "comment",
+          "answer": "comment",
+          "hints": {
+            "zh": "评论",
+            "en": "a response below online content",
+            "ja": "コメント"
+          },
+          "hint": "评论 / a response below online content / コメント",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɑmɛnt/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "like",
+          "answer": "like",
+          "hints": {
+            "zh": "点赞",
+            "en": "a positive reaction online",
+            "ja": "いいね"
+          },
+          "hint": "点赞 / a positive reaction online / いいね",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/laɪk/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "share",
+          "answer": "share",
+          "hints": {
+            "zh": "分享",
+            "en": "send content to other people",
+            "ja": "シェア"
+          },
+          "hint": "分享 / send content to other people / シェア",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃɛɹ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "follower",
+          "answer": "follower",
+          "hints": {
+            "zh": "关注者",
+            "en": "a person who follows an account",
+            "ja": "フォロワー"
+          },
+          "hint": "关注者 / a person who follows an account / フォロワー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfɑloʊɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "hashtag",
+          "answer": "hashtag",
+          "hints": {
+            "zh": "话题标签",
+            "en": "a keyword marked with a hash",
+            "ja": "ハッシュタグ"
+          },
+          "hint": "话题标签 / a keyword marked with a hash / ハッシュタグ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhæʃtæɡ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "meme",
+          "answer": "meme",
+          "hints": {
+            "zh": "网络梗；迷因",
+            "en": "a humorous idea shared online",
+            "ja": "ミーム"
+          },
+          "hint": "网络梗；迷因 / a humorous idea shared online / ミーム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mim/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "viral",
+          "answer": "viral",
+          "hints": {
+            "zh": "爆红的",
+            "en": "spreading quickly online",
+            "ja": "バズった"
+          },
+          "hint": "爆红的 / spreading quickly online / バズった",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvaɪɹəl/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "stream",
+          "answer": "stream",
+          "hints": {
+            "zh": "直播；流媒体",
+            "en": "live or continuous online media",
+            "ja": "配信"
+          },
+          "hint": "直播；流媒体 / live or continuous online media / 配信",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stɹim/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "creator",
+          "answer": "creator",
+          "hints": {
+            "zh": "内容创作者",
+            "en": "a person who makes online content",
+            "ja": "クリエイター"
+          },
+          "hint": "内容创作者 / a person who makes online content / クリエイター",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kɹiˈeɪtɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "channel",
+          "answer": "channel",
+          "hints": {
+            "zh": "频道",
+            "en": "a page for a creator's content",
+            "ja": "チャンネル"
+          },
+          "hint": "频道 / a page for a creator's content / チャンネル",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃænəl/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "subscriber",
+          "answer": "subscriber",
+          "hints": {
+            "zh": "订阅者",
+            "en": "a person subscribed to a channel",
+            "ja": "登録者"
+          },
+          "hint": "订阅者 / a person subscribed to a channel / 登録者",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/səbsˈkɹaɪbɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "upload",
+          "answer": "upload",
+          "hints": {
+            "zh": "上传",
+            "en": "send a file to the internet",
+            "ja": "アップロード"
+          },
+          "hint": "上传 / send a file to the internet / アップロード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈəploʊd/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "download",
+          "answer": "download",
+          "hints": {
+            "zh": "下载",
+            "en": "save an online file locally",
+            "ja": "ダウンロード"
+          },
+          "hint": "下载 / save an online file locally / ダウンロード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdaʊnloʊd/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "notification",
+          "answer": "notification",
+          "hints": {
+            "zh": "通知",
+            "en": "an alert from an app or site",
+            "ja": "通知"
+          },
+          "hint": "通知 / an alert from an app or site / 通知",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌnoʊtəfəˈkeɪʃən/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "algorithm",
+          "answer": "algorithm",
+          "hints": {
+            "zh": "算法",
+            "en": "rules that select online content",
+            "ja": "アルゴリズム"
+          },
+          "hint": "算法 / rules that select online content / アルゴリズム",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈælɡɚˌɪðəm/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "feed",
+          "answer": "feed",
+          "hints": {
+            "zh": "信息流",
+            "en": "a changing list of online posts",
+            "ja": "フィード"
+          },
+          "hint": "信息流 / a changing list of online posts / フィード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fid/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "thread",
+          "answer": "thread",
+          "hints": {
+            "zh": "讨论串",
+            "en": "a connected online discussion",
+            "ja": "スレッド"
+          },
+          "hint": "讨论串 / a connected online discussion / スレッド",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/θɹɛd/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "emoji",
+          "answer": "emoji",
+          "hints": {
+            "zh": "表情符号",
+            "en": "a small digital expression symbol",
+            "ja": "絵文字"
+          },
+          "hint": "表情符号 / a small digital expression symbol / 絵文字",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/iˈmoʊdʒi/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "avatar",
+          "answer": "avatar",
+          "hints": {
+            "zh": "头像；虚拟形象",
+            "en": "an image representing a user",
+            "ja": "アバター"
+          },
+          "hint": "头像；虚拟形象 / an image representing a user / アバター",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈævəˌtɑɹ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "community",
+          "answer": "community",
+          "hints": {
+            "zh": "社群",
+            "en": "a group with shared interests",
+            "ja": "コミュニティ"
+          },
+          "hint": "社群 / a group with shared interests / コミュニティ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəmˈjunəti/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "moderator",
+          "answer": "moderator",
+          "hints": {
+            "zh": "版主；管理员",
+            "en": "a person who manages a community",
+            "ja": "モデレーター"
+          },
+          "hint": "版主；管理员 / a person who manages a community / モデレーター",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɑdɚˌeɪtɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "privacy",
+          "answer": "privacy",
+          "hints": {
+            "zh": "隐私",
+            "en": "control over personal information",
+            "ja": "プライバシー"
+          },
+          "hint": "隐私 / control over personal information / プライバシー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɹaɪvəsi/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "block",
+          "answer": "block",
+          "hints": {
+            "zh": "屏蔽",
+            "en": "prevent an account from contacting you",
+            "ja": "ブロック"
+          },
+          "hint": "屏蔽 / prevent an account from contacting you / ブロック",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/blɑk/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "report",
+          "answer": "report",
+          "hints": {
+            "zh": "举报",
+            "en": "flag harmful online content",
+            "ja": "通報"
+          },
+          "hint": "举报 / flag harmful online content / 通報",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈpɔɹt/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "spoiler",
+          "answer": "spoiler",
+          "hints": {
+            "zh": "剧透",
+            "en": "information that reveals a story",
+            "ja": "ネタバレ"
+          },
+          "hint": "剧透 / information that reveals a story / ネタバレ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈspɔɪlɚ/",
+          "audioUrl": "learning/audio/en/en-internet-social-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "languageCode": "en",
+  "category": "anime",
+  "slug": "en-anime-community-words",
+  "course": {
+    "title": "二次元/动漫 · 英语社区 · 词汇",
+    "description": "学习动漫粉丝社区讨论、追番与同人文化中的常用英语表达。（单词与短语）",
+    "titles": {
+      "zh": "二次元/动漫 · 英语社区 · 词汇",
+      "en": "Anime & ACG · English Community · Vocabulary",
+      "ja": "アニメ・ACG · 英語コミュニティ · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习动漫粉丝社区中的常用英语词汇。",
+      "en": "Practice common English vocabulary for anime fan communities.",
+      "ja": "アニメファンコミュニティで使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "社区与讨论用语",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "spoiler",
+          "answer": "spoiler",
+          "hints": {
+            "zh": "剧透",
+            "en": "plot-revealing information",
+            "ja": "ネタバレ"
+          },
+          "hint": "剧透 / plot-revealing information / ネタバレ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈspɔɪlɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "shipping",
+          "answer": "shipping",
+          "hints": {
+            "zh": "站 CP；配对支持",
+            "en": "supporting a romantic pairing",
+            "ja": "カップリング・推しCP"
+          },
+          "hint": "站 CP；配对支持 / supporting a romantic pairing / カップリング・推しCP",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈʃɪpɪŋ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "fandom",
+          "answer": "fandom",
+          "hints": {
+            "zh": "粉丝圈",
+            "en": "community of fans",
+            "ja": "ファンダム・ファンコミュニティ"
+          },
+          "hint": "粉丝圈 / community of fans / ファンダム・ファンコミュニティ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfænˌdəm/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "headcanon",
+          "answer": "headcanon",
+          "hints": {
+            "zh": "个人设定；脑补 canon",
+            "en": "personal fan interpretation",
+            "ja": "個人的な設定・ヘッドカノン"
+          },
+          "hint": "个人设定；脑补 canon / personal fan interpretation / 個人的な設定・ヘッドカノン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhɛdˌkænən/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "canon",
+          "answer": "canon",
+          "hints": {
+            "zh": "官方设定；正史",
+            "en": "official story material",
+            "ja": "公式設定・正史（せいし）"
+          },
+          "hint": "官方设定；正史 / official story material / 公式設定・正史（せいし）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkænən/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "filler",
+          "answer": "filler",
+          "hints": {
+            "zh": "填充集；原创回",
+            "en": "non-manga episode padding",
+            "ja": "オリジナル回・フィラー"
+          },
+          "hint": "填充集；原创回 / non-manga episode padding / オリジナル回・フィラー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfɪlɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "recap",
+          "answer": "recap",
+          "hints": {
+            "zh": "回顾；前情提要",
+            "en": "summary of previous events",
+            "ja": "前回のおさらい"
+          },
+          "hint": "回顾；前情提要 / summary of previous events / 前回のおさらい",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹikæp/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "hiatus",
+          "answer": "hiatus",
+          "hints": {
+            "zh": "休刊；停更",
+            "en": "temporary break in release",
+            "ja": "休載（きゅうさい）"
+          },
+          "hint": "休刊；停更 / temporary break in release / 休載（きゅうさい）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haɪˈeɪtəs/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "reboot",
+          "answer": "reboot",
+          "hints": {
+            "zh": "重启；翻拍",
+            "en": "new version of an old series",
+            "ja": "リブート・再制作"
+          },
+          "hint": "重启；翻拍 / new version of an old series / リブート・再制作",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈbut/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "crossover",
+          "answer": "crossover",
+          "hints": {
+            "zh": "联动；跨界合作",
+            "en": "characters from different works meet",
+            "ja": "コラボ・クロスオーバー"
+          },
+          "hint": "联动；跨界合作 / characters from different works meet / コラボ・クロスオーバー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɹɔˌsoʊvɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "meme",
+          "answer": "meme",
+          "hints": {
+            "zh": "梗；迷因",
+            "en": "viral joke or image format",
+            "ja": "ミーム・ネット梗"
+          },
+          "hint": "梗；迷因 / viral joke or image format / ミーム・ネット梗",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mim/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "troll",
+          "answer": "troll",
+          "hints": {
+            "zh": "引战；恶意捣乱者",
+            "en": "person who posts provocative content",
+            "ja": "荒らし・トロール"
+          },
+          "hint": "引战；恶意捣乱者 / person who posts provocative content / 荒らし・トロール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tɹoʊl/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "fan art",
+          "answer": "fan art",
+          "hints": {
+            "zh": "同人图；粉丝创作插画",
+            "en": "artwork created by fans",
+            "ja": "ファンアート・同人イラスト"
+          },
+          "hint": "同人图；粉丝创作插画 / artwork created by fans / ファンアート・同人イラスト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæn ɑɹt/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/13.wav",
+          "acceptVariants": [
+            "fanart"
+          ],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "fan fiction",
+          "answer": "fan fiction",
+          "hints": {
+            "zh": "同人小说",
+            "en": "stories written by fans",
+            "ja": "ファンフィクション・二次創作"
+          },
+          "hint": "同人小说 / stories written by fans / ファンフィクション・二次創作",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæn ˈfɪkʃən/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "binge watch",
+          "answer": "binge watch",
+          "hints": {
+            "zh": "一口气追完；刷番",
+            "en": "watch many episodes at once",
+            "ja": "一気見（いっきみ）"
+          },
+          "hint": "一口气追完；刷番 / watch many episodes at once / 一気見（いっきみ）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bɪndʒ wɑtʃ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/15.wav",
+          "acceptVariants": [
+            "binge-watch",
+            "bingewatch"
+          ],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "episode discussion",
+          "answer": "episode discussion",
+          "hints": {
+            "zh": "分集讨论",
+            "en": "talking about a specific episode",
+            "ja": "各話感想・エピソード討論"
+          },
+          "hint": "分集讨论 / talking about a specific episode / 各話感想・エピソード討論",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛpəˌsoʊd dɪˈskəʃən/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "season finale",
+          "answer": "season finale",
+          "hints": {
+            "zh": "季终集",
+            "en": "last episode of a season",
+            "ja": "シーズンファイナル・最終回"
+          },
+          "hint": "季终集 / last episode of a season / シーズンファイナル・最終回",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsizən fəˈnæli/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "cliff hanger",
+          "answer": "cliff hanger",
+          "hints": {
+            "zh": "悬念结尾； cliffhanger",
+            "en": "ending that leaves suspense",
+            "ja": "クリフハンガー・続きが気になる展開"
+          },
+          "hint": "悬念结尾； cliffhanger / ending that leaves suspense / クリフハンガー・続きが気になる展開",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/klɪf ˈhæŋɚ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/18.wav",
+          "acceptVariants": [
+            "cliffhanger"
+          ],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "voice chat",
+          "answer": "voice chat",
+          "hints": {
+            "zh": "语音聊天",
+            "en": "real-time audio conversation online",
+            "ja": "ボイスチャット"
+          },
+          "hint": "语音聊天 / real-time audio conversation online / ボイスチャット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/vɔɪs tʃæt/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "online forum",
+          "answer": "online forum",
+          "hints": {
+            "zh": "网络论坛",
+            "en": "web board for fan discussion",
+            "ja": "オンラインフォーラム・掲示板"
+          },
+          "hint": "网络论坛 / web board for fan discussion / オンラインフォーラム・掲示板",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɔnlaɪn ˈfɔɹəm/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "watch party",
+          "answer": "watch party",
+          "hints": {
+            "zh": "观影派对；一起看",
+            "en": "group viewing event",
+            "ja": "一緒に見る会・ウォッチパーティー"
+          },
+          "hint": "观影派对；一起看 / group viewing event / 一緒に見る会・ウォッチパーティー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɑtʃ ˈpɑɹti/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "theory crafting",
+          "answer": "theory crafting",
+          "hints": {
+            "zh": "推理分析；考据",
+            "en": "building theories about the plot",
+            "ja": "考察（こうさつ）・ファン推理"
+          },
+          "hint": "推理分析；考据 / building theories about the plot / 考察（こうさつ）・ファン推理",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈθiɚi ˈkɹæftɪŋ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "character poll",
+          "answer": "character poll",
+          "hints": {
+            "zh": "角色人气投票",
+            "en": "fan vote for favorite characters",
+            "ja": "キャラ人気投票（とうひょう）"
+          },
+          "hint": "角色人气投票 / fan vote for favorite characters / キャラ人気投票（とうひょう）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɛɹɪktɚ poʊl/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "review",
+          "answer": "review",
+          "hints": {
+            "zh": "评测；点评",
+            "en": "written evaluation of a work",
+            "ja": "レビュー・感想"
+          },
+          "hint": "评测；点评 / written evaluation of a work / レビュー・感想",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹivˈju/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "discourse",
+          "answer": "discourse",
+          "hints": {
+            "zh": "讨论；话语",
+            "en": "conversation around a topic",
+            "ja": "談義（だんぎ）・議論"
+          },
+          "hint": "讨论；话语 / conversation around a topic / 談義（だんぎ）・議論",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdɪskɔɹs/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "spoiler tag",
+          "answer": "spoiler tag",
+          "hints": {
+            "zh": "剧透标记",
+            "en": "label warning of plot reveals",
+            "ja": "ネタバレ注意"
+          },
+          "hint": "剧透标记 / label warning of plot reveals / ネタバレ注意",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈspɔɪlɚ tæɡ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "fanbase",
+          "answer": "fanbase",
+          "hints": {
+            "zh": "粉丝群体",
+            "en": "community of supporters",
+            "ja": "ファンベース"
+          },
+          "hint": "粉丝群体 / community of supporters / ファンベース",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfænˌbeɪs/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "reaction video",
+          "answer": "reaction video",
+          "hints": {
+            "zh": "反应视频",
+            "en": "video of someone reacting to content",
+            "ja": "リアクションビデオ"
+          },
+          "hint": "反应视频 / video of someone reacting to content / リアクションビデオ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈækʃən ˈvɪdioʊ/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "convention",
+          "answer": "convention",
+          "hints": {
+            "zh": "漫展；同人展会",
+            "en": "fan gathering event",
+            "ja": "コミケ・コンベンション"
+          },
+          "hint": "漫展；同人展会 / fan gathering event / コミケ・コンベンション",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kənˈvɛnʃən/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "episode review thread",
+          "answer": "episode review thread",
+          "hints": {
+            "zh": "分集评价帖",
+            "en": "dedicated discussion thread per episode",
+            "ja": "各話レビュースレ"
+          },
+          "hint": "分集评价帖 / dedicated discussion thread per episode / 各話レビュースレ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛpəˌsoʊd ɹivˈju θɹɛd/",
+          "audioUrl": "learning/audio/en/en-anime-community-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

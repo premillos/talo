@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "anime",
+  "slug": "en-anime-foundation-words",
+  "course": {
+    "title": "二次元/动漫 · 英语基础 · 词汇",
+    "description": "掌握动漫与 ACG 文化中最常用的英语基础词汇与表达。（单词与短语）",
+    "titles": {
+      "zh": "二次元/动漫 · 英语基础 · 词汇",
+      "en": "Anime & ACG · English Foundations · Vocabulary",
+      "ja": "アニメ・ACG · 英語基礎 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习动漫与 ACG 基础中的常用英语词汇。",
+      "en": "Practice common English vocabulary for anime and ACG foundations.",
+      "ja": "アニメ・ACGの基礎で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "ACG 基础词汇",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "anime",
+          "answer": "anime",
+          "hints": {
+            "zh": "动画；日本动画",
+            "en": "Japanese animated works",
+            "ja": "アニメ"
+          },
+          "hint": "动画；日本动画 / Japanese animated works / アニメ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌænɪˈmeɪ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "manga",
+          "answer": "manga",
+          "hints": {
+            "zh": "漫画；日本漫画",
+            "en": "Japanese comics",
+            "ja": "漫画（まんが）"
+          },
+          "hint": "漫画；日本漫画 / Japanese comics / 漫画（まんが）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmæŋɡə/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "cosplay",
+          "answer": "cosplay",
+          "hints": {
+            "zh": "角色扮演",
+            "en": "costume play of characters",
+            "ja": "コスプレ"
+          },
+          "hint": "角色扮演 / costume play of characters / コスプレ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɑzˌpleɪ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "otaku",
+          "answer": "otaku",
+          "hints": {
+            "zh": "御宅族；动漫迷",
+            "en": "avid fan of anime/manga",
+            "ja": "オタク"
+          },
+          "hint": "御宅族；动漫迷 / avid fan of anime/manga / オタク",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/oʊˈtɑku/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "chibi",
+          "answer": "chibi",
+          "hints": {
+            "zh": "Q 版；迷你可爱画风",
+            "en": "cute super-deformed style",
+            "ja": "ちび・デフォルメ"
+          },
+          "hint": "Q 版；迷你可爱画风 / cute super-deformed style / ちび・デフォルメ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃibi/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "isekai",
+          "answer": "isekai",
+          "hints": {
+            "zh": "异世界（题材）",
+            "en": "another-world fantasy genre",
+            "ja": "異世界（いせかい）"
+          },
+          "hint": "异世界（题材） / another-world fantasy genre / 異世界（いせかい）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌisəˈkaɪ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "mecha",
+          "answer": "mecha",
+          "hints": {
+            "zh": "机甲；巨大机器人",
+            "en": "giant robot genre",
+            "ja": "メカ・ロボット"
+          },
+          "hint": "机甲；巨大机器人 / giant robot genre / メカ・ロボット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɛkə/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "dub",
+          "answer": "dub",
+          "hints": {
+            "zh": "配音版",
+            "en": "dubbed audio version",
+            "ja": "吹き替え版（ふきかえばん）"
+          },
+          "hint": "配音版 / dubbed audio version / 吹き替え版（ふきかえばん）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dəb/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "sub",
+          "answer": "sub",
+          "hints": {
+            "zh": "字幕版",
+            "en": "subtitled version",
+            "ja": "字幕版（じまくばん）"
+          },
+          "hint": "字幕版 / subtitled version / 字幕版（じまくばん）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/səb/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "merch",
+          "answer": "merch",
+          "hints": {
+            "zh": "周边商品",
+            "en": "official merchandise",
+            "ja": "グッズ・関連商品"
+          },
+          "hint": "周边商品 / official merchandise / グッズ・関連商品",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mɝtʃ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "sequel",
+          "answer": "sequel",
+          "hints": {
+            "zh": "续作；续集",
+            "en": "follow-up installment",
+            "ja": "続編（ぞくへん）"
+          },
+          "hint": "续作；续集 / follow-up installment / 続編（ぞくへん）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsikwəl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "prequel",
+          "answer": "prequel",
+          "hints": {
+            "zh": "前传",
+            "en": "story set before the original",
+            "ja": "前日談（ぜんにったん）"
+          },
+          "hint": "前传 / story set before the original / 前日談（ぜんにったん）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɹikwɛl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "light novel",
+          "answer": "light novel",
+          "hints": {
+            "zh": "轻小说",
+            "en": "illustrated prose fiction",
+            "ja": "ライトノベル"
+          },
+          "hint": "轻小说 / illustrated prose fiction / ライトノベル",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/laɪt ˈnɑvəl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "voice actor",
+          "answer": "voice actor",
+          "hints": {
+            "zh": "声优；配音演员",
+            "en": "actor who provides character voices",
+            "ja": "声優（せいゆう）"
+          },
+          "hint": "声优；配音演员 / actor who provides character voices / 声優（せいゆう）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/vɔɪs ˈæktɚ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "opening theme",
+          "answer": "opening theme",
+          "hints": {
+            "zh": "片头曲；OP",
+            "en": "song at the start of each episode",
+            "ja": "オープニング曲"
+          },
+          "hint": "片头曲；OP / song at the start of each episode / オープニング曲",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈoʊpənɪŋ θim/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ending theme",
+          "answer": "ending theme",
+          "hints": {
+            "zh": "片尾曲；ED",
+            "en": "song at the end of each episode",
+            "ja": "エンディング曲"
+          },
+          "hint": "片尾曲；ED / song at the end of each episode / エンディング曲",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛndɪŋ θim/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "character design",
+          "answer": "character design",
+          "hints": {
+            "zh": "角色设计",
+            "en": "visual design of characters",
+            "ja": "キャラクターデザイン"
+          },
+          "hint": "角色设计 / visual design of characters / キャラクターデザイン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɛɹɪktɚ dɪˈzaɪn/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "plot twist",
+          "answer": "plot twist",
+          "hints": {
+            "zh": "剧情反转",
+            "en": "unexpected turn in the story",
+            "ja": "どんでん返し（どんでんがえし）"
+          },
+          "hint": "剧情反转 / unexpected turn in the story / どんでん返し（どんでんがえし）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/plɑt twɪst/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "fan service",
+          "answer": "fan service",
+          "hints": {
+            "zh": "粉丝向桥段；卖肉/卖萌",
+            "en": "scenes aimed at pleasing fans",
+            "ja": "ファンサービス"
+          },
+          "hint": "粉丝向桥段；卖肉/卖萌 / scenes aimed at pleasing fans / ファンサービス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fæn ˈsɝvəs/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "power level",
+          "answer": "power level",
+          "hints": {
+            "zh": "战斗力；实力等级",
+            "en": "measure of a character's strength",
+            "ja": "戦闘力（せんとうりょく）"
+          },
+          "hint": "战斗力；实力等级 / measure of a character's strength / 戦闘力（せんとうりょく）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpaʊɚ ˈlɛvəl/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "main character",
+          "answer": "main character",
+          "hints": {
+            "zh": "主角",
+            "en": "central protagonist",
+            "ja": "主人公（しゅじんこう）"
+          },
+          "hint": "主角 / central protagonist / 主人公（しゅじんこう）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/meɪn ˈkɛɹɪktɚ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "side character",
+          "answer": "side character",
+          "hints": {
+            "zh": "配角",
+            "en": "supporting cast member",
+            "ja": "脇役（わきやく）"
+          },
+          "hint": "配角 / supporting cast member / 脇役（わきやく）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/saɪd ˈkɛɹɪktɚ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "animation studio",
+          "answer": "animation studio",
+          "hints": {
+            "zh": "动画制作公司",
+            "en": "company that produces animation",
+            "ja": "アニメ制作会社"
+          },
+          "hint": "动画制作公司 / company that produces animation / アニメ制作会社",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌænəˈmeɪʃən ˈstudiˌoʊ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "OVA",
+          "answer": "OVA",
+          "hints": {
+            "zh": "原创动画录像带",
+            "en": "original video animation",
+            "ja": "OVA"
+          },
+          "hint": "原创动画录像带 / original video animation / OVA",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌoʊ vi ˈeɪ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "shonen",
+          "answer": "shonen",
+          "hints": {
+            "zh": "少年向作品",
+            "en": "aimed at young boys",
+            "ja": "少年向け（しょうねんむけ）"
+          },
+          "hint": "少年向作品 / aimed at young boys / 少年向け（しょうねんむけ）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈʃoʊnən/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "shojo",
+          "answer": "shojo",
+          "hints": {
+            "zh": "少女向作品",
+            "en": "aimed at young girls",
+            "ja": "少女向け（しょうじょむけ）"
+          },
+          "hint": "少女向作品 / aimed at young girls / 少女向け（しょうじょむけ）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈʃoʊdʒoʊ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "episode",
+          "answer": "episode",
+          "hints": {
+            "zh": "集；话",
+            "en": "single installment of a series",
+            "ja": "話（わ）・エピソード"
+          },
+          "hint": "集；话 / single installment of a series / 話（わ）・エピソード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛpəˌsoʊd/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "soundtrack",
+          "answer": "soundtrack",
+          "hints": {
+            "zh": "原声带；配乐",
+            "en": "music from a show",
+            "ja": "サントラ・原声带"
+          },
+          "hint": "原声带；配乐 / music from a show / サントラ・原声带",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsaʊntɹæk/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "adaptation",
+          "answer": "adaptation",
+          "hints": {
+            "zh": "改编作品",
+            "en": "work adapted from another medium",
+            "ja": "映像化・アダプテーション"
+          },
+          "hint": "改编作品 / work adapted from another medium / 映像化・アダプテーション",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌædəpˈteɪʃən/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "slice of life",
+          "answer": "slice of life",
+          "hints": {
+            "zh": "日常系",
+            "en": "everyday-life genre",
+            "ja": "日常系（にちじょうけい）"
+          },
+          "hint": "日常系 / everyday-life genre / 日常系（にちじょうけい）",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/slaɪs əv laɪf/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

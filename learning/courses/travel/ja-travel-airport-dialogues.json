@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-airport-dialogues",
+  "course": {
+    "title": "旅游 · 日语机场 · 情景对话",
+    "description": "空港でのチェックイン、保安検査、搭乗に使う日本語（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 日语机场 · 情景对话",
+      "en": "Travel · Japanese Airport · Situational Dialogues",
+      "ja": "旅行 · 日本語空港 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习机场出行中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for airport travel.",
+      "ja": "空港での移動で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "空港・フライト · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "大阪行きの便にチェックインしたいです。",
+          "answer": "大阪行きの便にチェックインしたいです。",
+          "hints": {
+            "zh": "我想办理飞往大阪的航班值机。",
+            "en": "I would like to check in for my flight to Osaka.",
+            "ja": "大阪行きの便にチェックインしたいです。"
+          },
+          "hint": "我想办理飞往大阪的航班值机。 / I would like to check in for my flight to Osaka. / 大阪行きの便にチェックインしたいです。",
+          "furigana": "おおさかゆきのびんにちぇっくいんしたいです",
+          "romaji": "oosakayukinobin'nichekkuinshitaidesu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "airport-baggage-check-in",
+          "dialogueTitles": {
+            "zh": "机场行李托运",
+            "en": "Airport Baggage Check-in",
+            "ja": "空港での荷物預け"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在值机柜台托运行李并确认登机口。",
+            "en": "A traveler checks her baggage and confirms the boarding gate.",
+            "ja": "旅行者がチェックインカウンターで荷物を預け、搭乗ゲートを確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由美",
+            "en": "Yumi",
+            "ja": "ゆみ"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "パスポートと搭乗券を見せてください。",
+          "answer": "パスポートと搭乗券を見せてください。",
+          "hints": {
+            "zh": "请出示护照和登机牌。",
+            "en": "Please show me your passport and boarding pass.",
+            "ja": "パスポートと搭乗券を見せてください。"
+          },
+          "hint": "请出示护照和登机牌。 / Please show me your passport and boarding pass. / パスポートと搭乗券を見せてください。",
+          "furigana": "ぱすぽーとととうじょうけんをみせてください",
+          "romaji": "pasupootototoujoukenwomisetekudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "airport-baggage-check-in",
+          "dialogueTitles": {
+            "zh": "机场行李托运",
+            "en": "Airport Baggage Check-in",
+            "ja": "空港での荷物預け"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在值机柜台托运行李并确认登机口。",
+            "en": "A traveler checks her baggage and confirms the boarding gate.",
+            "ja": "旅行者がチェックインカウンターで荷物を預け、搭乗ゲートを確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "けんた"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、どうぞ。この荷物を預けられますか。",
+          "answer": "はい、どうぞ。この荷物を預けられますか。",
+          "hints": {
+            "zh": "好的，给您。这件行李可以托运吗？",
+            "en": "Yes, here you are. Can I check this bag?",
+            "ja": "はい、どうぞ。この荷物を預けられますか。"
+          },
+          "hint": "好的，给您。这件行李可以托运吗？ / Yes, here you are. Can I check this bag? / はい、どうぞ。この荷物を預けられますか。",
+          "furigana": "はいどうぞこのにもつをあずけられますか",
+          "romaji": "haidouzokononimotsuwoazukeraremasuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "airport-baggage-check-in",
+          "dialogueTitles": {
+            "zh": "机场行李托运",
+            "en": "Airport Baggage Check-in",
+            "ja": "空港での荷物預け"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在值机柜台托运行李并确认登机口。",
+            "en": "A traveler checks her baggage and confirms the boarding gate.",
+            "ja": "旅行者がチェックインカウンターで荷物を預け、搭乗ゲートを確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由美",
+            "en": "Yumi",
+            "ja": "ゆみ"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、こちらの台に載せてください。",
+          "answer": "はい、こちらの台に載せてください。",
+          "hints": {
+            "zh": "可以，请放到这个台子上。",
+            "en": "Yes, please place it on this platform.",
+            "ja": "はい、こちらの台に載せてください。"
+          },
+          "hint": "可以，请放到这个台子上。 / Yes, please place it on this platform. / はい、こちらの台に載せてください。",
+          "furigana": "はいこちらのだいにのせてください",
+          "romaji": "haikochiranodaininosetekudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "airport-baggage-check-in",
+          "dialogueTitles": {
+            "zh": "机场行李托运",
+            "en": "Airport Baggage Check-in",
+            "ja": "空港での荷物預け"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在值机柜台托运行李并确认登机口。",
+            "en": "A traveler checks her baggage and confirms the boarding gate.",
+            "ja": "旅行者がチェックインカウンターで荷物を預け、搭乗ゲートを確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "けんた"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "搭乗ゲートはどこですか。",
+          "answer": "搭乗ゲートはどこですか。",
+          "hints": {
+            "zh": "登机口在哪里？",
+            "en": "Where is the boarding gate?",
+            "ja": "搭乗ゲートはどこですか。"
+          },
+          "hint": "登机口在哪里？ / Where is the boarding gate? / 搭乗ゲートはどこですか。",
+          "furigana": "とうじょうげーとはどこですか",
+          "romaji": "toujougeetohadokodesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "airport-baggage-check-in",
+          "dialogueTitles": {
+            "zh": "机场行李托运",
+            "en": "Airport Baggage Check-in",
+            "ja": "空港での荷物預け"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在值机柜台托运行李并确认登机口。",
+            "en": "A traveler checks her baggage and confirms the boarding gate.",
+            "ja": "旅行者がチェックインカウンターで荷物を預け、搭乗ゲートを確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "由美",
+            "en": "Yumi",
+            "ja": "ゆみ"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "十二番ゲートです。九時までにお越しください。",
+          "answer": "十二番ゲートです。九時までにお越しください。",
+          "hints": {
+            "zh": "十二号登机口。请在九点前到达。",
+            "en": "It is gate twelve. Please be there by nine.",
+            "ja": "十二番ゲートです。九時までにお越しください。"
+          },
+          "hint": "十二号登机口。请在九点前到达。 / It is gate twelve. Please be there by nine. / 十二番ゲートです。九時までにお越しください。",
+          "furigana": "じゅうにばんげーとですくじまでにおこしください",
+          "romaji": "juunibangeetodesukujimadeniokoshikudasai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-airport-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "airport-baggage-check-in",
+          "dialogueTitles": {
+            "zh": "机场行李托运",
+            "en": "Airport Baggage Check-in",
+            "ja": "空港での荷物預け"
+          },
+          "dialogueScenes": {
+            "zh": "旅客在值机柜台托运行李并确认登机口。",
+            "en": "A traveler checks her baggage and confirms the boarding gate.",
+            "ja": "旅行者がチェックインカウンターで荷物を預け、搭乗ゲートを確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "けんた"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "quotes",
+  "slug": "en-quotes-classics-sentences",
+  "course": {
+    "title": "名言名句 · 英语智慧 · 句子",
+    "description": "通过经典格言与励志短句练习英语整句输入。（常用句子）",
+    "titles": {
+      "zh": "名言名句 · 英语经典 · 句子",
+      "en": "Quotes & Wisdom · English Classics · Sentences",
+      "ja": "名言・格言 · 英語名句 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习经典格言与励志名句中的常用英语句子。",
+      "en": "Practice common English sentences for classic quotes and practical wisdom.",
+      "ja": "古典的な格言と励ましの言葉で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语名言名句 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "Actions speak louder than words.",
+          "answer": "Actions speak louder than words.",
+          "hints": {
+            "zh": "行动胜于言语。",
+            "en": "Actions reveal more than promises.",
+            "ja": "行動は言葉より雄弁です。"
+          },
+          "hint": "行动胜于言语。 / Actions reveal more than promises. / 行動は言葉より雄弁です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈækʃənz spik ˈlaʊdɚ ðən wɝdz/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Every journey begins with a single step.",
+          "answer": "Every journey begins with a single step.",
+          "hints": {
+            "zh": "千里之行，始于足下。",
+            "en": "Great journeys start with one step.",
+            "ja": "どんな旅も最初の一歩から始まります。"
+          },
+          "hint": "千里之行，始于足下。 / Great journeys start with one step. / どんな旅も最初の一歩から始まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛvɚi ˈdʒɝni bɪˈɡɪnz wɪð ə ˈsɪŋɡəl stɛp/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Practice makes progress.",
+          "answer": "Practice makes progress.",
+          "hints": {
+            "zh": "练习带来进步。",
+            "en": "Regular practice creates improvement.",
+            "ja": "練習は進歩を生みます。"
+          },
+          "hint": "练习带来进步。 / Regular practice creates improvement. / 練習は進歩を生みます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɹæktəs meɪks ˈpɹɑɡɹɛs/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Knowledge is power.",
+          "answer": "Knowledge is power.",
+          "hints": {
+            "zh": "知识就是力量。",
+            "en": "Knowledge gives us strength.",
+            "ja": "知識は力です。"
+          },
+          "hint": "知识就是力量。 / Knowledge gives us strength. / 知識は力です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈnɑlədʒ ɪz ˈpaʊɚ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Time is the most valuable treasure.",
+          "answer": "Time is the most valuable treasure.",
+          "hints": {
+            "zh": "时间是最珍贵的财富。",
+            "en": "Nothing is more valuable than time.",
+            "ja": "時間は最も貴重な宝物です。"
+          },
+          "hint": "时间是最珍贵的财富。 / Nothing is more valuable than time. / 時間は最も貴重な宝物です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/taɪm ɪz ðə moʊs ˈvæljəbəl ˈtɹɛʒɚ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Where there is a will, there is a way.",
+          "answer": "Where there is a will, there is a way.",
+          "hints": {
+            "zh": "有志者，事竟成。",
+            "en": "Determination finds a path forward.",
+            "ja": "意志あるところに道は開けます。"
+          },
+          "hint": "有志者，事竟成。 / Determination finds a path forward. / 意志あるところに道は開けます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɛɹ ðɛɹ ɪz ə wɪl ðɛɹ ɪz ə weɪ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A calm mind sees clearly.",
+          "answer": "A calm mind sees clearly.",
+          "hints": {
+            "zh": "心静则明。",
+            "en": "Calmness helps us see the truth.",
+            "ja": "落ち着いた心は物事を明確に見ます。"
+          },
+          "hint": "心静则明。 / Calmness helps us see the truth. / 落ち着いた心は物事を明確に見ます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə kɑlm maɪnd siz ˈklɪɹli/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Small steps create great change.",
+          "answer": "Small steps create great change.",
+          "hints": {
+            "zh": "小步积累成大变化。",
+            "en": "Consistent small actions transform life.",
+            "ja": "小さな一歩が大きな変化を生みます。"
+          },
+          "hint": "小步积累成大变化。 / Consistent small actions transform life. / 小さな一歩が大きな変化を生みます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/smɔl stɛps kɹiˈeɪt ɡɹeɪt tʃeɪndʒ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Courage begins with trying.",
+          "answer": "Courage begins with trying.",
+          "hints": {
+            "zh": "勇气始于尝试。",
+            "en": "Trying is the first act of courage.",
+            "ja": "勇気は挑戦することから始まります。"
+          },
+          "hint": "勇气始于尝试。 / Trying is the first act of courage. / 勇気は挑戦することから始まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɝədʒ bɪˈɡɪnz wɪð ˈtɹaɪɪŋ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Kindness costs nothing.",
+          "answer": "Kindness costs nothing.",
+          "hints": {
+            "zh": "善意无需成本。",
+            "en": "Kindness is free to give.",
+            "ja": "優しさにお金はかかりません。"
+          },
+          "hint": "善意无需成本。 / Kindness is free to give. / 優しさにお金はかかりません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkaɪndnəs kɑsts ˈnəθɪŋ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The best time to start is now.",
+          "answer": "The best time to start is now.",
+          "hints": {
+            "zh": "最好的开始时间就是现在。",
+            "en": "Now is the right moment to begin.",
+            "ja": "始めるのに一番良い時は今です。"
+          },
+          "hint": "最好的开始时间就是现在。 / Now is the right moment to begin. / 始めるのに一番良い時は今です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə bɛst taɪm tə stɑɹt ɪz naʊ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Failure is a lesson in disguise.",
+          "answer": "Failure is a lesson in disguise.",
+          "hints": {
+            "zh": "失败是伪装起来的课程。",
+            "en": "Failure often carries a useful lesson.",
+            "ja": "失敗は姿を変えた学びです。"
+          },
+          "hint": "失败是伪装起来的课程。 / Failure often carries a useful lesson. / 失敗は姿を変えた学びです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfeɪljɚ ɪz ə ˈlɛsən ɪn dɪsˈɡaɪz/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Patience turns effort into results.",
+          "answer": "Patience turns effort into results.",
+          "hints": {
+            "zh": "耐心让努力结出成果。",
+            "en": "Patient effort eventually bears fruit.",
+            "ja": "忍耐は努力を成果に変えます。"
+          },
+          "hint": "耐心让努力结出成果。 / Patient effort eventually bears fruit. / 忍耐は努力を成果に変えます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpeɪʃəns tɝnz ˈɛfɚt ˈɪntu ɹiˈzəlts/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Listen twice and speak once.",
+          "answer": "Listen twice and speak once.",
+          "hints": {
+            "zh": "多听少说。",
+            "en": "Careful listening should come before speaking.",
+            "ja": "二度聞いてから一度話しましょう。"
+          },
+          "hint": "多听少说。 / Careful listening should come before speaking. / 二度聞いてから一度話しましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlɪsən twaɪs ən spik wəns/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A good question opens a new door.",
+          "answer": "A good question opens a new door.",
+          "hints": {
+            "zh": "好问题会打开一扇新门。",
+            "en": "Questions lead to new possibilities.",
+            "ja": "良い質問は新しい扉を開きます。"
+          },
+          "hint": "好问题会打开一扇新门。 / Questions lead to new possibilities. / 良い質問は新しい扉を開きます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ɡʊd ˈkwɛstʃən ˈoʊpənz ə nju dɔɹ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Dreams grow when we act on them.",
+          "answer": "Dreams grow when we act on them.",
+          "hints": {
+            "zh": "梦想因行动而成长。",
+            "en": "Action gives dreams room to grow.",
+            "ja": "夢は行動することで育ちます。"
+          },
+          "hint": "梦想因行动而成长。 / Action gives dreams room to grow. / 夢は行動することで育ちます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɹimz ɡɹoʊ wɛn wi ækt ɑn ðɛm/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Honesty builds lasting trust.",
+          "answer": "Honesty builds lasting trust.",
+          "hints": {
+            "zh": "诚实建立长久的信任。",
+            "en": "Trust grows from honesty.",
+            "ja": "正直さは長く続く信頼を築きます。"
+          },
+          "hint": "诚实建立长久的信任。 / Trust grows from honesty. / 正直さは長く続く信頼を築きます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɑnəsti bɪldz ˈlæstɪŋ tɹəst/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The present moment is a gift.",
+          "answer": "The present moment is a gift.",
+          "hints": {
+            "zh": "当下就是礼物。",
+            "en": "The moment we have now is precious.",
+            "ja": "今この瞬間は贈り物です。"
+          },
+          "hint": "当下就是礼物。 / The moment we have now is precious. / 今この瞬間は贈り物です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə ˈpɹɛzənt ˈmoʊmənt ɪz ə ɡɪft/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A grateful heart finds joy everywhere.",
+          "answer": "A grateful heart finds joy everywhere.",
+          "hints": {
+            "zh": "感恩的心处处发现快乐。",
+            "en": "Gratitude helps us notice joy.",
+            "ja": "感謝する心はどこでも喜びを見つけます。"
+          },
+          "hint": "感恩的心处处发现快乐。 / Gratitude helps us notice joy. / 感謝する心はどこでも喜びを見つけます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ˈɡɹeɪtfəl hɑɹt faɪndz dʒɔɪ ˈɛvɹiˌwɛɹ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Good habits shape a good life.",
+          "answer": "Good habits shape a good life.",
+          "hints": {
+            "zh": "好习惯塑造好生活。",
+            "en": "Our habits gradually shape our lives.",
+            "ja": "良い習慣が良い人生を作ります。"
+          },
+          "hint": "好习惯塑造好生活。 / Our habits gradually shape our lives. / 良い習慣が良い人生を作ります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈhæbəts ʃeɪp ə ɡʊd laɪf/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Wisdom begins with curiosity.",
+          "answer": "Wisdom begins with curiosity.",
+          "hints": {
+            "zh": "智慧始于好奇。",
+            "en": "Curiosity is the beginning of wisdom.",
+            "ja": "知恵は好奇心から始まります。"
+          },
+          "hint": "智慧始于好奇。 / Curiosity is the beginning of wisdom. / 知恵は好奇心から始まります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɪzdəm bɪˈɡɪnz wɪð ˌkjʊɹiˈɑsəti/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Hope is stronger than fear.",
+          "answer": "Hope is stronger than fear.",
+          "hints": {
+            "zh": "希望比恐惧更强大。",
+            "en": "Hope can overcome fear.",
+            "ja": "希望は恐れより強いものです。"
+          },
+          "hint": "希望比恐惧更强大。 / Hope can overcome fear. / 希望は恐れより強いものです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/hoʊp ɪz ˈstɹɔŋɚ ðən fɪɹ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Focus on what you can change.",
+          "answer": "Focus on what you can change.",
+          "hints": {
+            "zh": "专注于你能改变的事。",
+            "en": "Give your energy to what you can influence.",
+            "ja": "変えられることに集中しましょう。"
+          },
+          "hint": "专注于你能改变的事。 / Give your energy to what you can influence. / 変えられることに集中しましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfoʊkəs ɑn wət ju kən tʃeɪndʒ/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A shared smile brightens two lives.",
+          "answer": "A shared smile brightens two lives.",
+          "hints": {
+            "zh": "分享的微笑照亮两个人。",
+            "en": "A smile helps both giver and receiver.",
+            "ja": "分かち合う笑顔は二人の人生を照らします。"
+          },
+          "hint": "分享的微笑照亮两个人。 / A smile helps both giver and receiver. / 分かち合う笑顔は二人の人生を照らします。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ʃɛɹd smaɪl ˈbɹaɪtənz tu laɪvz/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Strong roots survive every storm.",
+          "answer": "Strong roots survive every storm.",
+          "hints": {
+            "zh": "根基稳固，方能经受风雨。",
+            "en": "A strong foundation endures hardship.",
+            "ja": "強い根はどんな嵐にも耐えます。"
+          },
+          "hint": "根基稳固，方能经受风雨。 / A strong foundation endures hardship. / 強い根はどんな嵐にも耐えます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stɹɔŋ ɹuts sɚˈvaɪv ˈɛvɚi stɔɹm/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Learning never exhausts the mind.",
+          "answer": "Learning never exhausts the mind.",
+          "hints": {
+            "zh": "学习永远不会使心灵疲惫。",
+            "en": "Learning keeps the mind alive.",
+            "ja": "学ぶことは心を疲れさせません。"
+          },
+          "hint": "学习永远不会使心灵疲惫。 / Learning keeps the mind alive. / 学ぶことは心を疲れさせません。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlɝnɪŋ ˈnɛvɚ ɪɡˈzɔsts ðə maɪnd/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Success grows from daily discipline.",
+          "answer": "Success grows from daily discipline.",
+          "hints": {
+            "zh": "成功来自每天的自律。",
+            "en": "Daily discipline creates lasting success.",
+            "ja": "成功は毎日の自律から育ちます。"
+          },
+          "hint": "成功来自每天的自律。 / Daily discipline creates lasting success. / 成功は毎日の自律から育ちます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/səkˈsɛs ɡɹoʊz fɹəm ˈdeɪli ˈdɪsəplən/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Choose progress over perfection.",
+          "answer": "Choose progress over perfection.",
+          "hints": {
+            "zh": "选择进步，而非完美。",
+            "en": "Improvement matters more than perfection.",
+            "ja": "完璧より進歩を選びましょう。"
+          },
+          "hint": "选择进步，而非完美。 / Improvement matters more than perfection. / 完璧より進歩を選びましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/tʃuz ˈpɹɑɡɹɛs ˈoʊvɚ pɚˈfɛkʃən/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Light tomorrow with today's effort.",
+          "answer": "Light tomorrow with today's effort.",
+          "hints": {
+            "zh": "用今天的努力照亮明天。",
+            "en": "What we do today creates a brighter tomorrow.",
+            "ja": "今日の努力で明日を照らしましょう。"
+          },
+          "hint": "用今天的努力照亮明天。 / What we do today creates a brighter tomorrow. / 今日の努力で明日を照らしましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/laɪt təˈmɑˌɹoʊ wɪð ˈtudeɪz ˈɛfɚt/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Be the reason someone believes in goodness.",
+          "answer": "Be the reason someone believes in goodness.",
+          "hints": {
+            "zh": "成为让别人相信善意的理由。",
+            "en": "Let your actions inspire faith in kindness.",
+            "ja": "誰かが優しさを信じる理由になりましょう。"
+          },
+          "hint": "成为让别人相信善意的理由。 / Let your actions inspire faith in kindness. / 誰かが優しさを信じる理由になりましょう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/bi ðə ˈɹizən ˈsəmwən bɪˈlivz ɪn ˈɡʊdnəs/",
+          "audioUrl": "learning/audio/en/en-quotes-classics-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

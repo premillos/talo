@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-hotel-words",
+  "course": {
+    "title": "旅游 · 日语酒店 · 词汇",
+    "description": "ホテル予約、チェックイン、客室サービスの日本語（单词与短语）",
+    "titles": {
+      "zh": "旅游 · 日语酒店 · 词汇",
+      "en": "Travel · Japanese Hotel · Vocabulary",
+      "ja": "旅行 · 日本語ホテル · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习酒店住宿中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for hotel stays.",
+      "ja": "ホテル滞在で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "ホテル・宿泊",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "ホテル",
+          "answer": "ホテル",
+          "hints": {
+            "zh": "酒店",
+            "en": "hotel",
+            "ja": "ホテル"
+          },
+          "hint": "酒店 / hotel / ホテル",
+          "furigana": "ホテル",
+          "romaji": "hoteru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "予約",
+          "answer": "予約",
+          "hints": {
+            "zh": "预订",
+            "en": "reservation",
+            "ja": "予約"
+          },
+          "hint": "预订 / reservation / 予約",
+          "furigana": "よやく",
+          "romaji": "yoyaku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "領収書",
+          "answer": "領収書",
+          "hints": {
+            "zh": "收据",
+            "en": "receipt",
+            "ja": "領収書"
+          },
+          "hint": "收据 / receipt / 領収書",
+          "furigana": "りょうしゅうしょ",
+          "romaji": "ryoushuusho",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "ロビー",
+          "answer": "ロビー",
+          "hints": {
+            "zh": "大堂",
+            "en": "lobby",
+            "ja": "ロビー"
+          },
+          "hint": "大堂 / lobby / ロビー",
+          "furigana": "ロビー",
+          "romaji": "robii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "エレベーター",
+          "answer": "エレベーター",
+          "hints": {
+            "zh": "电梯",
+            "en": "elevator",
+            "ja": "エレベーター"
+          },
+          "hint": "电梯 / elevator / エレベーター",
+          "furigana": "エレベーター",
+          "romaji": "erebeetaa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "鍵",
+          "answer": "鍵",
+          "hints": {
+            "zh": "钥匙",
+            "en": "key",
+            "ja": "鍵"
+          },
+          "hint": "钥匙 / key / 鍵",
+          "furigana": "かぎ",
+          "romaji": "kagi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "朝食",
+          "answer": "朝食",
+          "hints": {
+            "zh": "早餐",
+            "en": "breakfast",
+            "ja": "朝食"
+          },
+          "hint": "早餐 / breakfast / 朝食",
+          "furigana": "ちょうしょく",
+          "romaji": "choushoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "荷物",
+          "answer": "荷物",
+          "hints": {
+            "zh": "行李",
+            "en": "luggage",
+            "ja": "荷物"
+          },
+          "hint": "行李 / luggage / 荷物",
+          "furigana": "にもつ",
+          "romaji": "nimotsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "コンシェルジュ",
+          "answer": "コンシェルジュ",
+          "hints": {
+            "zh": "礼宾员",
+            "en": "concierge",
+            "ja": "コンシェルジュ"
+          },
+          "hint": "礼宾员 / concierge / コンシェルジュ",
+          "furigana": "コンシェルジュ",
+          "romaji": "konsheruju",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "客室",
+          "answer": "客室",
+          "hints": {
+            "zh": "客房",
+            "en": "guest room",
+            "ja": "客室"
+          },
+          "hint": "客房 / guest room / 客室",
+          "furigana": "きゃくしつ",
+          "romaji": "kyakushitsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "アメニティ",
+          "answer": "アメニティ",
+          "hints": {
+            "zh": "洗漱用品",
+            "en": "amenities",
+            "ja": "アメニティ"
+          },
+          "hint": "洗漱用品 / amenities / アメニティ",
+          "furigana": "アメニティ",
+          "romaji": "ameniti",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "フロント",
+          "answer": "フロント",
+          "hints": {
+            "zh": "前台",
+            "en": "front desk",
+            "ja": "フロント"
+          },
+          "hint": "前台 / front desk / フロント",
+          "furigana": "フロント",
+          "romaji": "furonto",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "チェックインする",
+          "answer": "チェックインする",
+          "hints": {
+            "zh": "办理入住",
+            "en": "to check in",
+            "ja": "チェックインする"
+          },
+          "hint": "办理入住 / to check in / チェックインする",
+          "furigana": "チェックインする",
+          "romaji": "chekkuinsuru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "チェックアウトする",
+          "answer": "チェックアウトする",
+          "hints": {
+            "zh": "办理退房",
+            "en": "to check out",
+            "ja": "チェックアウトする"
+          },
+          "hint": "办理退房 / to check out / チェックアウトする",
+          "furigana": "チェックアウトする",
+          "romaji": "chekkuautosuru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "シングルルーム",
+          "answer": "シングルルーム",
+          "hints": {
+            "zh": "单人间",
+            "en": "single room",
+            "ja": "シングルルーム"
+          },
+          "hint": "单人间 / single room / シングルルーム",
+          "furigana": "シングルルーム",
+          "romaji": "shingururuumu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ダブルルーム",
+          "answer": "ダブルルーム",
+          "hints": {
+            "zh": "双人间",
+            "en": "double room",
+            "ja": "ダブルルーム"
+          },
+          "hint": "双人间 / double room / ダブルルーム",
+          "furigana": "ダブルルーム",
+          "romaji": "dabururuumu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "禁煙ルーム",
+          "answer": "禁煙ルーム",
+          "hints": {
+            "zh": "无烟房",
+            "en": "non-smoking room",
+            "ja": "禁煙ルーム"
+          },
+          "hint": "无烟房 / non-smoking room / 禁煙ルーム",
+          "furigana": "きんえん",
+          "romaji": "kin'en",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ルームサービス",
+          "answer": "ルームサービス",
+          "hints": {
+            "zh": "客房服务",
+            "en": "room service",
+            "ja": "ルームサービス"
+          },
+          "hint": "客房服务 / room service / ルームサービス",
+          "furigana": "ルームサービス",
+          "romaji": "ruumusaabisu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "モーニングコール",
+          "answer": "モーニングコール",
+          "hints": {
+            "zh": "叫醒服务",
+            "en": "wake-up call",
+            "ja": "モーニングコール"
+          },
+          "hint": "叫醒服务 / wake-up call / モーニングコール",
+          "furigana": "モーニングコール",
+          "romaji": "mooningukooru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "クレジットカード",
+          "answer": "クレジットカード",
+          "hints": {
+            "zh": "信用卡",
+            "en": "credit card",
+            "ja": "クレジットカード"
+          },
+          "hint": "信用卡 / credit card / クレジットカード",
+          "furigana": "クレジットカード",
+          "romaji": "kurejittokaado",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "アーリーチェックイン",
+          "answer": "アーリーチェックイン",
+          "hints": {
+            "zh": "提前入住",
+            "en": "early check-in",
+            "ja": "アーリーチェックイン"
+          },
+          "hint": "提前入住 / early check-in / アーリーチェックイン",
+          "furigana": "アーリーチェックイン",
+          "romaji": "aariichekkuin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "レイトチェックアウト",
+          "answer": "レイトチェックアウト",
+          "hints": {
+            "zh": "延迟退房",
+            "en": "late check-out",
+            "ja": "レイトチェックアウト"
+          },
+          "hint": "延迟退房 / late check-out / レイトチェックアウト",
+          "furigana": "レイトチェックアウト",
+          "romaji": "reitochekkuauto",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "宿泊カード",
+          "answer": "宿泊カード",
+          "hints": {
+            "zh": "住宿登记卡",
+            "en": "registration card",
+            "ja": "宿泊カード"
+          },
+          "hint": "住宿登记卡 / registration card / 宿泊カード",
+          "furigana": "しゅくはく",
+          "romaji": "shukuhaku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "スイート",
+          "answer": "スイート",
+          "hints": {
+            "zh": "套房",
+            "en": "suite",
+            "ja": "スイート"
+          },
+          "hint": "套房 / suite / スイート",
+          "furigana": "スイート",
+          "romaji": "suiito",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "バルコニー",
+          "answer": "バルコニー",
+          "hints": {
+            "zh": "阳台",
+            "en": "balcony",
+            "ja": "バルコニー"
+          },
+          "hint": "阳台 / balcony / バルコニー",
+          "furigana": "バルコニー",
+          "romaji": "barukonii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "枕",
+          "answer": "枕",
+          "hints": {
+            "zh": "枕头",
+            "en": "pillow",
+            "ja": "枕"
+          },
+          "hint": "枕头 / pillow / 枕",
+          "furigana": "まくら",
+          "romaji": "makura",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "毛布",
+          "answer": "毛布",
+          "hints": {
+            "zh": "毯子",
+            "en": "blanket",
+            "ja": "毛布"
+          },
+          "hint": "毯子 / blanket / 毛布",
+          "furigana": "もうふ",
+          "romaji": "moufu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "ミニバー",
+          "answer": "ミニバー",
+          "hints": {
+            "zh": "迷你吧",
+            "en": "minibar",
+            "ja": "ミニバー"
+          },
+          "hint": "迷你吧 / minibar / ミニバー",
+          "furigana": "ミニバー",
+          "romaji": "minibaa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "ランドリー",
+          "answer": "ランドリー",
+          "hints": {
+            "zh": "洗衣",
+            "en": "laundry",
+            "ja": "ランドリー"
+          },
+          "hint": "洗衣 / laundry / ランドリー",
+          "furigana": "ランドリー",
+          "romaji": "randorii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "起こさないで",
+          "answer": "起こさないで",
+          "hints": {
+            "zh": "请勿打扰",
+            "en": "do not disturb",
+            "ja": "起こさないで"
+          },
+          "hint": "请勿打扰 / do not disturb / 起こさないで",
+          "furigana": "おこさないで",
+          "romaji": "okosanaide",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

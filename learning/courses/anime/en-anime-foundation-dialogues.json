@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "anime",
+  "slug": "en-anime-foundation-dialogues",
+  "course": {
+    "title": "二次元/动漫 · 英语基础 · 情景对话",
+    "description": "掌握动漫与 ACG 文化中最常用的英语基础词汇与表达。（男女情景对话）",
+    "titles": {
+      "zh": "二次元/动漫 · 英语基础 · 情景对话",
+      "en": "Anime & ACG · English Foundations · Situational Dialogues",
+      "ja": "アニメ・ACG · 英語基礎 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习动漫与 ACG 基础中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for anime and ACG foundations.",
+      "ja": "アニメ・ACGの基礎で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "ACG 基础词汇 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Have you watched this anime before?",
+          "answer": "Have you watched this anime before?",
+          "hints": {
+            "zh": "你以前看过这部动画吗？",
+            "en": "Ask whether someone has seen this anime.",
+            "ja": "このアニメを以前見たことがありますか。"
+          },
+          "hint": "你以前看过这部动画吗？ / Ask whether someone has seen this anime. / このアニメを以前見たことがありますか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həv ju wɑtʃt ðɪs ˌænɪˈmeɪ bɪˈfɔɹ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "choosing-a-first-anime",
+          "dialogueTitles": {
+            "zh": "挑选第一部动画",
+            "en": "Choosing a First Anime",
+            "ja": "初めてのアニメ選び"
+          },
+          "dialogueScenes": {
+            "zh": "米娅和伊森在影碟店讨论一部适合新观众的动画。",
+            "en": "Mia and Ethan discuss an anime for a new viewer at a video store.",
+            "ja": "ミアとイーサンがビデオ店で初心者向けのアニメについて話します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅",
+            "en": "Mia",
+            "ja": "ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, it is a great series for beginners.",
+          "answer": "Yes, it is a great series for beginners.",
+          "hints": {
+            "zh": "看过，它非常适合新手。",
+            "en": "Say the series is suitable for beginners.",
+            "ja": "はい、初心者にぴったりのシリーズです。"
+          },
+          "hint": "看过，它非常适合新手。 / Say the series is suitable for beginners. / はい、初心者にぴったりのシリーズです。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs ɪt ɪz ə ɡɹeɪt ˈsɪɹiz fɚ bɪˈɡɪnɚz/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "choosing-a-first-anime",
+          "dialogueTitles": {
+            "zh": "挑选第一部动画",
+            "en": "Choosing a First Anime",
+            "ja": "初めてのアニメ選び"
+          },
+          "dialogueScenes": {
+            "zh": "米娅和伊森在影碟店讨论一部适合新观众的动画。",
+            "en": "Mia and Ethan discuss an anime for a new viewer at a video store.",
+            "ja": "ミアとイーサンがビデオ店で初心者向けのアニメについて話します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "伊森",
+            "en": "Ethan",
+            "ja": "イーサン"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Does it have subtitles or a dub?",
+          "answer": "Does it have subtitles or a dub?",
+          "hints": {
+            "zh": "它有字幕版或配音版吗？",
+            "en": "Ask about subtitles and dubbed audio.",
+            "ja": "字幕版か吹き替え版はありますか。"
+          },
+          "hint": "它有字幕版或配音版吗？ / Ask about subtitles and dubbed audio. / 字幕版か吹き替え版はありますか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dəz ɪt həv ˈsəbˌtaɪtəlz ɚ ə dəb/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "choosing-a-first-anime",
+          "dialogueTitles": {
+            "zh": "挑选第一部动画",
+            "en": "Choosing a First Anime",
+            "ja": "初めてのアニメ選び"
+          },
+          "dialogueScenes": {
+            "zh": "米娅和伊森在影碟店讨论一部适合新观众的动画。",
+            "en": "Mia and Ethan discuss an anime for a new viewer at a video store.",
+            "ja": "ミアとイーサンがビデオ店で初心者向けのアニメについて話します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅",
+            "en": "Mia",
+            "ja": "ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "It has both, and the soundtrack is excellent.",
+          "answer": "It has both, and the soundtrack is excellent.",
+          "hints": {
+            "zh": "两种都有，而且配乐很棒。",
+            "en": "Confirm both versions and praise the soundtrack.",
+            "ja": "両方ありますし、サウンドトラックも最高です。"
+          },
+          "hint": "两种都有，而且配乐很棒。 / Confirm both versions and praise the soundtrack. / 両方ありますし、サウンドトラックも最高です。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪt həz boʊθ ən ðə ˈsaʊntɹæk ɪz ˈɛksələnt/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "choosing-a-first-anime",
+          "dialogueTitles": {
+            "zh": "挑选第一部动画",
+            "en": "Choosing a First Anime",
+            "ja": "初めてのアニメ選び"
+          },
+          "dialogueScenes": {
+            "zh": "米娅和伊森在影碟店讨论一部适合新观众的动画。",
+            "en": "Mia and Ethan discuss an anime for a new viewer at a video store.",
+            "ja": "ミアとイーサンがビデオ店で初心者向けのアニメについて話します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "伊森",
+            "en": "Ethan",
+            "ja": "イーサン"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Then I will watch the first episode tonight.",
+          "answer": "Then I will watch the first episode tonight.",
+          "hints": {
+            "zh": "那我今晚就看第一集。",
+            "en": "Decide to watch the first episode tonight.",
+            "ja": "では、今夜第一話を見ます。"
+          },
+          "hint": "那我今晚就看第一集。 / Decide to watch the first episode tonight. / では、今夜第一話を見ます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɛn aɪ wəl wɑtʃ ðə fɝst ˈɛpəˌsoʊd təˈnaɪt/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "choosing-a-first-anime",
+          "dialogueTitles": {
+            "zh": "挑选第一部动画",
+            "en": "Choosing a First Anime",
+            "ja": "初めてのアニメ選び"
+          },
+          "dialogueScenes": {
+            "zh": "米娅和伊森在影碟店讨论一部适合新观众的动画。",
+            "en": "Mia and Ethan discuss an anime for a new viewer at a video store.",
+            "ja": "ミアとイーサンがビデオ店で初心者向けのアニメについて話します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅",
+            "en": "Mia",
+            "ja": "ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great, tell me what you think tomorrow.",
+          "answer": "Great, tell me what you think tomorrow.",
+          "hints": {
+            "zh": "太好了，明天告诉我你的感想。",
+            "en": "Ask to hear their opinion tomorrow.",
+            "ja": "いいですね、明日感想を聞かせてください。"
+          },
+          "hint": "太好了，明天告诉我你的感想。 / Ask to hear their opinion tomorrow. / いいですね、明日感想を聞かせてください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt tɛl mi wət ju θɪŋk təˈmɑˌɹoʊ/",
+          "audioUrl": "learning/audio/en/en-anime-foundation-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "choosing-a-first-anime",
+          "dialogueTitles": {
+            "zh": "挑选第一部动画",
+            "en": "Choosing a First Anime",
+            "ja": "初めてのアニメ選び"
+          },
+          "dialogueScenes": {
+            "zh": "米娅和伊森在影碟店讨论一部适合新观众的动画。",
+            "en": "Mia and Ethan discuss an anime for a new viewer at a video store.",
+            "ja": "ミアとイーサンがビデオ店で初心者向けのアニメについて話します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "伊森",
+            "en": "Ethan",
+            "ja": "イーサン"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

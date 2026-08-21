@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-complaint-words",
+  "course": {
+    "title": "服务行业 · 日语投诉 · 词汇",
+    "description": "クレーム対応と謝罪・補償の表現（单词与短语）",
+    "titles": {
+      "zh": "服务行业 · 日语投诉 · 词汇",
+      "en": "Service & Hospitality · Japanese Complaints · Vocabulary",
+      "ja": "サービス業 · 日本語クレーム対応 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习投诉处理中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for complaint handling.",
+      "ja": "クレーム対応で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "クレーム対応",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "クレーム",
+          "answer": "クレーム",
+          "hints": {
+            "zh": "投诉",
+            "en": "complaint",
+            "ja": "クレーム"
+          },
+          "hint": "投诉 / complaint / クレーム",
+          "furigana": "クレーム",
+          "romaji": "kureemu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "謝罪",
+          "answer": "謝罪",
+          "hints": {
+            "zh": "道歉",
+            "en": "apology",
+            "ja": "謝罪"
+          },
+          "hint": "道歉 / apology / 謝罪",
+          "furigana": "しゃざい",
+          "romaji": "shazai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "返金",
+          "answer": "返金",
+          "hints": {
+            "zh": "退款",
+            "en": "refund",
+            "ja": "返金"
+          },
+          "hint": "退款 / refund / 返金",
+          "furigana": "へんきん",
+          "romaji": "henkin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "補償",
+          "answer": "補償",
+          "hints": {
+            "zh": "补偿；赔偿",
+            "en": "compensation",
+            "ja": "補償"
+          },
+          "hint": "补偿；赔偿 / compensation / 補償",
+          "furigana": "ほしょう",
+          "romaji": "hoshou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "対応",
+          "answer": "対応",
+          "hints": {
+            "zh": "应对；处理",
+            "en": "handling",
+            "ja": "対応"
+          },
+          "hint": "应对；处理 / handling / 対応",
+          "furigana": "たいおう",
+          "romaji": "taiou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "改善",
+          "answer": "改善",
+          "hints": {
+            "zh": "改善",
+            "en": "improvement",
+            "ja": "改善"
+          },
+          "hint": "改善 / improvement / 改善",
+          "furigana": "かいぜん",
+          "romaji": "kaizen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "不満",
+          "answer": "不満",
+          "hints": {
+            "zh": "不满",
+            "en": "dissatisfaction",
+            "ja": "不満"
+          },
+          "hint": "不满 / dissatisfaction / 不満",
+          "furigana": "ふまん",
+          "romaji": "fuman",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "ご不便",
+          "answer": "ご不便",
+          "hints": {
+            "zh": "给您带来的不便",
+            "en": "inconvenience",
+            "ja": "ご不便"
+          },
+          "hint": "给您带来的不便 / inconvenience / ご不便",
+          "furigana": "ごふべん",
+          "romaji": "gofuben",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "上司",
+          "answer": "上司",
+          "hints": {
+            "zh": "上司",
+            "en": "supervisor",
+            "ja": "上司"
+          },
+          "hint": "上司 / supervisor / 上司",
+          "furigana": "じょうし",
+          "romaji": "joushi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "交換",
+          "answer": "交換",
+          "hints": {
+            "zh": "更换",
+            "en": "replacement",
+            "ja": "交換"
+          },
+          "hint": "更换 / replacement / 交換",
+          "furigana": "こうかん",
+          "romaji": "koukan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "保証",
+          "answer": "保証",
+          "hints": {
+            "zh": "保证；保修",
+            "en": "warranty",
+            "ja": "保証"
+          },
+          "hint": "保证；保修 / warranty / 保証",
+          "furigana": "ほしょう",
+          "romaji": "hoshou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "再発",
+          "answer": "再発",
+          "hints": {
+            "zh": "再次发生",
+            "en": "recurrence",
+            "ja": "再発"
+          },
+          "hint": "再次发生 / recurrence / 再発",
+          "furigana": "さいはつ",
+          "romaji": "saihatsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "申し訳ございません",
+          "answer": "申し訳ございません",
+          "hints": {
+            "zh": "非常抱歉",
+            "en": "I am sorry",
+            "ja": "申し訳ございません"
+          },
+          "hint": "非常抱歉 / I am sorry / 申し訳ございません",
+          "furigana": "もうしわけございません",
+          "romaji": "moushiwakegozaimasen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ご不便をおかけして申し訳ございません",
+          "answer": "ご不便をおかけして申し訳ございません",
+          "hints": {
+            "zh": "给您带来不便，非常抱歉",
+            "en": "I am sorry for the inconvenience",
+            "ja": "ご不便をおかけして申し訳ございません"
+          },
+          "hint": "给您带来不便，非常抱歉 / I am sorry for the inconvenience / ご不便をおかけして申し訳ございません",
+          "furigana": "ごふべんをおかけしてもうしわけございません",
+          "romaji": "gofubenwookakeshitemoushiwakegozaimasen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "確認させていただきます",
+          "answer": "確認させていただきます",
+          "hints": {
+            "zh": "我来确认一下",
+            "en": "Let me look into this",
+            "ja": "確認させていただきます"
+          },
+          "hint": "我来确认一下 / Let me look into this / 確認させていただきます",
+          "furigana": "かくにんさせていただきます",
+          "romaji": "kakuninsaseteitadakimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "真摯に対応いたします",
+          "answer": "真摯に対応いたします",
+          "hints": {
+            "zh": "我们会认真处理",
+            "en": "We will handle this sincerely",
+            "ja": "真摯に対応いたします"
+          },
+          "hint": "我们会认真处理 / We will handle this sincerely / 真摯に対応いたします",
+          "furigana": "しんしにたいおういたします",
+          "romaji": "shinshinitaiouitashimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "返金でよろしいでしょうか",
+          "answer": "返金でよろしいでしょうか",
+          "hints": {
+            "zh": "退款是否可以？",
+            "en": "Would a refund be acceptable?",
+            "ja": "返金でよろしいでしょうか"
+          },
+          "hint": "退款是否可以？ / Would a refund be acceptable? / 返金でよろしいでしょうか",
+          "furigana": "へんきんでよろしいでしょうか",
+          "romaji": "henkindeyoroshiideshouka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "上司に相談いたします",
+          "answer": "上司に相談いたします",
+          "hints": {
+            "zh": "我会和上司商量",
+            "en": "I will consult my supervisor",
+            "ja": "上司に相談いたします"
+          },
+          "hint": "我会和上司商量 / I will consult my supervisor / 上司に相談いたします",
+          "furigana": "じょうしにそうだんいたします",
+          "romaji": "joushinisoudan'itashimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お待ちいただきありがとうございます",
+          "answer": "お待ちいただきありがとうございます",
+          "hints": {
+            "zh": "感谢您的等待",
+            "en": "Thank you for waiting",
+            "ja": "お待ちいただきありがとうございます"
+          },
+          "hint": "感谢您的等待 / Thank you for waiting / お待ちいただきありがとうございます",
+          "furigana": "おまちいただきありがとうございます",
+          "romaji": "omachiitadakiarigatougozaimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "ご意見をいただきありがとうございます",
+          "answer": "ご意見をいただきありがとうございます",
+          "hints": {
+            "zh": "感谢您的意见",
+            "en": "Thank you for your feedback",
+            "ja": "ご意見をいただきありがとうございます"
+          },
+          "hint": "感谢您的意见 / Thank you for your feedback / ご意見をいただきありがとうございます",
+          "furigana": "ごいけんをいただきありがとうございます",
+          "romaji": "goikenwoitadakiarigatougozaimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "必ず改善いたします",
+          "answer": "必ず改善いたします",
+          "hints": {
+            "zh": "一定会改进",
+            "en": "We will definitely improve",
+            "ja": "必ず改善いたします"
+          },
+          "hint": "一定会改进 / We will definitely improve / 必ず改善いたします",
+          "furigana": "かならずかいぜんいたします",
+          "romaji": "kanarazukaizen'itashimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "お怒りのお気持ち、よくわかります",
+          "answer": "お怒りのお気持ち、よくわかります",
+          "hints": {
+            "zh": "我理解您生气的心情",
+            "en": "I understand your frustration",
+            "ja": "お怒りのお気持ち、よくわかります"
+          },
+          "hint": "我理解您生气的心情 / I understand your frustration / お怒りのお気持ち、よくわかります",
+          "furigana": "おおこりのおきもち、よくわかります",
+          "romaji": "ookorinookimochi,yokuwakarimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "案件",
+          "answer": "案件",
+          "hints": {
+            "zh": "案件",
+            "en": "case",
+            "ja": "案件"
+          },
+          "hint": "案件 / case / 案件",
+          "furigana": "あんけん",
+          "romaji": "anken",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "返金ポリシー",
+          "answer": "返金ポリシー",
+          "hints": {
+            "zh": "退款政策",
+            "en": "refund policy",
+            "ja": "返金ポリシー"
+          },
+          "hint": "退款政策 / refund policy / 返金ポリシー",
+          "furigana": "へんきん",
+          "romaji": "henkin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "誠意",
+          "answer": "誠意",
+          "hints": {
+            "zh": "诚意",
+            "en": "goodwill",
+            "ja": "誠意"
+          },
+          "hint": "诚意 / goodwill / 誠意",
+          "furigana": "せいい",
+          "romaji": "seii",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "調停",
+          "answer": "調停",
+          "hints": {
+            "zh": "调解",
+            "en": "mediation",
+            "ja": "調停"
+          },
+          "hint": "调解 / mediation / 調停",
+          "furigana": "ちょうてい",
+          "romaji": "choutei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "和解",
+          "answer": "和解",
+          "hints": {
+            "zh": "和解",
+            "en": "settlement",
+            "ja": "和解"
+          },
+          "hint": "和解 / settlement / 和解",
+          "furigana": "わかい",
+          "romaji": "wakai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "責任",
+          "answer": "責任",
+          "hints": {
+            "zh": "责任",
+            "en": "liability",
+            "ja": "責任"
+          },
+          "hint": "责任 / liability / 責任",
+          "furigana": "せきにん",
+          "romaji": "sekinin",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "是正",
+          "answer": "是正",
+          "hints": {
+            "zh": "纠正",
+            "en": "rectification",
+            "ja": "是正"
+          },
+          "hint": "纠正 / rectification / 是正",
+          "furigana": "ぜせい",
+          "romaji": "zesei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "フォロー電話",
+          "answer": "フォロー電話",
+          "hints": {
+            "zh": "跟进电话",
+            "en": "follow-up call",
+            "ja": "フォロー電話"
+          },
+          "hint": "跟进电话 / follow-up call / フォロー電話",
+          "furigana": "フォローでんわ",
+          "romaji": "foroodenwa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

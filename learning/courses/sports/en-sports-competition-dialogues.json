@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "sports",
+  "slug": "en-sports-competition-dialogues",
+  "course": {
+    "title": "运动 · 英语赛事 · 情景对话",
+    "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用英语表达。（男女情景对话）",
+    "titles": {
+      "zh": "运动 · 英语赛事 · 情景对话",
+      "en": "Sports · English Competition · Situational Dialogues",
+      "ja": "スポーツ · 英語大会 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习赛事赛程、判罚与赛后交流中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for competition schedules, officiating, and post-match communication.",
+      "ja": "大会日程・判定・試合後の交流で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语赛事表达 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Congratulations. How did you feel at the final whistle?",
+          "answer": "Congratulations. How did you feel at the final whistle?",
+          "hints": {
+            "zh": "恭喜获胜，终场哨响时你有什么感受？",
+            "en": "Congratulations. How did you feel at the final whistle?",
+            "ja": "勝利おめでとうございます。終了の笛を聞いた時、どう感じましたか。"
+          },
+          "hint": "恭喜获胜，终场哨响时你有什么感受？ / Congratulations. How did you feel at the final whistle? / 勝利おめでとうございます。終了の笛を聞いた時、どう感じましたか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kənˌɡɹætʃəˈleɪʃənz haʊ dɪd ju fil æt ðə ˈfaɪnəl ˈwɪsəl/",
+          "audioUrl": "learning/audio/en/en-sports-competition-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "post-match-media-interview",
+          "dialogueTitles": {
+            "zh": "赛后媒体采访",
+            "en": "Post-match Media Interview",
+            "ja": "試合後のメディア取材"
+          },
+          "dialogueScenes": {
+            "zh": "记者米娅在决赛后采访队长利亚姆。",
+            "en": "Reporter Mia interviews captain Liam after the final.",
+            "ja": "記者のミアが決勝後に主将のリアムを取材します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅记者",
+            "en": "Reporter Mia",
+            "ja": "記者ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "I felt relieved and extremely proud of the entire squad.",
+          "answer": "I felt relieved and extremely proud of the entire squad.",
+          "hints": {
+            "zh": "我既如释重负，也为全队感到骄傲。",
+            "en": "I felt relieved and extremely proud of the entire squad.",
+            "ja": "ほっとしましたし、チーム全員を心から誇りに思いました。"
+          },
+          "hint": "我既如释重负，也为全队感到骄傲。 / I felt relieved and extremely proud of the entire squad. / ほっとしましたし、チーム全員を心から誇りに思いました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/aɪ fɛlt ɹiˈlivd ən ɛkˈstɹimli pɹaʊd əv ði ɪnˈtaɪɚ skwɑd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "post-match-media-interview",
+          "dialogueTitles": {
+            "zh": "赛后媒体采访",
+            "en": "Post-match Media Interview",
+            "ja": "試合後のメディア取材"
+          },
+          "dialogueScenes": {
+            "zh": "记者米娅在决赛后采访队长利亚姆。",
+            "en": "Reporter Mia interviews captain Liam after the final.",
+            "ja": "記者のミアが決勝後に主将のリアムを取材します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "利亚姆队长",
+            "en": "Captain Liam",
+            "ja": "主将リアム"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "How did you stay focused during the video review?",
+          "answer": "How did you stay focused during the video review?",
+          "hints": {
+            "zh": "裁判进行视频回看时，你们是怎样保持专注的？",
+            "en": "How did you stay focused during the video review?",
+            "ja": "映像判定の間、どのように集中を保ちましたか。"
+          },
+          "hint": "裁判进行视频回看时，你们是怎样保持专注的？ / How did you stay focused during the video review? / 映像判定の間、どのように集中を保ちましたか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/haʊ dɪd ju steɪ ˈfoʊkəst ˈdɝɪŋ ðə ˈvɪdioʊ ɹivˈju/",
+          "audioUrl": "learning/audio/en/en-sports-competition-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "post-match-media-interview",
+          "dialogueTitles": {
+            "zh": "赛后媒体采访",
+            "en": "Post-match Media Interview",
+            "ja": "試合後のメディア取材"
+          },
+          "dialogueScenes": {
+            "zh": "记者米娅在决赛后采访队长利亚姆。",
+            "en": "Reporter Mia interviews captain Liam after the final.",
+            "ja": "記者のミアが決勝後に主将のリアムを取材します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅记者",
+            "en": "Reporter Mia",
+            "ja": "記者ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "We gathered together and reminded one another to await the final ruling.",
+          "answer": "We gathered together and reminded one another to await the final ruling.",
+          "hints": {
+            "zh": "我们围在一起，相互提醒要等待最终判罚。",
+            "en": "We gathered together and reminded one another to await the final ruling.",
+            "ja": "私たちは集まって、最終判定を待とうと声を掛け合いました。"
+          },
+          "hint": "我们围在一起，相互提醒要等待最终判罚。 / We gathered together and reminded one another to await the final ruling. / 私たちは集まって、最終判定を待とうと声を掛け合いました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wi ˈɡæðɚd təˈɡɛðɚ ən ɹiˈmaɪndɪd wən əˈnəðɚ tə əˈweɪt ðə ˈfaɪnəl ˈɹulɪŋ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "post-match-media-interview",
+          "dialogueTitles": {
+            "zh": "赛后媒体采访",
+            "en": "Post-match Media Interview",
+            "ja": "試合後のメディア取材"
+          },
+          "dialogueScenes": {
+            "zh": "记者米娅在决赛后采访队长利亚姆。",
+            "en": "Reporter Mia interviews captain Liam after the final.",
+            "ja": "記者のミアが決勝後に主将のリアムを取材します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "利亚姆队长",
+            "en": "Captain Liam",
+            "ja": "主将リアム"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "What would you like to say to everyone who attended today?",
+          "answer": "What would you like to say to everyone who attended today?",
+          "hints": {
+            "zh": "你想对今天到场的观众说些什么？",
+            "en": "What would you like to say to everyone who attended today?",
+            "ja": "今日会場に来た皆さんへ、何を伝えたいですか。"
+          },
+          "hint": "你想对今天到场的观众说些什么？ / What would you like to say to everyone who attended today? / 今日会場に来た皆さんへ、何を伝えたいですか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wət wəd ju laɪk tə seɪ tə ˈɛvɹiˌwən hu əˈtɛndɪd təˈdeɪ/",
+          "audioUrl": "learning/audio/en/en-sports-competition-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "post-match-media-interview",
+          "dialogueTitles": {
+            "zh": "赛后媒体采访",
+            "en": "Post-match Media Interview",
+            "ja": "試合後のメディア取材"
+          },
+          "dialogueScenes": {
+            "zh": "记者米娅在决赛后采访队长利亚姆。",
+            "en": "Reporter Mia interviews captain Liam after the final.",
+            "ja": "記者のミアが決勝後に主将のリアムを取材します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "米娅记者",
+            "en": "Reporter Mia",
+            "ja": "記者ミア"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Their support gave us the energy to compete until the very end.",
+          "answer": "Their support gave us the energy to compete until the very end.",
+          "hints": {
+            "zh": "他们的助威给了我们坚持到最后的力量。",
+            "en": "Their support gave us the energy to compete until the very end.",
+            "ja": "皆さんの応援が、最後まで戦い抜く力になりました。"
+          },
+          "hint": "他们的助威给了我们坚持到最后的力量。 / Their support gave us the energy to compete until the very end. / 皆さんの応援が、最後まで戦い抜く力になりました。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðɛɹ səˈpɔɹt ɡeɪv əs ði ˈɛnɚdʒi tə kəmˈpit ənˈtɪl ðə ˈvɛɹi ɛnd/",
+          "audioUrl": "learning/audio/en/en-sports-competition-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "post-match-media-interview",
+          "dialogueTitles": {
+            "zh": "赛后媒体采访",
+            "en": "Post-match Media Interview",
+            "ja": "試合後のメディア取材"
+          },
+          "dialogueScenes": {
+            "zh": "记者米娅在决赛后采访队长利亚姆。",
+            "en": "Reporter Mia interviews captain Liam after the final.",
+            "ja": "記者のミアが決勝後に主将のリアムを取材します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "利亚姆队长",
+            "en": "Captain Liam",
+            "ja": "主将リアム"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

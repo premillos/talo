@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "sports",
+  "slug": "ja-sports-competition-words",
+  "course": {
+    "title": "运动 · 日语赛事 · 词汇",
+    "description": "学习赛事安排、裁判判罚、现场观赛和赛后采访中的常用日语表达。（单词与短语）",
+    "titles": {
+      "zh": "运动 · 日语赛事 · 词汇",
+      "en": "Sports · Japanese Competition · Vocabulary",
+      "ja": "スポーツ · 日本語大会 · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习赛事赛程、判罚与赛后交流中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for competition schedules, officiating, and post-match communication.",
+      "ja": "大会日程・判定・試合後の交流で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语赛事表达",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "日程",
+          "answer": "日程",
+          "hints": {
+            "zh": "赛程",
+            "en": "schedule",
+            "ja": "日程"
+          },
+          "hint": "赛程 / schedule / 日程",
+          "furigana": "にってい",
+          "romaji": "nittei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "開幕戦",
+          "answer": "開幕戦",
+          "hints": {
+            "zh": "揭幕战",
+            "en": "opening game",
+            "ja": "開幕戦"
+          },
+          "hint": "揭幕战 / opening game / 開幕戦",
+          "furigana": "かいまくせん",
+          "romaji": "kaimakusen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "予選",
+          "answer": "予選",
+          "hints": {
+            "zh": "预选赛",
+            "en": "qualifier",
+            "ja": "予選"
+          },
+          "hint": "预选赛 / qualifier / 予選",
+          "furigana": "よせん",
+          "romaji": "yosen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "準決勝",
+          "answer": "準決勝",
+          "hints": {
+            "zh": "半决赛",
+            "en": "semifinal",
+            "ja": "準決勝"
+          },
+          "hint": "半决赛 / semifinal / 準決勝",
+          "furigana": "じゅんけっしょう",
+          "romaji": "junkesshou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "決勝戦",
+          "answer": "決勝戦",
+          "hints": {
+            "zh": "决赛",
+            "en": "final",
+            "ja": "決勝戦"
+          },
+          "hint": "决赛 / final / 決勝戦",
+          "furigana": "けっしょうせん",
+          "romaji": "kesshousen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "延長戦",
+          "answer": "延長戦",
+          "hints": {
+            "zh": "加时赛",
+            "en": "extra time",
+            "ja": "延長戦"
+          },
+          "hint": "加时赛 / extra time / 延長戦",
+          "furigana": "えんちょうせん",
+          "romaji": "enchousen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "PK戦",
+          "answer": "PK戦",
+          "hints": {
+            "zh": "点球大战",
+            "en": "penalty shootout",
+            "ja": "PK戦"
+          },
+          "hint": "点球大战 / penalty shootout / PK戦",
+          "furigana": "ピーケーせん",
+          "romaji": "piikeesen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "組み合わせ",
+          "answer": "組み合わせ",
+          "hints": {
+            "zh": "对阵安排",
+            "en": "pairing",
+            "ja": "組み合わせ"
+          },
+          "hint": "对阵安排 / pairing / 組み合わせ",
+          "furigana": "くみあわせ",
+          "romaji": "kumiawase",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "抽選",
+          "answer": "抽選",
+          "hints": {
+            "zh": "抽签",
+            "en": "draw",
+            "ja": "抽選"
+          },
+          "hint": "抽签 / draw / 抽選",
+          "furigana": "ちゅうせん",
+          "romaji": "chuusen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "開催地",
+          "answer": "開催地",
+          "hints": {
+            "zh": "举办地",
+            "en": "host location",
+            "ja": "開催地"
+          },
+          "hint": "举办地 / host location / 開催地",
+          "furigana": "かいさいち",
+          "romaji": "kaisaichi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "ホーム側",
+          "answer": "ホーム側",
+          "hints": {
+            "zh": "主队一方",
+            "en": "home side",
+            "ja": "ホーム側"
+          },
+          "hint": "主队一方 / home side / ホーム側",
+          "furigana": "ホームがわ",
+          "romaji": "hoomugawa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "アウェー側",
+          "answer": "アウェー側",
+          "hints": {
+            "zh": "客队一方",
+            "en": "away side",
+            "ja": "アウェー側"
+          },
+          "hint": "客队一方 / away side / アウェー側",
+          "furigana": "アウェーがわ",
+          "romaji": "aweegawa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "先発",
+          "answer": "先発",
+          "hints": {
+            "zh": "首发",
+            "en": "starter",
+            "ja": "先発"
+          },
+          "hint": "首发 / starter / 先発",
+          "furigana": "せんぱつ",
+          "romaji": "senpatsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "控え選手",
+          "answer": "控え選手",
+          "hints": {
+            "zh": "替补选手",
+            "en": "substitute",
+            "ja": "控え選手"
+          },
+          "hint": "替补选手 / substitute / 控え選手",
+          "furigana": "ひかえせんしゅ",
+          "romaji": "hikaesenshu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "判定",
+          "answer": "判定",
+          "hints": {
+            "zh": "判罚结果",
+            "en": "ruling",
+            "ja": "判定"
+          },
+          "hint": "判罚结果 / ruling / 判定",
+          "furigana": "はんてい",
+          "romaji": "hantei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "映像判定",
+          "answer": "映像判定",
+          "hints": {
+            "zh": "视频裁判",
+            "en": "video review",
+            "ja": "映像判定"
+          },
+          "hint": "视频裁判 / video review / 映像判定",
+          "furigana": "えいぞうはんてい",
+          "romaji": "eizouhantei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "反則",
+          "answer": "反則",
+          "hints": {
+            "zh": "犯规",
+            "en": "foul",
+            "ja": "反則"
+          },
+          "hint": "犯规 / foul / 反則",
+          "furigana": "はんそく",
+          "romaji": "hansoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "オフサイド",
+          "answer": "オフサイド",
+          "hints": {
+            "zh": "越位",
+            "en": "offside",
+            "ja": "オフサイド"
+          },
+          "hint": "越位 / offside / オフサイド",
+          "furigana": "オフサイド",
+          "romaji": "ofusaido",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "警告",
+          "answer": "警告",
+          "hints": {
+            "zh": "警告判罚",
+            "en": "caution",
+            "ja": "警告"
+          },
+          "hint": "警告判罚 / caution / 警告",
+          "furigana": "けいこく",
+          "romaji": "keikoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "退場",
+          "answer": "退場",
+          "hints": {
+            "zh": "罚下",
+            "en": "ejection",
+            "ja": "退場"
+          },
+          "hint": "罚下 / ejection / 退場",
+          "furigana": "たいじょう",
+          "romaji": "taijou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "観客席",
+          "answer": "観客席",
+          "hints": {
+            "zh": "观众席",
+            "en": "spectator stand",
+            "ja": "観客席"
+          },
+          "hint": "观众席 / spectator stand / 観客席",
+          "furigana": "かんきゃくせき",
+          "romaji": "kankyakuseki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "入場券",
+          "answer": "入場券",
+          "hints": {
+            "zh": "门票",
+            "en": "admission ticket",
+            "ja": "入場券"
+          },
+          "hint": "门票 / admission ticket / 入場券",
+          "furigana": "にゅうじょうけん",
+          "romaji": "nyuujouken",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "中継",
+          "answer": "中継",
+          "hints": {
+            "zh": "赛事转播",
+            "en": "broadcast",
+            "ja": "中継"
+          },
+          "hint": "赛事转播 / broadcast / 中継",
+          "furigana": "ちゅうけい",
+          "romaji": "chuukei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "実況",
+          "answer": "実況",
+          "hints": {
+            "zh": "现场解说",
+            "en": "live commentary",
+            "ja": "実況"
+          },
+          "hint": "现场解说 / live commentary / 実況",
+          "furigana": "じっきょう",
+          "romaji": "jikkyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "記者会見",
+          "answer": "記者会見",
+          "hints": {
+            "zh": "新闻发布会",
+            "en": "press conference",
+            "ja": "記者会見"
+          },
+          "hint": "新闻发布会 / press conference / 記者会見",
+          "furigana": "きしゃかいけん",
+          "romaji": "kishakaiken",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "表彰式",
+          "answer": "表彰式",
+          "hints": {
+            "zh": "颁奖仪式",
+            "en": "awards ceremony",
+            "ja": "表彰式"
+          },
+          "hint": "颁奖仪式 / awards ceremony / 表彰式",
+          "furigana": "ひょうしょうしき",
+          "romaji": "hyoushoushiki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "準優勝",
+          "answer": "準優勝",
+          "hints": {
+            "zh": "亚军",
+            "en": "second place",
+            "ja": "準優勝"
+          },
+          "hint": "亚军 / second place / 準優勝",
+          "furigana": "じゅんゆうしょう",
+          "romaji": "jun'yuushou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "試合評",
+          "answer": "試合評",
+          "hints": {
+            "zh": "赛后评论",
+            "en": "match review",
+            "ja": "試合評"
+          },
+          "hint": "赛后评论 / match review / 試合評",
+          "furigana": "しあいひょう",
+          "romaji": "shiaihyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "取材",
+          "answer": "取材",
+          "hints": {
+            "zh": "采访报道",
+            "en": "media interview",
+            "ja": "取材"
+          },
+          "hint": "采访报道 / media interview / 取材",
+          "furigana": "しゅざい",
+          "romaji": "shuzai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "大会運営",
+          "answer": "大会運営",
+          "hints": {
+            "zh": "赛事运营",
+            "en": "event management",
+            "ja": "大会運営"
+          },
+          "hint": "赛事运营 / event management / 大会運営",
+          "furigana": "たいかいうんえい",
+          "romaji": "taikaiun'ei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-competition-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

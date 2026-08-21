@@ -1,0 +1,7 @@
+{
+  "sessionQuestionCount": 20,
+  "initialHearts": 5,
+  "comboEnabled": true,
+  "dailyStreakEnabled": true,
+  "englishCaseSensitive": false
+}

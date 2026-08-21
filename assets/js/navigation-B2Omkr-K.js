@@ -1,0 +1,1 @@
+function e(e,t=`/`){if(typeof e!=`string`)return t;let n=e.trim();return!n.startsWith(`/`)||n.startsWith(`//`)?t:n}function t(t){let n=e(t,``);return n?{redirect:n}:{}}function n(e){let t=new URLSearchParams({provider:e});return`${window.location.origin}/auth/oauth/callback?${t.toString()}`}export{n,e as r,t};

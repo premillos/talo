@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "anime",
+  "slug": "ja-anime-dialogue-dialogues",
+  "course": {
+    "title": "二次元/动漫 · 日语台词 · 情景对话",
+    "description": "练习动漫场景中常见的日语台词与日常表达。（男女情景对话）",
+    "titles": {
+      "zh": "二次元/动漫 · 日语台词 · 情景对话",
+      "en": "Anime & ACG · Japanese Dialogue · Situational Dialogues",
+      "ja": "アニメ・ACG · 日本語セリフ · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习动漫台词中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for anime dialogue.",
+      "ja": "アニメのセリフで使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "场景常用句 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "遅くなってごめん、待った？",
+          "answer": "遅くなってごめん、待った？",
+          "hints": {
+            "zh": "抱歉来晚了，你等很久了吗？",
+            "en": "Apologize for being late and ask if they waited.",
+            "ja": "遅れたことを謝り、待ったか尋ねます。"
+          },
+          "hint": "抱歉来晚了，你等很久了吗？ / Apologize for being late and ask if they waited. / 遅れたことを謝り、待ったか尋ねます。",
+          "furigana": "おそくなってごめん、まった？",
+          "romaji": "osokunattegomen,matta?",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "watching-a-new-episode-together",
+          "dialogueTitles": {
+            "zh": "一起看新一集",
+            "en": "Watching a New Episode Together",
+            "ja": "新しい話を一緒に見る"
+          },
+          "dialogueScenes": {
+            "zh": "美咲和悠斗见面后准备一起观看动画的新一集。",
+            "en": "Misaki and Yuto meet and prepare to watch a new anime episode together.",
+            "ja": "美咲と悠斗が待ち合わせをして、アニメの新しい話を見る準備をします。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "大丈夫、今来たところだよ。",
+          "answer": "大丈夫、今来たところだよ。",
+          "hints": {
+            "zh": "没关系，我也刚到。",
+            "en": "Reassure them that you just arrived.",
+            "ja": "大丈夫だと伝え、今来たところだと答えます。"
+          },
+          "hint": "没关系，我也刚到。 / Reassure them that you just arrived. / 大丈夫だと伝え、今来たところだと答えます。",
+          "furigana": "だいじょうぶ、いまきたところだよ。",
+          "romaji": "daijoubu,imakitatokorodayo.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "watching-a-new-episode-together",
+          "dialogueTitles": {
+            "zh": "一起看新一集",
+            "en": "Watching a New Episode Together",
+            "ja": "新しい話を一緒に見る"
+          },
+          "dialogueScenes": {
+            "zh": "美咲和悠斗见面后准备一起观看动画的新一集。",
+            "en": "Misaki and Yuto meet and prepare to watch a new anime episode together.",
+            "ja": "美咲と悠斗が待ち合わせをして、アニメの新しい話を見る準備をします。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "悠斗",
+            "en": "Yuto",
+            "ja": "悠斗"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "ありがとう。新しいアニメを一緒に見ない？",
+          "answer": "ありがとう。新しいアニメを一緒に見ない？",
+          "hints": {
+            "zh": "谢谢。要不要一起看新动画？",
+            "en": "Thank them and invite them to watch a new anime.",
+            "ja": "お礼を言い、新しいアニメに誘います。"
+          },
+          "hint": "谢谢。要不要一起看新动画？ / Thank them and invite them to watch a new anime. / お礼を言い、新しいアニメに誘います。",
+          "furigana": "ありがとう。あたらしいアニメをいっしょにみない？",
+          "romaji": "arigatou.atarashiianimewoisshoniminai?",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "watching-a-new-episode-together",
+          "dialogueTitles": {
+            "zh": "一起看新一集",
+            "en": "Watching a New Episode Together",
+            "ja": "新しい話を一緒に見る"
+          },
+          "dialogueScenes": {
+            "zh": "美咲和悠斗见面后准备一起观看动画的新一集。",
+            "en": "Misaki and Yuto meet and prepare to watch a new anime episode together.",
+            "ja": "美咲と悠斗が待ち合わせをして、アニメの新しい話を見る準備をします。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "いいね。次の話を楽しみにしていたんだ。",
+          "answer": "いいね。次の話を楽しみにしていたんだ。",
+          "hints": {
+            "zh": "好啊。我一直很期待下一集。",
+            "en": "Agree and say you were looking forward to the next episode.",
+            "ja": "賛成し、次の話を楽しみにしていたと伝えます。"
+          },
+          "hint": "好啊。我一直很期待下一集。 / Agree and say you were looking forward to the next episode. / 賛成し、次の話を楽しみにしていたと伝えます。",
+          "furigana": "いいね。つぎのはなしをたのしみにしていたんだ。",
+          "romaji": "iine.tsuginohanashiwotanoshiminishiteitanda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "watching-a-new-episode-together",
+          "dialogueTitles": {
+            "zh": "一起看新一集",
+            "en": "Watching a New Episode Together",
+            "ja": "新しい話を一緒に見る"
+          },
+          "dialogueScenes": {
+            "zh": "美咲和悠斗见面后准备一起观看动画的新一集。",
+            "en": "Misaki and Yuto meet and prepare to watch a new anime episode together.",
+            "ja": "美咲と悠斗が待ち合わせをして、アニメの新しい話を見る準備をします。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "悠斗",
+            "en": "Yuto",
+            "ja": "悠斗"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "じゃあ、飲み物を持ってくるね。",
+          "answer": "じゃあ、飲み物を持ってくるね。",
+          "hints": {
+            "zh": "那我去拿饮料。",
+            "en": "Offer to bring the drinks.",
+            "ja": "飲み物を持ってくると伝えます。"
+          },
+          "hint": "那我去拿饮料。 / Offer to bring the drinks. / 飲み物を持ってくると伝えます。",
+          "furigana": "じゃあ、のみものをもってくるね。",
+          "romaji": "jaa,nomimonowomottekurune.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "watching-a-new-episode-together",
+          "dialogueTitles": {
+            "zh": "一起看新一集",
+            "en": "Watching a New Episode Together",
+            "ja": "新しい話を一緒に見る"
+          },
+          "dialogueScenes": {
+            "zh": "美咲和悠斗见面后准备一起观看动画的新一集。",
+            "en": "Misaki and Yuto meet and prepare to watch a new anime episode together.",
+            "ja": "美咲と悠斗が待ち合わせをして、アニメの新しい話を見る準備をします。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "任せて。お菓子は僕が用意するよ。",
+          "answer": "任せて。お菓子は僕が用意するよ。",
+          "hints": {
+            "zh": "交给我，零食由我来准备。",
+            "en": "Offer to prepare the snacks.",
+            "ja": "お菓子を自分が用意すると申し出ます。"
+          },
+          "hint": "交给我，零食由我来准备。 / Offer to prepare the snacks. / お菓子を自分が用意すると申し出ます。",
+          "furigana": "まかせて。おかしはぼくがよういするよ。",
+          "romaji": "makasete.okashihabokugayouisuruyo.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-dialogue-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "watching-a-new-episode-together",
+          "dialogueTitles": {
+            "zh": "一起看新一集",
+            "en": "Watching a New Episode Together",
+            "ja": "新しい話を一緒に見る"
+          },
+          "dialogueScenes": {
+            "zh": "美咲和悠斗见面后准备一起观看动画的新一集。",
+            "en": "Misaki and Yuto meet and prepare to watch a new anime episode together.",
+            "ja": "美咲と悠斗が待ち合わせをして、アニメの新しい話を見る準備をします。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "悠斗",
+            "en": "Yuto",
+            "ja": "悠斗"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

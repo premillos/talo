@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-complaint-dialogues",
+  "course": {
+    "title": "服务行业 · 日语投诉 · 情景对话",
+    "description": "クレーム対応と謝罪・補償の表現（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 日语投诉 · 情景对话",
+      "en": "Service & Hospitality · Japanese Complaints · Situational Dialogues",
+      "ja": "サービス業 · 日本語クレーム対応 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习投诉处理中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for complaint handling.",
+      "ja": "クレーム対応で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "クレーム対応 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "すみません、注文した料理と違うものが来ました。",
+          "answer": "すみません、注文した料理と違うものが来ました。",
+          "hints": {
+            "zh": "不好意思，送来的菜和我点的不一样。",
+            "en": "The customer explains that the wrong dish arrived.",
+            "ja": "客が注文と違う料理が届いたことを伝えます。"
+          },
+          "hint": "不好意思，送来的菜和我点的不一样。 / The customer explains that the wrong dish arrived. / 客が注文と違う料理が届いたことを伝えます。",
+          "furigana": "すみません、ちゅうもんしたりょうりとちがうものがきました。",
+          "romaji": "sumimasen,chuumonshitaryouritochigaumonogakimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "wrong-dish-apology",
+          "dialogueTitles": {
+            "zh": "上错菜投诉",
+            "en": "Wrong Dish Complaint",
+            "ja": "料理間違いへの対応"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客指出上错菜，男服务员核实后安排重新制作。",
+            "en": "A female diner reports the wrong dish, and a male server arranges a replacement.",
+            "ja": "女性客が料理の間違いを伝え、男性店員が作り直しを手配します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "顾客由纪",
+            "en": "Yuki, Customer",
+            "ja": "客の由紀"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "大変申し訳ございません。何をご注文されましたか。",
+          "answer": "大変申し訳ございません。何をご注文されましたか。",
+          "hints": {
+            "zh": "非常抱歉。您点的是什么？",
+            "en": "The server apologizes and checks the original order.",
+            "ja": "店員が謝罪し、注文内容を確認します。"
+          },
+          "hint": "非常抱歉。您点的是什么？ / The server apologizes and checks the original order. / 店員が謝罪し、注文内容を確認します。",
+          "furigana": "たいへんもうしわけございません。なにをごちゅうもんされましたか。",
+          "romaji": "taihenmoushiwakegozaimasen.naniwogochuumonsaremashitaka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "wrong-dish-apology",
+          "dialogueTitles": {
+            "zh": "上错菜投诉",
+            "en": "Wrong Dish Complaint",
+            "ja": "料理間違いへの対応"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客指出上错菜，男服务员核实后安排重新制作。",
+            "en": "A female diner reports the wrong dish, and a male server arranges a replacement.",
+            "ja": "女性客が料理の間違いを伝え、男性店員が作り直しを手配します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "服务员拓也",
+            "en": "Takuya, Server",
+            "ja": "店員の拓也"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "野菜カレーを注文しましたが、これは海老カレーです。",
+          "answer": "野菜カレーを注文しましたが、これは海老カレーです。",
+          "hints": {
+            "zh": "我点的是蔬菜咖喱，但这是虾咖喱。",
+            "en": "The customer identifies what she ordered and what arrived.",
+            "ja": "客が注文した料理と届いた料理を説明します。"
+          },
+          "hint": "我点的是蔬菜咖喱，但这是虾咖喱。 / The customer identifies what she ordered and what arrived. / 客が注文した料理と届いた料理を説明します。",
+          "furigana": "やさいカレーをちゅうもんしましたが、これはえびカレーです。",
+          "romaji": "yasaikareewochuumonshimashitaga,korehaebikareedesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "wrong-dish-apology",
+          "dialogueTitles": {
+            "zh": "上错菜投诉",
+            "en": "Wrong Dish Complaint",
+            "ja": "料理間違いへの対応"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客指出上错菜，男服务员核实后安排重新制作。",
+            "en": "A female diner reports the wrong dish, and a male server arranges a replacement.",
+            "ja": "女性客が料理の間違いを伝え、男性店員が作り直しを手配します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "顾客由纪",
+            "en": "Yuki, Customer",
+            "ja": "客の由紀"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "確認いたしました。すぐに野菜カレーを作り直します。",
+          "answer": "確認いたしました。すぐに野菜カレーを作り直します。",
+          "hints": {
+            "zh": "已经确认了。我们马上重新做蔬菜咖喱。",
+            "en": "The server confirms the mistake and offers a remake.",
+            "ja": "店員が間違いを確認し、作り直しを約束します。"
+          },
+          "hint": "已经确认了。我们马上重新做蔬菜咖喱。 / The server confirms the mistake and offers a remake. / 店員が間違いを確認し、作り直しを約束します。",
+          "furigana": "かくにんいたしました。すぐにやさいカレーをつくりなおします。",
+          "romaji": "kakunin'itashimashita.suguniyasaikareewotsukurinaoshimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "wrong-dish-apology",
+          "dialogueTitles": {
+            "zh": "上错菜投诉",
+            "en": "Wrong Dish Complaint",
+            "ja": "料理間違いへの対応"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客指出上错菜，男服务员核实后安排重新制作。",
+            "en": "A female diner reports the wrong dish, and a male server arranges a replacement.",
+            "ja": "女性客が料理の間違いを伝え、男性店員が作り直しを手配します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "服务员拓也",
+            "en": "Takuya, Server",
+            "ja": "店員の拓也"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "お願いします。あと、海老にアレルギーがあるので気をつけてください。",
+          "answer": "お願いします。あと、海老にアレルギーがあるので気をつけてください。",
+          "hints": {
+            "zh": "麻烦了。另外我对虾过敏，请多加注意。",
+            "en": "The customer accepts and warns about her shrimp allergy.",
+            "ja": "客が作り直しを頼み、海老アレルギーを伝えます。"
+          },
+          "hint": "麻烦了。另外我对虾过敏，请多加注意。 / The customer accepts and warns about her shrimp allergy. / 客が作り直しを頼み、海老アレルギーを伝えます。",
+          "furigana": "おねがいします。あと、えびにアレルギーがあるのできをつけてください。",
+          "romaji": "onegaishimasu.ato,ebiniarerugiigaarunodekiwotsuketekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "wrong-dish-apology",
+          "dialogueTitles": {
+            "zh": "上错菜投诉",
+            "en": "Wrong Dish Complaint",
+            "ja": "料理間違いへの対応"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客指出上错菜，男服务员核实后安排重新制作。",
+            "en": "A female diner reports the wrong dish, and a male server arranges a replacement.",
+            "ja": "女性客が料理の間違いを伝え、男性店員が作り直しを手配します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "顾客由纪",
+            "en": "Yuki, Customer",
+            "ja": "客の由紀"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "承知しました。調理場にも伝え、十分注意いたします。",
+          "answer": "承知しました。調理場にも伝え、十分注意いたします。",
+          "hints": {
+            "zh": "明白了。我会通知厨房并充分注意。",
+            "en": "The server confirms that the kitchen will take care.",
+            "ja": "店員が調理場への共有と安全な対応を約束します。"
+          },
+          "hint": "明白了。我会通知厨房并充分注意。 / The server confirms that the kitchen will take care. / 店員が調理場への共有と安全な対応を約束します。",
+          "furigana": "しょうちしました。ちょうりばにもつたえ、じゅうぶんちゅういいたします。",
+          "romaji": "shouchishimashita.chouribanimotsutae,juubunchuuiitashimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-complaint-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "wrong-dish-apology",
+          "dialogueTitles": {
+            "zh": "上错菜投诉",
+            "en": "Wrong Dish Complaint",
+            "ja": "料理間違いへの対応"
+          },
+          "dialogueScenes": {
+            "zh": "女顾客指出上错菜，男服务员核实后安排重新制作。",
+            "en": "A female diner reports the wrong dish, and a male server arranges a replacement.",
+            "ja": "女性客が料理の間違いを伝え、男性店員が作り直しを手配します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "服务员拓也",
+            "en": "Takuya, Server",
+            "ja": "店員の拓也"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

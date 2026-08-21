@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "sports",
+  "slug": "ja-sports-training-words",
+  "course": {
+    "title": "运动 · 日语日常 · 词汇",
+    "description": "学习训练、比赛和观赛场景中的常用日语表达。（单词与短语）",
+    "titles": {
+      "zh": "运动 · 日语训练 · 词汇",
+      "en": "Sports · Japanese Training · Vocabulary",
+      "ja": "スポーツ · 日本語トレーニング · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习日常训练、比赛与观赛中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for everyday training, matches, and sports viewing.",
+      "ja": "日常の練習・試合・観戦で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语运动表达",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "選手",
+          "answer": "選手",
+          "hints": {
+            "zh": "运动员",
+            "en": "athlete",
+            "ja": "選手"
+          },
+          "hint": "运动员 / athlete / 選手",
+          "furigana": "せんしゅ",
+          "romaji": "senshu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "監督",
+          "answer": "監督",
+          "hints": {
+            "zh": "主教练",
+            "en": "head coach",
+            "ja": "監督"
+          },
+          "hint": "主教练 / head coach / 監督",
+          "furigana": "かんとく",
+          "romaji": "kantoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "チーム",
+          "answer": "チーム",
+          "hints": {
+            "zh": "队伍",
+            "en": "team",
+            "ja": "チーム"
+          },
+          "hint": "队伍 / team / チーム",
+          "furigana": "チーム",
+          "romaji": "chiimu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "試合",
+          "answer": "試合",
+          "hints": {
+            "zh": "比赛",
+            "en": "match",
+            "ja": "試合"
+          },
+          "hint": "比赛 / match / 試合",
+          "furigana": "しあい",
+          "romaji": "shiai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "得点",
+          "answer": "得点",
+          "hints": {
+            "zh": "得分",
+            "en": "score",
+            "ja": "得点"
+          },
+          "hint": "得分 / score / 得点",
+          "furigana": "とくてん",
+          "romaji": "tokuten",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "ゴール",
+          "answer": "ゴール",
+          "hints": {
+            "zh": "进球；终点",
+            "en": "goal",
+            "ja": "ゴール"
+          },
+          "hint": "进球；终点 / goal / ゴール",
+          "furigana": "ゴール",
+          "romaji": "gooru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "競技場",
+          "answer": "競技場",
+          "hints": {
+            "zh": "体育场",
+            "en": "stadium",
+            "ja": "競技場"
+          },
+          "hint": "体育场 / stadium / 競技場",
+          "furigana": "きょうぎじょう",
+          "romaji": "kyougijou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "練習",
+          "answer": "練習",
+          "hints": {
+            "zh": "训练",
+            "en": "practice",
+            "ja": "練習"
+          },
+          "hint": "训练 / practice / 練習",
+          "furigana": "れんしゅう",
+          "romaji": "renshuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "準備運動",
+          "answer": "準備運動",
+          "hints": {
+            "zh": "热身运动",
+            "en": "warm-up",
+            "ja": "準備運動"
+          },
+          "hint": "热身运动 / warm-up / 準備運動",
+          "furigana": "じゅんびうんどう",
+          "romaji": "junbiundou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "体力",
+          "answer": "体力",
+          "hints": {
+            "zh": "体能",
+            "en": "fitness",
+            "ja": "体力"
+          },
+          "hint": "体能 / fitness / 体力",
+          "furigana": "たいりょく",
+          "romaji": "tairyoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "筋力",
+          "answer": "筋力",
+          "hints": {
+            "zh": "肌肉力量",
+            "en": "strength",
+            "ja": "筋力"
+          },
+          "hint": "肌肉力量 / strength / 筋力",
+          "furigana": "きんりょく",
+          "romaji": "kinryoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "速さ",
+          "answer": "速さ",
+          "hints": {
+            "zh": "速度",
+            "en": "speed",
+            "ja": "速さ"
+          },
+          "hint": "速度 / speed / 速さ",
+          "furigana": "はやさ",
+          "romaji": "hayasa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "バランス",
+          "answer": "バランス",
+          "hints": {
+            "zh": "平衡",
+            "en": "balance",
+            "ja": "バランス"
+          },
+          "hint": "平衡 / balance / バランス",
+          "furigana": "バランス",
+          "romaji": "baransu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "持久力",
+          "answer": "持久力",
+          "hints": {
+            "zh": "耐力",
+            "en": "stamina",
+            "ja": "持久力"
+          },
+          "hint": "耐力 / stamina / 持久力",
+          "furigana": "じきゅうりょく",
+          "romaji": "jikyuuryoku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "審判",
+          "answer": "審判",
+          "hints": {
+            "zh": "裁判",
+            "en": "referee",
+            "ja": "審判"
+          },
+          "hint": "裁判 / referee / 審判",
+          "furigana": "しんぱん",
+          "romaji": "shinpan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "主将",
+          "answer": "主将",
+          "hints": {
+            "zh": "队长",
+            "en": "captain",
+            "ja": "主将"
+          },
+          "hint": "队长 / captain / 主将",
+          "furigana": "しゅしょう",
+          "romaji": "shushou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "勝利",
+          "answer": "勝利",
+          "hints": {
+            "zh": "胜利",
+            "en": "victory",
+            "ja": "勝利"
+          },
+          "hint": "胜利 / victory / 勝利",
+          "furigana": "しょうり",
+          "romaji": "shouri",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "敗北",
+          "answer": "敗北",
+          "hints": {
+            "zh": "失败",
+            "en": "defeat",
+            "ja": "敗北"
+          },
+          "hint": "失败 / defeat / 敗北",
+          "furigana": "はいぼく",
+          "romaji": "haiboku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "大会",
+          "answer": "大会",
+          "hints": {
+            "zh": "大赛",
+            "en": "tournament",
+            "ja": "大会"
+          },
+          "hint": "大赛 / tournament / 大会",
+          "furigana": "たいかい",
+          "romaji": "taikai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "優勝",
+          "answer": "優勝",
+          "hints": {
+            "zh": "夺冠",
+            "en": "championship",
+            "ja": "優勝"
+          },
+          "hint": "夺冠 / championship / 優勝",
+          "furigana": "ゆうしょう",
+          "romaji": "yuushou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "メダル",
+          "answer": "メダル",
+          "hints": {
+            "zh": "奖牌",
+            "en": "medal",
+            "ja": "メダル"
+          },
+          "hint": "奖牌 / medal / メダル",
+          "furigana": "メダル",
+          "romaji": "medaru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "記録",
+          "answer": "記録",
+          "hints": {
+            "zh": "纪录",
+            "en": "record",
+            "ja": "記録"
+          },
+          "hint": "纪录 / record / 記録",
+          "furigana": "きろく",
+          "romaji": "kiroku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "走る",
+          "answer": "走る",
+          "hints": {
+            "zh": "跑步",
+            "en": "run",
+            "ja": "走る"
+          },
+          "hint": "跑步 / run / 走る",
+          "furigana": "はしる",
+          "romaji": "hashiru",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "泳ぐ",
+          "answer": "泳ぐ",
+          "hints": {
+            "zh": "游泳",
+            "en": "swim",
+            "ja": "泳ぐ"
+          },
+          "hint": "游泳 / swim / 泳ぐ",
+          "furigana": "およぐ",
+          "romaji": "oyogu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "自転車",
+          "answer": "自転車",
+          "hints": {
+            "zh": "自行车",
+            "en": "bicycle",
+            "ja": "自転車"
+          },
+          "hint": "自行车 / bicycle / 自転車",
+          "furigana": "じてんしゃ",
+          "romaji": "jitensha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "サッカー",
+          "answer": "サッカー",
+          "hints": {
+            "zh": "足球",
+            "en": "football",
+            "ja": "サッカー"
+          },
+          "hint": "足球 / football / サッカー",
+          "furigana": "サッカー",
+          "romaji": "sakkaa",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "野球",
+          "answer": "野球",
+          "hints": {
+            "zh": "棒球",
+            "en": "baseball",
+            "ja": "野球"
+          },
+          "hint": "棒球 / baseball / 野球",
+          "furigana": "やきゅう",
+          "romaji": "yakyuu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "テニス",
+          "answer": "テニス",
+          "hints": {
+            "zh": "网球",
+            "en": "tennis",
+            "ja": "テニス"
+          },
+          "hint": "网球 / tennis / テニス",
+          "furigana": "テニス",
+          "romaji": "tenisu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "バレー",
+          "answer": "バレー",
+          "hints": {
+            "zh": "排球",
+            "en": "volleyball",
+            "ja": "バレー"
+          },
+          "hint": "排球 / volleyball / バレー",
+          "furigana": "バレー",
+          "romaji": "baree",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "運動",
+          "answer": "運動",
+          "hints": {
+            "zh": "运动；锻炼",
+            "en": "exercise",
+            "ja": "運動"
+          },
+          "hint": "运动；锻炼 / exercise / 運動",
+          "furigana": "うんどう",
+          "romaji": "undou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-sports-training-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "service",
+  "slug": "ja-service-greeting-dialogues",
+  "course": {
+    "title": "服务行业 · 日语接待 · 情景对话",
+    "description": "店舗・ホテル受付の挨拶と予約対応（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 日语接待 · 情景对话",
+      "en": "Service & Hospitality · Japanese Greetings & Reception · Situational Dialogues",
+      "ja": "サービス業 · 日本語挨拶・受付 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习问候与前台接待中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for greetings and reception.",
+      "ja": "挨拶と受付で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "挨拶・予約 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "いらっしゃいませ。本日はご予約でしょうか。",
+          "answer": "いらっしゃいませ。本日はご予約でしょうか。",
+          "hints": {
+            "zh": "欢迎光临。您今天有预约吗？",
+            "en": "The receptionist welcomes the customer and asks about a reservation.",
+            "ja": "受付係が来店客を迎え、予約の有無を尋ねます。"
+          },
+          "hint": "欢迎光临。您今天有预约吗？ / The receptionist welcomes the customer and asks about a reservation. / 受付係が来店客を迎え、予約の有無を尋ねます。",
+          "furigana": "いらっしゃいませ。ほんじつはごよやくでしょうか。",
+          "romaji": "irasshaimase.honjitsuhagoyoyakudeshouka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "salon-appointment-reception",
+          "dialogueTitles": {
+            "zh": "美容院预约接待",
+            "en": "Salon Appointment Reception",
+            "ja": "美容院の予約受付"
+          },
+          "dialogueScenes": {
+            "zh": "女前台接待已预约的男顾客并确认服务内容。",
+            "en": "A female receptionist welcomes a male salon customer and confirms his appointment.",
+            "ja": "女性受付係が予約済みの男性客を迎え、施術内容を確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "前台美咲",
+            "en": "Misaki, Receptionist",
+            "ja": "受付の美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、三時に田中で予約しています。",
+          "answer": "はい、三時に田中で予約しています。",
+          "hints": {
+            "zh": "是的，我用田中的名字预约了三点。",
+            "en": "The customer gives his appointment time and name.",
+            "ja": "客が予約時間と名前を伝えます。"
+          },
+          "hint": "是的，我用田中的名字预约了三点。 / The customer gives his appointment time and name. / 客が予約時間と名前を伝えます。",
+          "furigana": "はい、さんじにたなかでよやくしています。",
+          "romaji": "hai,sanjinitanakadeyoyakushiteimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "salon-appointment-reception",
+          "dialogueTitles": {
+            "zh": "美容院预约接待",
+            "en": "Salon Appointment Reception",
+            "ja": "美容院の予約受付"
+          },
+          "dialogueScenes": {
+            "zh": "女前台接待已预约的男顾客并确认服务内容。",
+            "en": "A female receptionist welcomes a male salon customer and confirms his appointment.",
+            "ja": "女性受付係が予約済みの男性客を迎え、施術内容を確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "顾客健太",
+            "en": "Kenta, Customer",
+            "ja": "客の健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "田中様ですね。カットとシャンプーで承っております。",
+          "answer": "田中様ですね。カットとシャンプーで承っております。",
+          "hints": {
+            "zh": "是田中先生吧。您预约的是剪发和洗发。",
+            "en": "The receptionist confirms the booked services.",
+            "ja": "受付係が予約された施術内容を確認します。"
+          },
+          "hint": "是田中先生吧。您预约的是剪发和洗发。 / The receptionist confirms the booked services. / 受付係が予約された施術内容を確認します。",
+          "furigana": "たなかさまですね。カットとシャンプーでうけたまわっております。",
+          "romaji": "tanakasamadesune.kattotoshanpuudeuketamawatteorimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "salon-appointment-reception",
+          "dialogueTitles": {
+            "zh": "美容院预约接待",
+            "en": "Salon Appointment Reception",
+            "ja": "美容院の予約受付"
+          },
+          "dialogueScenes": {
+            "zh": "女前台接待已预约的男顾客并确认服务内容。",
+            "en": "A female receptionist welcomes a male salon customer and confirms his appointment.",
+            "ja": "女性受付係が予約済みの男性客を迎え、施術内容を確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "前台美咲",
+            "en": "Misaki, Receptionist",
+            "ja": "受付の美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、その内容でお願いします。どのくらいかかりますか。",
+          "answer": "はい、その内容でお願いします。どのくらいかかりますか。",
+          "hints": {
+            "zh": "是的，就按这个来。大约需要多长时间？",
+            "en": "The customer confirms and asks how long it will take.",
+            "ja": "客が内容を確認し、所要時間を尋ねます。"
+          },
+          "hint": "是的，就按这个来。大约需要多长时间？ / The customer confirms and asks how long it will take. / 客が内容を確認し、所要時間を尋ねます。",
+          "furigana": "はい、そのないようでおねがいします。どのくらいかかりますか。",
+          "romaji": "hai,sononaiyoudeonegaishimasu.donokuraikakarimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "salon-appointment-reception",
+          "dialogueTitles": {
+            "zh": "美容院预约接待",
+            "en": "Salon Appointment Reception",
+            "ja": "美容院の予約受付"
+          },
+          "dialogueScenes": {
+            "zh": "女前台接待已预约的男顾客并确认服务内容。",
+            "en": "A female receptionist welcomes a male salon customer and confirms his appointment.",
+            "ja": "女性受付係が予約済みの男性客を迎え、施術内容を確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "顾客健太",
+            "en": "Kenta, Customer",
+            "ja": "客の健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "一時間ほどです。担当者が参りますので、こちらでお待ちください。",
+          "answer": "一時間ほどです。担当者が参りますので、こちらでお待ちください。",
+          "hints": {
+            "zh": "大约一小时。负责人马上来，请在这里等候。",
+            "en": "The receptionist gives the duration and asks him to wait.",
+            "ja": "受付係が所要時間を伝え、待合場所を案内します。"
+          },
+          "hint": "大约一小时。负责人马上来，请在这里等候。 / The receptionist gives the duration and asks him to wait. / 受付係が所要時間を伝え、待合場所を案内します。",
+          "furigana": "いちじかんほどです。たんとうしゃがまいりますので、こちらでおまちください。",
+          "romaji": "ichijikanhododesu.tantoushagamairimasunode,kochiradeomachikudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "salon-appointment-reception",
+          "dialogueTitles": {
+            "zh": "美容院预约接待",
+            "en": "Salon Appointment Reception",
+            "ja": "美容院の予約受付"
+          },
+          "dialogueScenes": {
+            "zh": "女前台接待已预约的男顾客并确认服务内容。",
+            "en": "A female receptionist welcomes a male salon customer and confirms his appointment.",
+            "ja": "女性受付係が予約済みの男性客を迎え、施術内容を確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "前台美咲",
+            "en": "Misaki, Receptionist",
+            "ja": "受付の美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "わかりました。ありがとうございます。",
+          "answer": "わかりました。ありがとうございます。",
+          "hints": {
+            "zh": "明白了，谢谢。",
+            "en": "The customer acknowledges and thanks her.",
+            "ja": "客が了承し、感謝します。"
+          },
+          "hint": "明白了，谢谢。 / The customer acknowledges and thanks her. / 客が了承し、感謝します。",
+          "furigana": "わかりました。ありがとうございます。",
+          "romaji": "wakarimashita.arigatougozaimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-service-greeting-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "salon-appointment-reception",
+          "dialogueTitles": {
+            "zh": "美容院预约接待",
+            "en": "Salon Appointment Reception",
+            "ja": "美容院の予約受付"
+          },
+          "dialogueScenes": {
+            "zh": "女前台接待已预约的男顾客并确认服务内容。",
+            "en": "A female receptionist welcomes a male salon customer and confirms his appointment.",
+            "ja": "女性受付係が予約済みの男性客を迎え、施術内容を確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "顾客健太",
+            "en": "Kenta, Customer",
+            "ja": "客の健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

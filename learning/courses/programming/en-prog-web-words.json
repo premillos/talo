@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-web-words",
+  "course": {
+    "title": "编程知识 · 英语 Web · 词汇",
+    "description": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）",
+    "titles": {
+      "zh": "编程知识 · 英语 Web · 词汇",
+      "en": "编程知识 · 英语 Web · 词汇",
+      "ja": "编程知识 · 英语 Web · 词汇"
+    },
+    "descriptions": {
+      "zh": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）",
+      "en": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）",
+      "ja": "Web 开发与 API：HTTP、请求、响应、部署、中间件等开发与运维常用词汇。（单词与短语）"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "Web 开发与 API",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "HTTP",
+          "answer": "HTTP",
+          "hints": {
+            "zh": "超文本传输协议",
+            "en": "HTTP",
+            "ja": "HTTP"
+          },
+          "hint": "超文本传输协议 / HTTP / HTTP",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌeɪtʃ ti ti ˈpi/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "HTTPS",
+          "answer": "HTTPS",
+          "hints": {
+            "zh": "安全超文本传输协议",
+            "en": "HTTPS",
+            "ja": "HTTPS"
+          },
+          "hint": "安全超文本传输协议 / HTTPS / HTTPS",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌeɪtʃ ti ti pi ˈɛs/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "API",
+          "answer": "API",
+          "hints": {
+            "zh": "应用程序接口",
+            "en": "API",
+            "ja": "API"
+          },
+          "hint": "应用程序接口 / API / API",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌeɪ pi ˈaɪ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "endpoint",
+          "answer": "endpoint",
+          "hints": {
+            "zh": "接口端点",
+            "en": "endpoint",
+            "ja": "エンドポイント"
+          },
+          "hint": "接口端点 / endpoint / エンドポイント",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛndpɔɪnt/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "middleware",
+          "answer": "middleware",
+          "hints": {
+            "zh": "中间件",
+            "en": "middleware",
+            "ja": "ミドルウェア"
+          },
+          "hint": "中间件 / middleware / ミドルウェア",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɪdəlˌwɛɹ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "cookie",
+          "answer": "cookie",
+          "hints": {
+            "zh": "Cookie",
+            "en": "cookie",
+            "ja": "クッキー"
+          },
+          "hint": "Cookie / cookie / クッキー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkʊki/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "session",
+          "answer": "session",
+          "hints": {
+            "zh": "会话",
+            "en": "session",
+            "ja": "セッション"
+          },
+          "hint": "会话 / session / セッション",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɛʃən/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "header",
+          "answer": "header",
+          "hints": {
+            "zh": "请求头",
+            "en": "header",
+            "ja": "ヘッダー"
+          },
+          "hint": "请求头 / header / ヘッダー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhɛdɚ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "payload",
+          "answer": "payload",
+          "hints": {
+            "zh": "请求体",
+            "en": "payload",
+            "ja": "ペイロード"
+          },
+          "hint": "请求体 / payload / ペイロード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpeɪloʊd/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "router",
+          "answer": "router",
+          "hints": {
+            "zh": "路由器",
+            "en": "router",
+            "ja": "ルーター"
+          },
+          "hint": "路由器 / router / ルーター",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹaʊtɚ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "cache",
+          "answer": "cache",
+          "hints": {
+            "zh": "缓存",
+            "en": "cache",
+            "ja": "キャッシュ"
+          },
+          "hint": "缓存 / cache / キャッシュ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kæʃ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "proxy",
+          "answer": "proxy",
+          "hints": {
+            "zh": "代理",
+            "en": "proxy",
+            "ja": "プロキシ"
+          },
+          "hint": "代理 / proxy / プロキシ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɹɑksi/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "REST API",
+          "answer": "REST API",
+          "hints": {
+            "zh": "REST 接口",
+            "en": "REST API",
+            "ja": "REST API"
+          },
+          "hint": "REST 接口 / REST API / REST API",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹɛst ˌeɪ pi ˈaɪ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "status code",
+          "answer": "status code",
+          "hints": {
+            "zh": "状态码",
+            "en": "status code",
+            "ja": "ステータスコード"
+          },
+          "hint": "状态码 / status code / ステータスコード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈstætəs koʊd/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "cross origin",
+          "answer": "cross origin",
+          "hints": {
+            "zh": "跨域",
+            "en": "cross origin",
+            "ja": "クロスオリジン"
+          },
+          "hint": "跨域 / cross origin / クロスオリジン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kɹɔs ˈɔɹədʒən/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "load balancer",
+          "answer": "load balancer",
+          "hints": {
+            "zh": "负载均衡器",
+            "en": "load balancer",
+            "ja": "ロードバランサー"
+          },
+          "hint": "负载均衡器 / load balancer / ロードバランサー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/loʊd ˈbælənsɚ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "single page application",
+          "answer": "single page application",
+          "hints": {
+            "zh": "单页应用",
+            "en": "single page application",
+            "ja": "シングルページアプリケーション"
+          },
+          "hint": "单页应用 / single page application / シングルページアプリケーション",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɪŋɡəl peɪdʒ ˌæpləˈkeɪʃən/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "server side rendering",
+          "answer": "server side rendering",
+          "hints": {
+            "zh": "服务端渲染",
+            "en": "server side rendering",
+            "ja": "サーバーサイドレンダリング"
+          },
+          "hint": "服务端渲染 / server side rendering / サーバーサイドレンダリング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɝvɚ saɪd ˈɹɛndɚɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "web socket",
+          "answer": "web socket",
+          "hints": {
+            "zh": "WebSocket",
+            "en": "web socket",
+            "ja": "WebSocket"
+          },
+          "hint": "WebSocket / web socket / WebSocket",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/wɛb ˈsɑkət/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "rate limiting",
+          "answer": "rate limiting",
+          "hints": {
+            "zh": "限流",
+            "en": "rate limiting",
+            "ja": "レート制限"
+          },
+          "hint": "限流 / rate limiting / レート制限",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹeɪt ˈlɪmətɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "content delivery network",
+          "answer": "content delivery network",
+          "hints": {
+            "zh": "内容分发网络",
+            "en": "content delivery network",
+            "ja": "コンテンツ配信ネットワーク"
+          },
+          "hint": "内容分发网络 / content delivery network / コンテンツ配信ネットワーク",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɑntɛnt dɪˈlɪvɚi ˈnɛtwɝk/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "query parameter",
+          "answer": "query parameter",
+          "hints": {
+            "zh": "查询参数",
+            "en": "query parameter",
+            "ja": "クエリパラメータ"
+          },
+          "hint": "查询参数 / query parameter / クエリパラメータ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkwiɹi pɚˈæmətɚ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "request",
+          "answer": "request",
+          "hints": {
+            "zh": "请求",
+            "en": "request",
+            "ja": "リクエスト"
+          },
+          "hint": "请求 / request / リクエスト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈkwɛst/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "response",
+          "answer": "response",
+          "hints": {
+            "zh": "响应",
+            "en": "response",
+            "ja": "レスポンス"
+          },
+          "hint": "响应 / response / レスポンス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈspɑns/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "deploy",
+          "answer": "deploy",
+          "hints": {
+            "zh": "部署",
+            "en": "deploy",
+            "ja": "デプロイ"
+          },
+          "hint": "部署 / deploy / デプロイ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈplɔɪ/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "domain",
+          "answer": "domain",
+          "hints": {
+            "zh": "域名",
+            "en": "domain",
+            "ja": "ドメイン"
+          },
+          "hint": "域名 / domain / ドメイン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/doʊˈmeɪn/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "token",
+          "answer": "token",
+          "hints": {
+            "zh": "令牌",
+            "en": "token",
+            "ja": "トークン"
+          },
+          "hint": "令牌 / token / トークン",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtoʊkən/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "webhook",
+          "answer": "webhook",
+          "hints": {
+            "zh": "Webhook",
+            "en": "webhook",
+            "ja": "Webhook"
+          },
+          "hint": "Webhook / webhook / Webhook",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈwɛbˌhʊk/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "database",
+          "answer": "database",
+          "hints": {
+            "zh": "数据库",
+            "en": "database",
+            "ja": "データベース"
+          },
+          "hint": "数据库 / database / データベース",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdeɪtəˌbeɪs/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "frontend",
+          "answer": "frontend",
+          "hints": {
+            "zh": "前端",
+            "en": "frontend",
+            "ja": "フロントエンド"
+          },
+          "hint": "前端 / frontend / フロントエンド",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfrʌntˌɛnd/",
+          "audioUrl": "learning/audio/en/en-prog-web-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

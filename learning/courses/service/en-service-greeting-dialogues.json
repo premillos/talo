@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "service",
+  "slug": "en-service-greeting-dialogues",
+  "course": {
+    "title": "服务行业 · 英语接待 · 情景对话",
+    "description": "前台接待、问候与预约确认常用表达（男女情景对话）",
+    "titles": {
+      "zh": "服务行业 · 英语接待 · 情景对话",
+      "en": "Service & Hospitality · English Greetings & Reception · Situational Dialogues",
+      "ja": "サービス業 · 英語挨拶・受付 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习问候与前台接待中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for greetings and reception.",
+      "ja": "挨拶と受付で使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "问候与预约 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Good afternoon. Welcome to the Harbor Hotel. How may I help you?",
+          "answer": "Good afternoon. Welcome to the Harbor Hotel. How may I help you?",
+          "hints": {
+            "zh": "下午好，欢迎来到海港酒店。有什么可以帮您？",
+            "en": "The receptionist welcomes the guest and offers help.",
+            "ja": "受付係が客を迎え、用件を尋ねます。"
+          },
+          "hint": "下午好，欢迎来到海港酒店。有什么可以帮您？ / The receptionist welcomes the guest and offers help. / 受付係が客を迎え、用件を尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˌæftɚˈnun ˈwɛlkəm tə ðə ˈhɑɹbɚ hoʊˈtɛl haʊ meɪ aɪ hɛlp ju/",
+          "audioUrl": "learning/audio/en/en-service-greeting-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预约入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "女前台为有预约的男宾客办理入住。",
+            "en": "A female receptionist checks in a male guest with a reservation.",
+            "ja": "女性の受付係が予約済みの男性客のチェックインを担当します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "前台艾米",
+            "en": "Amy, Receptionist",
+            "ja": "受付のエイミー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Hello. I have a reservation under the name Daniel Lee.",
+          "answer": "Hello. I have a reservation under the name Daniel Lee.",
+          "hints": {
+            "zh": "您好，我用丹尼尔·李的名字订了房。",
+            "en": "The guest gives the name on his reservation.",
+            "ja": "客が予約名を伝えます。"
+          },
+          "hint": "您好，我用丹尼尔·李的名字订了房。 / The guest gives the name on his reservation. / 客が予約名を伝えます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/həˈloʊ aɪ həv ə ˌɹɛzɚˈveɪʃən ˈəndɚ ðə neɪm ˈdænjəl li/",
+          "audioUrl": "learning/audio/en/en-service-greeting-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预约入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "女前台为有预约的男宾客办理入住。",
+            "en": "A female receptionist checks in a male guest with a reservation.",
+            "ja": "女性の受付係が予約済みの男性客のチェックインを担当します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "宾客丹尼尔",
+            "en": "Daniel, Guest",
+            "ja": "宿泊客のダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Thank you, Mr. Lee. May I see your passport, please?",
+          "answer": "Thank you, Mr. Lee. May I see your passport, please?",
+          "hints": {
+            "zh": "谢谢，李先生。可以看一下您的护照吗？",
+            "en": "The receptionist asks for identification.",
+            "ja": "受付係が身分証明書を求めます。"
+          },
+          "hint": "谢谢，李先生。可以看一下您的护照吗？ / The receptionist asks for identification. / 受付係が身分証明書を求めます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/θæŋk ju ˈmɪstɚ li meɪ aɪ si jɚ ˈpæspɔɹt pliz/",
+          "audioUrl": "learning/audio/en/en-service-greeting-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预约入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "女前台为有预约的男宾客办理入住。",
+            "en": "A female receptionist checks in a male guest with a reservation.",
+            "ja": "女性の受付係が予約済みの男性客のチェックインを担当します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "前台艾米",
+            "en": "Amy, Receptionist",
+            "ja": "受付のエイミー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Of course. Here it is. Is breakfast included in my booking?",
+          "answer": "Of course. Here it is. Is breakfast included in my booking?",
+          "hints": {
+            "zh": "当然，给您。我的预订包含早餐吗？",
+            "en": "The guest provides his passport and asks about breakfast.",
+            "ja": "客がパスポートを渡し、朝食について尋ねます。"
+          },
+          "hint": "当然，给您。我的预订包含早餐吗？ / The guest provides his passport and asks about breakfast. / 客がパスポートを渡し、朝食について尋ねます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əv kɔɹs hiɹ ɪt ɪz ɪz ˈbɹɛkfəst ˌɪnˈkludəd ɪn maɪ ˈbʊkɪŋ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预约入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "女前台为有预约的男宾客办理入住。",
+            "en": "A female receptionist checks in a male guest with a reservation.",
+            "ja": "女性の受付係が予約済みの男性客のチェックインを担当します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "宾客丹尼尔",
+            "en": "Daniel, Guest",
+            "ja": "宿泊客のダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, breakfast is served from seven to ten on the second floor.",
+          "answer": "Yes, breakfast is served from seven to ten on the second floor.",
+          "hints": {
+            "zh": "是的，早餐于七点到十点在二楼供应。",
+            "en": "The receptionist confirms the breakfast time and location.",
+            "ja": "受付係が朝食の時間と場所を案内します。"
+          },
+          "hint": "是的，早餐于七点到十点在二楼供应。 / The receptionist confirms the breakfast time and location. / 受付係が朝食の時間と場所を案内します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs ˈbɹɛkfəst ɪz sɝvd fɹəm ˈsɛvən tə tɛn ɑn ðə ˈsɛkənd flɔɹ/",
+          "audioUrl": "learning/audio/en/en-service-greeting-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预约入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "女前台为有预约的男宾客办理入住。",
+            "en": "A female receptionist checks in a male guest with a reservation.",
+            "ja": "女性の受付係が予約済みの男性客のチェックインを担当します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "前台艾米",
+            "en": "Amy, Receptionist",
+            "ja": "受付のエイミー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Perfect. Thank you for your help.",
+          "answer": "Perfect. Thank you for your help.",
+          "hints": {
+            "zh": "太好了，谢谢您的帮助。",
+            "en": "The guest thanks the receptionist.",
+            "ja": "客が受付係に感謝します。"
+          },
+          "hint": "太好了，谢谢您的帮助。 / The guest thanks the receptionist. / 客が受付係に感謝します。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɝfɪkt θæŋk ju fɚ jɚ hɛlp/",
+          "audioUrl": "learning/audio/en/en-service-greeting-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预约入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約チェックイン"
+          },
+          "dialogueScenes": {
+            "zh": "女前台为有预约的男宾客办理入住。",
+            "en": "A female receptionist checks in a male guest with a reservation.",
+            "ja": "女性の受付係が予約済みの男性客のチェックインを担当します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "宾客丹尼尔",
+            "en": "Daniel, Guest",
+            "ja": "宿泊客のダニエル"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "quotes",
+  "slug": "ja-quotes-courage-sentences",
+  "course": {
+    "title": "名言名句 · 日语勇气 · 句子",
+    "description": "通过关于勇气、尝试与坚持的格言练习整句输入。（常用句子）",
+    "titles": {
+      "zh": "名言名句 · 日语勇气 · 句子",
+      "en": "Quotes & Wisdom · Japanese Courage · Sentences",
+      "ja": "名言・格言 · 日本語勇気 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习勇气、尝试与坚持中的常用日语句子。",
+      "en": "Practice common Japanese sentences for courage, trying, and perseverance.",
+      "ja": "勇気・挑戦・継続で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语勇气格言 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "次の一歩を踏み出すたびに勇気は育つ。",
+          "answer": "次の一歩を踏み出すたびに勇気は育つ。",
+          "hints": {
+            "zh": "每迈出下一步，勇气就会成长。",
+            "en": "Courage grows when we take the next step.",
+            "ja": "次の一歩を踏み出すたびに勇気は育つ。"
+          },
+          "hint": "每迈出下一步，勇气就会成长。 / Courage grows when we take the next step. / 次の一歩を踏み出すたびに勇気は育つ。",
+          "furigana": "つぎのいっぽをふみだすたびにゆうきはそだつ。",
+          "romaji": "tsuginoippowofumidasutabiniyuukihasodatsu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勇気ある心は恐れが消える前でも動き出せる。",
+          "answer": "勇気ある心は恐れが消える前でも動き出せる。",
+          "hints": {
+            "zh": "勇敢的心不必等恐惧消失才开始。",
+            "en": "A brave heart can begin before fear is gone.",
+            "ja": "勇気ある心は恐れが消える前でも動き出せる。"
+          },
+          "hint": "勇敢的心不必等恐惧消失才开始。 / A brave heart can begin before fear is gone. / 勇気ある心は恐れが消える前でも動き出せる。",
+          "furigana": "ゆうきあるこころはおそれがきえるまえでもうごきだせる。",
+          "romaji": "yuukiarukokorohaosoregakierumaedemougokidaseru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "最初の挑戦はそれだけで小さな勝利だ。",
+          "answer": "最初の挑戦はそれだけで小さな勝利だ。",
+          "hints": {
+            "zh": "第一次尝试本身就是小小的胜利。",
+            "en": "The first attempt is already a small victory.",
+            "ja": "最初の挑戦はそれだけで小さな勝利だ。"
+          },
+          "hint": "第一次尝试本身就是小小的胜利。 / The first attempt is already a small victory. / 最初の挑戦はそれだけで小さな勝利だ。",
+          "furigana": "さいしょのちょうせんはそれだけでちいさなしょうりだ。",
+          "romaji": "saishonochousenhasoredakedechiisanashourida.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "恐れは正面から向き合えば小さくなる。",
+          "answer": "恐れは正面から向き合えば小さくなる。",
+          "hints": {
+            "zh": "直面恐惧时，它就会变小。",
+            "en": "Fear becomes smaller when faced directly.",
+            "ja": "恐れは正面から向き合えば小さくなる。"
+          },
+          "hint": "直面恐惧时，它就会变小。 / Fear becomes smaller when faced directly. / 恐れは正面から向き合えば小さくなる。",
+          "furigana": "おそれはしょうめんからむきあえばちいさくなる。",
+          "romaji": "osorehashoumenkaramukiaebachiisakunaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "大胆な選択は迷いに見えない道を開く。",
+          "answer": "大胆な選択は迷いに見えない道を開く。",
+          "hints": {
+            "zh": "大胆的选择会打开疑虑看不见的道路。",
+            "en": "Bold choices open roads that doubt cannot see.",
+            "ja": "大胆な選択は迷いに見えない道を開く。"
+          },
+          "hint": "大胆的选择会打开疑虑看不见的道路。 / Bold choices open roads that doubt cannot see. / 大胆な選択は迷いに見えない道を開く。",
+          "furigana": "だいたんなせんたくはまよいにみえないみちをひらく。",
+          "romaji": "daitan'nasentakuhamayoinimienaimichiwohiraku.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "声が震えても自分の足で立とう。",
+          "answer": "声が震えても自分の足で立とう。",
+          "hints": {
+            "zh": "即使声音颤抖，也要坚定站立。",
+            "en": "Stand firm, even when your voice trembles.",
+            "ja": "声が震えても自分の足で立とう。"
+          },
+          "hint": "即使声音颤抖，也要坚定站立。 / Stand firm, even when your voice trembles. / 声が震えても自分の足で立とう。",
+          "furigana": "こえがふるえてもじぶんのあしでたとう。",
+          "romaji": "koegafuruetemojibun'noashidetatou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "言いにくい真実には勇気ある声が要る。",
+          "answer": "言いにくい真実には勇気ある声が要る。",
+          "hints": {
+            "zh": "难以启齿的真相需要勇敢的声音。",
+            "en": "A difficult truth needs a courageous voice.",
+            "ja": "言いにくい真実には勇気ある声が要る。"
+          },
+          "hint": "难以启齿的真相需要勇敢的声音。 / A difficult truth needs a courageous voice. / 言いにくい真実には勇気ある声が要る。",
+          "furigana": "いいにくいしんじつにはゆうきあるこえがいる。",
+          "romaji": "iinikuishinjitsunihayuukiarukoegairu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "一つの正直な一歩は百の言い訳より強い。",
+          "answer": "一つの正直な一歩は百の言い訳より強い。",
+          "hints": {
+            "zh": "诚实的一步胜过一百个借口。",
+            "en": "One honest step is stronger than a hundred excuses.",
+            "ja": "一つの正直な一歩は百の言い訳より強い。"
+          },
+          "hint": "诚实的一步胜过一百个借口。 / One honest step is stronger than a hundred excuses. / 一つの正直な一歩は百の言い訳より強い。",
+          "furigana": "ひとつのしょうじきないっぽはひゃくのいいわけよりつよい。",
+          "romaji": "hitotsunoshoujikinaippohahyakunoiiwakeyoritsuyoi.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "嵐は心の内にある強さを教えてくれる。",
+          "answer": "嵐は心の内にある強さを教えてくれる。",
+          "hints": {
+            "zh": "风暴会显露我们内心的力量。",
+            "en": "Storms reveal the strength we carry within.",
+            "ja": "嵐は心の内にある強さを教えてくれる。"
+          },
+          "hint": "风暴会显露我们内心的力量。 / Storms reveal the strength we carry within. / 嵐は心の内にある強さを教えてくれる。",
+          "furigana": "あらしはこころのうちにあるつよさをおしえてくれる。",
+          "romaji": "arashihakokoronouchiniarutsuyosawooshietekureru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勇敢さとは恐れと並んで起こす行動だ。",
+          "answer": "勇敢さとは恐れと並んで起こす行動だ。",
+          "hints": {
+            "zh": "勇敢是在恐惧相伴时仍采取行动。",
+            "en": "Bravery is action taken beside fear.",
+            "ja": "勇敢さとは恐れと並んで起こす行動だ。"
+          },
+          "hint": "勇敢是在恐惧相伴时仍采取行动。 / Bravery is action taken beside fear. / 勇敢さとは恐れと並んで起こす行動だ。",
+          "furigana": "ゆうかんさとはおそれとならんでおこすこうどうだ。",
+          "romaji": "yuukansatohaosoretonarandeokosukoudouda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "未知の世界は進んで探る人に応える。",
+          "answer": "未知の世界は進んで探る人に応える。",
+          "hints": {
+            "zh": "未知会回报愿意探索的人。",
+            "en": "The unknown rewards those willing to explore.",
+            "ja": "未知の世界は進んで探る人に応える。"
+          },
+          "hint": "未知会回报愿意探索的人。 / The unknown rewards those willing to explore. / 未知の世界は進んで探る人に応える。",
+          "furigana": "みちのせかいはすすんでさぐるひとにこたえる。",
+          "romaji": "michinosekaihasusundesaguruhitonikotaeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "揺るがぬ目的が落ち着いた手を作る。",
+          "answer": "揺るがぬ目的が落ち着いた手を作る。",
+          "hints": {
+            "zh": "坚定的目标带来沉稳的行动。",
+            "en": "A steady hand begins with a steady purpose.",
+            "ja": "揺るがぬ目的が落ち着いた手を作る。"
+          },
+          "hint": "坚定的目标带来沉稳的行动。 / A steady hand begins with a steady purpose. / 揺るがぬ目的が落ち着いた手を作る。",
+          "furigana": "ゆるがぬもくてきがおちついたてをつくる。",
+          "romaji": "yuruganumokutekigaochitsuitatewotsukuru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "険しい道ほど広い地平へ続いている。",
+          "answer": "険しい道ほど広い地平へ続いている。",
+          "hints": {
+            "zh": "艰难的道路往往通向更广阔的天地。",
+            "en": "Hard roads often lead to wider horizons.",
+            "ja": "険しい道ほど広い地平へ続いている。"
+          },
+          "hint": "艰难的道路往往通向更广阔的天地。 / Hard roads often lead to wider horizons. / 険しい道ほど広い地平へ続いている。",
+          "furigana": "けわしいみちほどひろいちへいへつづいている。",
+          "romaji": "kewashiimichihodohiroichiheihetsuzuiteiru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "拍手を求めず正しいことのために声を上げよう。",
+          "answer": "拍手を求めず正しいことのために声を上げよう。",
+          "hints": {
+            "zh": "不求掌声，也要为正确的事发声。",
+            "en": "Speak for what is right without seeking applause.",
+            "ja": "拍手を求めず正しいことのために声を上げよう。"
+          },
+          "hint": "不求掌声，也要为正确的事发声。 / Speak for what is right without seeking applause. / 拍手を求めず正しいことのために声を上げよう。",
+          "furigana": "はくしゅをもとめずただしいことのためにこえをあげよう。",
+          "romaji": "hakushuwomotomezutadashiikotonotamenikoewoageyou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "つまずきも進む心に命令はできない。",
+          "answer": "つまずきも進む心に命令はできない。",
+          "hints": {
+            "zh": "挫折无法支配一颗愿意前行的心。",
+            "en": "A setback cannot command a willing spirit.",
+            "ja": "つまずきも進む心に命令はできない。"
+          },
+          "hint": "挫折无法支配一颗愿意前行的心。 / A setback cannot command a willing spirit. / つまずきも進む心に命令はできない。",
+          "furigana": "つまずきもすすむこころにめいれいはできない。",
+          "romaji": "tsumazukimosusumukokoronimeireihadekinai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "道が閉じたと決める前にもう一度試そう。",
+          "answer": "道が閉じたと決める前にもう一度試そう。",
+          "hints": {
+            "zh": "认定道路封闭前，再尝试一次。",
+            "en": "Try once more before calling the path closed.",
+            "ja": "道が閉じたと決める前にもう一度試そう。"
+          },
+          "hint": "认定道路封闭前，再尝试一次。 / Try once more before calling the path closed. / 道が閉じたと決める前にもう一度試そう。",
+          "furigana": "みちがとじたときめるまえにもういちどためそう。",
+          "romaji": "michigatojitatokimerumaenimouichidotamesou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "静かな勇気も重い石を動かせる。",
+          "answer": "静かな勇気も重い石を動かせる。",
+          "hints": {
+            "zh": "安静的勇气也能推动最沉重的石头。",
+            "en": "Quiet courage can move the heaviest stone.",
+            "ja": "静かな勇気も重い石を動かせる。"
+          },
+          "hint": "安静的勇气也能推动最沉重的石头。 / Quiet courage can move the heaviest stone. / 静かな勇気も重い石を動かせる。",
+          "furigana": "しずかなゆうきもおもいいしをうごかせる。",
+          "romaji": "shizukanayuukimoomoiishiwougokaseru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "楽な道が惑わせる時は誠実な道を選ぼう。",
+          "answer": "楽な道が惑わせる時は誠実な道を選ぼう。",
+          "hints": {
+            "zh": "轻松的路会误导时，要选择诚实的路。",
+            "en": "Choose the honest road when the easy road misleads.",
+            "ja": "楽な道が惑わせる時は誠実な道を選ぼう。"
+          },
+          "hint": "轻松的路会误导时，要选择诚实的路。 / Choose the honest road when the easy road misleads. / 楽な道が惑わせる時は誠実な道を選ぼう。",
+          "furigana": "らくなみちがまどわせるときはせいじつなみちをえらぼう。",
+          "romaji": "rakunamichigamadowaserutokihaseijitsunamichiwoerabou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "心は責任を担うことで強さを学ぶ。",
+          "answer": "心は責任を担うことで強さを学ぶ。",
+          "hints": {
+            "zh": "内心通过承担责任学会坚强。",
+            "en": "The heart learns strength by carrying responsibility.",
+            "ja": "心は責任を担うことで強さを学ぶ。"
+          },
+          "hint": "内心通过承担责任学会坚强。 / The heart learns strength by carrying responsibility. / 心は責任を担うことで強さを学ぶ。",
+          "furigana": "こころはせきにんをになうことでつよさをまなぶ。",
+          "romaji": "kokorohasekininwoninaukotodetsuyosawomanabu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "岸を離れる人の前に新しい扉が現れる。",
+          "answer": "岸を離れる人の前に新しい扉が現れる。",
+          "hints": {
+            "zh": "离开岸边的人才会看见新的门。",
+            "en": "New doors appear to those who leave the shore.",
+            "ja": "岸を離れる人の前に新しい扉が現れる。"
+          },
+          "hint": "离开岸边的人才会看见新的门。 / New doors appear to those who leave the shore. / 岸を離れる人の前に新しい扉が現れる。",
+          "furigana": "きしをはなれるひとのまえにあたらしいとびらがあらわれる。",
+          "romaji": "kishiwohanareruhitonomaeniatarashiitobiragaarawareru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "誰も見ていなくても弱い人を守ろう。",
+          "answer": "誰も見ていなくても弱い人を守ろう。",
+          "hints": {
+            "zh": "即使无人注视，也要保护弱者。",
+            "en": "Protect the weak even when no one is watching.",
+            "ja": "誰も見ていなくても弱い人を守ろう。"
+          },
+          "hint": "即使无人注视，也要保护弱者。 / Protect the weak even when no one is watching. / 誰も見ていなくても弱い人を守ろう。",
+          "furigana": "だれもみていなくてもよわいひとをまもろう。",
+          "romaji": "daremomiteinakutemoyowaihitowomamorou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "明確な決意は疲れた足に行く先を示す。",
+          "answer": "明確な決意は疲れた足に行く先を示す。",
+          "hints": {
+            "zh": "明确的决心会为疲惫的双脚指明方向。",
+            "en": "A clear decision gives tired feet direction.",
+            "ja": "明確な決意は疲れた足に行く先を示す。"
+          },
+          "hint": "明确的决心会为疲惫的双脚指明方向。 / A clear decision gives tired feet direction. / 明確な決意は疲れた足に行く先を示す。",
+          "furigana": "めいかくなけついはつかれたあしにいくさきをしめす。",
+          "romaji": "meikakunaketsuihatsukaretaashiniikusakiwoshimesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "転ぶたびに焦らず立ち上がろう。",
+          "answer": "転ぶたびに焦らず立ち上がろう。",
+          "hints": {
+            "zh": "每次跌倒后都耐心站起来。",
+            "en": "Rise with patience after every fall.",
+            "ja": "転ぶたびに焦らず立ち上がろう。"
+          },
+          "hint": "每次跌倒后都耐心站起来。 / Rise with patience after every fall. / 転ぶたびに焦らず立ち上がろう。",
+          "furigana": "ころぶたびにあせらずたちあがろう。",
+          "romaji": "korobutabiniaserazutachiagarou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "恐れに負けない日は信じる選択から始まる。",
+          "answer": "恐れに負けない日は信じる選択から始まる。",
+          "hints": {
+            "zh": "无畏的一天始于一个坚定的选择。",
+            "en": "A fearless day starts with one faithful choice.",
+            "ja": "恐れに負けない日は信じる選択から始まる。"
+          },
+          "hint": "无畏的一天始于一个坚定的选择。 / A fearless day starts with one faithful choice. / 恐れに負けない日は信じる選択から始まる。",
+          "furigana": "おそれにまけないひはしんじるせんたくからはじまる。",
+          "romaji": "osorenimakenaihihashinjirusentakukarahajimaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "細い橋でも覚悟ある旅人を渡せる。",
+          "answer": "細い橋でも覚悟ある旅人を渡せる。",
+          "hints": {
+            "zh": "再窄的桥也能承载坚定的旅人。",
+            "en": "Even a narrow bridge can carry a determined traveler.",
+            "ja": "細い橋でも覚悟ある旅人を渡せる。"
+          },
+          "hint": "再窄的桥也能承载坚定的旅人。 / Even a narrow bridge can carry a determined traveler. / 細い橋でも覚悟ある旅人を渡せる。",
+          "furigana": "ほそいはしでもかくごあるたびびとをわたせる。",
+          "romaji": "hosoihashidemokakugoarutabibitowowataseru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "風に向かえば自分の均衡が見つかる。",
+          "answer": "風に向かえば自分の均衡が見つかる。",
+          "hints": {
+            "zh": "迎着风，才能找到自己的平衡。",
+            "en": "Face the wind and discover your balance.",
+            "ja": "風に向かえば自分の均衡が見つかる。"
+          },
+          "hint": "迎着风，才能找到自己的平衡。 / Face the wind and discover your balance. / 風に向かえば自分の均衡が見つかる。",
+          "furigana": "かぜにむかえばじぶんのきんこうがみつかる。",
+          "romaji": "kazenimukaebajibun'nokinkougamitsukaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勇気は穏やかに語っても退かない。",
+          "answer": "勇気は穏やかに語っても退かない。",
+          "hints": {
+            "zh": "勇气可以温和地表达，但不会退缩。",
+            "en": "Courage speaks gently but does not retreat.",
+            "ja": "勇気は穏やかに語っても退かない。"
+          },
+          "hint": "勇气可以温和地表达，但不会退缩。 / Courage speaks gently but does not retreat. / 勇気は穏やかに語っても退かない。",
+          "furigana": "ゆうきはおだやかにかたってもひかない。",
+          "romaji": "yuukihaodayakanikatattemohikanai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "次の機会は備え続ける人のものだ。",
+          "answer": "次の機会は備え続ける人のものだ。",
+          "hints": {
+            "zh": "下一次机会属于始终做好准备的人。",
+            "en": "The next chance belongs to the one who remains ready.",
+            "ja": "次の機会は備え続ける人のものだ。"
+          },
+          "hint": "下一次机会属于始终做好准备的人。 / The next chance belongs to the one who remains ready. / 次の機会は備え続ける人のものだ。",
+          "furigana": "つぎのきかいはそなえつづけるひとのものだ。",
+          "romaji": "tsuginokikaihasonaetsuzukeruhitonomonoda.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ためらいより信念を強く響かせよう。",
+          "answer": "ためらいより信念を強く響かせよう。",
+          "hints": {
+            "zh": "让信念的声音盖过犹豫。",
+            "en": "Let conviction be louder than hesitation.",
+            "ja": "ためらいより信念を強く響かせよう。"
+          },
+          "hint": "让信念的声音盖过犹豫。 / Let conviction be louder than hesitation. / ためらいより信念を強く響かせよう。",
+          "furigana": "ためらいよりしんねんをつよくひびかせよう。",
+          "romaji": "tameraiyorishin'nenwotsuyokuhibikaseyou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "勇気ある終わりは希望の始まりになれる。",
+          "answer": "勇気ある終わりは希望の始まりになれる。",
+          "hints": {
+            "zh": "勇敢的结束可以成为充满希望的开始。",
+            "en": "A courageous ending can become a hopeful beginning.",
+            "ja": "勇気ある終わりは希望の始まりになれる。"
+          },
+          "hint": "勇敢的结束可以成为充满希望的开始。 / A courageous ending can become a hopeful beginning. / 勇気ある終わりは希望の始まりになれる。",
+          "furigana": "ゆうきあるおわりはきぼうのはじまりになれる。",
+          "romaji": "yuukiaruowarihakibounohajimarininareru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-courage-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

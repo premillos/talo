@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "anime",
+  "slug": "ja-anime-terms-dialogues",
+  "course": {
+    "title": "二次元/动漫 · 日语术语 · 情景对话",
+    "description": "学习动漫、漫画与 ACG 文化中常见的日语专业术语。（男女情景对话）",
+    "titles": {
+      "zh": "二次元/动漫 · 日语术语 · 情景对话",
+      "en": "Anime & ACG · Japanese Terms · Situational Dialogues",
+      "ja": "アニメ・ACG · 日本語用語 · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习动漫术语中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for anime terminology.",
+      "ja": "アニメ用語で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "动漫日语词汇 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "この原画、作画がとてもきれいですね。",
+          "answer": "この原画、作画がとてもきれいですね。",
+          "hints": {
+            "zh": "这张原画的作画非常漂亮。",
+            "en": "This key animation drawing is beautifully rendered.",
+            "ja": "原画の作画の美しさを伝えます。"
+          },
+          "hint": "这张原画的作画非常漂亮。 / This key animation drawing is beautifully rendered. / 原画の作画の美しさを伝えます。",
+          "furigana": "このげんが、さくががとてもきれいですね。",
+          "romaji": "konogenga,sakugagatotemokireidesune.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "anime-production-exhibition",
+          "dialogueTitles": {
+            "zh": "参观动画制作展",
+            "en": "At an Anime Production Exhibition",
+            "ja": "アニメ制作展の見学"
+          },
+          "dialogueScenes": {
+            "zh": "葵和健在动画制作展上欣赏原画与背景美术。",
+            "en": "Aoi and Ken view key animation and background art at an anime production exhibition.",
+            "ja": "葵と健がアニメ制作展で原画と背景美術を見学します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "本当ですね。作画監督の名前を知っていますか。",
+          "answer": "本当ですね。作画監督の名前を知っていますか。",
+          "hints": {
+            "zh": "确实。你知道作画监督的名字吗？",
+            "en": "Agree and ask for the animation director’s name.",
+            "ja": "同意して、作画監督の名前を尋ねます。"
+          },
+          "hint": "确实。你知道作画监督的名字吗？ / Agree and ask for the animation director’s name. / 同意して、作画監督の名前を尋ねます。",
+          "furigana": "ほんとうですね。さくがかんとくのなまえをしっていますか。",
+          "romaji": "hontoudesune.sakugakantokunonamaewoshitteimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "anime-production-exhibition",
+          "dialogueTitles": {
+            "zh": "参观动画制作展",
+            "en": "At an Anime Production Exhibition",
+            "ja": "アニメ制作展の見学"
+          },
+          "dialogueScenes": {
+            "zh": "葵和健在动画制作展上欣赏原画与背景美术。",
+            "en": "Aoi and Ken view key animation and background art at an anime production exhibition.",
+            "ja": "葵と健がアニメ制作展で原画と背景美術を見学します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健",
+            "en": "Ken",
+            "ja": "健"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、入口の制作資料に書いてありました。",
+          "answer": "はい、入口の制作資料に書いてありました。",
+          "hints": {
+            "zh": "知道，入口处的制作资料上写着。",
+            "en": "Say it was listed in the production notes at the entrance.",
+            "ja": "入口の制作資料に記載されていたと答えます。"
+          },
+          "hint": "知道，入口处的制作资料上写着。 / Say it was listed in the production notes at the entrance. / 入口の制作資料に記載されていたと答えます。",
+          "furigana": "はい、いりぐちのせいさくしりょうにかいてありました。",
+          "romaji": "hai,iriguchinoseisakushiryounikaitearimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "anime-production-exhibition",
+          "dialogueTitles": {
+            "zh": "参观动画制作展",
+            "en": "At an Anime Production Exhibition",
+            "ja": "アニメ制作展の見学"
+          },
+          "dialogueScenes": {
+            "zh": "葵和健在动画制作展上欣赏原画与背景美术。",
+            "en": "Aoi and Ken view key animation and background art at an anime production exhibition.",
+            "ja": "葵と健がアニメ制作展で原画と背景美術を見学します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "背景美術も細かくて、世界観が伝わります。",
+          "answer": "背景美術も細かくて、世界観が伝わります。",
+          "hints": {
+            "zh": "背景美术也很细致，能感受到世界观。",
+            "en": "The detailed background art conveys the setting.",
+            "ja": "背景美術から世界観が伝わると述べます。"
+          },
+          "hint": "背景美术也很细致，能感受到世界观。 / The detailed background art conveys the setting. / 背景美術から世界観が伝わると述べます。",
+          "furigana": "はいけいびじゅつもこまかくて、せかいかんがつたわります。",
+          "romaji": "haikeibijutsumokomakakute,sekaikangatsutawarimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "anime-production-exhibition",
+          "dialogueTitles": {
+            "zh": "参观动画制作展",
+            "en": "At an Anime Production Exhibition",
+            "ja": "アニメ制作展の見学"
+          },
+          "dialogueScenes": {
+            "zh": "葵和健在动画制作展上欣赏原画与背景美术。",
+            "en": "Aoi and Ken view key animation and background art at an anime production exhibition.",
+            "ja": "葵と健がアニメ制作展で原画と背景美術を見学します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健",
+            "en": "Ken",
+            "ja": "健"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "原作と比べると、アニメ独自の演出も多いですね。",
+          "answer": "原作と比べると、アニメ独自の演出も多いですね。",
+          "hints": {
+            "zh": "与原作相比，动画独有的演出也很多。",
+            "en": "Note the anime-original direction compared with the source.",
+            "ja": "原作と比べて独自の演出が多いと話します。"
+          },
+          "hint": "与原作相比，动画独有的演出也很多。 / Note the anime-original direction compared with the source. / 原作と比べて独自の演出が多いと話します。",
+          "furigana": "げんさくとくらべると、アニメどくじのえんしゅつもおおいですね。",
+          "romaji": "gensakutokuraberuto,animedokujinoenshutsumoooidesune.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "anime-production-exhibition",
+          "dialogueTitles": {
+            "zh": "参观动画制作展",
+            "en": "At an Anime Production Exhibition",
+            "ja": "アニメ制作展の見学"
+          },
+          "dialogueScenes": {
+            "zh": "葵和健在动画制作展上欣赏原画与背景美术。",
+            "en": "Aoi and Ken view key animation and background art at an anime production exhibition.",
+            "ja": "葵と健がアニメ制作展で原画と背景美術を見学します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "葵",
+            "en": "Aoi",
+            "ja": "葵"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "帰ったら、この監督のほかの作品も見てみましょう。",
+          "answer": "帰ったら、この監督のほかの作品も見てみましょう。",
+          "hints": {
+            "zh": "回去后也看看这位导演的其他作品吧。",
+            "en": "Suggest watching more works by the director later.",
+            "ja": "帰宅後に監督の別作品を見ることを提案します。"
+          },
+          "hint": "回去后也看看这位导演的其他作品吧。 / Suggest watching more works by the director later. / 帰宅後に監督の別作品を見ることを提案します。",
+          "furigana": "かえったら、このかんとくのほかのさくひんもみてみましょう。",
+          "romaji": "kaettara,konokantokunohokanosakuhinmomitemimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-anime-terms-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "anime-production-exhibition",
+          "dialogueTitles": {
+            "zh": "参观动画制作展",
+            "en": "At an Anime Production Exhibition",
+            "ja": "アニメ制作展の見学"
+          },
+          "dialogueScenes": {
+            "zh": "葵和健在动画制作展上欣赏原画与背景美术。",
+            "en": "Aoi and Ken view key animation and background art at an anime production exhibition.",
+            "ja": "葵と健がアニメ制作展で原画と背景美術を見学します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健",
+            "en": "Ken",
+            "ja": "健"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

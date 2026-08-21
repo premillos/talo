@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "quotes",
+  "slug": "en-quotes-learning-sentences",
+  "course": {
+    "title": "名言名句 · 英语学习 · 句子",
+    "description": "通过关于求知、练习与思考的格言练习整句输入。（常用句子）",
+    "titles": {
+      "zh": "名言名句 · 英语学习 · 句子",
+      "en": "Quotes & Wisdom · English Learning · Sentences",
+      "ja": "名言・格言 · 英語学び · 例文"
+    },
+    "descriptions": {
+      "zh": "学习学习方法与成长中的常用英语句子。",
+      "en": "Practice common English sentences for learning methods and personal growth.",
+      "ja": "学び方と成長で使う英語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语学习格言 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "A curious question is the seed of discovery.",
+          "answer": "A curious question is the seed of discovery.",
+          "hints": {
+            "zh": "好奇的问题是发现的种子。",
+            "en": "A curious question is the seed of discovery.",
+            "ja": "好奇な問いは発見の種になる。"
+          },
+          "hint": "好奇的问题是发现的种子。 / A curious question is the seed of discovery. / 好奇な問いは発見の種になる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ˈkjʊɹiəs ˈkwɛstʃən ɪz ðə sid əv ˌdɪsˈkəvɹi/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Understanding grows when we explain what we know.",
+          "answer": "Understanding grows when we explain what we know.",
+          "hints": {
+            "zh": "讲解所知能加深理解。",
+            "en": "Understanding grows when we explain what we know.",
+            "ja": "知っていることを説明すると理解が育つ。"
+          },
+          "hint": "讲解所知能加深理解。 / Understanding grows when we explain what we know. / 知っていることを説明すると理解が育つ。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌəndɚˈstændɪŋ ɡɹoʊz wɛn wi ɪksˈpleɪn wət wi noʊ/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Daily study turns confusion into clarity.",
+          "answer": "Daily study turns confusion into clarity.",
+          "hints": {
+            "zh": "每日学习会把困惑变成清晰。",
+            "en": "Daily study turns confusion into clarity.",
+            "ja": "毎日の学びは迷いを明快さに変える。"
+          },
+          "hint": "每日学习会把困惑变成清晰。 / Daily study turns confusion into clarity. / 毎日の学びは迷いを明快さに変える。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdeɪli ˈstədi tɝnz kənˈfjuʒən ˈɪntu ˈklɛɹəti/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Mistakes mark the places where learning begins.",
+          "answer": "Mistakes mark the places where learning begins.",
+          "hints": {
+            "zh": "错误标出了学习开始的地方。",
+            "en": "Mistakes mark the places where learning begins.",
+            "ja": "間違いは学びが始まる場所を示す。"
+          },
+          "hint": "错误标出了学习开始的地方。 / Mistakes mark the places where learning begins. / 間違いは学びが始まる場所を示す。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/mɪˈsteɪks mɑɹk ðə ˈpleɪsəz wɛɹ ˈlɝnɪŋ bɪˈɡɪnz/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Read widely and think for yourself.",
+          "answer": "Read widely and think for yourself.",
+          "hints": {
+            "zh": "广泛阅读，并独立思考。",
+            "en": "Read widely and think for yourself.",
+            "ja": "広く読み自分の頭で考えよう。"
+          },
+          "hint": "广泛阅读，并独立思考。 / Read widely and think for yourself. / 広く読み自分の頭で考えよう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹid ˈwaɪdli ən θɪŋk fɚ ˈjɔɹsɛlf/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A patient learner notices hidden patterns.",
+          "answer": "A patient learner notices hidden patterns.",
+          "hints": {
+            "zh": "耐心的学习者能发现隐藏的规律。",
+            "en": "A patient learner notices hidden patterns.",
+            "ja": "根気ある学び手は隠れた型に気づく。"
+          },
+          "hint": "耐心的学习者能发现隐藏的规律。 / A patient learner notices hidden patterns. / 根気ある学び手は隠れた型に気づく。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ˈpeɪʃənt ˈlɝnɚ ˈnoʊtəsəz ˈhɪdən ˈpætɚnz/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Questions sharpen the tools of thought.",
+          "answer": "Questions sharpen the tools of thought.",
+          "hints": {
+            "zh": "问题会磨砺思考的工具。",
+            "en": "Questions sharpen the tools of thought.",
+            "ja": "問いは考える道具を磨いてくれる。"
+          },
+          "hint": "问题会磨砺思考的工具。 / Questions sharpen the tools of thought. / 問いは考える道具を磨いてくれる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkwɛstʃənz ˈʃɑɹpən ðə tulz əv θɔt/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Practice gives knowledge a useful shape.",
+          "answer": "Practice gives knowledge a useful shape.",
+          "hints": {
+            "zh": "练习让知识形成实用的形态。",
+            "en": "Practice gives knowledge a useful shape.",
+            "ja": "練習は知識に役立つ形を与える。"
+          },
+          "hint": "练习让知识形成实用的形态。 / Practice gives knowledge a useful shape. / 練習は知識に役立つ形を与える。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈpɹæktəs ɡɪvz ˈnɑlədʒ ə ˈjusfəl ʃeɪp/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Teach with kindness and learn with humility.",
+          "answer": "Teach with kindness and learn with humility.",
+          "hints": {
+            "zh": "温和地教，谦逊地学。",
+            "en": "Teach with kindness and learn with humility.",
+            "ja": "優しく教え謙虚に学ぼう。"
+          },
+          "hint": "温和地教，谦逊地学。 / Teach with kindness and learn with humility. / 優しく教え謙虚に学ぼう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/titʃ wɪð ˈkaɪndnəs ən lɝn wɪð hjuˈmɪlɪti/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The slow lesson often stays the longest.",
+          "answer": "The slow lesson often stays the longest.",
+          "hints": {
+            "zh": "慢慢学会的内容往往记得最久。",
+            "en": "The slow lesson often stays the longest.",
+            "ja": "ゆっくり学んだことほど長く心に残る。"
+          },
+          "hint": "慢慢学会的内容往往记得最久。 / The slow lesson often stays the longest. / ゆっくり学んだことほど長く心に残る。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə sloʊ ˈlɛsən ˈɔfən steɪz ðə ˈlɔŋɡəst/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "An open mind can learn from any person.",
+          "answer": "An open mind can learn from any person.",
+          "hints": {
+            "zh": "开放的心能向任何人学习。",
+            "en": "An open mind can learn from any person.",
+            "ja": "開かれた心は誰からでも学べる。"
+          },
+          "hint": "开放的心能向任何人学习。 / An open mind can learn from any person. / 開かれた心は誰からでも学べる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ən ˈoʊpən maɪnd kən lɝn fɹəm ˈɛni ˈpɝsən/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Review builds bridges across forgotten ground.",
+          "answer": "Review builds bridges across forgotten ground.",
+          "hints": {
+            "zh": "复习会在遗忘之处架起桥梁。",
+            "en": "Review builds bridges across forgotten ground.",
+            "ja": "復習は忘れた場所に橋を架ける。"
+          },
+          "hint": "复习会在遗忘之处架起桥梁。 / Review builds bridges across forgotten ground. / 復習は忘れた場所に橋を架ける。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹivˈju bɪldz ˈbɹɪdʒəz əˈkɹɔs fɚˈɡɑtən ɡɹaʊnd/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Knowledge becomes wisdom through reflection.",
+          "answer": "Knowledge becomes wisdom through reflection.",
+          "hints": {
+            "zh": "知识通过反思成为智慧。",
+            "en": "Knowledge becomes wisdom through reflection.",
+            "ja": "知識は振り返ることで知恵になる。"
+          },
+          "hint": "知识通过反思成为智慧。 / Knowledge becomes wisdom through reflection. / 知識は振り返ることで知恵になる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈnɑlədʒ bɪˈkəmz ˈwɪzdəm θɹu ɹɪˈflɛkʃən/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Study the roots before judging the branches.",
+          "answer": "Study the roots before judging the branches.",
+          "hints": {
+            "zh": "评判枝叶之前，先研究根基。",
+            "en": "Study the roots before judging the branches.",
+            "ja": "枝を決めつける前に根を学ぼう。"
+          },
+          "hint": "评判枝叶之前，先研究根基。 / Study the roots before judging the branches. / 枝を決めつける前に根を学ぼう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈstədi ðə ɹuts bɪˈfɔɹ ˈdʒədʒɪŋ ðə ˈbɹæntʃəz/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A clear note saves a wandering thought.",
+          "answer": "A clear note saves a wandering thought.",
+          "hints": {
+            "zh": "清晰的笔记能留住游走的思绪。",
+            "en": "A clear note saves a wandering thought.",
+            "ja": "明確な記録は迷う考えを救う。"
+          },
+          "hint": "清晰的笔记能留住游走的思绪。 / A clear note saves a wandering thought. / 明確な記録は迷う考えを救う。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə klɪɹ noʊt seɪvz ə ˈwɑndɚɪŋ θɔt/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Every skill begins as an awkward effort.",
+          "answer": "Every skill begins as an awkward effort.",
+          "hints": {
+            "zh": "任何技能都始于笨拙的努力。",
+            "en": "Every skill begins as an awkward effort.",
+            "ja": "どんな技も不器用な努力から始まる。"
+          },
+          "hint": "任何技能都始于笨拙的努力。 / Every skill begins as an awkward effort. / どんな技も不器用な努力から始まる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɛvɚi skɪl bɪˈɡɪnz æz ən ˈɑkwɚd ˈɛfɚt/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Listen for meaning, not only for words.",
+          "answer": "Listen for meaning, not only for words.",
+          "hints": {
+            "zh": "不仅要听词语，更要听懂含义。",
+            "en": "Listen for meaning, not only for words.",
+            "ja": "言葉だけでなく意味に耳を澄まそう。"
+          },
+          "hint": "不仅要听词语，更要听懂含义。 / Listen for meaning, not only for words. / 言葉だけでなく意味に耳を澄まそう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlɪsən fɚ ˈminɪŋ nɑt ˈoʊnli fɚ wɝdz/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A good example can light a difficult idea.",
+          "answer": "A good example can light a difficult idea.",
+          "hints": {
+            "zh": "好例子能照亮难懂的概念。",
+            "en": "A good example can light a difficult idea.",
+            "ja": "良い例は難しい考えを照らしてくれる。"
+          },
+          "hint": "好例子能照亮难懂的概念。 / A good example can light a difficult idea. / 良い例は難しい考えを照らしてくれる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ɡʊd ɪɡˈzæmpəl kən laɪt ə ˈdɪfəkəlt aɪˈdiə/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Learning deepens when attention becomes steady.",
+          "answer": "Learning deepens when attention becomes steady.",
+          "hints": {
+            "zh": "注意力稳定时，学习会更加深入。",
+            "en": "Learning deepens when attention becomes steady.",
+            "ja": "集中が安定すると学びは深くなる。"
+          },
+          "hint": "注意力稳定时，学习会更加深入。 / Learning deepens when attention becomes steady. / 集中が安定すると学びは深くなる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlɝnɪŋ ˈdipənz wɛn əˈtɛnʃən bɪˈkəmz ˈstɛdi/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Compare ideas without closing your mind.",
+          "answer": "Compare ideas without closing your mind.",
+          "hints": {
+            "zh": "保持开放，比较不同观点。",
+            "en": "Compare ideas without closing your mind.",
+            "ja": "心を閉ざさず考えを比べよう。"
+          },
+          "hint": "保持开放，比较不同观点。 / Compare ideas without closing your mind. / 心を閉ざさず考えを比べよう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəmˈpɛɹ aɪˈdiəz wɪˈðaʊt ˈkloʊzɪŋ jɚ maɪnd/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Small discoveries reward consistent study.",
+          "answer": "Small discoveries reward consistent study.",
+          "hints": {
+            "zh": "小发现是持续学习的回报。",
+            "en": "Small discoveries reward consistent study.",
+            "ja": "小さな発見は絶え間ない学びへの報いだ。"
+          },
+          "hint": "小发现是持续学习的回报。 / Small discoveries reward consistent study. / 小さな発見は絶え間ない学びへの報いだ。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/smɔl dɪˈskəvɚiz ɹiˈwɔɹd kənˈsɪstənt ˈstədi/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Ask why until the reason becomes clear.",
+          "answer": "Ask why until the reason becomes clear.",
+          "hints": {
+            "zh": "不断追问为什么，直到原因清楚。",
+            "en": "Ask why until the reason becomes clear.",
+            "ja": "理由が明らかになるまでなぜと問おう。"
+          },
+          "hint": "不断追问为什么，直到原因清楚。 / Ask why until the reason becomes clear. / 理由が明らかになるまでなぜと問おう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/æsk waɪ ənˈtɪl ðə ˈɹizən bɪˈkəmz klɪɹ/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "A lesson used today becomes strength tomorrow.",
+          "answer": "A lesson used today becomes strength tomorrow.",
+          "hints": {
+            "zh": "今天运用的知识会成为明天的力量。",
+            "en": "A lesson used today becomes strength tomorrow.",
+            "ja": "今日使った学びは明日の力になる。"
+          },
+          "hint": "今天运用的知识会成为明天的力量。 / A lesson used today becomes strength tomorrow. / 今日使った学びは明日の力になる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ə ˈlɛsən juzd təˈdeɪ bɪˈkəmz stɹɛŋkθ təˈmɑˌɹoʊ/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Good study balances focus with rest.",
+          "answer": "Good study balances focus with rest.",
+          "hints": {
+            "zh": "良好的学习会平衡专注与休息。",
+            "en": "Good study balances focus with rest.",
+            "ja": "良い学びは集中と休息を釣り合わせる。"
+          },
+          "hint": "良好的学习会平衡专注与休息。 / Good study balances focus with rest. / 良い学びは集中と休息を釣り合わせる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡʊd ˈstədi ˈbælənsəz ˈfoʊkəs wɪð ɹɛst/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Memory strengthens through meaningful connection.",
+          "answer": "Memory strengthens through meaningful connection.",
+          "hints": {
+            "zh": "有意义的联系会增强记忆。",
+            "en": "Memory strengthens through meaningful connection.",
+            "ja": "記憶は意味ある結びつきで強くなる。"
+          },
+          "hint": "有意义的联系会增强记忆。 / Memory strengthens through meaningful connection. / 記憶は意味ある結びつきで強くなる。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɛmɚi ˈstɹɛŋθənz θɹu ˈminɪŋfəl kəˈnɛkʃən/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "The best answer may lead to a better question.",
+          "answer": "The best answer may lead to a better question.",
+          "hints": {
+            "zh": "最好的答案也可能引出更好的问题。",
+            "en": "The best answer may lead to a better question.",
+            "ja": "最良の答えがより良い問いへ導くこともある。"
+          },
+          "hint": "最好的答案也可能引出更好的问题。 / The best answer may lead to a better question. / 最良の答えがより良い問いへ導くこともある。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ðə bɛst ˈænsɚ meɪ lid tə ə ˈbɛtɚ ˈkwɛstʃən/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Learn the rule, then understand its purpose.",
+          "answer": "Learn the rule, then understand its purpose.",
+          "hints": {
+            "zh": "学习规则，也要理解规则的目的。",
+            "en": "Learn the rule, then understand its purpose.",
+            "ja": "決まりを学びその目的も理解しよう。"
+          },
+          "hint": "学习规则，也要理解规则的目的。 / Learn the rule, then understand its purpose. / 決まりを学びその目的も理解しよう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lɝn ðə ɹul ðɛn ˌəndɚˈstænd ɪts ˈpɝpəs/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Careful observation is a quiet teacher.",
+          "answer": "Careful observation is a quiet teacher.",
+          "hints": {
+            "zh": "细致观察是一位安静的老师。",
+            "en": "Careful observation is a quiet teacher.",
+            "ja": "丁寧な観察は静かな教師だ。"
+          },
+          "hint": "细致观察是一位安静的老师。 / Careful observation is a quiet teacher. / 丁寧な観察は静かな教師だ。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɛɹfəl ˌɑbzɚˈveɪʃən ɪz ə ˈkwaɪət ˈtitʃɚ/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "Share knowledge and it will grow in value.",
+          "answer": "Share knowledge and it will grow in value.",
+          "hints": {
+            "zh": "知识越分享，价值越增长。",
+            "en": "Share knowledge and it will grow in value.",
+            "ja": "知識は分かち合うほど価値が育つ。"
+          },
+          "hint": "知识越分享，价值越增长。 / Share knowledge and it will grow in value. / 知識は分かち合うほど価値が育つ。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ʃɛɹ ˈnɑlədʒ ən ɪt wəl ɡɹoʊ ɪn ˈvælju/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "End each lesson with one new question.",
+          "answer": "End each lesson with one new question.",
+          "hints": {
+            "zh": "每次学习结束时，留下一个新问题。",
+            "en": "End each lesson with one new question.",
+            "ja": "一つの新しい問いで学びを終えよう。"
+          },
+          "hint": "每次学习结束时，留下一个新问题。 / End each lesson with one new question. / 一つの新しい問いで学びを終えよう。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɛnd itʃ ˈlɛsən wɪð wən nju ˈkwɛstʃən/",
+          "audioUrl": "learning/audio/en/en-quotes-learning-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

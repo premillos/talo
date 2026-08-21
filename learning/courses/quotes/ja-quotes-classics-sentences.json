@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "quotes",
+  "slug": "ja-quotes-classics-sentences",
+  "course": {
+    "title": "名言名句 · 日语智慧 · 句子",
+    "description": "通过经典谚语与励志短句练习日语整句输入。（常用句子）",
+    "titles": {
+      "zh": "名言名句 · 日语经典 · 句子",
+      "en": "Quotes & Wisdom · Japanese Classics · Sentences",
+      "ja": "名言・格言 · 日本語名句 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习经典格言与励志名句中的常用日语句子。",
+      "en": "Practice common Japanese sentences for classic quotes and practical wisdom.",
+      "ja": "古典的な格言と励ましの言葉で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语名言名句 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "七転び八起き。",
+          "answer": "七転び八起き。",
+          "hints": {
+            "zh": "跌倒七次，也要第八次站起来。",
+            "en": "Fall seven times and stand up eight.",
+            "ja": "七転び八起き。"
+          },
+          "hint": "跌倒七次，也要第八次站起来。 / Fall seven times and stand up eight. / 七転び八起き。",
+          "furigana": "ななころびやおき。",
+          "romaji": "nanakorobiyaoki.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "継続は力なり。",
+          "answer": "継続は力なり。",
+          "hints": {
+            "zh": "坚持就是力量。",
+            "en": "Persistence becomes strength.",
+            "ja": "継続は力なり。"
+          },
+          "hint": "坚持就是力量。 / Persistence becomes strength. / 継続は力なり。",
+          "furigana": "けいぞくはちからなり。",
+          "romaji": "keizokuhachikaranari.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "千里の道も一歩から。",
+          "answer": "千里の道も一歩から。",
+          "hints": {
+            "zh": "千里之行，始于足下。",
+            "en": "A long journey begins with one step.",
+            "ja": "千里の道も一歩から。"
+          },
+          "hint": "千里之行，始于足下。 / A long journey begins with one step. / 千里の道も一歩から。",
+          "furigana": "せんりのみちもいっぽから。",
+          "romaji": "senrinomichimoippokara.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "石の上にも三年。",
+          "answer": "石の上にも三年。",
+          "hints": {
+            "zh": "坚持到底终有收获。",
+            "en": "Perseverance eventually brings results.",
+            "ja": "石の上にも三年。"
+          },
+          "hint": "坚持到底终有收获。 / Perseverance eventually brings results. / 石の上にも三年。",
+          "furigana": "いしのうえにもさんねん。",
+          "romaji": "ishinouenimosan'nen.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "急がば回れ。",
+          "answer": "急がば回れ。",
+          "hints": {
+            "zh": "欲速则不达。",
+            "en": "Take the safer route when in a hurry.",
+            "ja": "急がば回れ。"
+          },
+          "hint": "欲速则不达。 / Take the safer route when in a hurry. / 急がば回れ。",
+          "furigana": "いそがばまわれ。",
+          "romaji": "isogabamaware.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "失敗は成功のもと。",
+          "answer": "失敗は成功のもと。",
+          "hints": {
+            "zh": "失败是成功之母。",
+            "en": "Failure is the foundation of success.",
+            "ja": "失敗は成功のもと。"
+          },
+          "hint": "失败是成功之母。 / Failure is the foundation of success. / 失敗は成功のもと。",
+          "furigana": "しっぱいはせいこうのもと。",
+          "romaji": "shippaihaseikounomoto.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "笑う門には福来る。",
+          "answer": "笑う門には福来る。",
+          "hints": {
+            "zh": "笑口常开，好运自来。",
+            "en": "Good fortune comes to a cheerful home.",
+            "ja": "笑う門には福来る。"
+          },
+          "hint": "笑口常开，好运自来。 / Good fortune comes to a cheerful home. / 笑う門には福来る。",
+          "furigana": "わらうかどにはふくきたる。",
+          "romaji": "waraukadonihafukukitaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "初心忘るべからず。",
+          "answer": "初心忘るべからず。",
+          "hints": {
+            "zh": "勿忘初心。",
+            "en": "Never forget your beginner's spirit.",
+            "ja": "初心忘るべからず。"
+          },
+          "hint": "勿忘初心。 / Never forget your beginner's spirit. / 初心忘るべからず。",
+          "furigana": "しょしんわするべからず。",
+          "romaji": "shoshinwasurubekarazu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "一期一会を大切にする。",
+          "answer": "一期一会を大切にする。",
+          "hints": {
+            "zh": "珍惜每一次相遇。",
+            "en": "Treasure every unique encounter.",
+            "ja": "一期一会を大切にする。"
+          },
+          "hint": "珍惜每一次相遇。 / Treasure every unique encounter. / 一期一会を大切にする。",
+          "furigana": "いちごいちえをたいせつにする。",
+          "romaji": "ichigoichiewotaisetsunisuru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "明日は明日の風が吹く。",
+          "answer": "明日は明日の風が吹く。",
+          "hints": {
+            "zh": "明天自有明天的风。",
+            "en": "Tomorrow will bring its own wind.",
+            "ja": "明日は明日の風が吹く。"
+          },
+          "hint": "明天自有明天的风。 / Tomorrow will bring its own wind. / 明日は明日の風が吹く。",
+          "furigana": "あしたはあしたのかぜがふく。",
+          "romaji": "ashitahaashitanokazegafuku.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "雨降って地固まる。",
+          "answer": "雨降って地固まる。",
+          "hints": {
+            "zh": "风雨过后，基础更牢。",
+            "en": "Adversity can strengthen relationships.",
+            "ja": "雨降って地固まる。"
+          },
+          "hint": "风雨过后，基础更牢。 / Adversity can strengthen relationships. / 雨降って地固まる。",
+          "furigana": "あめふってじかたまる。",
+          "romaji": "amefuttejikatamaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "案ずるより産むが易し。",
+          "answer": "案ずるより産むが易し。",
+          "hints": {
+            "zh": "做起来往往比担心更容易。",
+            "en": "Doing is often easier than worrying.",
+            "ja": "案ずるより産むが易し。"
+          },
+          "hint": "做起来往往比担心更容易。 / Doing is often easier than worrying. / 案ずるより産むが易し。",
+          "furigana": "あんずるよりうむがやすし。",
+          "romaji": "anzuruyoriumugayasushi.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "聞くは一時の恥、聞かぬは一生の恥。",
+          "answer": "聞くは一時の恥、聞かぬは一生の恥。",
+          "hints": {
+            "zh": "求问是一时之耻，不问是一生之耻。",
+            "en": "Asking is brief shame; not asking lasts a lifetime.",
+            "ja": "聞くは一時の恥、聞かぬは一生の恥。"
+          },
+          "hint": "求问是一时之耻，不问是一生之耻。 / Asking is brief shame; not asking lasts a lifetime. / 聞くは一時の恥、聞かぬは一生の恥。",
+          "furigana": "きくはいっときのはじ、きかぬはいっしょうのはじ。",
+          "romaji": "kikuhaittokinohaji,kikanuhaisshounohaji.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "好きこそ物の上手なれ。",
+          "answer": "好きこそ物の上手なれ。",
+          "hints": {
+            "zh": "兴趣是最好的老师。",
+            "en": "Love for something leads to mastery.",
+            "ja": "好きこそ物の上手なれ。"
+          },
+          "hint": "兴趣是最好的老师。 / Love for something leads to mastery. / 好きこそ物の上手なれ。",
+          "furigana": "すきこそもののじょうずなれ。",
+          "romaji": "sukikosomononojouzunare.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "塵も積もれば山となる。",
+          "answer": "塵も積もれば山となる。",
+          "hints": {
+            "zh": "积少成多。",
+            "en": "Small things accumulate into something great.",
+            "ja": "塵も積もれば山となる。"
+          },
+          "hint": "积少成多。 / Small things accumulate into something great. / 塵も積もれば山となる。",
+          "furigana": "ちりもつもればやまとなる。",
+          "romaji": "chirimotsumorebayamatonaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "時は金なり。",
+          "answer": "時は金なり。",
+          "hints": {
+            "zh": "时间就是金钱。",
+            "en": "Time is money.",
+            "ja": "時は金なり。"
+          },
+          "hint": "时间就是金钱。 / Time is money. / 時は金なり。",
+          "furigana": "ときはかねなり。",
+          "romaji": "tokihakanenari.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "習うより慣れよ。",
+          "answer": "習うより慣れよ。",
+          "hints": {
+            "zh": "熟能生巧。",
+            "en": "Practice is better than theory alone.",
+            "ja": "習うより慣れよ。"
+          },
+          "hint": "熟能生巧。 / Practice is better than theory alone. / 習うより慣れよ。",
+          "furigana": "ならうよりなれよ。",
+          "romaji": "narauyorinareyo.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "花より団子。",
+          "answer": "花より団子。",
+          "hints": {
+            "zh": "实用胜于形式。",
+            "en": "Practical value matters more than appearance.",
+            "ja": "花より団子。"
+          },
+          "hint": "实用胜于形式。 / Practical value matters more than appearance. / 花より団子。",
+          "furigana": "はなよりだんご。",
+          "romaji": "hanayoridango.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "百聞は一見にしかず。",
+          "answer": "百聞は一見にしかず。",
+          "hints": {
+            "zh": "百闻不如一见。",
+            "en": "Seeing once is better than hearing a hundred times.",
+            "ja": "百聞は一見にしかず。"
+          },
+          "hint": "百闻不如一见。 / Seeing once is better than hearing a hundred times. / 百聞は一見にしかず。",
+          "furigana": "ひゃくぶんはいっけんにしかず。",
+          "romaji": "hyakubunhaikken'nishikazu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "思い立ったが吉日。",
+          "answer": "思い立ったが吉日。",
+          "hints": {
+            "zh": "想到就做，当下便是吉日。",
+            "en": "The day you decide is the best day to begin.",
+            "ja": "思い立ったが吉日。"
+          },
+          "hint": "想到就做，当下便是吉日。 / The day you decide is the best day to begin. / 思い立ったが吉日。",
+          "furigana": "おもいたったがきちじつ。",
+          "romaji": "omoitattagakichijitsu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "自分の道を信じて進む。",
+          "answer": "自分の道を信じて進む。",
+          "hints": {
+            "zh": "相信自己的道路并前进。",
+            "en": "Believe in your path and move forward.",
+            "ja": "自分の道を信じて進む。"
+          },
+          "hint": "相信自己的道路并前进。 / Believe in your path and move forward. / 自分の道を信じて進む。",
+          "furigana": "じぶんのみちをしんじてすすむ。",
+          "romaji": "jibun'nomichiwoshinjitesusumu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "小さな努力が未来を変える。",
+          "answer": "小さな努力が未来を変える。",
+          "hints": {
+            "zh": "小小的努力会改变未来。",
+            "en": "Small efforts can change the future.",
+            "ja": "小さな努力が未来を変える。"
+          },
+          "hint": "小小的努力会改变未来。 / Small efforts can change the future. / 小さな努力が未来を変える。",
+          "furigana": "ちいさなどりょくがみらいをかえる。",
+          "romaji": "chiisanadoryokugamiraiwokaeru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "今日の一歩を大切にする。",
+          "answer": "今日の一歩を大切にする。",
+          "hints": {
+            "zh": "珍惜今天迈出的这一步。",
+            "en": "Value the step you take today.",
+            "ja": "今日の一歩を大切にする。"
+          },
+          "hint": "珍惜今天迈出的这一步。 / Value the step you take today. / 今日の一歩を大切にする。",
+          "furigana": "きょうのいっぽをたいせつにする。",
+          "romaji": "kyounoippowotaisetsunisuru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "心が変われば景色も変わる。",
+          "answer": "心が変われば景色も変わる。",
+          "hints": {
+            "zh": "心境改变，风景也会改变。",
+            "en": "When the heart changes, the view changes too.",
+            "ja": "心が変われば景色も変わる。"
+          },
+          "hint": "心境改变，风景也会改变。 / When the heart changes, the view changes too. / 心が変われば景色も変わる。",
+          "furigana": "こころがかわればけしきもかわる。",
+          "romaji": "kokorogakawarebakeshikimokawaru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "優しさは優しさを呼ぶ。",
+          "answer": "優しさは優しさを呼ぶ。",
+          "hints": {
+            "zh": "善意会唤来善意。",
+            "en": "Kindness invites more kindness.",
+            "ja": "優しさは優しさを呼ぶ。"
+          },
+          "hint": "善意会唤来善意。 / Kindness invites more kindness. / 優しさは優しさを呼ぶ。",
+          "furigana": "やさしさはやさしさをよぶ。",
+          "romaji": "yasashisahayasashisawoyobu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "学びに終わりはない。",
+          "answer": "学びに終わりはない。",
+          "hints": {
+            "zh": "学习永无止境。",
+            "en": "Learning has no end.",
+            "ja": "学びに終わりはない。"
+          },
+          "hint": "学习永无止境。 / Learning has no end. / 学びに終わりはない。",
+          "furigana": "まなびにおわりはない。",
+          "romaji": "manabiniowarihanai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "できることから始めよう。",
+          "answer": "できることから始めよう。",
+          "hints": {
+            "zh": "从力所能及的事开始吧。",
+            "en": "Start with what you can do.",
+            "ja": "できることから始めよう。"
+          },
+          "hint": "从力所能及的事开始吧。 / Start with what you can do. / できることから始めよう。",
+          "furigana": "できることからはじめよう。",
+          "romaji": "dekirukotokarahajimeyou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "迷った時こそ基本に戻る。",
+          "answer": "迷った時こそ基本に戻る。",
+          "hints": {
+            "zh": "迷茫时更要回归基础。",
+            "en": "Return to the basics when you feel lost.",
+            "ja": "迷った時こそ基本に戻る。"
+          },
+          "hint": "迷茫时更要回归基础。 / Return to the basics when you feel lost. / 迷った時こそ基本に戻る。",
+          "furigana": "まよったときこそきほんにもどる。",
+          "romaji": "mayottatokikosokihon'nimodoru.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "努力した時間は裏切らない。",
+          "answer": "努力した時間は裏切らない。",
+          "hints": {
+            "zh": "努力过的时间不会辜负你。",
+            "en": "Time spent working hard will not betray you.",
+            "ja": "努力した時間は裏切らない。"
+          },
+          "hint": "努力过的时间不会辜负你。 / Time spent working hard will not betray you. / 努力した時間は裏切らない。",
+          "furigana": "どりょくしたじかんはうらぎらない。",
+          "romaji": "doryokushitajikanhauragiranai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "一歩ずつでも前へ進もう。",
+          "answer": "一歩ずつでも前へ進もう。",
+          "hints": {
+            "zh": "哪怕一步一步，也要向前走。",
+            "en": "Move forward, even one step at a time.",
+            "ja": "一歩ずつでも前へ進もう。"
+          },
+          "hint": "哪怕一步一步，也要向前走。 / Move forward, even one step at a time. / 一歩ずつでも前へ進もう。",
+          "furigana": "いっぽずつでもまえへすすもう。",
+          "romaji": "ippozutsudemomaehesusumou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-quotes-classics-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

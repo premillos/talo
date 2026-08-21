@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-directions-sentences",
+  "course": {
+    "title": "旅游 · 日语交通 · 句子",
+    "description": "道案内、切符購入、公共交通の日本語（常用句子）",
+    "titles": {
+      "zh": "旅游 · 日语问路与交通 · 句子",
+      "en": "Travel · Japanese Directions & Transit · Sentences",
+      "ja": "旅行 · 日本語道案内・交通 · 例文"
+    },
+    "descriptions": {
+      "zh": "学习问路与公共交通中的常用日语句子。",
+      "en": "Practice common Japanese sentences for directions and public transit.",
+      "ja": "道案内と公共交通で使う日本語の例文を練習します。"
+    },
+    "sortOrder": 1,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "道案内・交通 · 句型",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "sentence",
+          "prompt": "博物館へはどう行けばいいですか。",
+          "answer": "博物館へはどう行けばいいですか。",
+          "hints": {
+            "zh": "去博物馆怎么走？",
+            "en": "How do I get to the museum?",
+            "ja": "博物館へはどう行けばいいですか。"
+          },
+          "hint": "去博物馆怎么走？ / How do I get to the museum? / 博物館へはどう行けばいいですか。",
+          "furigana": "はくぶつかん",
+          "romaji": "hakubutsukan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "このバスは中心部行きですか。",
+          "answer": "このバスは中心部行きですか。",
+          "hints": {
+            "zh": "这趟公交车去市中心吗？",
+            "en": "Is this bus going to the city center?",
+            "ja": "このバスは中心部行きですか。"
+          },
+          "hint": "这趟公交车去市中心吗？ / Is this bus going to the city center? / このバスは中心部行きですか。",
+          "furigana": "ちゅうしんぶ",
+          "romaji": "chuushinbu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "切符はいくらですか。",
+          "answer": "切符はいくらですか。",
+          "hints": {
+            "zh": "票多少钱？",
+            "en": "How much is the ticket?",
+            "ja": "切符はいくらですか。"
+          },
+          "hint": "票多少钱？ / How much is the ticket? / 切符はいくらですか。",
+          "furigana": "きっぷはいくらですか。",
+          "romaji": "kippuhaikuradesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "地下鉄の切符はどこで買えますか。",
+          "answer": "地下鉄の切符はどこで買えますか。",
+          "hints": {
+            "zh": "地铁票在哪里买？",
+            "en": "Where can I buy a subway ticket?",
+            "ja": "地下鉄の切符はどこで買えますか。"
+          },
+          "hint": "地铁票在哪里买？ / Where can I buy a subway ticket? / 地下鉄の切符はどこで買えますか。",
+          "furigana": "ちかてつのきっぷはどこでかえますか。",
+          "romaji": "chikatetsunokippuhadokodekaemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "地図で教えてもらえますか。",
+          "answer": "地図で教えてもらえますか。",
+          "hints": {
+            "zh": "可以在地图上告诉我吗？",
+            "en": "Could you show me on the map?",
+            "ja": "地図で教えてもらえますか。"
+          },
+          "hint": "可以在地图上告诉我吗？ / Could you show me on the map? / 地図で教えてもらえますか。",
+          "furigana": "ちずでおしえてもらえますか。",
+          "romaji": "chizudeoshietemoraemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "電車でどのくらいかかりますか。",
+          "answer": "電車でどのくらいかかりますか。",
+          "hints": {
+            "zh": "坐火车要多久？",
+            "en": "How long does it take by train?",
+            "ja": "電車でどのくらいかかりますか。"
+          },
+          "hint": "坐火车要多久？ / How long does it take by train? / 電車でどのくらいかかりますか。",
+          "furigana": "でんしゃでどのくらいかかりますか。",
+          "romaji": "denshadedonokuraikakarimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この方向で合っていますか。",
+          "answer": "この方向で合っていますか。",
+          "hints": {
+            "zh": "这个方向对吗？",
+            "en": "Am I going the right way?",
+            "ja": "この方向で合っていますか。"
+          },
+          "hint": "这个方向对吗？ / Am I going the right way? / この方向で合っていますか。",
+          "furigana": "ほうこう",
+          "romaji": "houkou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "空港にはどの路線ですか。",
+          "answer": "空港にはどの路線ですか。",
+          "hints": {
+            "zh": "去机场坐哪条线？",
+            "en": "Which line goes to the airport?",
+            "ja": "空港にはどの路線ですか。"
+          },
+          "hint": "去机场坐哪条线？ / Which line goes to the airport? / 空港にはどの路線ですか。",
+          "furigana": "くうこうにはどのろせんですか。",
+          "romaji": "kuukounihadonorosendesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "この電車の方向は合っていますか。",
+          "answer": "この電車の方向は合っていますか。",
+          "hints": {
+            "zh": "这趟电车方向对吗？",
+            "en": "Is this train going the right way?",
+            "ja": "この電車の方向は合っていますか。"
+          },
+          "hint": "这趟电车方向对吗？ / Is this train going the right way? / この電車の方向は合っていますか。",
+          "furigana": "このでんしゃのほうこうはあっていますか。",
+          "romaji": "konodenshanohoukouhaatteimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "中心部まであと何駅ですか。",
+          "answer": "中心部まであと何駅ですか。",
+          "hints": {
+            "zh": "到市中心还有几站？",
+            "en": "How many stops to the center?",
+            "ja": "中心部まであと何駅ですか。"
+          },
+          "hint": "到市中心还有几站？ / How many stops to the center? / 中心部まであと何駅ですか。",
+          "furigana": "ちゅうしんぶまであとなんえきですか。",
+          "romaji": "chuushinbumadeatonan'ekidesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "路線図がわかりにくいです。",
+          "answer": "路線図がわかりにくいです。",
+          "hints": {
+            "zh": "路线图难懂。",
+            "en": "The route map is hard to understand.",
+            "ja": "路線図がわかりにくいです。"
+          },
+          "hint": "路线图难懂。 / The route map is hard to understand. / 路線図がわかりにくいです。",
+          "furigana": "ろせんずがわかりにくいです。",
+          "romaji": "rosenzugawakarinikuidesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "次の交差点を左に曲がってください。",
+          "answer": "次の交差点を左に曲がってください。",
+          "hints": {
+            "zh": "下个路口左转。",
+            "en": "Turn left at the next intersection.",
+            "ja": "次の交差点を左に曲がってください。"
+          },
+          "hint": "下个路口左转。 / Turn left at the next intersection. / 次の交差点を左に曲がってください。",
+          "furigana": "つぎのこうさてんをひだりにまがってください。",
+          "romaji": "tsuginokousatenwohidarinimagattekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ここから歩いて10分です。",
+          "answer": "ここから歩いて10分です。",
+          "hints": {
+            "zh": "从这里步行十分钟。",
+            "en": "It is a ten-minute walk from here.",
+            "ja": "ここから歩いて10分です。"
+          },
+          "hint": "从这里步行十分钟。 / It is a ten-minute walk from here. / ここから歩いて10分です。",
+          "furigana": "ここからあるいて10ふんです。",
+          "romaji": "kokokaraaruite10fundesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "バスは15分おきに来ます。",
+          "answer": "バスは15分おきに来ます。",
+          "hints": {
+            "zh": "公交每十五分钟一班。",
+            "en": "The bus comes every fifteen minutes.",
+            "ja": "バスは15分おきに来ます。"
+          },
+          "hint": "公交每十五分钟一班。 / The bus comes every fifteen minutes. / バスは15分おきに来ます。",
+          "furigana": "バスは15ふんおきにきます。",
+          "romaji": "basuha15fun'okinikimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "終点までの切符をください。",
+          "answer": "終点までの切符をください。",
+          "hints": {
+            "zh": "买到终点的票。",
+            "en": "A ticket to the last stop, please.",
+            "ja": "終点までの切符をください。"
+          },
+          "hint": "买到终点的票。 / A ticket to the last stop, please. / 終点までの切符をください。",
+          "furigana": "しゅうてんまでのきっぷをください。",
+          "romaji": "shuutenmadenokippuwokudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "タクシー乗り場はどこですか。",
+          "answer": "タクシー乗り場はどこですか。",
+          "hints": {
+            "zh": "出租车站在哪？",
+            "en": "Where is the taxi stand?",
+            "ja": "タクシー乗り場はどこですか。"
+          },
+          "hint": "出租车站在哪？ / Where is the taxi stand? / タクシー乗り場はどこですか。",
+          "furigana": "タクシーのりばはどこですか。",
+          "romaji": "takushiinoribahadokodesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "運賃が値上がりしました。",
+          "answer": "運賃が値上がりしました。",
+          "hints": {
+            "zh": "车费涨了。",
+            "en": "The fare went up.",
+            "ja": "運賃が値上がりしました。"
+          },
+          "hint": "车费涨了。 / The fare went up. / 運賃が値上がりしました。",
+          "furigana": "うんちんがねあがりしました。",
+          "romaji": "unchinganeagarishimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "渋滞にはまりました。",
+          "answer": "渋滞にはまりました。",
+          "hints": {
+            "zh": "堵在路上了。",
+            "en": "We got stuck in traffic.",
+            "ja": "渋滞にはまりました。"
+          },
+          "hint": "堵在路上了。 / We got stuck in traffic. / 渋滞にはまりました。",
+          "furigana": "じゅうたいにはまりました。",
+          "romaji": "juutainihamarimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "住所を書いてもらえますか。",
+          "answer": "住所を書いてもらえますか。",
+          "hints": {
+            "zh": "能写下地址吗？",
+            "en": "Could you write the address?",
+            "ja": "住所を書いてもらえますか。"
+          },
+          "hint": "能写下地址吗？ / Could you write the address? / 住所を書いてもらえますか。",
+          "furigana": "じゅうしょをかいてもらえますか。",
+          "romaji": "juushowokaitemoraemasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ランドマークは右手です。",
+          "answer": "ランドマークは右手です。",
+          "hints": {
+            "zh": "地标在右手边。",
+            "en": "The landmark is on your right.",
+            "ja": "ランドマークは右手です。"
+          },
+          "hint": "地标在右手边。 / The landmark is on your right. / ランドマークは右手です。",
+          "furigana": "ランドマークはみぎてです。",
+          "romaji": "randomaakuhamigitedesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "次の駅で乗り換えてください。",
+          "answer": "次の駅で乗り換えてください。",
+          "hints": {
+            "zh": "下一站换乘。",
+            "en": "Transfer at the next station.",
+            "ja": "次の駅で乗り換えてください。"
+          },
+          "hint": "下一站换乘。 / Transfer at the next station. / 次の駅で乗り換えてください。",
+          "furigana": "つぎのえきでのりかえてください。",
+          "romaji": "tsuginoekidenorikaetekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "快速電車はどのホームですか。",
+          "answer": "快速電車はどのホームですか。",
+          "hints": {
+            "zh": "快车在哪个站台？",
+            "en": "Which platform for the express?",
+            "ja": "快速電車はどのホームですか。"
+          },
+          "hint": "快车在哪个站台？ / Which platform for the express? / 快速電車はどのホームですか。",
+          "furigana": "かいそくでんしゃはどのホームですか。",
+          "romaji": "kaisokudenshahadonohoomudesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "終電に間に合いませんでした。",
+          "answer": "終電に間に合いませんでした。",
+          "hints": {
+            "zh": "没赶上末班车。",
+            "en": "I missed the last train.",
+            "ja": "終電に間に合いませんでした。"
+          },
+          "hint": "没赶上末班车。 / I missed the last train. / 終電に間に合いませんでした。",
+          "furigana": "しゅうでんにまにあいませんでした。",
+          "romaji": "shuuden'nimaniaimasendeshita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ホテル行きの直通バスはありますか。",
+          "answer": "ホテル行きの直通バスはありますか。",
+          "hints": {
+            "zh": "有直达酒店的公交吗？",
+            "en": "Is there a direct bus to the hotel?",
+            "ja": "ホテル行きの直通バスはありますか。"
+          },
+          "hint": "有直达酒店的公交吗？ / Is there a direct bus to the hotel? / ホテル行きの直通バスはありますか。",
+          "furigana": "ホテルいきのちょくつうバスはありますか。",
+          "romaji": "hoteruikinochokutsuubasuhaarimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "まっすぐ2ブロック歩いてください。",
+          "answer": "まっすぐ2ブロック歩いてください。",
+          "hints": {
+            "zh": "直走两个街区。",
+            "en": "Walk straight for two blocks.",
+            "ja": "まっすぐ2ブロック歩いてください。"
+          },
+          "hint": "直走两个街区。 / Walk straight for two blocks. / まっすぐ2ブロック歩いてください。",
+          "furigana": "まっすぐ2ブロックあるいてください。",
+          "romaji": "massugu2burokkuaruitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "駅はメンテナンスで閉鎖中です。",
+          "answer": "駅はメンテナンスで閉鎖中です。",
+          "hints": {
+            "zh": "车站维护中关闭。",
+            "en": "The station is closed for maintenance.",
+            "ja": "駅はメンテナンスで閉鎖中です。"
+          },
+          "hint": "车站维护中关闭。 / The station is closed for maintenance. / 駅はメンテナンスで閉鎖中です。",
+          "furigana": "えきはメンテナンスでへいさちゅうです。",
+          "romaji": "ekihamentenansudeheisachuudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "ここから歩いてどのくらいですか。",
+          "answer": "ここから歩いてどのくらいですか。",
+          "hints": {
+            "zh": "从这里步行多久？",
+            "en": "How far is it on foot from here?",
+            "ja": "ここから歩いてどのくらいですか。"
+          },
+          "hint": "从这里步行多久？ / How far is it on foot from here? / ここから歩いてどのくらいですか。",
+          "furigana": "ここからあるいてどのくらいですか。",
+          "romaji": "kokokaraaruitedonokuraidesuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "地下鉄の入口を教えてください。",
+          "answer": "地下鉄の入口を教えてください。",
+          "hints": {
+            "zh": "请指地铁入口。",
+            "en": "Please show me the subway entrance.",
+            "ja": "地下鉄の入口を教えてください。"
+          },
+          "hint": "请指地铁入口。 / Please show me the subway entrance. / 地下鉄の入口を教えてください。",
+          "furigana": "ちかてつのいりぐちをおしえてください。",
+          "romaji": "chikatetsunoiriguchiwooshietekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "往復切符の方がお得です。",
+          "answer": "往復切符の方がお得です。",
+          "hints": {
+            "zh": "往返票更划算。",
+            "en": "Round-trip tickets are cheaper.",
+            "ja": "往復切符の方がお得です。"
+          },
+          "hint": "往返票更划算。 / Round-trip tickets are cheaper. / 往復切符の方がお得です。",
+          "furigana": "おうふくきっぷのほうがおとくです。",
+          "romaji": "oufukukippunohougaotokudesu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "sentence",
+          "prompt": "間違った駅で降りました。",
+          "answer": "間違った駅で降りました。",
+          "hints": {
+            "zh": "下错站了。",
+            "en": "I got off at the wrong station.",
+            "ja": "間違った駅で降りました。"
+          },
+          "hint": "下错站了。 / I got off at the wrong station. / 間違った駅で降りました。",
+          "furigana": "まちがったえきでおりました。",
+          "romaji": "machigattaekideorimashita.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-directions-sentences/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

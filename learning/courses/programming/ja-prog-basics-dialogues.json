@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "programming",
+  "slug": "ja-prog-basics-dialogues",
+  "course": {
+    "title": "编程知识 · 日语基础 · 情景对话",
+    "description": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）",
+    "titles": {
+      "zh": "编程知识 · 日语基础 · 情景对话",
+      "en": "编程知识 · 日语基础 · 情景对话",
+      "ja": "编程知识 · 日语基础 · 情景对话"
+    },
+    "descriptions": {
+      "zh": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）",
+      "en": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）",
+      "ja": "プログラミング基礎：変数、関数、配列、ループなど核心概念の日本語表現。（男女情景对话）"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "プログラミング基礎 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "この関数は空の配列も処理できますか。",
+          "answer": "この関数は空の配列も処理できますか。",
+          "hints": {
+            "zh": "这个函数也能处理空数组吗？",
+            "en": "Can this function also handle an empty array?",
+            "ja": "この関数は空の配列も処理できますか。"
+          },
+          "hint": "这个函数也能处理空数组吗？ / Can this function also handle an empty array? / この関数は空の配列も処理できますか。",
+          "furigana": "このかんすうはからのはいれつもしょりできますか。",
+          "romaji": "konokansuuhakaranohairetsumoshoridekimasuka.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "basic-code-review",
+          "dialogueTitles": {
+            "zh": "基础代码审查",
+            "en": "Basic Code Review",
+            "ja": "基礎コードレビュー"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者审查一个数组处理函数。",
+            "en": "Two developers review a function that processes an array.",
+            "ja": "二人の開発者が配列を処理する関数をレビューします。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "いいえ、今は最初の要素を直接読みます。",
+          "answer": "いいえ、今は最初の要素を直接読みます。",
+          "hints": {
+            "zh": "不能，现在会直接读取第一个元素。",
+            "en": "No, it currently reads the first element directly.",
+            "ja": "いいえ、今は最初の要素を直接読みます。"
+          },
+          "hint": "不能，现在会直接读取第一个元素。 / No, it currently reads the first element directly. / いいえ、今は最初の要素を直接読みます。",
+          "furigana": "いいえ、いまはさいしょのようそをちょくせつよみます。",
+          "romaji": "iie,imahasaishonoyousowochokusetsuyomimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "basic-code-review",
+          "dialogueTitles": {
+            "zh": "基础代码审查",
+            "en": "Basic Code Review",
+            "ja": "基礎コードレビュー"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者审查一个数组处理函数。",
+            "en": "Two developers review a function that processes an array.",
+            "ja": "二人の開発者が配列を処理する関数をレビューします。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "では、先に配列の長さを確認しましょう。",
+          "answer": "では、先に配列の長さを確認しましょう。",
+          "hints": {
+            "zh": "那么，先确认数组长度吧。",
+            "en": "Then let us check the array length first.",
+            "ja": "では、先に配列の長さを確認しましょう。"
+          },
+          "hint": "那么，先确认数组长度吧。 / Then let us check the array length first. / では、先に配列の長さを確認しましょう。",
+          "furigana": "では、さきにはいれつのながさをかくにんしましょう。",
+          "romaji": "deha,sakinihairetsunonagasawokakuninshimashou.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "basic-code-review",
+          "dialogueTitles": {
+            "zh": "基础代码审查",
+            "en": "Basic Code Review",
+            "ja": "基礎コードレビュー"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者审查一个数组处理函数。",
+            "en": "Two developers review a function that processes an array.",
+            "ja": "二人の開発者が配列を処理する関数をレビューします。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "空なら初期値を返すように変更します。",
+          "answer": "空なら初期値を返すように変更します。",
+          "hints": {
+            "zh": "如果为空，我会改为返回初始值。",
+            "en": "I will change it to return an initial value when empty.",
+            "ja": "空なら初期値を返すように変更します。"
+          },
+          "hint": "如果为空，我会改为返回初始值。 / I will change it to return an initial value when empty. / 空なら初期値を返すように変更します。",
+          "furigana": "からならしょきちをかえすようにへんこうします。",
+          "romaji": "karanarashokichiwokaesuyounihenkoushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "basic-code-review",
+          "dialogueTitles": {
+            "zh": "基础代码审查",
+            "en": "Basic Code Review",
+            "ja": "基礎コードレビュー"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者审查一个数组处理函数。",
+            "en": "Two developers review a function that processes an array.",
+            "ja": "二人の開発者が配列を処理する関数をレビューします。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "その場合のユニットテストも追加してください。",
+          "answer": "その場合のユニットテストも追加してください。",
+          "hints": {
+            "zh": "也请添加这种情况的单元测试。",
+            "en": "Please also add a unit test for that case.",
+            "ja": "その場合のユニットテストも追加してください。"
+          },
+          "hint": "也请添加这种情况的单元测试。 / Please also add a unit test for that case. / その場合のユニットテストも追加してください。",
+          "furigana": "そのばあいのユニットテストもついかしてください。",
+          "romaji": "sonobaainoyunittotesutomotsuikashitekudasai.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "basic-code-review",
+          "dialogueTitles": {
+            "zh": "基础代码审查",
+            "en": "Basic Code Review",
+            "ja": "基礎コードレビュー"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者审查一个数组处理函数。",
+            "en": "Two developers review a function that processes an array.",
+            "ja": "二人の開発者が配列を処理する関数をレビューします。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "美咲",
+            "en": "Misaki",
+            "ja": "美咲"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "分かりました。修正後にテストを実行します。",
+          "answer": "分かりました。修正後にテストを実行します。",
+          "hints": {
+            "zh": "明白了。修改后我会运行测试。",
+            "en": "Understood. I will run the tests after the fix.",
+            "ja": "分かりました。修正後にテストを実行します。"
+          },
+          "hint": "明白了。修改后我会运行测试。 / Understood. I will run the tests after the fix. / 分かりました。修正後にテストを実行します。",
+          "furigana": "わかりました。しゅうせいごにテストをじっこうします。",
+          "romaji": "wakarimashita.shuuseigonitesutowojikkoushimasu.",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-prog-basics-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "basic-code-review",
+          "dialogueTitles": {
+            "zh": "基础代码审查",
+            "en": "Basic Code Review",
+            "ja": "基礎コードレビュー"
+          },
+          "dialogueScenes": {
+            "zh": "两位开发者审查一个数组处理函数。",
+            "en": "Two developers review a function that processes an array.",
+            "ja": "二人の開発者が配列を処理する関数をレビューします。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "健太",
+            "en": "Kenta",
+            "ja": "健太"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

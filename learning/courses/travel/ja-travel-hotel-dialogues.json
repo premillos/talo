@@ -1,0 +1,259 @@
+{
+  "languageCode": "ja",
+  "category": "travel",
+  "slug": "ja-travel-hotel-dialogues",
+  "course": {
+    "title": "旅游 · 日语酒店 · 情景对话",
+    "description": "ホテル予約、チェックイン、客室サービスの日本語（男女情景对话）",
+    "titles": {
+      "zh": "旅游 · 日语酒店 · 情景对话",
+      "en": "Travel · Japanese Hotel · Situational Dialogues",
+      "ja": "旅行 · 日本語ホテル · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习酒店住宿中的常用日语情景对话。",
+      "en": "Practice common Japanese situational dialogues for hotel stays.",
+      "ja": "ホテル滞在で使う日本語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "ホテル・宿泊 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "予約しているあやです。チェックインをお願いします。",
+          "answer": "予約しているあやです。チェックインをお願いします。",
+          "hints": {
+            "zh": "我是已预订的绫，请帮我办理入住。",
+            "en": "I am Aya, and I have a reservation. I would like to check in.",
+            "ja": "予約しているあやです。チェックインをお願いします。"
+          },
+          "hint": "我是已预订的绫，请帮我办理入住。 / I am Aya, and I have a reservation. I would like to check in. / 予約しているあやです。チェックインをお願いします。",
+          "furigana": "よやくしているあやですちぇっくいんをおねがいします",
+          "romaji": "yoyakushiteiruayadesuchekkuinwoonegaishimasu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预订入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約確認"
+          },
+          "dialogueScenes": {
+            "zh": "客人在酒店前台确认预订、早餐和房间位置。",
+            "en": "A guest confirms her reservation, breakfast, and room location at reception.",
+            "ja": "宿泊客がフロントで予約、朝食、部屋の場所を確認します。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "绫",
+            "en": "Aya",
+            "ja": "あや"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "二泊の禁煙ルームでご予約ですね。",
+          "answer": "二泊の禁煙ルームでご予約ですね。",
+          "hints": {
+            "zh": "您预订的是两晚无烟房，对吧。",
+            "en": "You reserved a non-smoking room for two nights, correct?",
+            "ja": "二泊の禁煙ルームでご予約ですね。"
+          },
+          "hint": "您预订的是两晚无烟房，对吧。 / You reserved a non-smoking room for two nights, correct? / 二泊の禁煙ルームでご予約ですね。",
+          "furigana": "にはくのきんえんるーむでごよやくですね",
+          "romaji": "nihakunokin'enruumudegoyoyakudesune",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预订入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約確認"
+          },
+          "dialogueScenes": {
+            "zh": "客人在酒店前台确认预订、早餐和房间位置。",
+            "en": "A guest confirms her reservation, breakfast, and room location at reception.",
+            "ja": "宿泊客がフロントで予約、朝食、部屋の場所を確認します。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "拓也",
+            "en": "Takuya",
+            "ja": "たくや"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい。朝食は付いていますか。",
+          "answer": "はい。朝食は付いていますか。",
+          "hints": {
+            "zh": "是的。包含早餐吗？",
+            "en": "Yes. Is breakfast included?",
+            "ja": "はい。朝食は付いていますか。"
+          },
+          "hint": "是的。包含早餐吗？ / Yes. Is breakfast included? / はい。朝食は付いていますか。",
+          "furigana": "はいちょうしょくはついていますか",
+          "romaji": "haichoushokuhatsuiteimasuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预订入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約確認"
+          },
+          "dialogueScenes": {
+            "zh": "客人在酒店前台确认预订、早餐和房间位置。",
+            "en": "A guest confirms her reservation, breakfast, and room location at reception.",
+            "ja": "宿泊客がフロントで予約、朝食、部屋の場所を確認します。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "绫",
+            "en": "Aya",
+            "ja": "あや"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "はい、一階のレストランで七時からです。",
+          "answer": "はい、一階のレストランで七時からです。",
+          "hints": {
+            "zh": "包含，在一楼餐厅，七点开始。",
+            "en": "Yes, it starts at seven in the first-floor restaurant.",
+            "ja": "はい、一階のレストランで七時からです。"
+          },
+          "hint": "包含，在一楼餐厅，七点开始。 / Yes, it starts at seven in the first-floor restaurant. / はい、一階のレストランで七時からです。",
+          "furigana": "はいいっかいのれすとらんでしちじからです",
+          "romaji": "haiikkainoresutorandeshichijikaradesu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预订入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約確認"
+          },
+          "dialogueScenes": {
+            "zh": "客人在酒店前台确认预订、早餐和房间位置。",
+            "en": "A guest confirms her reservation, breakfast, and room location at reception.",
+            "ja": "宿泊客がフロントで予約、朝食、部屋の場所を確認します。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "拓也",
+            "en": "Takuya",
+            "ja": "たくや"
+          },
+          "ttsVoiceKey": "ja_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "ありがとうございます。部屋は何階ですか。",
+          "answer": "ありがとうございます。部屋は何階ですか。",
+          "hints": {
+            "zh": "谢谢。房间在几楼？",
+            "en": "Thank you. Which floor is my room on?",
+            "ja": "ありがとうございます。部屋は何階ですか。"
+          },
+          "hint": "谢谢。房间在几楼？ / Thank you. Which floor is my room on? / ありがとうございます。部屋は何階ですか。",
+          "furigana": "ありがとうございますへやはなんがいですか",
+          "romaji": "arigatougozaimasuheyahanangaidesuka",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预订入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約確認"
+          },
+          "dialogueScenes": {
+            "zh": "客人在酒店前台确认预订、早餐和房间位置。",
+            "en": "A guest confirms her reservation, breakfast, and room location at reception.",
+            "ja": "宿泊客がフロントで予約、朝食、部屋の場所を確認します。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "绫",
+            "en": "Aya",
+            "ja": "あや"
+          },
+          "ttsVoiceKey": "ja_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "五階です。こちらがルームキーです。",
+          "answer": "五階です。こちらがルームキーです。",
+          "hints": {
+            "zh": "在五楼。这是您的房卡。",
+            "en": "It is on the fifth floor. Here is your key card.",
+            "ja": "五階です。こちらがルームキーです。"
+          },
+          "hint": "在五楼。这是您的房卡。 / It is on the fifth floor. Here is your key card. / 五階です。こちらがルームキーです。",
+          "furigana": "ごかいですこちらがるーむきーです",
+          "romaji": "gokaidesukochiragaruumukiidesu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-travel-hotel-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "hotel-reservation-check-in",
+          "dialogueTitles": {
+            "zh": "酒店预订入住",
+            "en": "Hotel Reservation Check-in",
+            "ja": "ホテルの予約確認"
+          },
+          "dialogueScenes": {
+            "zh": "客人在酒店前台确认预订、早餐和房间位置。",
+            "en": "A guest confirms her reservation, breakfast, and room location at reception.",
+            "ja": "宿泊客がフロントで予約、朝食、部屋の場所を確認します。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "拓也",
+            "en": "Takuya",
+            "ja": "たくや"
+          },
+          "ttsVoiceKey": "ja_male"
+        }
+      ]
+    }
+  ]
+}

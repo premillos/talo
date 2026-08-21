@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "programming",
+  "slug": "en-prog-basics-words",
+  "course": {
+    "title": "编程知识 · 英语基础 · 词汇",
+    "description": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）",
+    "titles": {
+      "zh": "编程知识 · 英语基础 · 词汇",
+      "en": "编程知识 · 英语基础 · 词汇",
+      "ja": "编程知识 · 英语基础 · 词汇"
+    },
+    "descriptions": {
+      "zh": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）",
+      "en": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）",
+      "ja": "编程核心概念：变量、函数、循环、数组、布尔值等基础术语与常用表达。（单词与短语）"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "编程核心概念",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "variable",
+          "answer": "variable",
+          "hints": {
+            "zh": "变量",
+            "en": "variable",
+            "ja": "変数"
+          },
+          "hint": "变量 / variable / 変数",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈvɛɹiəbəl/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "function",
+          "answer": "function",
+          "hints": {
+            "zh": "函数",
+            "en": "function",
+            "ja": "関数"
+          },
+          "hint": "函数 / function / 関数",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈfəŋkʃən/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "loop",
+          "answer": "loop",
+          "hints": {
+            "zh": "循环",
+            "en": "loop",
+            "ja": "ループ"
+          },
+          "hint": "循环 / loop / ループ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/lup/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "array",
+          "answer": "array",
+          "hints": {
+            "zh": "数组",
+            "en": "array",
+            "ja": "配列"
+          },
+          "hint": "数组 / array / 配列",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɚˈeɪ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "boolean",
+          "answer": "boolean",
+          "hints": {
+            "zh": "布尔值",
+            "en": "boolean",
+            "ja": "真偽値"
+          },
+          "hint": "布尔值 / boolean / 真偽値",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/buˈliən/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "string",
+          "answer": "string",
+          "hints": {
+            "zh": "字符串",
+            "en": "string",
+            "ja": "文字列"
+          },
+          "hint": "字符串 / string / 文字列",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stɹɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "integer",
+          "answer": "integer",
+          "hints": {
+            "zh": "整数",
+            "en": "integer",
+            "ja": "整数"
+          },
+          "hint": "整数 / integer / 整数",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɪntədʒɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "object",
+          "answer": "object",
+          "hints": {
+            "zh": "对象",
+            "en": "object",
+            "ja": "オブジェクト"
+          },
+          "hint": "对象 / object / オブジェクト",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɑbdʒɛkt/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "class",
+          "answer": "class",
+          "hints": {
+            "zh": "类",
+            "en": "class",
+            "ja": "クラス"
+          },
+          "hint": "类 / class / クラス",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/klæs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "method",
+          "answer": "method",
+          "hints": {
+            "zh": "方法",
+            "en": "method",
+            "ja": "メソッド"
+          },
+          "hint": "方法 / method / メソッド",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɛθəd/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "parameter",
+          "answer": "parameter",
+          "hints": {
+            "zh": "参数",
+            "en": "parameter",
+            "ja": "引数"
+          },
+          "hint": "参数 / parameter / 引数",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɚˈæmətɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "return",
+          "answer": "return",
+          "hints": {
+            "zh": "返回",
+            "en": "return",
+            "ja": "戻り値"
+          },
+          "hint": "返回 / return / 戻り値",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈtɝn/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "call a function",
+          "answer": "call a function",
+          "hints": {
+            "zh": "调用函数",
+            "en": "call a function",
+            "ja": "関数を呼び出す"
+          },
+          "hint": "调用函数 / call a function / 関数を呼び出す",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kɔl ə ˈfəŋkʃən/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "declare a variable",
+          "answer": "declare a variable",
+          "hints": {
+            "zh": "声明变量",
+            "en": "declare a variable",
+            "ja": "変数を宣言する"
+          },
+          "hint": "声明变量 / declare a variable / 変数を宣言する",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪˈklɛɹ ə ˈvɛɹiəbəl/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "nested loop",
+          "answer": "nested loop",
+          "hints": {
+            "zh": "嵌套循环",
+            "en": "nested loop",
+            "ja": "ネストループ"
+          },
+          "hint": "嵌套循环 / nested loop / ネストループ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈnɛstəd lup/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "null pointer",
+          "answer": "null pointer",
+          "hints": {
+            "zh": "空指针",
+            "en": "null pointer",
+            "ja": "ヌルポインタ"
+          },
+          "hint": "空指针 / null pointer / ヌルポインタ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/nəl ˈpɔɪntɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "type casting",
+          "answer": "type casting",
+          "hints": {
+            "zh": "类型转换",
+            "en": "type casting",
+            "ja": "型変換"
+          },
+          "hint": "类型转换 / type casting / 型変換",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/taɪp ˈkæstɪŋ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "stack overflow",
+          "answer": "stack overflow",
+          "hints": {
+            "zh": "栈溢出",
+            "en": "stack overflow",
+            "ja": "スタックオーバーフロー"
+          },
+          "hint": "栈溢出 / stack overflow / スタックオーバーフロー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/stæk ˈoʊvɚˌfloʊ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "compile time",
+          "answer": "compile time",
+          "hints": {
+            "zh": "编译时",
+            "en": "compile time",
+            "ja": "コンパイル時"
+          },
+          "hint": "编译时 / compile time / コンパイル時",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəmˈpaɪl taɪm/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "runtime error",
+          "answer": "runtime error",
+          "hints": {
+            "zh": "运行时错误",
+            "en": "runtime error",
+            "ja": "実行時エラー"
+          },
+          "hint": "运行时错误 / runtime error / 実行時エラー",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹʌnˌtaɪm ˈɛɹɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "source code",
+          "answer": "source code",
+          "hints": {
+            "zh": "源代码",
+            "en": "source code",
+            "ja": "ソースコード"
+          },
+          "hint": "源代码 / source code / ソースコード",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/sɔɹs koʊd/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "phrase",
+          "prompt": "data structure",
+          "answer": "data structure",
+          "hints": {
+            "zh": "数据结构",
+            "en": "data structure",
+            "ja": "データ構造"
+          },
+          "hint": "数据结构 / data structure / データ構造",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈdeɪtə ˈstɹəktʃɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "constant",
+          "answer": "constant",
+          "hints": {
+            "zh": "常量",
+            "en": "constant",
+            "ja": "定数"
+          },
+          "hint": "常量 / constant / 定数",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkɑnstənt/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "scope",
+          "answer": "scope",
+          "hints": {
+            "zh": "作用域",
+            "en": "scope",
+            "ja": "スコープ"
+          },
+          "hint": "作用域 / scope / スコープ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/skoʊp/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "exception",
+          "answer": "exception",
+          "hints": {
+            "zh": "异常",
+            "en": "exception",
+            "ja": "例外"
+          },
+          "hint": "异常 / exception / 例外",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɪkˈsɛpʃən/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "interface",
+          "answer": "interface",
+          "hints": {
+            "zh": "接口",
+            "en": "interface",
+            "ja": "インターフェース"
+          },
+          "hint": "接口 / interface / インターフェース",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɪnɚˌfeɪs/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "module",
+          "answer": "module",
+          "hints": {
+            "zh": "模块",
+            "en": "module",
+            "ja": "モジュール"
+          },
+          "hint": "模块 / module / モジュール",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmɑdʒul/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "syntax",
+          "answer": "syntax",
+          "hints": {
+            "zh": "语法",
+            "en": "syntax",
+            "ja": "構文"
+          },
+          "hint": "语法 / syntax / 構文",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɪntæks/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "compiler",
+          "answer": "compiler",
+          "hints": {
+            "zh": "编译器",
+            "en": "compiler",
+            "ja": "コンパイラ"
+          },
+          "hint": "编译器 / compiler / コンパイラ",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kəmˈpaɪlɚ/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "inheritance",
+          "answer": "inheritance",
+          "hints": {
+            "zh": "继承",
+            "en": "inheritance",
+            "ja": "継承"
+          },
+          "hint": "继承 / inheritance / 継承",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˌɪnˈhɛɹətəns/",
+          "audioUrl": "learning/audio/en/en-prog-basics-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

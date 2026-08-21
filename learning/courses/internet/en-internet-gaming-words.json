@@ -1,0 +1,571 @@
+{
+  "languageCode": "en",
+  "category": "internet",
+  "slug": "en-internet-gaming-words",
+  "course": {
+    "title": "网络游戏 · 英语 · 词汇",
+    "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关英语。（单词与短语）",
+    "titles": {
+      "zh": "网络文化 · 英语网络游戏 · 词汇",
+      "en": "Internet Culture · English Online Gaming · Vocabulary",
+      "ja": "ネット文化 · 英語オンラインゲーム · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习网络游戏、电竞协作与健康习惯中的常用英语词汇。",
+      "en": "Practice common English vocabulary for online gaming, esports teamwork, and healthy play habits.",
+      "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う英語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "英语网络游戏",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "matchmaking",
+          "answer": "matchmaking",
+          "hints": {
+            "zh": "匹配机制",
+            "en": "a system that finds suitable players",
+            "ja": "マッチメイキング"
+          },
+          "hint": "匹配机制 / a system that finds suitable players / マッチメイキング",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmætʃˌmeɪkɪŋ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "teammate",
+          "answer": "teammate",
+          "hints": {
+            "zh": "队友",
+            "en": "a player on the same team",
+            "ja": "味方"
+          },
+          "hint": "队友 / a player on the same team / 味方",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtimeɪt/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "squad",
+          "answer": "squad",
+          "hints": {
+            "zh": "小队",
+            "en": "a small group of players",
+            "ja": "分隊"
+          },
+          "hint": "小队 / a small group of players / 分隊",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/skwɑd/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "lobby",
+          "answer": "lobby",
+          "hints": {
+            "zh": "游戏大厅",
+            "en": "a waiting area before a match",
+            "ja": "待機室"
+          },
+          "hint": "游戏大厅 / a waiting area before a match / 待機室",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlɑbi/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "queue",
+          "answer": "queue",
+          "hints": {
+            "zh": "匹配队列",
+            "en": "a line of players waiting to join",
+            "ja": "順番待ち"
+          },
+          "hint": "匹配队列 / a line of players waiting to join / 順番待ち",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kju/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "server",
+          "answer": "server",
+          "hints": {
+            "zh": "游戏服务器",
+            "en": "a system that hosts an online game",
+            "ja": "接続先"
+          },
+          "hint": "游戏服务器 / a system that hosts an online game / 接続先",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈsɝvɚ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "ping",
+          "answer": "ping",
+          "hints": {
+            "zh": "网络延迟值",
+            "en": "a measure of connection response time",
+            "ja": "応答速度"
+          },
+          "hint": "网络延迟值 / a measure of connection response time / 応答速度",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɪŋ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "latency",
+          "answer": "latency",
+          "hints": {
+            "zh": "网络延迟",
+            "en": "the delay between an action and its response",
+            "ja": "遅延"
+          },
+          "hint": "网络延迟 / the delay between an action and its response / 遅延",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈleɪtənsi/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "headset",
+          "answer": "headset",
+          "hints": {
+            "zh": "耳麦",
+            "en": "headphones with a microphone",
+            "ja": "ヘッドセット"
+          },
+          "hint": "耳麦 / headphones with a microphone / ヘッドセット",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈhɛdsɛt/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "microphone",
+          "answer": "microphone",
+          "hints": {
+            "zh": "麦克风",
+            "en": "a device used for voice chat",
+            "ja": "マイク"
+          },
+          "hint": "麦克风 / a device used for voice chat / マイク",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈmaɪkɹəˌfoʊn/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "respawn",
+          "answer": "respawn",
+          "hints": {
+            "zh": "重新生成",
+            "en": "returning to play after being defeated",
+            "ja": "復活"
+          },
+          "hint": "重新生成 / returning to play after being defeated / 復活",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹiˈspɑn/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "checkpoint",
+          "answer": "checkpoint",
+          "hints": {
+            "zh": "检查点",
+            "en": "a place where progress is saved",
+            "ja": "中継地点"
+          },
+          "hint": "检查点 / a place where progress is saved / 中継地点",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʃɛkpɔɪnt/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "quest",
+          "answer": "quest",
+          "hints": {
+            "zh": "任务",
+            "en": "a goal that players complete",
+            "ja": "任務"
+          },
+          "hint": "任务 / a goal that players complete / 任務",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/kwɛst/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "raid",
+          "answer": "raid",
+          "hints": {
+            "zh": "团队副本",
+            "en": "a cooperative challenge for a group",
+            "ja": "協力戦"
+          },
+          "hint": "团队副本 / a cooperative challenge for a group / 協力戦",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɹeɪd/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "leaderboard",
+          "answer": "leaderboard",
+          "hints": {
+            "zh": "排行榜",
+            "en": "a list of players ordered by score",
+            "ja": "順位表"
+          },
+          "hint": "排行榜 / a list of players ordered by score / 順位表",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈlidɚˌbɔɹd/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "ranking",
+          "answer": "ranking",
+          "hints": {
+            "zh": "段位排名",
+            "en": "a competitive position or level",
+            "ja": "段位"
+          },
+          "hint": "段位排名 / a competitive position or level / 段位",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈɹæŋkɪŋ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "tournament",
+          "answer": "tournament",
+          "hints": {
+            "zh": "锦标赛",
+            "en": "an organized series of matches",
+            "ja": "選手権"
+          },
+          "hint": "锦标赛 / an organized series of matches / 選手権",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtʊɹnəmənt/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "esports",
+          "answer": "esports",
+          "hints": {
+            "zh": "电子竞技",
+            "en": "organized competitive video gaming",
+            "ja": "電子競技"
+          },
+          "hint": "电子竞技 / organized competitive video gaming / 電子競技",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈiˌspɔɹts/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "coach",
+          "answer": "coach",
+          "hints": {
+            "zh": "教练",
+            "en": "a person who guides a competitive team",
+            "ja": "指導者"
+          },
+          "hint": "教练 / a person who guides a competitive team / 指導者",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/koʊtʃ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "strategy",
+          "answer": "strategy",
+          "hints": {
+            "zh": "策略",
+            "en": "a plan for reaching a game objective",
+            "ja": "作戦"
+          },
+          "hint": "策略 / a plan for reaching a game objective / 作戦",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈstɹætədʒi/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "teamwork",
+          "answer": "teamwork",
+          "hints": {
+            "zh": "团队合作",
+            "en": "players working well together",
+            "ja": "連携"
+          },
+          "hint": "团队合作 / players working well together / 連携",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈtimwɝk/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "objective",
+          "answer": "objective",
+          "hints": {
+            "zh": "比赛目标",
+            "en": "the main goal in a match",
+            "ja": "目標"
+          },
+          "hint": "比赛目标 / the main goal in a match / 目標",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/əbˈdʒɛktɪv/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "loadout",
+          "answer": "loadout",
+          "hints": {
+            "zh": "装备配置",
+            "en": "the equipment chosen for a match",
+            "ja": "装備構成"
+          },
+          "hint": "装备配置 / the equipment chosen for a match / 装備構成",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈloʊdˌaʊt/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "patch",
+          "answer": "patch",
+          "hints": {
+            "zh": "补丁",
+            "en": "a small game software update",
+            "ja": "更新版"
+          },
+          "hint": "补丁 / a small game software update / 更新版",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pætʃ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "update",
+          "answer": "update",
+          "hints": {
+            "zh": "版本更新",
+            "en": "a newer version of a game",
+            "ja": "更新内容"
+          },
+          "hint": "版本更新 / a newer version of a game / 更新内容",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈəpdeɪt/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "fair play",
+          "answer": "fair play",
+          "hints": {
+            "zh": "公平竞赛",
+            "en": "honest and respectful competition",
+            "ja": "公平な対戦"
+          },
+          "hint": "公平竞赛 / honest and respectful competition / 公平な対戦",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/fɛɹ pleɪ/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "cooldown",
+          "answer": "cooldown",
+          "hints": {
+            "zh": "冷却时间",
+            "en": "time before an ability can be used again",
+            "ja": "再使用時間"
+          },
+          "hint": "冷却时间 / time before an ability can be used again / 再使用時間",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈkulˌdaʊn/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "time limit",
+          "answer": "time limit",
+          "hints": {
+            "zh": "时间限制",
+            "en": "a set maximum playing time",
+            "ja": "制限時間"
+          },
+          "hint": "时间限制 / a set maximum playing time / 制限時間",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/taɪm ˈlɪmət/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "parental controls",
+          "answer": "parental controls",
+          "hints": {
+            "zh": "家长控制",
+            "en": "settings that help manage younger players",
+            "ja": "利用時間設定"
+          },
+          "hint": "家长控制 / settings that help manage younger players / 利用時間設定",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/pɚˈɛntəl kənˈtɹoʊlz/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "sportsmanship",
+          "answer": "sportsmanship",
+          "hints": {
+            "zh": "体育精神",
+            "en": "respectful behavior during competition",
+            "ja": "健全な競争"
+          },
+          "hint": "体育精神 / respectful behavior during competition / 健全な競争",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ˈspɔɹtsmənˌʃɪp/",
+          "audioUrl": "learning/audio/en/en-internet-gaming-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "languageCode": "ja",
+  "category": "internet",
+  "slug": "ja-internet-gaming-words",
+  "course": {
+    "title": "网络游戏 · 日语 · 词汇",
+    "description": "学习网络游戏、电竞、组队交流和健康游戏习惯相关日语。（单词与短语）",
+    "titles": {
+      "zh": "网络文化 · 日语网络游戏 · 词汇",
+      "en": "Internet Culture · Japanese Online Gaming · Vocabulary",
+      "ja": "ネット文化 · 日本語オンラインゲーム · 単語・フレーズ"
+    },
+    "descriptions": {
+      "zh": "学习网络游戏、电竞协作与健康习惯中的常用日语词汇。",
+      "en": "Practice common Japanese vocabulary for online gaming, esports teamwork, and healthy play habits.",
+      "ja": "オンラインゲーム・eスポーツ連携・健康的な習慣で使う日本語の単語・フレーズを練習します。"
+    },
+    "sortOrder": 0,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "日语网络游戏",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "word",
+          "prompt": "マッチメイキング",
+          "answer": "マッチメイキング",
+          "hints": {
+            "zh": "匹配机制",
+            "en": "matchmaking",
+            "ja": "マッチメイキング"
+          },
+          "hint": "匹配机制 / matchmaking / マッチメイキング",
+          "furigana": "マッチメイキング",
+          "romaji": "matchimeikingu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0
+        },
+        {
+          "itemType": "word",
+          "prompt": "味方",
+          "answer": "味方",
+          "hints": {
+            "zh": "队友",
+            "en": "teammate",
+            "ja": "味方"
+          },
+          "hint": "队友 / teammate / 味方",
+          "furigana": "みかた",
+          "romaji": "mikata",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1
+        },
+        {
+          "itemType": "word",
+          "prompt": "分隊",
+          "answer": "分隊",
+          "hints": {
+            "zh": "小队",
+            "en": "squad",
+            "ja": "分隊"
+          },
+          "hint": "小队 / squad / 分隊",
+          "furigana": "ぶんたい",
+          "romaji": "buntai",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2
+        },
+        {
+          "itemType": "word",
+          "prompt": "待機室",
+          "answer": "待機室",
+          "hints": {
+            "zh": "游戏大厅",
+            "en": "lobby",
+            "ja": "待機室"
+          },
+          "hint": "游戏大厅 / lobby / 待機室",
+          "furigana": "たいきしつ",
+          "romaji": "taikishitsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3
+        },
+        {
+          "itemType": "word",
+          "prompt": "順番待ち",
+          "answer": "順番待ち",
+          "hints": {
+            "zh": "匹配队列",
+            "en": "queue",
+            "ja": "順番待ち"
+          },
+          "hint": "匹配队列 / queue / 順番待ち",
+          "furigana": "じゅんばんまち",
+          "romaji": "junbanmachi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4
+        },
+        {
+          "itemType": "word",
+          "prompt": "接続先",
+          "answer": "接続先",
+          "hints": {
+            "zh": "游戏服务器",
+            "en": "server",
+            "ja": "接続先"
+          },
+          "hint": "游戏服务器 / server / 接続先",
+          "furigana": "せつぞくさき",
+          "romaji": "setsuzokusaki",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5
+        },
+        {
+          "itemType": "word",
+          "prompt": "応答速度",
+          "answer": "応答速度",
+          "hints": {
+            "zh": "网络响应速度",
+            "en": "ping",
+            "ja": "応答速度"
+          },
+          "hint": "网络响应速度 / ping / 応答速度",
+          "furigana": "おうとうそくど",
+          "romaji": "outousokudo",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/07.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 6
+        },
+        {
+          "itemType": "word",
+          "prompt": "遅延",
+          "answer": "遅延",
+          "hints": {
+            "zh": "网络延迟",
+            "en": "latency",
+            "ja": "遅延"
+          },
+          "hint": "网络延迟 / latency / 遅延",
+          "furigana": "ちえん",
+          "romaji": "chien",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/08.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 7
+        },
+        {
+          "itemType": "word",
+          "prompt": "ヘッドセット",
+          "answer": "ヘッドセット",
+          "hints": {
+            "zh": "耳麦",
+            "en": "headset",
+            "ja": "ヘッドセット"
+          },
+          "hint": "耳麦 / headset / ヘッドセット",
+          "furigana": "ヘッドセット",
+          "romaji": "heddosetto",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/09.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 8
+        },
+        {
+          "itemType": "word",
+          "prompt": "マイク",
+          "answer": "マイク",
+          "hints": {
+            "zh": "麦克风",
+            "en": "microphone",
+            "ja": "マイク"
+          },
+          "hint": "麦克风 / microphone / マイク",
+          "furigana": "マイク",
+          "romaji": "maiku",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/10.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 9
+        },
+        {
+          "itemType": "word",
+          "prompt": "復活",
+          "answer": "復活",
+          "hints": {
+            "zh": "重新生成",
+            "en": "respawn",
+            "ja": "復活"
+          },
+          "hint": "重新生成 / respawn / 復活",
+          "furigana": "ふっかつ",
+          "romaji": "fukkatsu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/11.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 10
+        },
+        {
+          "itemType": "word",
+          "prompt": "中継地点",
+          "answer": "中継地点",
+          "hints": {
+            "zh": "检查点",
+            "en": "checkpoint",
+            "ja": "中継地点"
+          },
+          "hint": "检查点 / checkpoint / 中継地点",
+          "furigana": "ちゅうけいちてん",
+          "romaji": "chuukeichiten",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/12.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 11
+        },
+        {
+          "itemType": "word",
+          "prompt": "任務",
+          "answer": "任務",
+          "hints": {
+            "zh": "任务",
+            "en": "quest",
+            "ja": "任務"
+          },
+          "hint": "任务 / quest / 任務",
+          "furigana": "にんむ",
+          "romaji": "ninmu",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/13.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 12
+        },
+        {
+          "itemType": "word",
+          "prompt": "協力戦",
+          "answer": "協力戦",
+          "hints": {
+            "zh": "团队副本",
+            "en": "raid",
+            "ja": "協力戦"
+          },
+          "hint": "团队副本 / raid / 協力戦",
+          "furigana": "きょうりょくせん",
+          "romaji": "kyouryokusen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/14.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 13
+        },
+        {
+          "itemType": "word",
+          "prompt": "順位表",
+          "answer": "順位表",
+          "hints": {
+            "zh": "排行榜",
+            "en": "leaderboard",
+            "ja": "順位表"
+          },
+          "hint": "排行榜 / leaderboard / 順位表",
+          "furigana": "じゅんいひょう",
+          "romaji": "jun'ihyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/15.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 14
+        },
+        {
+          "itemType": "word",
+          "prompt": "段位",
+          "answer": "段位",
+          "hints": {
+            "zh": "段位排名",
+            "en": "ranking",
+            "ja": "段位"
+          },
+          "hint": "段位排名 / ranking / 段位",
+          "furigana": "だんい",
+          "romaji": "dan'i",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/16.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 15
+        },
+        {
+          "itemType": "word",
+          "prompt": "選手権",
+          "answer": "選手権",
+          "hints": {
+            "zh": "锦标赛",
+            "en": "tournament",
+            "ja": "選手権"
+          },
+          "hint": "锦标赛 / tournament / 選手権",
+          "furigana": "せんしゅけん",
+          "romaji": "senshuken",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/17.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 16
+        },
+        {
+          "itemType": "word",
+          "prompt": "電子競技",
+          "answer": "電子競技",
+          "hints": {
+            "zh": "电子竞技",
+            "en": "esports",
+            "ja": "電子競技"
+          },
+          "hint": "电子竞技 / esports / 電子競技",
+          "furigana": "でんしきょうぎ",
+          "romaji": "denshikyougi",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/18.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 17
+        },
+        {
+          "itemType": "word",
+          "prompt": "指導者",
+          "answer": "指導者",
+          "hints": {
+            "zh": "教练",
+            "en": "coach",
+            "ja": "指導者"
+          },
+          "hint": "教练 / coach / 指導者",
+          "furigana": "しどうしゃ",
+          "romaji": "shidousha",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/19.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 18
+        },
+        {
+          "itemType": "word",
+          "prompt": "作戦",
+          "answer": "作戦",
+          "hints": {
+            "zh": "策略",
+            "en": "strategy",
+            "ja": "作戦"
+          },
+          "hint": "策略 / strategy / 作戦",
+          "furigana": "さくせん",
+          "romaji": "sakusen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/20.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 19
+        },
+        {
+          "itemType": "word",
+          "prompt": "連携",
+          "answer": "連携",
+          "hints": {
+            "zh": "团队合作",
+            "en": "teamwork",
+            "ja": "連携"
+          },
+          "hint": "团队合作 / teamwork / 連携",
+          "furigana": "れんけい",
+          "romaji": "renkei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/21.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 20
+        },
+        {
+          "itemType": "word",
+          "prompt": "目標",
+          "answer": "目標",
+          "hints": {
+            "zh": "比赛目标",
+            "en": "objective",
+            "ja": "目標"
+          },
+          "hint": "比赛目标 / objective / 目標",
+          "furigana": "もくひょう",
+          "romaji": "mokuhyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/22.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 21
+        },
+        {
+          "itemType": "word",
+          "prompt": "装備構成",
+          "answer": "装備構成",
+          "hints": {
+            "zh": "装备配置",
+            "en": "loadout",
+            "ja": "装備構成"
+          },
+          "hint": "装备配置 / loadout / 装備構成",
+          "furigana": "そうびこうせい",
+          "romaji": "soubikousei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/23.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 22
+        },
+        {
+          "itemType": "word",
+          "prompt": "更新版",
+          "answer": "更新版",
+          "hints": {
+            "zh": "补丁",
+            "en": "patch",
+            "ja": "更新版"
+          },
+          "hint": "补丁 / patch / 更新版",
+          "furigana": "こうしんばん",
+          "romaji": "koushinban",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/24.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 23
+        },
+        {
+          "itemType": "word",
+          "prompt": "更新内容",
+          "answer": "更新内容",
+          "hints": {
+            "zh": "版本更新",
+            "en": "update",
+            "ja": "更新内容"
+          },
+          "hint": "版本更新 / update / 更新内容",
+          "furigana": "こうしんないよう",
+          "romaji": "koushin'naiyou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/25.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 24
+        },
+        {
+          "itemType": "word",
+          "prompt": "公平な対戦",
+          "answer": "公平な対戦",
+          "hints": {
+            "zh": "公平竞赛",
+            "en": "fair play",
+            "ja": "公平な対戦"
+          },
+          "hint": "公平竞赛 / fair play / 公平な対戦",
+          "furigana": "こうへいなたいせん",
+          "romaji": "kouheinataisen",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/26.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 25
+        },
+        {
+          "itemType": "word",
+          "prompt": "再使用時間",
+          "answer": "再使用時間",
+          "hints": {
+            "zh": "冷却时间",
+            "en": "cooldown",
+            "ja": "再使用時間"
+          },
+          "hint": "冷却时间 / cooldown / 再使用時間",
+          "furigana": "さいしようじかん",
+          "romaji": "saishiyoujikan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/27.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 26
+        },
+        {
+          "itemType": "word",
+          "prompt": "制限時間",
+          "answer": "制限時間",
+          "hints": {
+            "zh": "时间限制",
+            "en": "time limit",
+            "ja": "制限時間"
+          },
+          "hint": "时间限制 / time limit / 制限時間",
+          "furigana": "せいげんじかん",
+          "romaji": "seigenjikan",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/28.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 27
+        },
+        {
+          "itemType": "word",
+          "prompt": "利用時間設定",
+          "answer": "利用時間設定",
+          "hints": {
+            "zh": "家长控制",
+            "en": "parental controls",
+            "ja": "利用時間設定"
+          },
+          "hint": "家长控制 / parental controls / 利用時間設定",
+          "furigana": "りようじかんせってい",
+          "romaji": "riyoujikansettei",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/29.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 28
+        },
+        {
+          "itemType": "word",
+          "prompt": "健全な競争",
+          "answer": "健全な競争",
+          "hints": {
+            "zh": "体育精神",
+            "en": "sportsmanship",
+            "ja": "健全な競争"
+          },
+          "hint": "体育精神 / sportsmanship / 健全な競争",
+          "furigana": "けんぜんなきょうそう",
+          "romaji": "kenzen'nakyousou",
+          "phonetic": "",
+          "audioUrl": "learning/audio/ja/ja-internet-gaming-words/30.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 29
+        }
+      ]
+    }
+  ]
+}

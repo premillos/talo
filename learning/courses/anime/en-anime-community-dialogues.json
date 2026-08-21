@@ -1,0 +1,259 @@
+{
+  "languageCode": "en",
+  "category": "anime",
+  "slug": "en-anime-community-dialogues",
+  "course": {
+    "title": "二次元/动漫 · 英语社区 · 情景对话",
+    "description": "学习动漫粉丝社区讨论、追番与同人文化中的常用英语表达。（男女情景对话）",
+    "titles": {
+      "zh": "二次元/动漫 · 英语社区 · 情景对话",
+      "en": "Anime & ACG · English Community · Situational Dialogues",
+      "ja": "アニメ・ACG · 英語コミュニティ · 場面会話"
+    },
+    "descriptions": {
+      "zh": "学习动漫粉丝社区中的常用英语情景对话。",
+      "en": "Practice common English situational dialogues for anime fan communities.",
+      "ja": "アニメファンコミュニティで使う英語の場面会話を練習します。"
+    },
+    "sortOrder": 2,
+    "status": "published"
+  },
+  "units": [
+    {
+      "code": "u01",
+      "title": "社区与讨论用语 · 情景对话",
+      "sortOrder": 0,
+      "status": "published",
+      "items": [
+        {
+          "itemType": "dialogue",
+          "prompt": "Did you see the latest episode yet?",
+          "answer": "Did you see the latest episode yet?",
+          "hints": {
+            "zh": "你看最新一集了吗？",
+            "en": "Ask whether the latest episode has been watched.",
+            "ja": "最新話はもう見ましたか。"
+          },
+          "hint": "你看最新一集了吗？ / Ask whether the latest episode has been watched. / 最新話はもう見ましたか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/dɪd ju si ðə ˈleɪtəst ˈɛpəˌsoʊd jɛt/",
+          "audioUrl": "learning/audio/en/en-anime-community-dialogues/01.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 0,
+          "dialogueId": "spoiler-free-watch-party",
+          "dialogueTitles": {
+            "zh": "无剧透观影派对",
+            "en": "A Spoiler-Free Watch Party",
+            "ja": "ネタバレなしの同時視聴会"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和诺亚在粉丝社区约定一起观看最新一集。",
+            "en": "Lily and Noah arrange to watch the latest episode together in a fan community.",
+            "ja": "リリーとノアがファンコミュニティで最新話を一緒に見る約束をします。"
+          },
+          "turnIndex": 0,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Not yet, so please do not post any spoilers.",
+          "answer": "Not yet, so please do not post any spoilers.",
+          "hints": {
+            "zh": "还没有，所以请不要发任何剧透。",
+            "en": "Say you have not watched it and request no spoilers.",
+            "ja": "まだなので、ネタバレは投稿しないでください。"
+          },
+          "hint": "还没有，所以请不要发任何剧透。 / Say you have not watched it and request no spoilers. / まだなので、ネタバレは投稿しないでください。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/nɑt jɛt soʊ pliz du nɑt poʊst ˈɛni ˈspɔɪlɚz/",
+          "audioUrl": "learning/audio/en/en-anime-community-dialogues/02.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 1,
+          "dialogueId": "spoiler-free-watch-party",
+          "dialogueTitles": {
+            "zh": "无剧透观影派对",
+            "en": "A Spoiler-Free Watch Party",
+            "ja": "ネタバレなしの同時視聴会"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和诺亚在粉丝社区约定一起观看最新一集。",
+            "en": "Lily and Noah arrange to watch the latest episode together in a fan community.",
+            "ja": "リリーとノアがファンコミュニティで最新話を一緒に見る約束をします。"
+          },
+          "turnIndex": 1,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "No worries. Should we start a watch party tonight?",
+          "answer": "No worries. Should we start a watch party tonight?",
+          "hints": {
+            "zh": "别担心。我们今晚开观影派对吗？",
+            "en": "Reassure them and suggest a watch party.",
+            "ja": "大丈夫です。今夜、同時視聴会を始めませんか。"
+          },
+          "hint": "别担心。我们今晚开观影派对吗？ / Reassure them and suggest a watch party. / 大丈夫です。今夜、同時視聴会を始めませんか。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/noʊ ˈwɝiz ʃəd wi stɑɹt ə wɑtʃ ˈpɑɹti təˈnaɪt/",
+          "audioUrl": "learning/audio/en/en-anime-community-dialogues/03.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 2,
+          "dialogueId": "spoiler-free-watch-party",
+          "dialogueTitles": {
+            "zh": "无剧透观影派对",
+            "en": "A Spoiler-Free Watch Party",
+            "ja": "ネタバレなしの同時視聴会"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和诺亚在粉丝社区约定一起观看最新一集。",
+            "en": "Lily and Noah arrange to watch the latest episode together in a fan community.",
+            "ja": "リリーとノアがファンコミュニティで最新話を一緒に見る約束をします。"
+          },
+          "turnIndex": 2,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Yes, I can join after eight.",
+          "answer": "Yes, I can join after eight.",
+          "hints": {
+            "zh": "好，我八点以后可以参加。",
+            "en": "Agree and give an available time.",
+            "ja": "はい、八時以降なら参加できます。"
+          },
+          "hint": "好，我八点以后可以参加。 / Agree and give an available time. / はい、八時以降なら参加できます。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/jɛs aɪ kən dʒɔɪn ˈæftɚ eɪt/",
+          "audioUrl": "learning/audio/en/en-anime-community-dialogues/04.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 3,
+          "dialogueId": "spoiler-free-watch-party",
+          "dialogueTitles": {
+            "zh": "无剧透观影派对",
+            "en": "A Spoiler-Free Watch Party",
+            "ja": "ネタバレなしの同時視聴会"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和诺亚在粉丝社区约定一起观看最新一集。",
+            "en": "Lily and Noah arrange to watch the latest episode together in a fan community.",
+            "ja": "リリーとノアがファンコミュニティで最新話を一緒に見る約束をします。"
+          },
+          "turnIndex": 3,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Great, I will send the link in the fan forum.",
+          "answer": "Great, I will send the link in the fan forum.",
+          "hints": {
+            "zh": "太好了，我会把链接发到粉丝论坛。",
+            "en": "Promise to share the link in the fan forum.",
+            "ja": "では、ファンフォーラムにリンクを送ります。"
+          },
+          "hint": "太好了，我会把链接发到粉丝论坛。 / Promise to share the link in the fan forum. / では、ファンフォーラムにリンクを送ります。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/ɡɹeɪt aɪ wəl sɛnd ðə lɪŋk ɪn ðə fæn ˈfɔɹəm/",
+          "audioUrl": "learning/audio/en/en-anime-community-dialogues/05.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 4,
+          "dialogueId": "spoiler-free-watch-party",
+          "dialogueTitles": {
+            "zh": "无剧透观影派对",
+            "en": "A Spoiler-Free Watch Party",
+            "ja": "ネタバレなしの同時視聴会"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和诺亚在粉丝社区约定一起观看最新一集。",
+            "en": "Lily and Noah arrange to watch the latest episode together in a fan community.",
+            "ja": "リリーとノアがファンコミュニティで最新話を一緒に見る約束をします。"
+          },
+          "turnIndex": 4,
+          "turnCount": 6,
+          "speakerGender": "female",
+          "speakerNames": {
+            "zh": "莉莉",
+            "en": "Lily",
+            "ja": "リリー"
+          },
+          "ttsVoiceKey": "en_female"
+        },
+        {
+          "itemType": "dialogue",
+          "prompt": "Thanks, then we can discuss the episode afterward.",
+          "answer": "Thanks, then we can discuss the episode afterward.",
+          "hints": {
+            "zh": "谢谢，这样之后我们就能讨论这一集了。",
+            "en": "Thank them and suggest discussing the episode later.",
+            "ja": "ありがとう。その後で最新話について話せますね。"
+          },
+          "hint": "谢谢，这样之后我们就能讨论这一集了。 / Thank them and suggest discussing the episode later. / ありがとう。その後で最新話について話せますね。",
+          "furigana": "",
+          "romaji": "",
+          "phonetic": "/θæŋks ðɛn wi kən dɪˈskəs ði ˈɛpəˌsoʊd ˈæftɚwɚd/",
+          "audioUrl": "learning/audio/en/en-anime-community-dialogues/06.wav",
+          "acceptVariants": [],
+          "difficulty": 1,
+          "sortOrder": 5,
+          "dialogueId": "spoiler-free-watch-party",
+          "dialogueTitles": {
+            "zh": "无剧透观影派对",
+            "en": "A Spoiler-Free Watch Party",
+            "ja": "ネタバレなしの同時視聴会"
+          },
+          "dialogueScenes": {
+            "zh": "莉莉和诺亚在粉丝社区约定一起观看最新一集。",
+            "en": "Lily and Noah arrange to watch the latest episode together in a fan community.",
+            "ja": "リリーとノアがファンコミュニティで最新話を一緒に見る約束をします。"
+          },
+          "turnIndex": 5,
+          "turnCount": 6,
+          "speakerGender": "male",
+          "speakerNames": {
+            "zh": "诺亚",
+            "en": "Noah",
+            "ja": "ノア"
+          },
+          "ttsVoiceKey": "en_male"
+        }
+      ]
+    }
+  ]
+}
